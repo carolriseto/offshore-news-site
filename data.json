@@ -1,8 +1,8 @@
 {
  "meta": {
-  "gerado_em": "2026-07-23T10:43:42.374568+00:00",
+  "gerado_em": "2026-07-23T10:46:42.938583+00:00",
   "total_grupos": 102,
-  "total_noticias": 178,
+  "total_noticias": 179,
   "janela_dias": 45
  },
  "metricas": {
@@ -32,31 +32,31 @@
     "delta": 4
    },
    {
-    "topico": "Constellation",
+    "topico": "Atapu",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    },
    {
-    "topico": "Búzios",
+    "topico": "DOF",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    },
    {
-    "topico": "SLB",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Allseas",
+    "topico": "Bacia de Santos",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    },
    {
     "topico": "Albacora",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
+    "topico": "Saipem",
     "atual": 1,
     "anterior": 0,
     "delta": 1
@@ -73,9 +73,9 @@
  },
  "mercado": {
   "brent": {
-   "atual": 92.92,
+   "atual": 92.95,
    "moeda": "US$",
-   "variacao_pct": -1.22,
+   "variacao_pct": -1.19,
    "serie": [
     77.08,
     73.74,
@@ -98,12 +98,86 @@
     89.22,
     91.01,
     94.07,
-    92.92
+    92.95
    ],
    "fonte": "Yahoo"
   },
-  "usd": null,
-  "eur": null
+  "usd": {
+   "atual": 5.0797,
+   "moeda": "R$",
+   "variacao_pct": 0.01,
+   "serie": [
+    5.1604,
+    5.1073,
+    5.0498,
+    5.0603,
+    5.084,
+    5.1469,
+    5.1603,
+    5.1519,
+    5.1725,
+    5.1996,
+    5.2019,
+    5.1759,
+    5.1639,
+    5.1784,
+    5.1874,
+    5.201,
+    5.1962,
+    5.18,
+    5.1413,
+    5.1563,
+    5.1453,
+    5.1185,
+    5.1155,
+    5.1233,
+    5.081,
+    5.0857,
+    5.1158,
+    5.1043,
+    5.0794,
+    5.0797
+   ],
+   "fonte": "Frankfurter"
+  },
+  "eur": {
+   "atual": 5.7949,
+   "moeda": "R$",
+   "variacao_pct": -0.08,
+   "serie": [
+    5.9536,
+    5.9076,
+    5.8613,
+    5.8669,
+    5.8929,
+    5.8989,
+    5.9173,
+    5.902,
+    5.8925,
+    5.8963,
+    5.9,
+    5.901,
+    5.8899,
+    5.9003,
+    5.9048,
+    5.9286,
+    5.9486,
+    5.913,
+    5.8781,
+    5.8802,
+    5.8837,
+    5.8505,
+    5.8439,
+    5.8431,
+    5.7954,
+    5.8318,
+    5.8499,
+    5.8322,
+    5.7997,
+    5.7949
+   ],
+   "fonte": "Frankfurter"
+  }
  },
  "grupos": [
   {
@@ -827,7 +901,7 @@
     "servicos": []
    },
    "published": "2026-07-11T07:00:00+00:00",
-   "n_sources": 4,
+   "n_sources": 5,
    "sources": [
     {
      "name": "Portal BE News",
@@ -853,6 +927,13 @@
     {
      "name": "InfoMoney",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0dpemhBcHVsRGUxRDdEZHprSWNNVVRYLWJRQ2t2V3Y0eDdnU3F2ajYtaVVSbEgyS085UmFXTy05VGVudU1xUGxUeXlzQlFuVnBqMnAxQXlBdHFrSC1UdzVFakNLd2NJcVp0dkJpWkVqRHNtU0g4TE1ncHhaaU1FRlNpM29qejNQMkVqUDZtWFRTZmZjVTJhcGx1SXg3cHJ1cDU0SHk4bGppcUlsUmxvSXJTM25tQmlXNFN1dWh30gHDAUFVX3lxTE1CZmNrNk0wODBQYzR4RXIyQV9UdGdPWE9aN1NwUGtQR1BfOHh2NmFVc2hEX0VuQThqbmVRQ2tHWThYQnk3amNrek1WOTZXZ1hFQWttSTkzZjNSdkExSk9NbTh1VVdTTmtaWFpfUnF3Z1VMbjJYb1FOV2FnMHlESmlmTDBDLTF2aW1OTWFyV1dxQzRxODd0dE1SYlNXZjFIRTlnUU5GNEJIVERlMllnbXBMQnR2OVplM3NUZjM3VFlEaHRYNA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-10T07:00:00+00:00"
+    },
+    {
+     "name": "UOL Economia",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc01hZVYzc05oWnRqRU41UTNFMnFSMEFBVGZoNUx4ZW15MWxlWFBGOXA1LXRucTNPSjdLMXd4cUc2bmxob1gtV2Z0SG9haTUzZ2JQckdRRW5PZjQyaWFIaDhCM2JwVGFHMzhvbW41SnJtUWk4N2FDUGhselJPOHhjV3luX0ZUa0RqcENlb0NRbk5tV1VpVEFoRTJYbHBDQ0pCb21aY1Vra0xQYncxa2xGeE1seHM0bUJnVy1aQzlMZmFZaldtYkN6bjNPWUNJbUp1NDR0bVB5bzZEMWJTSi1jTGxOMlVOcmxTenBTbkpTZXl3eC1k?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-07-10T07:00:00+00:00"
