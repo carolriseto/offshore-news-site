@@ -1,8 +1,8 @@
 {
  "meta": {
-  "gerado_em": "2026-07-23T18:19:44.428509+00:00",
+  "gerado_em": "2026-07-23T18:24:49.971399+00:00",
   "total_grupos": 99,
-  "total_noticias": 343,
+  "total_noticias": 344,
   "janela_dias": 45
  },
  "metricas": {
@@ -33,31 +33,31 @@
     "delta": 4
    },
    {
+    "topico": "DOF",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
+    "topico": "Búzios",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
     "topico": "Allseas",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    },
    {
+    "topico": "Altera",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
     "topico": "Bacia de Santos",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "SLB",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Albacora",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Subsea7",
     "atual": 1,
     "anterior": 0,
     "delta": 1
@@ -74,9 +74,9 @@
  },
  "mercado": {
   "brent": {
-   "atual": 101.94,
+   "atual": 101.7,
    "moeda": "US$",
-   "variacao_pct": 8.37,
+   "variacao_pct": 8.11,
    "serie": [
     77.08,
     73.74,
@@ -99,7 +99,7 @@
     89.22,
     91.01,
     94.07,
-    101.94
+    101.7
    ],
    "fonte": "Yahoo"
   },
@@ -181,9 +181,9 @@
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n99 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, Allseas, Bacia de Santos, SLB, Albacora, Subsea7. Em baixa: Foz do Amazonas.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (3 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (2 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n99 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, DOF, Búzios, Allseas, Altera, Bacia de Santos. Em baixa: Foz do Amazonas.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (3 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (2 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-07-23T18:19:44.576588+00:00"
+  "gerado_em": "2026-07-23T18:24:50.138132+00:00"
  },
  "companhias": [
   {
@@ -224,7 +224,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.308986+00:00",
    "com_release": false,
-   "n_noticias": 0
+   "n_noticias": 3
   },
   {
    "id": "chevron",
@@ -254,7 +254,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.314483+00:00",
    "com_release": false,
-   "n_noticias": 4
+   "n_noticias": 5
   },
   {
    "id": "brava",
@@ -437,7 +437,7 @@
   ],
   "total": [
    0,
-   40,
+   41,
    45,
    64,
    34,
@@ -486,6 +486,16 @@
     0,
     8
    ],
+   "Descomissionamento": [
+    0,
+    7,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
    "Opinião e Regulatório": [
     0,
     0,
@@ -495,16 +505,6 @@
     0,
     6,
     2
-   ],
-   "Descomissionamento": [
-    0,
-    6,
-    2,
-    0,
-    0,
-    0,
-    0,
-    0
    ]
   }
  },
@@ -2523,7 +2523,7 @@
   {
    "id": "e73591cd908e3854",
    "title": "OCEANPACT CONQUISTA CONTRATO DA PETROBRÁS PARA DESCOMISSIONAR LINHAS FLEXÍVEIS DO CAMPO DE MARLIM",
-   "summary": "OceanPact fecha contrato de R$ 443,7 milhões com Petrobras para atuar na P-18. OceanPact assina contrato com Petrobras para descomissionar P-18 em Marlim. OCEANPACT CONQUISTA CONTRATO DA PETROBRÁS PARA DESCOMISSIONAR LINHAS FLEXÍVEIS DO CAMPO DE MARLIM.",
+   "summary": "OceanPact fecha contrato de R$ 443,7 milhões com Petrobras para atuar na P-18. OceanPact fecha contrato de R$ 443,7 milhões com a Petrobras para descomissionar a P-18. OceanPact assina contrato com Petrobras para descomissionar P-18 em Marlim.",
    "detalhes": {
     "valores": [
      "R$ 443,7 milhões"
@@ -2541,7 +2541,7 @@
     "servicos": []
    },
    "published": "2026-06-12T07:00:00+00:00",
-   "n_sources": 3,
+   "n_sources": 4,
    "sources": [
     {
      "name": "CNN Brasil",
@@ -2586,6 +2586,14 @@
     {
      "name": "Petronotícias",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNalNEdjVBVkFNUlNTOU5LYWx5WlQ4Y3FjQmNjOXU1UUJlbnpwYlllc1ZLVGVOVmhvQk4yM1NRbksxNXJMZW5TamludHV2WDJGdlpwNjQ2dFg5azVPelBiOE5OVllLQ1M0a2hRT3JsVEo5MFpOdzZoblVyZmR1V3U1Z3NlMjA4M1NwaFpsMGcwVDJzc3g2MXJ0U2pPLTc0aDRnRVZfUkFUSmV1TVZ3QlJ2dHZLYTJnaEY2VEVTQ19OUElhZTFVeUE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-11T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Tribuna do Sertão",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNWtXclduVHF4b3JlNFZuZHJ5dHVkV1I3c1VBT1E0YUVoWk5IM0xfMm1KLWFOdThUS1RxSDRTVmw4NXAxNF9rV0Y5b01DMlF2Uks1eEN5M01YUUFVRXhNcFJZeWp0Q1FqTU1DUE1lQ2owYXkycEVBdU9sUTdEZWhFekwzVXlxc1RCSjM4U0k0YklMTXJ3b1pqdHhENHNQZnhhUXlJdk15MnN6MHVndFFHeXlvLXpzb1RxQ2hPcmJzd2RnVDZXYXJnZWpfbnZHRlRTcTN5dmxiempnQ1BF?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-06-11T07:00:00+00:00",
@@ -3950,7 +3958,7 @@
     ]
    },
    "published": "2026-07-05T19:46:44+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Portos e Navios",
@@ -3961,7 +3969,7 @@
      "link_real": null
     },
     {
-     "name": "Portos e Navios",
+     "name": "portosenavios.com.br",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMy1wbC1NME42dHFUN2Y4NHo5ZnM1MmFPZTBfSkxLajFUeU9ZT1duQ2d2OG1yM2ZscjBoTFpZaWhQMDNwcG9FeHVrVEpmcUNGdjlBeGc5c1ZLWV9NemltNDlEeDcwTVA0aHRZay1fd0tFVWRFWno4T1Q1cV9qTGlIOG93Q1VZWDM0NlVtel96ZGRWTzNwcndjSjdQbHNPbW4zWFNSOF9WdnhRRUo1dFN6anhNNXdicFR0cmxvTDlNVFpzemc?oc=5",
      "type": "aberta",
      "paid": false,
@@ -3990,7 +3998,7 @@
     "servicos": []
    },
    "published": "2026-06-30T07:00:00+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Portos e Navios",
@@ -4001,7 +4009,7 @@
      "link_real": null
     },
     {
-     "name": "Portos e Navios",
+     "name": "portosenavios.com.br",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGg4VjZHRkRqclB1OGM3QmhYOWxMelpaaXJZeXpOWUFsck9Wck85bkJ0NmlYOTJqelpxbllaUFY2aXJIcEJDa2VXdW1iNTJPSjZ3OXNUMW9zYmN4R0tvcE13TGxMcHFDelQxc0NDU3dmRWNjd0taZVlBT3Q1Zk94ODVuaVU5bjBlenN2QWdBRjctZTNzSWVBVk84QUVvLTdPLUYwV0NkYXdGQ1B2RjhSb3d5Z0NBaDdxcmM1MzZUVXl6WVByX25CQzhuX2trT21ob0E?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4092,7 +4100,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T16:04:03+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/em-vez-de-jogar-fora-as-sobras-de-algodao-que-restam-da-impressao-das-cedulas-a-casa-da-moeda-criou-uma-tecnologia-que-ja-reaproveitou-mais-de-760-toneladas-desse-residuo-deixa-de-des-mhbb01/"
+     "link_real": "https://clickpetroleoegas.com.br/em-vez-de-jogar-fora-as-sobras-de-algodao-que-restam-da-impressao-das-cedulas-a-casa-da-moeda-criou-uma-tecnologia-que-ja-reaproveitou-mais-de-760-toneladas-desse-residuo-deixa-de-des-mhbb01"
     }
    ],
    "has_paid": false,
@@ -4336,7 +4344,7 @@
     "servicos": []
    },
    "published": "2026-06-11T07:00:00+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Portos e Navios",
@@ -4347,7 +4355,7 @@
      "link_real": null
     },
     {
-     "name": "Portos e Navios",
+     "name": "portosenavios.com.br",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORzh4NEE0VnY4eXZBQWJybExyOF90a0NHdWozOEF0cXI0Z1dkeXNJUjZWT0NlQmZCRVo2VVNmckhfdnVBb0Nlb2VfdXFEaVFkZnBRekIxdHNzSWFSZWhCWWloT1VOYlRlS3hzZmpad3JkZnV6N0Y1UEJnT012TDB1TURRS3Q2S2ZOZVBma3ZKN3E1UjVhQnZBSDEwclAxanBreTlFYUQxWFFjd1N3NFdPRF9OY19UdTczWWxvV1NTM3QwaEp5d1h4RXBFSQ?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4520,7 +4528,7 @@
     "servicos": []
    },
    "published": "2026-07-05T19:41:47+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Portos e Navios",
@@ -4531,7 +4539,7 @@
      "link_real": null
     },
     {
-     "name": "Portos e Navios",
+     "name": "portosenavios.com.br",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaDlEc1A4cklzZ0ZlOEVYYW91U0ItSmNWRUFiT3FtSVF0T1E4SW91Znd1Y2d0V09SX1ZVbUdGQTlySjNrM1JzY3puMGd2OEpleFNhNTJzYW1RUFZsTnQyR2F5bUlCNFVabE5KUTJrMm5ISXVaN3VENGc4bmE2dzE4ZVRQWTNtSGtVR0dRUkowcGotNHRwWng0MDhUTTBYeGprRWNyQ0dQM0kybG5QWl9fTEc2SHdWOGl6M2s5d250MVBaM2lCOVpLVXAweGNTRjV0?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4763,10 +4771,30 @@
   {
    "id": "91b7611bb873fe45",
    "title": "China prepara plano para comprar menos soja do Brasil e acende alerta no agronegócio com inteligência artificial e proteínas de laboratório",
-   "summary": "Pequim investe em biotecnologia, sementes próprias e novas fontes de proteína para reduzir sua dependência agrícola até 2030. China prepara plano para comprar menos soja do Brasil e acende alerta no agronegócio com inteligência artificial e proteínas de laboratório. Uma mudança estratégica de grande impacto econômico está sendo preparada pela China e já desperta preocupação entre produtores e representantes do agronegócio brasileiro.",
+   "summary": "- Gigante de alimentos de Santa Catarina está usando uma nova forma de mudar a produção de carnes: a Aurora Coop criou um sistema pioneiro no Brasil que acompanha propriedades, transporte e unidades industriais, transforma indicadores em decisões, corrige falhas e orienta investimentos para tornar toda a cadeia mais eficiente, controlada e alinhada a padrões internacionais - O Brasil pode perder um dos postos mais valiosos do agronegócio mundial, e a razão surpreende até quem acompanha o mercado de milho diariamente - China compra soja mais cara dos EUA em movimento chamado de “político”, mas Brasil surpreende com vantagem nos preços e exportações firmes até dezembro - A distância que parecia impossível caiu de US$ 56 bilhões para somente US$ 2 bilhões: entenda como o Brasil encostou nos Estados Unidos e ficou perto de assumir o topo mundial das exportações agrícolas O planejamento coloca a segurança alimentar entre as prioridades nacionais e amplia os investimentos em inteligência artificial, biotecnologia e agricultura de precisão. O Brasil faturou aproximadamente US$ 100 bilhões com vendas ao mercado chinês em 2025. As exportações brasileiras para a China alcançaram US$ 58,322 bilhões entre janeiro e junho de 2026, segundo dados divulgados pelo MDIC.",
    "detalhes": {
+    "valores": [
+     "US$ 56 bilhões",
+     "US$ 2 bilhões",
+     "US$ 100 bilhões",
+     "US$ 58,322 bilhões",
+     "US$ 2,6 bilhões"
+    ],
+    "percentual": [
+     "21,9%",
+     "13%",
+     "10%",
+     "6%",
+     "84%",
+     "71%"
+    ],
     "datas": [
-     "2030"
+     "2030",
+     "2026",
+     "dezembro",
+     "2025",
+     "janeiro",
+     "junho de 2026"
     ]
    },
    "category": "Novas Tecnologias",
@@ -4785,7 +4813,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T18:08:50+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/china-prepara-plano-para-comprar-menos-soja-do-brasil-e-acende-alerta-no-agronegocio-com-inteligencia-artificial-e-proteinas-de-laboratorio-vacs75/"
     }
    ],
    "has_paid": false,
@@ -4795,8 +4823,19 @@
   {
    "id": "c6f1c1283328f16c",
    "title": "Estudante brasileiro viu a avó perder os movimentos após um AVC, passou quatro anos criando um exoesqueleto com quatro motores e trocou o plástico por alumínio para fazê-la voltar a andar, mas ela morreu antes de conhecer a invenção do neto",
-   "summary": "Estudante brasileiro viu a avó perder os movimentos após um AVC, passou quatro anos criando um exoesqueleto com quatro motores e trocou o plástico por alumínio para fazê-la voltar a andar, mas ela morreu antes de conhecer a invenção do neto. Uma experiência familiar levou um estudante de Engenharia Elétrica a transformar conhecimentos acadêmicos em um exoesqueleto experimental, reunindo impressão 3D, alumínio, motores e controle digital em uma tentativa de ampliar mobilidade e apoiar processos de reabilitação. A perda de movimentos enfrentada pela avó após um acidente vascular cerebral levou o brasiliense Matheus Soares Nascimento a […] O post Estudante brasileiro viu a avó perder os movimentos após um AVC, passou quatro anos criando um exoesqueleto com quatro motores e trocou o plástico por alumínio para fazê-la voltar a andar, mas ela morreu antes de conhecer a invenção do neto apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital - Plano ferroviário de cerca de R$ 3,3 trilhões quer conectar capitais europeias com trens de alta velocidade até 2040 e competir com voos curtos, mas depende de governos e investidores para financiar novas linhas, túneis e sistemas incompatíveis - Sem peças novas, um homem construiu com tábuas e madeira de sucata uma motocicleta que realmente anda, e ainda fez à mão um capacete de madeira para combinar, rodando na própria criação de duas rodas - Tesouro anglo-saxão de 1.400 anos surge quando detectorista voltava ao carro após dia sem achados e encontra peça de ouro com granadas; outro participante desenterra cabeça de corvo também em ouro, artefatos raríssimos que podem ter decorado um antigo recipiente cerimonial no sudoeste da Inglaterra Para aumentar a resistência, o estudante substituiu parte dos componentes plásticos por alumínio e construiu um segundo protótipo equipado com quatro motores independentes nas articulações do quadril e dos joelhos. O projeto saiu do papel em 2022, como Trabalho de Conclusão do Curso de Engenharia Elétrica do Centro Universitário de Brasília, o CEUB. “Infelizmente minha avó faleceu, mas a ideia de poder ajudar pessoas em situações parecidas ficou na minha cabeça”, afirmou o estudante em entrevista publicada em junho de 2022.",
+   "detalhes": {
+    "valores": [
+     "R$ 3,3"
+    ],
+    "profundidade": [
+     "2,2 km"
+    ],
+    "datas": [
+     "2022",
+     "junho de 2022"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -4813,7 +4852,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T18:06:35+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/depois-de-ver-a-avo-perder-os-movimentos-apos-um-avc-estudante-de-engenharia-passou-quatro-anos-criando-um-exoesqueleto-viu-a-primeira-versao-impressa-em-3d-suportar-apenas-2-kg-troco-asaf04/"
     }
    ],
    "has_paid": false,
@@ -4823,13 +4862,17 @@
   {
    "id": "f4e224f6cd9ff12e",
    "title": "Faturando com alta de 5,6% e crescendo 2,6% em termos reais, a indústria de autopeças do Brasil avançou em 2025, com as montadoras respondendo por 64,5% das vendas do setor e a fabricação de equipamento original liderando o crescimento",
-   "summary": "Faturando com alta de 5,6% e crescendo 2,6% em termos reais, a indústria de autopeças do Brasil avançou em 2025, com as montadoras respondendo por 64,5% das vendas do setor e a fabricação de equipamento original liderando o crescimento. Com o faturamento nominal subindo acima da inflação e a venda para as montadoras crescendo 8,7%, a indústria de autopeças brasileira fechou 2025 em expansão real, num ano em que o setor manteve o investimento e a geração de empregos A indústria de autopeças do Brasil cresceu em 2025. Segundo a Usinagem Brasil, com dados […] O post Faturando com alta de 5,6% e crescendo 2,6% em termos reais, a indústria de autopeças do Brasil avançou em 2025, com as montadoras respondendo por 64,5% das vendas do setor e a fabricação de equipamento original liderando o crescimento apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "De acordo com a AutoIndústria, as vendas de autopeças às montadoras cresceram 8,7% em termos nominais e 5,5% em termos reais em 2025, respondendo por cerca de 64,5% do faturamento total do setor. De acordo com a AutoIndústria, as vendas às montadoras responderam por cerca de 64,5% do faturamento total da indústria de autopeças do Brasil em 2025. Faturando com alta de 5,6% e crescendo 2,6% em termos reais, a indústria de autopeças do Brasil avançou em 2025, com as montadoras respondendo por 64,5% das vendas do setor e a fabricação de equipamento original liderando o crescimento.",
    "detalhes": {
     "percentual": [
      "5,6%",
      "2,6%",
      "64,5%",
-     "8,7%"
+     "8,7%",
+     "5,5%"
+    ],
+    "profundidade": [
+     "6.700 metros"
     ],
     "datas": [
      "2025"
@@ -4851,7 +4894,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T18:03:36+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/faturando-com-alta-de-56-e-crescendo-26-em-termos-reais-a-industria-de-autopecas-do-brasil-avancou-em-2025-com-as-montadoras-respondendo-por-645-das-vendas-do-setor-e-a-fabricacao-de-e-btl96/"
     }
    ],
    "has_paid": false,
@@ -4861,8 +4904,13 @@
   {
    "id": "975c848eba420c8b",
    "title": "A PARTIR DE 1º DE AGOSTO O GOVERNO PASSARÁ A SER O MAIOR ADULTERADOR DA GASOLINA DO BRASIL, SEM DAR GARANTIAS AO CONSUMIDOR",
-   "summary": "A PARTIR DE 1º DE AGOSTO O GOVERNO PASSARÁ A SER O MAIOR ADULTERADOR DA GASOLINA DO BRASIL, SEM DAR GARANTIAS AO CONSUMIDOR. A partir de 1º de agosto o governo federal poderá se tornar o maior adulterador de combustíveis do Brasil. E pior, não vai adiantar as ações de fiscalização da Agência Nacional do Petróleo e nem os seus técnicos fazer blitz nos postos de gasolina de todo país, usando equipamentos sofisticados, porque o fraudador será oficial",
+   "summary": "A PARTIR DE 1º DE AGOSTO O GOVERNO PASSARÁ A SER O MAIOR ADULTERADOR DA GASOLINA DO BRASIL, SEM DAR GARANTIAS AO CONSUMIDOR. Através da aprovação do Conselho Nacional de Política Energética (CNPE), está autorizada a mistura obrigatória de etanol anidro na gasolina para absurdos 32%. É bom saber, porque nos Estados Unidos, é permitido apenas até 10% de etanol.",
    "detalhes": {
+    "percentual": [
+     "32%",
+     "10%",
+     "5%"
+    ],
     "datas": [
      "AGOSTO"
     ]
@@ -4883,7 +4931,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T18:00:55+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/a-partir-de-1o-de-agosto-o-governo-passara-a-ser-o-maior-adulterador-da-gasolina-do-brasil-sem-dar-garantias-ao-consumidor/"
     }
    ],
    "has_paid": false,
@@ -4893,11 +4941,18 @@
   {
    "id": "5edd8a0b79442823",
    "title": "Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital",
-   "summary": "Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital. Construído entre 1858 e 1865, o Túnel 12 tem 2.233 metros, liga Mendes a Paulo de Frontin e simboliza a expansão ferroviária que levou o café do interior fluminense até a capital do Império brasileiro Com 2.233 metros de extensão, o Túnel 12 atravessa a Serra do Mar entre Mendes e Paulo de Frontin. Construída […] O post Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital. Construído entre 1858 e 1865, o Túnel 12 tem 2.233 metros, liga Mendes a Paulo de Frontin e simboliza a expansão ferroviária que levou o café do interior fluminense até a capital do Império brasileiro Com 2.233 metros de extensão, o Túnel 12 atravessa a Serra do Mar entre Mendes e Paulo de Frontin. Mendes é considerada o menor município do Rio de Janeiro em extensão territorial.",
    "detalhes": {
+    "valores": [
+     "R$ 3,3"
+    ],
     "profundidade": [
      "2,2 km",
-     "2.233 metros"
+     "2.233 metros",
+     "2.245 metros"
+    ],
+    "datas": [
+     "Janeiro"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -4916,7 +4971,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T17:57:32+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/cidadezinha-do-rio-esconde-um-tunel-ferroviario-de-22-km-aberto-na-serra-do-mar-ha-mais-de-160-anos-para-levar-o-cafe-do-interior-ate-a-capital-rpc95/"
     }
    ],
    "has_paid": false,
@@ -4926,14 +4981,21 @@
   {
    "id": "899b6ccabfbb1800",
    "title": "Colhendo 292,94 milhões de caixas e crescendo 26,9% no ano, a safra de laranja do Brasil se recuperou na temporada 2025/26, mas ficou 6,9% abaixo da estimativa inicial por causa da seca e do greening",
-   "summary": "Colhendo 292,94 milhões de caixas e crescendo 26,9% no ano, a safra de laranja do Brasil se recuperou na temporada 2025/26, mas ficou 6,9% abaixo da estimativa inicial por causa da seca e do greening. Com o cinturão citrícola de São Paulo e de Minas Gerais concentrando a produção e a colheita se estendendo mais que o normal, a safra de laranja brasileira voltou a crescer em 2025/26 depois de um ciclo fraco, mas rendeu menos que o previsto no começo do ano A safra de laranja do Brasil se […] O post Colhendo 292,94 milhões de caixas e crescendo 26,9% no ano, a safra de laranja do Brasil se recuperou na temporada 2025/26, mas ficou 6,9% abaixo da estimativa inicial por causa da seca e do greening apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "Colhendo 292,94 milhões de caixas e crescendo 26,9% no ano, a safra de laranja do Brasil se recuperou na temporada 2025/26, mas ficou 6,9% abaixo da estimativa inicial por causa da seca e do greening. - Casa romana soterrada por palácio imperial reaparece com afrescos e mosaicos preservados, mostrando como uma residência republicana ficou escondida por quase dois mil anos sob uma das colinas mais importantes de Roma - Estudante brasileiro viu a avó perder os movimentos após um AVC, passou quatro anos criando um exoesqueleto com quatro motores e trocou o plástico por alumínio para fazê-la voltar a andar, mas ela morreu antes de conhecer a invenção do neto - Cidadezinha do Rio esconde túnel ferroviário de 2,2 km que atravessa a Serra do Mar há mais de 160 anos e ajudou a levar o café do interior até a capital - Plano ferroviário de cerca de R$ 3,3 trilhões quer conectar capitais europeias com trens de alta velocidade até 2040 e competir com voos curtos, mas depende de governos e investidores para financiar novas linhas, túneis e sistemas incompatíveis No vídeo, a reação é de curiosidade misturada com pavor. A moradora, que se identifica nas redes sociais como Erin Cloudy, publicou as imagens em janeiro de 2024, e a primeira parte da série acumulou mais de 89 milhões de visualizações, segundo levantamento da revista americana Newsweek.",
    "detalhes": {
+    "valores": [
+     "R$ 3,3"
+    ],
     "percentual": [
      "26,9%",
      "6,9%"
     ],
+    "profundidade": [
+     "2,2 km"
+    ],
     "datas": [
-     "2025"
+     "2025",
+     "janeiro de 2024"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -4952,7 +5014,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T17:24:35+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/reformando-o-apartamento-uma-mulher-removeu-um-painel-da-parede-e-descobriu-atras-dele-um-porao-secreto-quase-do-tamanho-da-propria-casa-btl96/"
     }
    ],
    "has_paid": false,
@@ -4962,10 +5024,21 @@
   {
    "id": "19880d78e1fbadd8",
    "title": "CRESCE O MERCADO DE TINTAS IMOBILIÁRIAS E AUTOMOTIVAS NO BRASIL SUPERANDO AS EXPECTATIVAS QUE SE APRESENTAVAM ESTE ANO",
-   "summary": "A Associação Brasileira dos Fabricantes de Tintas (Abrafati) apresenta ao mercado um balanço positivo do desempenho das tintas imobiliárias no primeiro semestre de 2026, em todo o país. CRESCE O MERCADO DE TINTAS IMOBILIÁRIAS E AUTOMOTIVAS NO BRASIL SUPERANDO AS EXPECTATIVAS QUE SE APRESENTAVAM ESTE ANO. Superando as expectativas, o patamar de vendas manteve-se elevado, seguindo a trajetória de expansão dos últimos anos.",
+   "summary": "Em 2025, o segmento de tintas imobiliárias teve vendas de 1,495 bilhão de litros, representando cerca de 75% do volume total do setor de tintas brasileiro, que pela primeira vez na história superou a marca de 2 bilhões de litros comercializados em um único ano. Entre janeiro e março de 2026, as vendas de tintas imobiliárias cresceram expressivos 10,1% em relação ao mesmo período de 2025. Já a Região Sul apresentou estabilidade, com leve retração de 0,3% em relação ao primeiro semestre de 2025.",
    "detalhes": {
+    "percentual": [
+     "10,1%",
+     "7,8%",
+     "8,9%",
+     "75%",
+     "1,2%",
+     "11,7%"
+    ],
     "datas": [
-     "2026"
+     "2026",
+     "janeiro",
+     "março de 2026",
+     "2025"
     ]
    },
    "category": "Resultados Trimestrais",
@@ -4984,7 +5057,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T17:00:40+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/cresce-o-mercado-de-tintas-imobiliarias-e-automotivas-no-brasil-superando-as-expectativas-que-se-apresentavam-este-ano/"
     }
    ],
    "has_paid": false,
@@ -4994,8 +5067,17 @@
   {
    "id": "fb91560398524616",
    "title": "Gigante de alimentos de Santa Catarina está usando uma nova forma de mudar a produção de carnes: a Aurora Coop criou um sistema pioneiro no Brasil que acompanha propriedades, transporte e unidades industriais, transforma indicadores em decisões, corrige falhas e orienta investimentos para tornar toda a cadeia mais eficiente, controlada e alinhada a padrões internacionais",
-   "summary": "Gigante de alimentos de Santa Catarina está usando uma nova forma de mudar a produção de carnes: a Aurora Coop criou um sistema pioneiro no Brasil que acompanha propriedades, transporte e unidades industriais, transforma indicadores em decisões, corrige falhas e orienta investimentos para tornar toda a cadeia mais eficiente, controlada e alinhada a padrões internacionais. A produção de carnes da Aurora Coop passou a ser monitorada por indicadores que acompanham propriedades, transporte e unidades industriais, identificam não conformidades, orientam auditorias, capacitações e investimentos e conectam eficiência operacional, qualidade, sustentabilidade e bem-estar animal em uma gestão contínua baseada em dados e referências internacionais do setor produtivo. A produção de carnes da […] O post Gigante de alimentos de Santa Catarina está usando uma nova forma de mudar a produção de carnes: a Aurora Coop criou um sistema pioneiro no Brasil que acompanha propriedades, transporte e unidades industriais, transforma indicadores em decisões, corrige falhas e orienta investimentos para tornar toda a cadeia mais eficiente, controlada e alinhada a padrões internacionais apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- China prepara plano para comprar menos soja do Brasil e acende alerta no agronegócio com inteligência artificial e proteínas de laboratório - O Brasil pode perder um dos postos mais valiosos do agronegócio mundial, e a razão surpreende até quem acompanha o mercado de milho diariamente - China compra soja mais cara dos EUA em movimento chamado de “político”, mas Brasil surpreende com vantagem nos preços e exportações firmes até dezembro - A distância que parecia impossível caiu de US$ 56 bilhões para somente US$ 2 bilhões: entenda como o Brasil encostou nos Estados Unidos e ficou perto de assumir o topo mundial das exportações agrícolas Essa integração permite observar a cadeia como um processo contínuo. As informações foram publicadas pelo NSC Total em 23 de julho de 2026 e atualizadas no mesmo dia. Gigante de alimentos de Santa Catarina está usando uma nova forma de mudar a produção de carnes: a Aurora Coop criou um sistema pioneiro no Brasil que acompanha propriedades, transporte e unidades industriais, transforma indicadores em decisões, corrige falhas e orienta investimentos para tornar toda a cadeia mais eficiente, controlada e alinhada a padrões internacionais.",
+   "detalhes": {
+    "valores": [
+     "US$ 56 bilhões",
+     "US$ 2 bilhões"
+    ],
+    "datas": [
+     "julho de 2026",
+     "dezembro"
+    ]
+   },
    "category": "Prospectos e Investimentos",
    "relevance": 0,
    "entities": {
@@ -5012,7 +5094,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T16:21:32+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/gigante-de-alimentos-de-santa-catarina-esta-usando-uma-nova-forma-de-mudar-a-producao-de-carnes-a-aurora-coop-criou-um-sistema-pioneiro-no-brasil-que-acompanha-propriedades-ctl01"
     }
    ],
    "has_paid": false,
@@ -5022,10 +5104,24 @@
   {
    "id": "a69c841514d86fa5",
    "title": "Pouca gente percebeu, mas a Yamaha deu início a uma mudança que pode redefinir sua logística urbana: o caminhão elétrico já começou a operar em São Paulo e os primeiros resultados explicam por que esse plano deve avançar rapidamente",
-   "summary": "A Yamaha Motor do Brasil iniciou, em 2026, um projeto piloto para eletrificar parte de sua operação logística na Região Metropolitana de […] O post Pouca gente percebeu, mas a Yamaha deu início a uma mudança que pode redefinir sua logística urbana: o caminhão elétrico já começou a operar em São Paulo e os primeiros resultados explicam por que esse plano deve avançar rapidamente apareceu primeiro em CPG Click Petróleo e Gás . Pouca gente percebeu, mas a Yamaha deu início a uma mudança que pode redefinir sua logística urbana: o caminhão elétrico já começou a operar em São Paulo e os primeiros resultados explicam por que esse plano deve avançar rapidamente. Projeto piloto da Yamalog utiliza um Volkswagen e-Delivery 11 na Grande São Paulo, reduz custos operacionais, diminui emissões de CO₂ e integra a estratégia de descarbonização da operação logística da Yamaha no Brasil.",
+   "summary": "- Novo trem de alta velocidade de 508 km promete 12 estações, túnel submarino de 21 km e uma nova indústria ferroviária na Índia, abrindo caminho para fábricas, empregos, tecnologia local e corredores econômicos de longo prazo - Porto de Itajaí muda trânsito permanentemente a partir de 22 de julho, fecha trecho da Rua Blumenau no Portão 2 e redireciona caminhões, ônibus, carros e ciclistas pela nova Via do Porto, enquanto Rua Max ganha sentido invertido, proibição de estacionamento e ciclofaixa em Santa Catarina - Dois cargueiros gigantes de mais de 300 metros cada encostaram ao mesmo tempo no cais durante a madrugada e ocuparam os quatro berços de uma vez só, algo que nunca tinha acontecido na história do Porto de Itajaí, num teste de capacidade que chega bem no meio da disputa que vai definir quem vai comandar o terminal - Com 22 centros de distribuição, mais de 200 hubs logísticos, 3 mil Agências Shopee e 45 mil motoristas parceiros, a Shopee monta no Brasil uma engrenagem gigante de entregas para encurtar prazos e acelerar milhões de pedidos no e-commerce nacional Além disso, o veículo é utilizado em operações de última milha (last mile), modalidade voltada para a distribuição em grandes centros urbanos. A Yamaha Motor do Brasil iniciou, em 2026, um projeto piloto para eletrificar parte de sua operação logística na Região Metropolitana de São Paulo. Agora, um caminhão 100% elétrico Volkswagen e-Delivery 11 passou a ser utilizado nas entregas de motocicletas e motores de popa destinados às concessionárias da marca.",
    "detalhes": {
+    "producao": [
+     "45 m³"
+    ],
+    "percentual": [
+     "100%",
+     "30%",
+     "20%"
+    ],
+    "profundidade": [
+     "508 km",
+     "21 km",
+     "300 metros"
+    ],
     "datas": [
-     "2026"
+     "2026",
+     "julho"
     ]
    },
    "category": "Novas Tecnologias",
@@ -5044,7 +5140,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T15:46:32+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/pouca-gente-percebeu-mas-a-yamaha-deu-inicio-a-uma-mudanca-que-pode-redefinir-sua-logistica-urbana-o-caminhao-eletrico-ja-comecou-a-operar-em-sao-paulo-e-os-primeiros-resultados-explica-caes/"
     }
    ],
    "has_paid": false,
@@ -5098,10 +5194,17 @@
   {
    "id": "cdd500debee69289",
    "title": "A marmita que conquistou o escritório virou alvo da Seara: gigante da JBS entra em mercado de R$ 12 bilhões e aposta na nova forma do brasileiro se alimentar",
-   "summary": "A marmita que conquistou o escritório virou alvo da Seara: gigante da JBS entra em mercado de R$ 12 bilhões e aposta na nova forma do brasileiro se alimentar. A Seara, marca pertencente à JBS, entrou no mercado de marmitas prontas, um segmento estimado em R$ 12 bilhões por ano. A movimentação faz parte da […] O post A marmita que conquistou o escritório virou alvo da Seara: gigante da JBS entra em mercado de R$ 12 bilhões e aposta na nova forma do brasileiro se alimentar apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "- Em vez de jogar fora as sobras de algodão que restam da impressão das cédulas, a Casa da Moeda criou uma tecnologia que já reaproveitou mais de 760 toneladas desse resíduo, deixa de desperdiçar cerca de 200 toneladas por ano e corta em até 92% as emissões de CO2 - Grupo italiano compra fábrica de embalagens que faturou R$ 345 milhões em Santa Catarina, emprega 570 pessoas e opera planta de 20,7 mil m², enquanto a Cristal Embalagens passa a integrar a Mega Goglio e reforça a expansão da multinacional no mercado brasileiro de embalagens flexíveis - Restaurante do Povo é inaugurado em Nilópolis com café da manhã por R$ 0,50, almoço e jantar por R$ 1 e capacidade para servir até 2 mil refeições por dia - Fim de uma era: segunda maior montadora do Brasil pode fechar 4 fábricas e cortar até 100 mil empregos após crise histórica Mudança nos hábitos de consumo impulsiona mercado de marmitas prontas Segundo a Seara, a entrada no segmento acontece após uma mudança consolidada na rotina alimentar dos brasileiros. A marmita que conquistou o escritório virou alvo da Seara: gigante da JBS entra em mercado de R$ 12 bilhões e aposta na nova forma do brasileiro se alimentar. A Seara, marca pertencente à JBS, entrou no mercado de marmitas prontas, um segmento estimado em R$ 12 bilhões por ano.",
    "detalhes": {
     "valores": [
-     "R$ 12 bilhões"
+     "R$ 12 bilhões",
+     "R$ 345 milhões",
+     "R$ 0,50,",
+     "R$ 1"
+    ],
+    "percentual": [
+     "92%",
+     "61%"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -5120,7 +5223,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T15:20:48+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/a-marmita-que-conquistou-o-escritorio-virou-alvo-da-seara-gigante-da-jbs-entra-em-mercado-de-r-12-bilhoes-e-aposta-na-nova-forma-do-brasileiro-se-alimentar-caes"
     }
    ],
    "has_paid": false,
@@ -5130,10 +5233,25 @@
   {
    "id": "c0d69aed5cff7048",
    "title": "Grupo italiano compra fábrica de embalagens que faturou R$ 345 milhões em Santa Catarina, emprega 570 pessoas e opera planta de 20,7 mil m², enquanto a Cristal Embalagens passa a integrar a Mega Goglio e reforça a expansão da multinacional no mercado brasileiro de embalagens flexíveis",
-   "summary": "Grupo italiano compra fábrica de embalagens que faturou R$ 345 milhões em Santa Catarina, emprega 570 pessoas e opera planta de 20,7 mil m², enquanto a Cristal Embalagens passa a integrar a Mega Goglio e reforça a expansão da multinacional no mercado brasileiro de embalagens flexíveis. Uma fábrica de embalagens que […] O post Grupo italiano compra fábrica de embalagens que faturou R$ 345 milhões em Santa Catarina, emprega 570 pessoas e opera planta de 20,7 mil m², enquanto a Cristal Embalagens passa a integrar a Mega Goglio e reforça a expansão da multinacional no mercado brasileiro de embalagens flexíveis apareceu primeiro em CPG Click Petróleo e Gás . Fábrica de embalagens de Morro da Fumaça passa ao controle da Mega Goglio após aquisição da Cristal Embalagens, empresa catarinense fundada em 1999, com atuação em alimentos, higiene, nutrição animal e construção civil, enquanto grupo italiano reforça capacidade produtiva, presença regional e estratégia de crescimento no Brasil com operação industrial.",
+   "summary": "- Em vez de jogar fora as sobras de algodão que restam da impressão das cédulas, a Casa da Moeda criou uma tecnologia que já reaproveitou mais de 760 toneladas desse resíduo, deixa de desperdiçar cerca de 200 toneladas por ano e corta em até 92% as emissões de CO2 - A marmita que conquistou o escritório virou alvo da Seara: gigante da JBS entra em mercado de R$ 12 bilhões e aposta na nova forma do brasileiro se alimentar - Restaurante do Povo é inaugurado em Nilópolis com café da manhã por R$ 0,50, almoço e jantar por R$ 1 e capacidade para servir até 2 mil refeições por dia - Fim de uma era: segunda maior montadora do Brasil pode fechar 4 fábricas e cortar até 100 mil empregos após crise histórica A operação foi realizada por meio da Mega Goglio, subsidiária criada após a aquisição de uma empresa no Rio Grande do Sul em 2023. Uma fábrica de embalagens que faturou R$ 345 milhões em 2025 foi comprada pelo grupo italiano Goglio em Morro da Fumaça, no Sul de Santa Catarina. O faturamento de R$ 345 milhões registrado em 2025 mostra o peso econômico alcançado pela empresa antes da mudança de controle.",
    "detalhes": {
     "valores": [
-     "R$ 345 milhões"
+     "R$ 345 milhões",
+     "R$ 12 bilhões",
+     "R$ 0,50,",
+     "R$ 1",
+     "R$ 2,5 bilhões"
+    ],
+    "percentual": [
+     "92%"
+    ],
+    "profundidade": [
+     "20,7 mil metros"
+    ],
+    "datas": [
+     "2025",
+     "julho de 2026",
+     "2023"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -5152,7 +5270,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T14:40:22+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/grupo-italiano-compra-fabrica-de-embalagens-que-faturou-r-345-milhoes-em-santa-catarina-emprega-570-pessoas-e-opera-planta-de-207-mil-m%C2%B2-enquanto-a-cristal-embalagens-passa-ctl01/"
     }
    ],
    "has_paid": false,
@@ -5162,14 +5280,24 @@
   {
    "id": "064fe0c9cdcd9337",
    "title": "Com porta-malas de 563 litros, motor 1.8 flex de até 111 cv, câmbio automático, consumo de até 14,4 km/l e manutenção simples, este sedã da Chevrolet aposta em espaço, conforto e praticidade: conheça o Chevrolet Cobalt LTZ 2020",
-   "summary": "Com porta-malas de 563 litros, motor 1.8 flex de até 111 cv, câmbio automático, consumo de até 14,4 km/l e manutenção simples, este sedã da Chevrolet aposta em espaço, conforto e praticidade: conheça o Chevrolet Cobalt LTZ 2020. Chevrolet Cobalt LTZ 2020 combina motor 1.8 flex, câmbio automático, porta-malas de 563 litros e consumo rodoviário de até 14,4 km/l. No […] O post Com porta-malas de 563 litros, motor 1.8 flex de até 111 cv, câmbio automático, consumo de até 14,4 km/l e manutenção simples, este sedã da Chevrolet aposta em espaço, conforto e praticidade: conheça o Chevrolet Cobalt LTZ 2020 apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "Com porta-malas de 563 litros, motor 1.8 flex de até 111 cv, câmbio automático, consumo de até 14,4 km/l e manutenção simples, este sedã da Chevrolet aposta em espaço, conforto e praticidade: conheça o Chevrolet Cobalt LTZ 2020. Chevrolet Cobalt LTZ 2020 combina motor 1.8 flex, câmbio automático, porta-malas de 563 litros e consumo rodoviário de até 14,4 km/l. - Ele virou objeto de desejo entre os sedãs usados, esbanja motor 1.5 turbo de 173 cv, torque de 22,4 kgfm, câmbio CVT com paddle shifts, teto solar, som premium e pacote que supera muitos carros zero km; conheça o Honda Civic Touring 2020 - Com porta-malas de até 780 litros, motor 1.6 THP turbo de 165 cv, câmbio automático de 6 marchas e capacidade para 7 ocupantes, este SUV francês surpreende pelo espaço, tecnologia e custo-benefício: conheça o Peugeot 5008 Griffe Pack 2020 - Equipado com motor 1.5 i-VTEC, câmbio automático CVT, consumo de até 15 km/l, seis airbags e sistema Magic Seat, este hatch japonês surpreende pela confiabilidade mecânica, eficiência, versatilidade e custo-benefício: conheça o Honda City Hatch LX - Monumento minoico de 1.800 m² e cerca de 4 mil anos é revelado durante obras para instalar o radar de um novo aeroporto na Grécia, com oito anéis de pedra formando uma estrutura labiríntica no alto de uma colina de 494 metros O conjunto mecânico também é utilizado pela Spin 2026.",
    "detalhes": {
+    "valores": [
+     "R$ 70 mi",
+     "R$ 64.960."
+    ],
     "profundidade": [
-     "14,4 km"
+     "14,4 km",
+     "15 km",
+     "494 metros",
+     "11,1 km",
+     "7,6 km",
+     "10 km"
     ],
     "datas": [
      "2020",
-     "2026"
+     "2026",
+     "julho de 2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -5188,7 +5316,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T14:36:30+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/chevrolet-cobalt-ltz-porta-malas-de-563-litros-motor-1-8-flex-de-ate-111-cv-cambio-automatico-consumo-de-ate-144-km-l-e-central-mylink-com-android-auto-e-apple-carplay-ama01/"
     }
    ],
    "has_paid": false,
@@ -5198,13 +5326,23 @@
   {
    "id": "00fc05b8781304d7",
    "title": "Construtora brasileira com R$ 500 milhões em obras prepara entrada nos EUA, capta US$ 5 milhões para comprar terrenos e construir casas na Flórida de até US$ 3 milhões, transformando uma empresa de 41 anos, criada para erguer agências bancárias, em plataforma internacional de desenvolvimento imobiliário",
-   "summary": "Construtora brasileira com R$ 500 milhões em obras prepara entrada nos EUA, capta US$ 5 milhões para comprar terrenos e construir casas na Flórida de até US$ 3 milhões, transformando uma empresa de 41 anos, criada para erguer agências bancárias, em plataforma internacional de desenvolvimento imobiliário. As casas na Flórida fazem […] O post Construtora brasileira com R$ 500 milhões em obras prepara entrada nos EUA, capta US$ 5 milhões para comprar terrenos e construir casas na Flórida de até US$ 3 milhões, transformando uma empresa de 41 anos, criada para erguer agências bancárias, em plataforma internacional de desenvolvimento imobiliário apareceu primeiro em CPG Click Petróleo e Gás . As casas na Flórida marcam a estreia internacional da Zait Engenharia, que pretende captar US$ 5 milhões, comprar terrenos em bairros consolidados, demolir imóveis antigos e construir residências modernas de US$ 1,5 milhão a US$ 3 milhões, voltadas ao público americano e integradas a uma nova estratégia de crescimento global.",
+   "summary": "- Surpreendente construção viral mostra jovem erguendo uma casa inteira sozinha em apenas 60 dias usando cimento e ferramentas simples, revelando um método acessível que pode reduzir custos, desperta milhões de visualizações e impressiona especialistas em engenharia - Obra de ferrovia abre vala encharcada em um campo e encontra figura humana de carvalho com 67 centímetros, túnica e músculos esculpidos, preservada por quase 2 mil anos e cercada por mistério sobre possível ritual romano - O que parecia uma simples restauração de janelas em um castelo irlandês terminou com uma parede rompida, um cômodo desconhecido dentro da torre e um mistério que permanece sem explicação - Estado brasileiro vive grande rodada de inaugurações com dois shoppings já abertos, terceiro previsto para dezembro, R$ 345 milhões em investimentos e impacto direto no varejo, empregos e economia A maior parte do crescimento ocorreu como prestadora de serviços para terceiros. A meta é elevar a carteira para R$ 1,5 bilhão até o final de 2027. Faturamento pode quase triplicar em 2026 A Zait registrou receita de R$ 140 milhões em 2025 e projeta alcançar R$ 400 milhões em 2026.",
    "detalhes": {
     "valores": [
      "R$ 500 milhões",
      "US$ 5 milhões",
      "US$ 3 milhões",
-     "US$ 1,5 milhão"
+     "US$ 1,5 milhão",
+     "R$ 345 milhões",
+     "R$ 1,5 bilhão"
+    ],
+    "datas": [
+     "julho de 2026",
+     "dezembro",
+     "2027",
+     "2026",
+     "2025",
+     "setembro"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -5223,7 +5361,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T13:43:14+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/construtora-brasileira-com-r-500-milhoes-em-obras-prepara-entrada-nos-eua-capta-us-5-milhoes-para-comprar-terrenos-e-construir-casas-na-florida-de-ate-us-3-milhoes-transformando-ctl01"
     }
    ],
    "has_paid": false,
@@ -5273,8 +5411,21 @@
   {
    "id": "d5a8ad22a2be8255",
    "title": "INB PREPARA NOVAS PESQUISAS GEOLÓGICAS NA BAHIA DE OLHO EM AMPLIAÇÃO DE UNIDADE DE CONCENTRADO DE URÂNIO",
-   "summary": "INB PREPARA NOVAS PESQUISAS GEOLÓGICAS NA BAHIA DE OLHO EM AMPLIAÇÃO DE UNIDADE DE CONCENTRADO DE URÂNIO. A Indústrias Nucleares do Brasil (INB) está preparando uma nova etapa de pesquisas geológicas na região de Caetité (BA). A empresa está realizando trabalhos geológicos na província uranífera de Lagoa Real, na Bahia, com o objetivo de ampliar o conhecimento sobre as reservas nacionais de urânio e apoiar a estratégia do país de alcançar a autossuficiência",
-   "detalhes": {},
+   "summary": "A INB lançou, em 2024, o programa Pró-Urânio com o objetivo de acelerar a prospecção de novos depósitos minerais no país. Como parte desse processo, o BNDES publicou, em dezembro do ano passado, uma Solicitação de Informações (Request for Information – RFI) voltada a empresas de consultoria interessadas em participar da iniciativa. A mineração de urânio no país ocorre desde 1982, mas atualmente a única mina em operação é a unidade de Lagoa Real/Caetité, operada pela INB, com capacidade de produção de 340 toneladas de urânio por ano e recursos conhecidos de aproximadamente 10 mil toneladas, com teor médio de 0,3% de urânio.",
+   "detalhes": {
+    "percentual": [
+     "0,3%",
+     "99,8%",
+     "0,2%",
+     "11%",
+     "0,0998%"
+    ],
+    "datas": [
+     "2024",
+     "dezembro",
+     "2020"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -5291,7 +5442,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-23T08:00:17+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/inb-prepara-novas-pesquisas-geologicas-na-bahia-de-olho-em-ampliacao-de-unidade-de-concentrado-de-uranio/"
     }
    ],
    "has_paid": false,
@@ -5644,7 +5795,7 @@
     "servicos": []
    },
    "published": "2026-06-25T07:00:00+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Portos e Navios",
@@ -5655,7 +5806,7 @@
      "link_real": null
     },
     {
-     "name": "Portos e Navios",
+     "name": "portosenavios.com.br",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa290d0RWYzBVVkxVbzdiZlZpeXZCQ0ZILTdtYUhKb3hIMmhHdDVrOFQ5OWQ1MkFFanEyaEN0YW5GdjcwRHlmaVZlTUFPVEE2LXQ3T3hfYlRMQ29HSVdtM1I0Q1Vob2hRWnIySE1HSzRNcVp3XzZBMnB3M1lkeEJMQkg1SngzTm9qQjFnVWNCOHQyRmhaVEtsM2p3a1Z3SzIwbWxJNUZyYnJFQ25UWmx1bmtUbE4?oc=5",
      "type": "aberta",
      "paid": false,
