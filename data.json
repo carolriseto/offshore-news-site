@@ -1,14 +1,14 @@
 {
  "meta": {
-  "gerado_em": "2026-07-23T10:29:18.606870+00:00",
-  "total_grupos": 103,
-  "total_noticias": 177,
+  "gerado_em": "2026-07-23T10:43:42.374568+00:00",
+  "total_grupos": 102,
+  "total_noticias": 178,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 103,
+  "total_grupos": 102,
   "por_categoria": {
-   "Operadoras e IOCs": 67,
+   "Operadoras e IOCs": 65,
    "Bids e Licitações": 6,
    "Prospectos e Investimentos": 5,
    "Descobertas": 5,
@@ -16,9 +16,9 @@
    "Contratos e Concorrentes": 4,
    "SURF": 3,
    "Descomissionamento": 3,
+   "Novas Tecnologias": 3,
    "Opinião e Regulatório": 2,
-   "Campanhas e Blocos": 2,
-   "Novas Tecnologias": 2
+   "Campanhas e Blocos": 2
   },
   "com_fonte_paga": 1,
   "alta_relevancia": 13
@@ -32,19 +32,19 @@
     "delta": 4
    },
    {
-    "topico": "Saipem",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Bacia de Campos",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
     "topico": "Constellation",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
+    "topico": "Búzios",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
+   },
+   {
+    "topico": "SLB",
     "atual": 1,
     "anterior": 0,
     "delta": 1
@@ -56,7 +56,7 @@
     "delta": 1
    },
    {
-    "topico": "Bacia de Santos",
+    "topico": "Albacora",
     "atual": 1,
     "anterior": 0,
     "delta": 1
@@ -70,6 +70,40 @@
     "delta": -1
    }
   ]
+ },
+ "mercado": {
+  "brent": {
+   "atual": 92.92,
+   "moeda": "US$",
+   "variacao_pct": -1.22,
+   "serie": [
+    77.08,
+    73.74,
+    75.26,
+    71.99,
+    73.15,
+    72.92,
+    71.57,
+    71.8,
+    71.99,
+    74.16,
+    78.02,
+    76.3,
+    76.01,
+    83.3,
+    84.73,
+    84.95,
+    84.23,
+    88.1,
+    89.22,
+    91.01,
+    94.07,
+    92.92
+   ],
+   "fonte": "Yahoo"
+  },
+  "usd": null,
+  "eur": null
  },
  "grupos": [
   {
@@ -860,9 +894,9 @@
   {
    "id": "26e3a2b44ffa1aa3",
    "title": "Petrobras celebra início das operações do Centro Tecnológico para o Pré-sal brasileiro, em Itajubá (MG) - Agência Petrobras de Notícias",
-   "summary": "Petrobras inaugura centro para pesquisas sobre o pré-sal em MG - Portal BE News. Petrobras inicia operações de centro tecnológico para o pré-sal - TAGD Advogados. Petrobras celebra início das operações do Centro Tecnológico para o Pré-sal brasileiro, em Itajubá (MG) - Agência Petrobras de Notícias.",
+   "summary": "Petrobras inaugura centro para pesquisas sobre o pré-sal em MG - Portal BE News. Petrobrás inaugura centro de tecnologias para o pré-sal em Itajubá - G1. Petrobras inicia operações de centro tecnológico para o pré-sal - TAGD Advogados.",
    "detalhes": {},
-   "category": "Operadoras e IOCs",
+   "category": "Novas Tecnologias",
    "relevance": 50,
    "entities": {
     "campos_blocos": [],
@@ -872,7 +906,7 @@
     "servicos": []
    },
    "published": "2026-07-07T14:07:00+00:00",
-   "n_sources": 7,
+   "n_sources": 8,
    "sources": [
     {
      "name": "Portal BE News",
@@ -880,6 +914,13 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-07T14:07:00+00:00"
+    },
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaF94LUphUnktSFlobnlqcGY1eXJkeU85b09rN2VCZGhLNFh2Yk42WnpQTDhjNm1RdUh3N0twUWZNZUE0dWxXTWxhQ0preTM3blJOQTJUbnBuSDVwa0FOUDBaRHpxdk5rSUZIU05HdVk1VF94RnR5ZHY2RHJJcEF0b2cxX25qY1VLeEVJbFM0ZVhPTkZ0OVE3S01nZV81YzFzTG1RZWVvTHY0UksyVVpDblBQbUhsUHNmMnNmXzB2UGZIRDJlTVg2ZkFLdUpSTXZnZDlvcm9zTGdUNnl3bExBc0NyczVqclVPVHA40gH6AUFVX3lxTFB5cmFiZVZLTWEzajFhcEdkUHBkTkVMWFVvS1BLOC16WkdhVzQyQWFvdFJDbVJfMEZya1JvbHpKWF9DNmVub1k4M2k1OXc2akdlSWVsYTRDZkZlWFBXNW82OS1tSFhpVjdzaDFSQkJVVzBZUnFmQzdLeTdrVk5Pay03WkRvbGt4RHJmX1d2Q2VsNUpUQkluQ3h6VHFxVnlFbDEwSGlkS0o3aWhZVEU4aGlDRVVQTjgwZE5fU0tTSXV1NWU4Q2VMZmJlMkh4WUdFdzRJeU03Mko4RkxZOG01YU1WamhPVzN0bGh1aTVNLWhIZXRiemVaNnNEVUE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-04T07:00:00+00:00"
     },
     {
      "name": "TAGD Advogados",
@@ -917,6 +958,13 @@
      "published": "2026-07-03T07:00:00+00:00"
     },
     {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnhDX1poQkNTZXZmMVZnRmpPQVpsY3VlblpCQkhSSkJIeUNHSmdYTHRzNUxpV25VcmdSd0g3aUNSM3FObFVibWV0WDJ2QmxBUXVmUU85ZzhRSjB5ZnJxOVZ5YkZINl9CR1hlbDhDaHFjQ2w0TTJDc3gzM0VFVzZ4TV80NXRiX3Q5MFc1alZGVDJIS2I1SVRjaXpTMEo1WHpSMWNMVnVZSVdCXzlPbXVwZzdPZ18?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-03T07:00:00+00:00"
+    },
+    {
      "name": "Rádio Itatiaia",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOczF0czdzTlM4OGx0YWU1RkxKb0Y0RmhJeUZkMmxmZkJ0UTE2djl5RmJScHo4RmxvVGRocEZwWmpsM3ZMWTR3ZVRzalNiNGxWNElrZlc4by0tOXQwdFBOWWpWcVdnS1V6eWlQS0tEQnFadWxOVU5xSmJKVDFEM0NWYWctdENaRGpOWUk3X1VJQ1d3T2kydXVUWDJMTGpNcThhWUNHVmJoUFNkUmZpbU9STU52dTRYSWJJTWs2TEMxRGU?oc=5",
      "type": "aberta",
@@ -948,35 +996,6 @@
     {
      "name": "ADVFN",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczhSVmpaUkx5R1J4bTJreV8zWlFiRG9heUZTZDBHWENwWEdXdGZmbC1Ta2Zjbm00czJnczYzWHhNdEs1Rk93UVR0cTRNWFlCQlUzNFY0SmVVV2lWVTdwZmllajE3d2F3anJLb2pYR3VNWjgtWmJZdF82bjJmbWxMRkVUdGpGYm5rUTJIb1BmdXdaUzQ1ZDJEcHVjSHFqSjE3b01ta2FBWUxVak9MWHBIOElSWGo5OFZ0XzR3aVh0dW41UTJqc2R2YUdnZTZzVUVFLUNVQ29oeDk2TUN4ZXc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-03T07:00:00+00:00"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "983a056dfa9e5a4f",
-   "title": "Petrobras (PETR4) inaugura centro tecnológico estratégico para o pré-sal; entenda - Money Times",
-   "summary": "Petrobras (PETR4) inaugura centro tecnológico estratégico para o pré-sal; entenda - Money Times.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 50,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-07-03T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnhDX1poQkNTZXZmMVZnRmpPQVpsY3VlblpCQkhSSkJIeUNHSmdYTHRzNUxpV25VcmdSd0g3aUNSM3FObFVibWV0WDJ2QmxBUXVmUU85ZzhRSjB5ZnJxOVZ5YkZINl9CR1hlbDhDaHFjQ2w0TTJDc3gzM0VFVzZ4TV80NXRiX3Q5MFc1alZGVDJIS2I1SVRjaXpTMEo1WHpSMWNMVnVZSVdCXzlPbXVwZzdPZ18?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-07-03T07:00:00+00:00"
