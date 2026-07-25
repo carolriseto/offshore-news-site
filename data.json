@@ -1,36 +1,36 @@
 {
  "meta": {
-  "gerado_em": "2026-07-24T19:05:47.326233+00:00",
-  "total_grupos": 107,
-  "total_noticias": 368,
+  "gerado_em": "2026-07-25T17:37:31.068288+00:00",
+  "total_grupos": 117,
+  "total_noticias": 372,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 107,
+  "total_grupos": 117,
   "por_categoria": {
-   "Operadoras e IOCs": 70,
-   "Prospectos e Investimentos": 8,
-   "Bids e Licitações": 7,
+   "Operadoras e IOCs": 79,
+   "Prospectos e Investimentos": 9,
+   "Bids e Licitações": 6,
    "Novas Tecnologias": 6,
+   "Contratos e Concorrentes": 4,
    "SURF": 3,
-   "Descomissionamento": 3,
-   "Contratos e Concorrentes": 3,
+   "Descomissionamento": 2,
    "Perfuração e Poços": 2,
    "Opinião e Regulatório": 2,
+   "Resultados Trimestrais": 2,
    "Campanhas e Blocos": 1,
-   "Descobertas": 1,
-   "Resultados Trimestrais": 1
+   "Descobertas": 1
   },
   "com_fonte_paga": 1,
-  "alta_relevancia": 11
+  "alta_relevancia": 10
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
-    "atual": 10,
-    "anterior": 3,
-    "delta": 7
+    "atual": 11,
+    "anterior": 0,
+    "delta": 11
    },
    {
     "topico": "Bacia de Santos",
@@ -45,40 +45,32 @@
     "delta": 2
    },
    {
-    "topico": "Total",
+    "topico": "Shell",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
+   },
+   {
+    "topico": "Altera",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    },
    {
-    "topico": "Atapu",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Saipem",
+    "topico": "SLB",
     "atual": 1,
     "anterior": 0,
     "delta": 1
    }
   ],
-  "baixa": [
-   {
-    "topico": "Foz do Amazonas",
-    "atual": 0,
-    "anterior": 1,
-    "delta": -1
-   }
-  ]
+  "baixa": []
  },
  "mercado": {
   "brent": {
-   "atual": 96.54,
+   "atual": 96.78,
    "moeda": "US$",
-   "variacao_pct": -4.12,
+   "variacao_pct": -3.88,
    "serie": [
-    73.74,
     75.26,
     71.99,
     73.15,
@@ -99,7 +91,7 @@
     91.01,
     94.07,
     100.69,
-    96.54
+    96.78
    ],
    "fonte": "Yahoo"
   },
@@ -181,9 +173,9 @@
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n107 assuntos no radar, 11 de alta relevância. Tópicos em alta: Petrobras, Bacia de Santos, DOF, Total, Atapu, Saipem. Em baixa: Foz do Amazonas.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (3 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (1 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n117 assuntos no radar, 10 de alta relevância. Tópicos em alta: Petrobras, Bacia de Santos, DOF, Shell, Altera, SLB. Em baixa: —.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (6 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (2 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (1 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-07-24T19:05:47.490689+00:00"
+  "gerado_em": "2026-07-25T17:37:31.339810+00:00"
  },
  "companhias": [
   {
@@ -204,7 +196,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.298675+00:00",
    "com_release": false,
-   "n_noticias": 1
+   "n_noticias": 0
   },
   {
    "id": "shell",
@@ -214,7 +206,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.303724+00:00",
    "com_release": false,
-   "n_noticias": 0
+   "n_noticias": 2
   },
   {
    "id": "totalenergies",
@@ -224,7 +216,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.308986+00:00",
    "com_release": false,
-   "n_noticias": 6
+   "n_noticias": 7
   },
   {
    "id": "chevron",
@@ -254,7 +246,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.314483+00:00",
    "com_release": false,
-   "n_noticias": 4
+   "n_noticias": 5
   },
   {
    "id": "brava",
@@ -426,41 +418,41 @@
  },
  "series": {
   "semanas": [
-   "05/06",
-   "12/06",
-   "19/06",
-   "26/06",
-   "03/07",
-   "10/07",
-   "17/07",
-   "24/07"
+   "06/06",
+   "13/06",
+   "20/06",
+   "27/06",
+   "04/07",
+   "11/07",
+   "18/07",
+   "25/07"
   ],
   "total": [
    0,
-   49,
-   37,
-   66,
-   44,
    38,
    39,
-   95
+   67,
+   48,
+   41,
+   34,
+   105
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    22,
+    18,
     31,
     55,
-    34,
-    24,
-    33,
-    65
+    39,
+    28,
+    28,
+    73
    ],
    "Perfuração e Poços": [
     0,
     9,
-    6,
-    4,
+    8,
+    2,
     0,
     0,
     0,
@@ -468,10 +460,10 @@
    ],
    "Bids e Licitações": [
     0,
-    2,
     0,
-    2,
-    7,
+    0,
+    5,
+    4,
     2,
     0,
     6
@@ -481,30 +473,30 @@
     2,
     0,
     0,
-    1,
+    2,
     0,
     0,
     10
-   ],
-   "Descomissionamento": [
-    0,
-    9,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
    ],
    "Novas Tecnologias": [
     0,
     0,
     0,
     0,
-    0,
-    3,
+    1,
+    2,
     0,
     5
+   ],
+   "Opinião e Regulatório": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    4,
+    2,
+    2
    ]
   }
  },
@@ -588,6 +580,14 @@
     {
      "name": "MLex",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHRsQ0lHZW1NY3o5amwtd2s2VXJHendnbkh0UmlkZ21HTWg2MHRXUnFMQi1xajR3RnhCd1kyRFFDWWMtazhHTnp4NXFZUV8zcEZQbzdWWUVYUVFuamFXOG9FU3lvbkFyeU9GUGhLNnkyYkhjMVZtcENIR1llSkM4MGJJRzY3M0dzUDR6NWk0VGVEazd2QjAyZ1RuZTFMMU5Cdl9RSUpnWdIBWkFVX3lxTE1LNUlJLWxncUQzLTVheVdIUEk5Q3Q1LVlldWowaGtCN1FmNFhMcXZrWnVBYkdTd0tlNUhidTJ5dmMzQ3lDLTFzSzVtN0xoTk4wZUtTTFVpc3RYUQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-14T12:31:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "MLex",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGR3LW5nSFF5MFd5MG9mXzQ3UFk1MmJVb1NrOE9NN3h0NWYzd1UtY1B3T2hGWlp0Z0l4UkFHNnd4b1o2SkZCaXdEZ2swRlVkTHhEQ0s0cG5yQ2Zld3lsd1FBeGVRb294Rk90Smg4TDhVWWZ5T0h4QlZXcnBSZzF5em5kbkZMQVZobEdxVmt0N3gzQS03R2Q3TElldF9qUFZmNEtKNGJnMGJfVmZ0UkHSAVpBVV95cUxNSzVJSS1sZ3FEMy01YXlXSFBJOUN0NS1ZZXVqMGhrQjdRZjRYTHF2a1p1QWJHU3dLZTVIYnUyeXZjM0N5Qy0xc0s1bTdMaE5OMGVLU0xVaXN0WFE?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-07-14T12:31:00+00:00",
@@ -1001,13 +1001,10 @@
   {
    "id": "5b5a5858dee6e16a",
    "title": "Petrobras e OceanPact firmam contrato de R$ 444 mi para desativação de plataforma na Bacia de Campos",
-   "summary": "Petrobras e OceanPact firmam contrato de R$ 444 mi para desativação de plataforma na Bacia de Campos. Petrobras amplia presença no pré-sal da Bacia de Campos com aquisição de 50% do bloco Itaimbezinho da Equinor. Petrobras adquire 50% de Itaimbezinho, no pré-sal da Bacia de Campos.",
+   "summary": "Petrobras e OceanPact firmam contrato de R$ 444 mi para desativação de plataforma na Bacia de Campos.",
    "detalhes": {
     "valores": [
      "R$ 444 mi"
-    ],
-    "percentual": [
-     "50%"
     ]
    },
    "category": "Descomissionamento",
@@ -1017,13 +1014,12 @@
      "Bacia de Campos"
     ],
     "operadoras": [
-     "Equinor",
      "Petrobras"
     ],
     "servicos": []
    },
    "published": "2026-06-11T07:00:00+00:00",
-   "n_sources": 4,
+   "n_sources": 1,
    "sources": [
     {
      "name": "Times Brasil | CNBC",
@@ -1039,46 +1035,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-06-11T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjlBRGxrZGpaVXhnSURVMUJIX2tNLWh3M2RGaUI3OHNaM01mYkNlc0tLSmlUc3hHWnJMd1JQZ3JPTHg0TTNLZ1ZaanFZZGp3eVFYZk5BVU5xVjV3TG80aFRIakJhSTBIaU8xSm43RkpBQjNPQlcySWI2N0NNR0ZBTThsc9IBkgFBVV95cUxPMDBWb3NsdmJqUG4wcE5vVjhkTmFERENhNzFydU5idElRc2V1dGJuSDZ1RjFjTFpibVR2YWpxal9RWmZCd3JQaE9Bc3hBQ3pxM0RQay1SbEJmRjYtTi0wdzZycG5qZVRhbVVVWXM1d1B3SkoxVm9CZUtJSzVTYkpoaVdSYWFwbnR4MVhsQWtteTFvQQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "InvestNews",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1l2eHVaajF3N3dONVZvd3J6NHlRbHVnNzZmMnJZcGNObk5pUGU4WmJ1WkxzS0lXT1ZnUnU4RTJHSU4yOFM0eXgwcHQ5YUwtWmFXMzdsa2FIb3NpMmZNdXMxWkVFbndLXzFVWmYxakZPVDJscTdaamVtV0V2SkJvYUFRNWlMRFpNenpDX0RnTdIBlAFBVV95cUxQLXRHVmZ2eXNsandLbC0wSl92Zm5MY1pfYjdCaHFwSF9aUEdxbHdxVFJ3VDNfc1V1TWVfejZyLUJLN3Vsd2xrSVlKb3JzUUFUZ3hEWUJEYWRSekJDTGcyeTVWczR0M1h1TmtPNHlJS3c4OVp3cE9Ma1I2UE5rXzRBVUI5NmRPSzdlRG5ORU5qX1BJQ2pL?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcXhYbXJ6cHYySGJJd2JWa05IdndET2h5dHE4VlRiRVBibkhLWmNCU001VlV6eHpnSE1vS1BBZnRYaVEyTFdMdnktaW55UGNqMXdvMzg1TjZRVmtIc1JNQnctZHBRRWttbnVpaU91NGRmMGk4X2p1VTh5TkprcmhkWllkMmQ0Y2tmT3JNNnZVa2x4azMwOVdBOUlIRnFHdVdleDVNSjNLeGNEbllCWkMwTkhhYktIa1kzNjNPXzJ2bElNVlhZNjV5WDJ6M3ROME1WR2lKSWNfTXBDVDBG?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjlBRGxrZGpaVXhnSURVMUJIX2tNLWh3M2RGaUI3OHNaM01mYkNlc0tLSmlUc3hHWnJMd1JQZ3JPTHg0TTNLZ1ZaanFZZGp3eVFYZk5BVU5xVjV3TG80aFRIakJhSTBIaU8xSm43RkpBQjNPQlcySWI2N0NNR0ZBTThsc9IBkgFBVV95cUxPMDBWb3NsdmJqUG4wcE5vVjhkTmFERENhNzFydU5idElRc2V1dGJuSDZ1RjFjTFpibVR2YWpxal9RWmZCd3JQaE9Bc3hBQ3pxM0RQay1SbEJmRjYtTi0wdzZycG5qZVRhbVVVWXM1d1B3SkoxVm9CZUtJSzVTYkpoaVdSYWFwbnR4MVhsQWtteTFvQQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "InvestNews",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc1l2eHVaajF3N3dONVZvd3J6NHlRbHVnNzZmMnJZcGNObk5pUGU4WmJ1WkxzS0lXT1ZnUnU4RTJHSU4yOFM0eXgwcHQ5YUwtWmFXMzdsa2FIb3NpMmZNdXMxWkVFbndLXzFVWmYxakZPVDJscTdaamVtV0V2SkJvYUFRNWlMRFpNenpDX0RnTdIBlAFBVV95cUxQLXRHVmZ2eXNsandLbC0wSl92Zm5MY1pfYjdCaHFwSF9aUEdxbHdxVFJ3VDNfc1V1TWVfejZyLUJLN3Vsd2xrSVlKb3JzUUFUZ3hEWUJEYWRSekJDTGcyeTVWczR0M1h1TmtPNHlJS3c4OVp3cE9Ma1I2UE5rXzRBVUI5NmRPSzdlRG5ORU5qX1BJQ2pL?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -1445,44 +1401,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "4417b29744b78e5b",
-   "title": "Mais de 40 plataformas da Petrobras entram na fila do descomissionamento e abrem no Brasil uma indústria bilionária de guindastes, navios especiais, corte submarino e reciclagem offshore",
-   "summary": "Mais de 40 plataformas da Petrobras entram na fila do descomissionamento e abrem no Brasil uma indústria bilionária de guindastes, navios especiais, corte submarino e reciclagem offshore.",
-   "detalhes": {},
-   "category": "Descomissionamento",
-   "relevance": 66,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-06-10T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb1gwZjNmT29pelpTNVZqNlNrb0ItWU4yMGp4bDlQQ0FMM05ILUdIcDFHdkptcnV3UXhPZG9CS3lmeWR4OG9CNEhmSXh1VDkyN3lVYzVxTzhRZUtNb0duOEpfS05XaElzV2xGVTJtaU93RW9zSzdrWmRXZEZmbVBvR1FkUlNEUVBVdUNERUttSEIzNTYxVXZTajYzSmo3ei13a2o1V2VQMk55UG13UUNOMFl2MTdBdTNPQnlzdDR6dTVhVkJnSERFeTMxeXhEcWV2eFItRHA3X3NBVk5fcFhHZ0VuMXhNZGhGVnVfT1h5a0poWUZLNmlLU0taMGc1ZXltbEFxY09iSzl1YmtTVm1ydG5hSFI2SWVRcFREVEtVMXJfU2ptLUd3?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOb1gwZjNmT29pelpTNVZqNlNrb0ItWU4yMGp4bDlQQ0FMM05ILUdIcDFHdkptcnV3UXhPZG9CS3lmeWR4OG9CNEhmSXh1VDkyN3lVYzVxTzhRZUtNb0duOEpfS05XaElzV2xGVTJtaU93RW9zSzdrWmRXZEZmbVBvR1FkUlNEUVBVdUNERUttSEIzNTYxVXZTajYzSmo3ei13a2o1V2VQMk55UG13UUNOMFl2MTdBdTNPQnlzdDR6dTVhVkJnSERFeTMxeXhEcWV2eFItRHA3X3NBVk5fcFhHZ0VuMXhNZGhGVnVfT1h5a0poWUZLNmlLU0taMGc1ZXltbEFxY09iSzl1YmtTVm1ydG5hSFI2SWVRcFREVEtVMXJfU2ptLUd3?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "c9393bdab95ec4e8",
    "title": "Lula trata minerais críticos como novo pré-sal, e governo avalia entrada de BNDES e Petrobras em empresas do setor",
    "summary": "Lula trata minerais críticos como novo pré-sal, e governo avalia entrada de BNDES e Petrobras em empresas do setor.",
@@ -1700,7 +1618,7 @@
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY01FU3pGVWtneW5fTGVBVk5ZNmdVaEJSczJQcW9CTmRHYkdER1hxZmRjUDl3aXBaWFR2VjlHVjVrUjJreGVWc090ODcxbkI2MGFFa2Y1VDhkalFhVjFyZmpLUU1sZnl4Vm1zdFZNSmpaZmVDWUVtdlJrWnNfVDNNdDBxdkNYbjhWWGZCcUlBSUxDNEhPLV9aWl9VSGlYMzdJSndmR1ctZXNXSGpPa2dvWg?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-24T18:05:21+00:00",
+     "published": "2026-07-24T18:06:47+00:00",
      "link_real": null
     }
    ],
@@ -2556,6 +2474,14 @@
      "paid": false,
      "published": "2026-07-24T16:27:46+00:00",
      "link_real": "https://clickpetroleoegas.com.br/campo-de-mero-700-mil-barris-pre-sal-fpso-gstts"
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNLZzRSMDB5bkNyWjdTUGJFekhQX1hIT1Bsd0drR3hGcC1oSmtFZ0RBUVVacjlCc0ZXMWRkX0psLUxrMk5QSXBQTUl6bXpvaUYtNjVmbUlYaV9MS0hPYjNtOE9UYWlnLTJxX2Y5aGMzaTVqaU5MZ3M4LU5xWHk5SFdkem5fY0Zy?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-24T16:27:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -3347,7 +3273,7 @@
      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQamthTGx4YjNORVRzMnZhc0pLWHhXeHRWY2pTbmI1UEZhYk1DMnVlVVFabGtnOGpMVWxiYlpDc3ZuNkJIclJIZmhabUNpa2lmVWVheEZpZWI2UXZfdFRxUElvTV9KV2ZMRG15NExsNHBlMWtxZk9KcGhNdWNVNnVIeERrbXlyTEltaDVxUGxPRFRPNlgyRjNEaWkySDZsamJyZXhJQUVKU01yMjEyQzJkX1RvVVZJQ2ZFcnYxZ0lMVWhlR2huTkduTjgtUjk0UTJZb3JvTFp1dzJjeHNNaEhac09UUTFoT0YzbzNUZURpQnZJU25ReGNyVXFmajV2dmQxSEVLYQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-15T21:56:04+00:00",
+     "published": "2026-07-15T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -3469,9 +3395,10 @@
   {
    "id": "00b506e305e41265",
    "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção e supera 1,2 milhão de barris por dia",
-   "summary": "Petrobras (PETR4): Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd. Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd. Campo de Búzios bate novo recorde de produção em menos de uma semana, diz Petrobras.",
+   "summary": "Petrobras (PETR4): Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd. Campo de Búzios bate novo recorde e supera a marca de 1 milhão e 200 mil barris/dia. Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd.",
    "detalhes": {
     "producao": [
+     "200 mil barris",
      "100 mil bpd"
     ]
    },
@@ -3564,6 +3491,14 @@
     {
      "name": "CNN Brasil",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1Y1Yjh4eTJKM2pKQ2lVUkZHRzI4Z19CT3FlLUNMS1l6OTh2UFhUUEJqUGFQUlB4LTltUVFOZFE4cHc3d3haaVFrVTlwVENCZFFNOVBMQmIwQTZ1aDZ3ZFRDRVQtd3lMa0daMXM4dENYSUdBM3E1YWxkNjlMdGZELVI2azZnTU04ZFF0WHpBR3AyQ0xJcG03ci03VzJzc0txd1cxWUpoV1RQc0tH?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QmJkUUNISDdkUE1uMHJnRWhFM0RVTGNhZG4xcUFPMjk1b0x1X0ZBSFQtRTBRZVU0M2dzRzVMZHQxQjFJa1FZc0prVUFPVHA4XzBEZVMwdl9fdw?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-06-29T07:00:00+00:00",
@@ -3975,58 +3910,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "f6e539d3d2314209",
-   "title": "Teresa Leitão critica projeto que usa fundo do pré-sal para auxiliar produtores rurais",
-   "summary": "Teresa Leitão critica alteração no Fundo do Pré-Sal: \"será nefasta\". Teresa Leitão critica projeto que usa fundo do pré-sal para auxiliar produtores rurais.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-06-11T07:00:00+00:00",
-   "n_sources": 2,
-   "sources": [
-    {
-     "name": "Congresso em Foco",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnNFWUN6d0JSVmV2NGgtWGhidDlRcXlLMWQwd1REZHFkQXM2MUJsYmxvbjFLcFM1WGNYa3ZRaW9hWjVsbW1TdVJWZERvdUg5YUxPdmNVNXlVekNDSVlsZ1ljQ2xzdWt5TmV0MW9QSFZHLUtVbks0a1piVFpER09yeEZHeXNfV1FXQ29LRWVhNmpqQkVhN0tHc3FHY004ZS1RRTIyd254YlpxNDc3TXRmd3dvWUgzdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-11T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Congresso em Foco",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnNFWUN6d0JSVmV2NGgtWGhidDlRcXlLMWQwd1REZHFkQXM2MUJsYmxvbjFLcFM1WGNYa3ZRaW9hWjVsbW1TdVJWZERvdUg5YUxPdmNVNXlVekNDSVlsZ1ljQ2xzdWt5TmV0MW9QSFZHLUtVbks0a1piVFpER09yeEZHeXNfV1FXQ29LRWVhNmpqQkVhN0tHc3FHY004ZS1RRTIyd254YlpxNDc3TXRmd3dvWUgzdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-11T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Senado",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOTE0ekg5cF9zNENoVWpzZms4SmhwT1R6Z09vbmdnWWhKUHNZNC1BUmVxSkVYc2FvWDMxZm9FbG9VeVVSNVlkblFfdlZ6VXI5d2JmZVV3VnpHTl9CSkY2eTEtdGNPcU14R2NYRUlUVnhremx1VmVfQjRJX2VSMnEtTDBKazNqamZjSGh6WVNMekFSN0pvaTE3TzhDN01xODhQd1BGMXZia2xnbjVlMElUNXdlXzhVMzRUNWpLMzhMYmIzM1RDR2NIYWpIWTFvREtmcGFNbFY4c2plck0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Senado",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOTE0ekg5cF9zNENoVWpzZms4SmhwT1R6Z09vbmdnWWhKUHNZNC1BUmVxSkVYc2FvWDMxZm9FbG9VeVVSNVlkblFfdlZ6VXI5d2JmZVV3VnpHTl9CSkY2eTEtdGNPcU14R2NYRUlUVnhremx1VmVfQjRJX2VSMnEtTDBKazNqamZjSGh6WVNMekFSN0pvaTE3TzhDN01xODhQd1BGMXZia2xnbjVlMElUNXdlXzhVMzRUNWpLMzhMYmIzM1RDR2NIYWpIWTFvREtmcGFNbFY4c2plck0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "0aff58328c2fc0e7",
    "title": "Vitoria da Educação Pública: Pressão popular mantém 50% dos royalties do pré-sal para o setor",
    "summary": "Vitoria da Educação Pública: Pressão popular mantém 50% dos royalties do pré-sal para o setor.",
@@ -4056,6 +3939,42 @@
     {
      "name": "PROIFES",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONnRmNHJTcWRmU2tRQXZwNExnbTdrNVJ4VHA0Tkl1MnNyQUlaV29zWWFxd1pjZk9BSVRVOVFHSVVlaHpGV3BXekhDWEJ6QkVGUENhY1ZKQlNYVW9LQ2liUWw3aUlHUEJDRXZrbHR0UE9HcE5tUDcxRmxfVkUtU1Y4Q3JpUEJYTWlxOVg0QWtkYWczSFJEZ2Y3dGNRX1VoMnVVQkNRdjNTa3pjQ0d0YVY1YTZJMWlwZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-11T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f6e539d3d2314209",
+   "title": "Teresa Leitão critica alteração no Fundo do Pré-Sal: \"será nefasta\"",
+   "summary": "Teresa Leitão critica alteração no Fundo do Pré-Sal: \"será nefasta\".",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 35,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-06-11T07:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Congresso em Foco",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnNFWUN6d0JSVmV2NGgtWGhidDlRcXlLMWQwd1REZHFkQXM2MUJsYmxvbjFLcFM1WGNYa3ZRaW9hWjVsbW1TdVJWZERvdUg5YUxPdmNVNXlVekNDSVlsZ1ljQ2xzdWt5TmV0MW9QSFZHLUtVbks0a1piVFpER09yeEZHeXNfV1FXQ29LRWVhNmpqQkVhN0tHc3FHY004ZS1RRTIyd254YlpxNDc3TXRmd3dvWUgzdw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-11T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Congresso em Foco",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnNFWUN6d0JSVmV2NGgtWGhidDlRcXlLMWQwd1REZHFkQXM2MUJsYmxvbjFLcFM1WGNYa3ZRaW9hWjVsbW1TdVJWZERvdUg5YUxPdmNVNXlVekNDSVlsZ1ljQ2xzdWt5TmV0MW9QSFZHLUtVbks0a1piVFpER09yeEZHeXNfV1FXQ29LRWVhNmpqQkVhN0tHc3FHY004ZS1RRTIyd254YlpxNDc3TXRmd3dvWUgzdw?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-06-11T07:00:00+00:00",
@@ -4181,6 +4100,73 @@
      "paid": false,
      "published": "2026-07-22T22:00:42+00:00",
      "link_real": "https://petronoticias.com.br/a-volkswagen-realiza-no-brasil-a-venda-de-56-caminhoes-movidos-a-biometano/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "08a56caea9f049e7",
+   "title": "Estudantes mineiros transformam tampinhas recolhidas na universidade em plástico triturado e moldado para fabricar o assoalho de um carro experimental, levam o protótipo às pistas e testam na prática se uma solução reciclável, leve e resistente consegue percorrer mais distância usando menos energia em competição universitária real de eficiência",
+   "summary": "A peça reciclável precisou reunir leveza e resistência antes de integrar o protótipo preparado para a Shell Eco-marathon Brasil 2025, competição universitária de eficiência energética. O projeto foi apresentado pela Shell Brasil em material institucional publicado na seção de comunicados de 2025 sobre a Shell Eco-marathon Brasil. - Baterias de vapes descartados movem carro elétrico por 29 quilômetros após britânico reunir mais de 500 células, montar pacote de 50 volts impresso em 3D e recarregá-lo por USB-C, experimento que atingiu cerca de 56 km/h e expôs quanta energia ainda vai para o lixo eletrônico - Enquanto os veículos circulam e desgastam os pneus no asfalto, a poeira dos pneus pode ser transportada pelo vento até áreas residenciais e acumular substâncias químicas em varandas, inclusive em imóveis afastados da origem exata das partículas - Estudantes mineiros recolhem tubos de PVC em obras, metal descartado e peças de uma moto desmontada, constroem praticamente do zero um carro experimental e colocam o protótipo para rodar em competição de eficiência energética, mostrando como resíduos comuns podem virar uma estrutura leve, funcional e preparada para enfrentar testes técnicos - O que aconteceu com o AirPower da Apple, a base sem fio que prometia carregar iPhone, Apple Watch e AirPods em qualquer posição, mas foi cancelada antes de chegar às lojas por não atingir o padrão técnico da própria empresa Em vez de encaminhar o material diretamente ao descarte, o grupo procurou uma função técnica para ele.",
+   "detalhes": {
+    "profundidade": [
+     "56 km"
+    ],
+    "datas": [
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Shell"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-25T17:00:36+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/estudantes-mineiros-transformam-tampinhas-recolhidas-na-universidade-em-plastico-triturado-e-moldado-para-fabricar-o-assoalho-de-um-carro-experimental-levam-o-prototipo-as-pistas-e-ctl01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T17:00:36+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/estudantes-mineiros-transformam-tampinhas-recolhidas-na-universidade-em-plastico-triturado-e-moldado-para-fabricar-o-assoalho-de-um-carro-experimental-levam-o-prototipo-as-pistas-e-ctl01/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "551f2f7b2240dcb4",
+   "title": "P-33 da Petrobras deixa Porto do Açu para destinação sustentável",
+   "summary": "P-33 da Petrobras deixa Porto do Açu para destinação sustentável.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-24T21:37:08+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2VDWUFPbGdhMW5mc2ZqZlY1WWhnVjdaWmJpMkJxT2xmSm16VWs1OU1uS3I5RTFFWWFaZ2hjakU0ZU1JcHE4WUd6MkdBVjRkSFA4QnQ3SEZhNlZzLWphbGNoWmVpbGw4bmRfZkd4UUpTUEFkaV9vOE5vMGFtUEFPVjFuZmp4ZnNaclRXYk0wdXZJWGlNdFM2cTk5RlctX1lCSjNFNXp3Yk1rNkVuSF9ucEc5eEIzMEphck5hLWJxVE54bmI4MlBGUA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-24T21:37:08+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -4388,6 +4374,40 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-01T02:07:16+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "02d0e22f2aa99bbb",
+   "title": "Petrobras prevê R$ 12 bilhões de investimentos na construção naval em SC",
+   "summary": "Petrobras prevê R$ 12 bilhões de investimentos na construção naval em SC.",
+   "detalhes": {
+    "valores": [
+     "R$ 12 bilhões"
+    ]
+   },
+   "category": "Prospectos e Investimentos",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-06-30T07:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Portos e Navios",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGg4VjZHRkRqclB1OGM3QmhYOWxMelpaaXJZeXpOWUFsck9Wck85bkJ0NmlYOTJqelpxbllaUFY2aXJIcEJDa2VXdW1iNTJPSjZ3OXNUMW9zYmN4R0tvcE13TGxMcHFDelQxc0NDU3dmRWNjd0taZVlBT3Q1Zk94ODVuaVU5bjBlenN2QWdBRjctZTNzSWVBVk84QUVvLTdPLUYwV0NkYXdGQ1B2RjhSb3d5Z0NBaDdxcmM1MzZUVXl6WVByX25CQzhuX2trT21ob0E?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-30T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -4707,39 +4727,34 @@
    "aviso_paga": ""
   },
   {
-   "id": "30b3cd88c096a4b7",
-   "title": "ANP marca leilões de petróleo em outubro e reforça previsibilidade regulatória para concessão, partilha e investimentos no setor de óleo e gás",
-   "summary": "ANP marca leilões de petróleo em outubro e reforça previsibilidade regulatória para concessão, partilha e investimentos no setor de óleo e gás.",
+   "id": "15813c32a2e75d43",
+   "title": "TRAFIGURA REALIZA SUA PRIMEIRA OPERAÇÃO NO MERCADO DE ENERGIA ELÉTRICA NO BRASIL",
+   "summary": "Nos termos do acordo, a Trafigura assumiu um contrato no valor de R$ 750 milhões para aquisição de energia da CGN, anteriormente detido pelo Grupo Bolt. Com sede no Rio de Janeiro, a Trafigura passa a atuar no sexto maior mercado de energia elétrica do mundo, onde a geração hidrelétrica responde por cerca de dois terços da produção de eletricidade, conferindo ao país uma das maiores participações de fontes renováveis na matriz energética global. TRAFIGURA REALIZA SUA PRIMEIRA OPERAÇÃO NO MERCADO DE ENERGIA ELÉTRICA NO BRASIL.",
    "detalhes": {
+    "valores": [
+     "R$ 750 milhões"
+    ],
     "datas": [
-     "outubro"
+     "Janeiro"
     ]
    },
-   "category": "Bids e Licitações",
-   "relevance": 14,
+   "category": "Contratos e Concorrentes",
+   "relevance": 12,
    "entities": {
     "campos_blocos": [],
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-06-10T07:00:00+00:00",
+   "published": "2026-07-25T16:00:42+00:00",
    "n_sources": 1,
    "sources": [
     {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcE1jUTlURExfSkJacDNXam9kOUFtZ0JkRWNDWHR1U1ZXMFJGZnVmNEY3YTJaTEswVlNaZjdmMWpBT0MyQnR3UXJITUdDdnp3UmF2WElzQlluSWxiWTRGZlNzMlRVZjU0a3NFUENWWTE2ZVdVakRnQmtRZTBieDVzUGtfWEQ3REVQbVBWYnpWVEpOQWxrZGZiWDVQcFNYN0pEVFFKQUZIZnhoU3JCaVRETHRtVHJwY2MwTU1jRzhMX1locHEtQU54S0NBWlczSWhPN1hfb2JuYkwyNmVTVWw2bXdTcnAtSldYSFNMeFpYQ3FCcTRiOEZyNEFvRUpLOVF3RlNMOTl3?oc=5",
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/trafigura-realiza-sua-primeira-operacao-no-mercado-de-energia-eletrica-no-brasil",
      "type": "aberta",
      "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcE1jUTlURExfSkJacDNXam9kOUFtZ0JkRWNDWHR1U1ZXMFJGZnVmNEY3YTJaTEswVlNaZjdmMWpBT0MyQnR3UXJITUdDdnp3UmF2WElzQlluSWxiWTRGZlNzMlRVZjU0a3NFUENWWTE2ZVdVakRnQmtRZTBieDVzUGtfWEQ3REVQbVBWYnpWVEpOQWxrZGZiWDVQcFNYN0pEVFFKQUZIZnhoU3JCaVRETHRtVHJwY2MwTU1jRzhMX1locHEtQU54S0NBWlczSWhPN1hfb2JuYkwyNmVTVWw2bXdTcnAtSldYSFNMeFpYQ3FCcTRiOEZyNEFvRUpLOVF3RlNMOTl3?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-10T07:00:00+00:00",
-     "link_real": null
+     "published": "2026-07-25T16:00:42+00:00",
+     "link_real": "https://petronoticias.com.br/trafigura-realiza-sua-primeira-operacao-no-mercado-de-energia-eletrica-no-brasil/"
     }
    ],
    "has_paid": false,
@@ -4845,6 +4860,352 @@
      "paid": false,
      "published": "2026-07-15T20:45:34+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f255455ccc4d3bb1",
+   "title": "Estudantes mineiros recolhem tubos de PVC em obras, metal descartado e peças de uma moto desmontada, constroem praticamente do zero um carro experimental e colocam o protótipo para rodar em competição de eficiência energética, mostrando como resíduos comuns podem virar uma estrutura leve, funcional e preparada para enfrentar testes técnicos",
+   "summary": "- Produzindo mais de 930 milhões de pares e ficando estável, a indústria de calçados do Brasil manteve o patamar de 2025, exportando cerca de 99 milhões de pares e destinando a maior parte da produção ao mercado interno - Baterias de vapes descartados movem carro elétrico por 29 quilômetros após britânico reunir mais de 500 células, montar pacote de 50 volts impresso em 3D e recarregá-lo por USB-C, experimento que atingiu cerca de 56 km/h e expôs quanta energia ainda vai para o lixo eletrônico - Estudantes mineiros transformam tampinhas recolhidas na universidade em plástico triturado e moldado para fabricar o assoalho de um carro experimental, levam o protótipo às pistas e testam na prática se uma solução reciclável, leve e resistente consegue percorrer mais distância usando menos energia em competição universitária real de eficiência - Enquanto os veículos circulam e desgastam os pneus no asfalto, a poeira dos pneus pode ser transportada pelo vento até áreas residenciais e acumular substâncias químicas em varandas, inclusive em imóveis afastados da origem exata das partículas Tubos de PVC empregados como suportes estruturais vieram de obras, enquanto partes metálicas foram retiradas de pontos de descarte. Estudantes mineiros da Universidade Federal de Juiz de Fora reaproveitaram tubos de PVC retirados de obras, sobras de fibra de vidro, pedaços de metal e até um retrovisor de motocicleta desmontada para construir um veículo leve, funcional e preparado para as avaliações técnicas da Shell Eco-marathon Brasil 2025. O projeto foi apresentado pela Shell em conteúdo institucional sobre a Shell Eco-marathon Brasil 2025.",
+   "detalhes": {
+    "profundidade": [
+     "56 km"
+    ],
+    "datas": [
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Shell"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-25T16:43:05+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/estudantes-mineiros-recolhem-tubos-de-pvc-em-obras-metal-descartado-e-pecas-de-uma-moto-desmontada-constroem-praticamente-do-zero-um-carro-experimental-e-colocam-o-prototipo-ctl01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T16:43:05+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/estudantes-mineiros-recolhem-tubos-de-pvc-em-obras-metal-descartado-e-pecas-de-uma-moto-desmontada-constroem-praticamente-do-zero-um-carro-experimental-e-colocam-o-prototipo-ctl01"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "d970ec2d5e1fd4ce",
+   "title": "Tarifa de 12,5% criada pelos Estados Unidos para combater trabalho forçado pode aumentar pobreza e fortalecer justamente a exploração que Washington afirma querer impedir",
+   "summary": "- Ele começou vendendo batata de bar em bar às cinco da manhã e hoje dirige uma companhia que faturou R$ 24 milhões no ano passado, num caminho que agora inclui a compra de uma plataforma de WhatsApp para tentar somar mais R$ 8 milhões à receita - Antes de escolher entre indenização, aposentadoria antecipada ou mudar de cidade, os 230 funcionários da fábrica de vidro da Volkswagen em Dresden assinaram a caneta o último carro que montaram, no primeiro fechamento de fábrica da marca em solo alemão - Não é problema apenas do Brasil: furto de cabos derruba carregadores elétricos, provoca prejuízo milionário na Alemanha e leva agência dos Estados Unidos a emitir alerta nacional sobre os riscos à infraestrutura - O que realmente está por trás da decisão da Nestlé de criar uma nova empresa para o negócio de águas? Tarifa de 12,5% criada pelos Estados Unidos para combater trabalho forçado pode aumentar pobreza e fortalecer justamente a exploração que Washington afirma querer impedir. A tarifa adicional de 12,5% foi aplicada sob a justificativa de impedir a circulação de produtos relacionados à exploração de trabalhadores nas cadeias globais.",
+   "detalhes": {
+    "valores": [
+     "R$ 24 milhões",
+     "R$ 8 milhões",
+     "R$ 48 bilhões",
+     "US$ 169,6 bilhões"
+    ],
+    "percentual": [
+     "12,5%"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T05:47:31+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/tarifa-de-125-criada-pelos-estados-unidos-para-combater-trabalho-forcado-pode-aumentar-pobreza-e-fortalecer-justamente-a-exploracao-que-washington-afirma-querer-impedir-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T05:47:31+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/tarifa-de-125-criada-pelos-estados-unidos-para-combater-trabalho-forcado-pode-aumentar-pobreza-e-fortalecer-justamente-a-exploracao-que-washington-afirma-querer-impedir-vacs75/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "257f5e6119541315",
+   "title": "Lagarta que devasta plantações de soja, milho e algodão esconde quatro fungos capazes de degradar isopor dentro do próprio intestino",
+   "summary": "- Dois estudantes de 13 anos da rede pública de Santa Catarina foram selecionados entre 38 candidatos para um intercâmbio da NASA nos Estados Unidos, e um deles resumiu a própria trajetória numa frase, ‘alguém pode tirar tudo de você, menos o que você sabe’ - Sem dinheiro para um esportivo, um agricultor recortou sucata metálica e transformou um Volkswagen velho numa réplica funcional de Lamborghini que a polícia não deixou emplacar, e que ele hoje usa para carregar adubo na roça - China começou um estádio em forma de flor de lótus para 100 mil torcedores, gastaria mais de R$ 10 bilhões, mas a obra nunca foi inaugurada e acabou reduzida após o colapso da Evergrande - China usa 42 mil toneladas de aço em arena de R$ 2,2 bilhões e faz algo único no mundo: estrutura gigante trançada que sustenta teto sem pilares sobre o campo e deixa a visão livre para mais de 90 mil pessoas A descoberta foi apresentada em um artigo publicado em 2026 na revista científica BMC Microbiology. O segundo grupo foi alimentado com uma dieta mista, composta por alimento convencional e até 50% de poliestireno. Lagarta que devasta plantações de soja, milho e algodão esconde quatro fungos capazes de degradar isopor dentro do próprio intestino.",
+   "detalhes": {
+    "valores": [
+     "R$ 10 bilhões",
+     "R$ 2,2 bilhões"
+    ],
+    "percentual": [
+     "50%"
+    ],
+    "datas": [
+     "2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T05:27:01+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/lagarta-que-devasta-plantacoes-de-soja-milho-e-algodao-esconde-quatro-fungos-capazes-de-degradar-isopor-dentro-do-proprio-intestino-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T05:27:01+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/lagarta-que-devasta-plantacoes-de-soja-milho-e-algodao-esconde-quatro-fungos-capazes-de-degradar-isopor-dentro-do-proprio-intestino-vacs75/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "170a9815a97eaea4",
+   "title": "Jetour T2 4×4 chega por R$ 349.900 com quatro motores, 106 km elétricos e desafia Tank 300 e Haval H9 em uma disputa de gigantes",
+   "summary": "- Carros elétricos podem pagar mais de 60% a mais em taxas rodoviárias que veículos a gasolina - Ele custa cerca de R$ 54 mil, possui motor Fire 1.0 flex, consumo de até 15 km/l, mecânica simples e manutenção acessível; saiba se vale a pena comprar um Fiat Mobi Like 2023 usado - Incomodados com o volume de lixo que termina nos oceanos e aterros, estudantes holandeses criaram um carro elétrico de 420 quilos com plástico oceânico, televisores descartados, coco e crina de cavalo, capaz de rodar cerca de 220 quilômetros - Italiano constrói a moto pilotável mais alta do mundo: veículo colossal esbanja 5,10 metros de altura, 10,03 metros de comprimento, motor V8 5.7 de 280 hp e 5 toneladas, pilota o monstro por 100 metros e transforma modificação absurda em recorde mundial reconhecido pelo Guinness Seus principais rivais são o GWM Tank 300, vendido por R$ 342 mil, e o Haval H9, tabelado em R$ 335 mil. Jetour T2 4×4 chega por R$ 349.900 com quatro motores, 106 km elétricos e desafia Tank 300 e Haval H9 em uma disputa de gigantes. A Jetour lançou, em 24 de julho de 2026, o T2 4×4 por R$ 349.900, ampliando sua presença no mercado brasileiro.",
+   "detalhes": {
+    "valores": [
+     "R$ 349.900",
+     "R$ 349.900,",
+     "R$ 54 mi",
+     "R$ 342 mi",
+     "R$ 335 mi"
+    ],
+    "percentual": [
+     "60%"
+    ],
+    "profundidade": [
+     "106 km",
+     "15 km",
+     "5,10 metros",
+     "10,03 metros",
+     "100 metros",
+     "74 km"
+    ],
+    "datas": [
+     "julho de 2026",
+     "2023",
+     "janeiro",
+     "junho de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T03:31:33+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/jetour-t2-4x4-chega-por-r-349-900-com-quatro-motores-106-km-eletricos-e-desafia-tank-300-e-haval-h9-em-uma-disputa-de-gigantes-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T03:31:33+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/jetour-t2-4x4-chega-por-r-349-900-com-quatro-motores-106-km-eletricos-e-desafia-tank-300-e-haval-h9-em-uma-disputa-de-gigantes-vacs75/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "8cceaa3a646f9c1e",
+   "title": "Vidro descartado que iria para aterros, aumentaria risco de acidentes na coleta e ficaria fora da reciclagem por falta de logística é moído e usado como substituto parcial da areia em concreto, pavers e misturas asfálticas, enquanto o Brasil consumiu 877 mil toneladas de embalagens de vidro em 2024 e só 221 mil toneladas retornaram para a indústria",
+   "summary": "- Obra mais eficiente depende de um detalhe essencial: as proporções corretas entre cimento, cal e areia variam conforme a aplicação e fazem diferença direta na resistência, na economia de insumos e na qualidade do acabamento - Maior escritório flutuante do mundo ocupa 3.600 metros quadrados em um antigo porto, tem piscina, restaurante, madeira desmontável e pode ser rebocado para outro lugar - Casca de arroz que viraria resíduo agrícola, poeira industrial e problema de descarte é queimada em caldeiras, transformada em cinza rica em sílica e usada como insumo para substituir parte do cimento em concretos, e só a safra brasileira de 10,59 milhões de toneladas em 2023/24 poderia gerar cerca de 529 mil toneladas de cinza - Com concreto, madeira e cálculos de engenharia, universitários constroem canoas de até 6,7 metros, levam quatro pessoas e provam na água que até um material pesado pode flutuar Vidro descartado ainda é um gargalo da reciclagem urbana O vidro tem uma vantagem importante: pode ser reaproveitado como caco na fabricação de novas embalagens. Vidro descartado que iria para aterros, aumentaria risco de acidentes na coleta e ficaria fora da reciclagem por falta de logística é moído e usado como substituto parcial da areia em concreto, pavers e misturas asfálticas, enquanto o Brasil consumiu 877 mil toneladas de embalagens de vidro em 2024 e só 221 mil toneladas retornaram para a indústria. O tamanho do problema aparece nos números de 2024.",
+   "detalhes": {
+    "percentual": [
+     "25%"
+    ],
+    "profundidade": [
+     "3.600 metros",
+     "6,7 metros"
+    ],
+    "datas": [
+     "2024",
+     "2023"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T03:24:33+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/vidro-descartado-que-iria-para-aterros-aumentaria-risco-de-acidentes-na-coleta-e-ficaria-fora-da-reciclagem-por-falta-de-logistica-e-moido-e-usado-como-substituto-parcial-da-areia-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T03:24:33+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/vidro-descartado-que-iria-para-aterros-aumentaria-risco-de-acidentes-na-coleta-e-ficaria-fora-da-reciclagem-por-falta-de-logistica-e-moido-e-usado-como-substituto-parcial-da-areia-vml97/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "99ede96060f8249a",
+   "title": "Não é problema apenas do Brasil: furto de cabos derruba carregadores elétricos, provoca prejuízo milionário na Alemanha e leva agência dos Estados Unidos a emitir alerta nacional sobre os riscos à infraestrutura",
+   "summary": "- Ele começou vendendo batata de bar em bar às cinco da manhã e hoje dirige uma companhia que faturou R$ 24 milhões no ano passado, num caminho que agora inclui a compra de uma plataforma de WhatsApp para tentar somar mais R$ 8 milhões à receita - Antes de escolher entre indenização, aposentadoria antecipada ou mudar de cidade, os 230 funcionários da fábrica de vidro da Volkswagen em Dresden assinaram a caneta o último carro que montaram, no primeiro fechamento de fábrica da marca em solo alemão - Tarifa de 12,5% criada pelos Estados Unidos para combater trabalho forçado pode aumentar pobreza e fortalecer justamente a exploração que Washington afirma querer impedir - O que realmente está por trás da decisão da Nestlé de criar uma nova empresa para o negócio de águas? Em dezembro de 2025, o total da EnBW havia passado para mais de 1.200 cabos em mais de 170 locais, segundo informações apresentadas pela ZDF. Com cerca de 1.400 cabos levados apenas de uma operadora alemã, criminosos transformam cobre avaliado em poucos euros em reparos de até €8 mil e deixam carregadores elétricos indisponíveis por até duas semanas.",
+   "detalhes": {
+    "valores": [
+     "€8 mi",
+     "R$ 24 milhões",
+     "R$ 8 milhões",
+     "US$ 2.500."
+    ],
+    "percentual": [
+     "12,5%"
+    ],
+    "datas": [
+     "maio de 2026",
+     "março de 2023",
+     "janeiro de 2024",
+     "2025",
+     "outubro",
+     "outubro de 2025"
+    ]
+   },
+   "category": "Resultados Trimestrais",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T02:57:23+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/alemanha-eua-alerta-infraestrutura-furto-cabos-carregadores-eletricos-flpc96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T02:57:23+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/alemanha-eua-alerta-infraestrutura-furto-cabos-carregadores-eletricos-flpc96/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "c466ff28376a58c7",
+   "title": "Casca de arroz que viraria resíduo agrícola, poeira industrial e problema de descarte é queimada em caldeiras, transformada em cinza rica em sílica e usada como insumo para substituir parte do cimento em concretos, e só a safra brasileira de 10,59 milhões de toneladas em 2023/24 poderia gerar cerca de 529 mil toneladas de cinza",
+   "summary": "Segundo a Conab, a produção nacional de arroz na safra 2023/24 foi estimada em 10,59 milhões de toneladas, crescimento de 5,5% em relação à temporada anterior. - Obra mais eficiente depende de um detalhe essencial: as proporções corretas entre cimento, cal e areia variam conforme a aplicação e fazem diferença direta na resistência, na economia de insumos e na qualidade do acabamento - Vidro descartado que iria para aterros, aumentaria risco de acidentes na coleta e ficaria fora da reciclagem por falta de logística é moído e usado como substituto parcial da areia em concreto, pavers e misturas asfálticas, enquanto o Brasil consumiu 877 mil toneladas de embalagens de vidro em 2024 e só 221 mil toneladas retornaram para a indústria - Maior escritório flutuante do mundo ocupa 3.600 metros quadrados em um antigo porto, tem piscina, restaurante, madeira desmontável e pode ser rebocado para outro lugar - Com concreto, madeira e cálculos de engenharia, universitários constroem canoas de até 6,7 metros, levam quatro pessoas e provam na água que até um material pesado pode flutuar De sobra agrícola a insumo para concreto A casca de arroz é um subproduto inevitável do beneficiamento do grão. Casca de arroz que viraria resíduo agrícola, poeira industrial e problema de descarte é queimada em caldeiras, transformada em cinza rica em sílica e usada como insumo para substituir parte do cimento em concretos, e só a safra brasileira de 10,59 milhões de toneladas em 2023/24 poderia gerar cerca de 529 mil toneladas de cinza.",
+   "detalhes": {
+    "percentual": [
+     "5,5%",
+     "85%",
+     "95%",
+     "20%",
+     "5%"
+    ],
+    "profundidade": [
+     "3.600 metros",
+     "6,7 metros"
+    ],
+    "datas": [
+     "2023",
+     "2024"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-25T00:42:25+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/casca-de-arroz-que-viraria-residuo-agricola-poeira-industrial-e-problema-de-descarte-e-queimada-em-caldeiras-transformada-em-cinza-rica-em-silica-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-25T00:42:25+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/casca-de-arroz-que-viraria-residuo-agricola-poeira-industrial-e-problema-de-descarte-e-queimada-em-caldeiras-transformada-em-cinza-rica-em-silica-vml97/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "b495521d8a81fe57",
+   "title": "O SALDO DA BALANÇA COMERCIAL MARÍTIMA DO BRASIL CRESCE QUASE 20% E ALCANÇA US$ 56,3 BILHÕES",
+   "summary": "O SALDO DA BALANÇA COMERCIAL MARÍTIMA DO BRASIL CRESCE QUASE 20% E ALCANÇA US$ 56,3 BILHÕES O saldo da balança comercial marítima brasileira cresceu 19,68% no primeiro semestre de 2026, alcançando US$ 56,3 bilhões. Os dados do Comex Stat, do governo federal, mostram que as exportações por via marítima somaram US$ 160,7 bilhões entre janeiro e junho deste ano, alta de 11,01% em relação ao mesmo período de 2025. Já as importações alcançaram US$ 104,4 bilhões, crescimento de 6,83%.",
+   "detalhes": {
+    "valores": [
+     "US$ 56,3 BILHÕES",
+     "US$ 160,7 bilhões",
+     "US$ 104,4 bilhões",
+     "US$ 265,1 bilhões"
+    ],
+    "percentual": [
+     "20%",
+     "19,68%",
+     "11,01%",
+     "6,83%",
+     "9,33%",
+     "4,35%"
+    ],
+    "datas": [
+     "2026",
+     "janeiro",
+     "junho",
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-24T20:00:10+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/o-saldo-da-balanca-comercial-maritima-do-brasil-cresce-quase-20-e-alcanca-us-563-bilhoes",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-24T20:00:10+00:00",
+     "link_real": "https://petronoticias.com.br/o-saldo-da-balanca-comercial-maritima-do-brasil-cresce-quase-20-e-alcanca-us-563-bilhoes/"
     }
    ],
    "has_paid": false,
