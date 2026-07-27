@@ -1,36 +1,41 @@
 {
  "meta": {
-  "gerado_em": "2026-07-26T17:42:26.557548+00:00",
-  "total_grupos": 119,
-  "total_noticias": 363,
+  "gerado_em": "2026-07-27T19:02:25.834557+00:00",
+  "total_grupos": 131,
+  "total_noticias": 370,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 119,
+  "total_grupos": 131,
   "por_categoria": {
-   "Operadoras e IOCs": 81,
+   "Operadoras e IOCs": 90,
    "Prospectos e Investimentos": 8,
+   "Novas Tecnologias": 8,
    "Bids e Licitações": 7,
-   "Novas Tecnologias": 7,
+   "SURF": 4,
    "Contratos e Concorrentes": 4,
-   "SURF": 3,
+   "Descobertas": 3,
    "Perfuração e Poços": 2,
    "Opinião e Regulatório": 2,
    "Resultados Trimestrais": 2,
-   "Campanhas e Blocos": 1,
-   "Descobertas": 1,
-   "Descomissionamento": 1
+   "Campanhas e Blocos": 1
   },
   "com_fonte_paga": 1,
-  "alta_relevancia": 10
+  "alta_relevancia": 11
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
-    "atual": 11,
+    "atual": 14,
     "anterior": 0,
-    "delta": 11
+    "delta": 14
+   },
+   {
+    "topico": "Lula",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
    },
    {
     "topico": "Bacia de Santos",
@@ -51,13 +56,7 @@
     "delta": 2
    },
    {
-    "topico": "SLB",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
-   },
-   {
-    "topico": "Bacia de Campos",
+    "topico": "Búzios",
     "atual": 1,
     "anterior": 0,
     "delta": 1
@@ -67,11 +66,10 @@
  },
  "mercado": {
   "brent": {
-   "atual": 96.78,
+   "atual": 88.12,
    "moeda": "US$",
-   "variacao_pct": -3.88,
+   "variacao_pct": -8.95,
    "serie": [
-    71.99,
     73.15,
     72.92,
     71.57,
@@ -90,16 +88,16 @@
     91.01,
     94.07,
     100.69,
-    96.78
+    96.78,
+    88.12
    ],
    "fonte": "Yahoo"
   },
   "usd": {
-   "atual": 5.0827,
+   "atual": 5.0825,
    "moeda": "R$",
-   "variacao_pct": 0.22,
+   "variacao_pct": -0.0,
    "serie": [
-    5.0498,
     5.0603,
     5.084,
     5.1469,
@@ -128,16 +126,16 @@
     5.0794,
     5.0797,
     5.0715,
-    5.0827
+    5.0827,
+    5.0825
    ],
    "fonte": "Frankfurter"
   },
   "eur": {
-   "atual": 5.7826,
+   "atual": 5.7885,
    "moeda": "R$",
-   "variacao_pct": 0.09,
+   "variacao_pct": 0.1,
    "serie": [
-    5.8613,
     5.8669,
     5.8929,
     5.8989,
@@ -166,15 +164,16 @@
     5.7997,
     5.7949,
     5.7775,
-    5.7826
+    5.7826,
+    5.7885
    ],
    "fonte": "Frankfurter"
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n119 assuntos no radar, 10 de alta relevância. Tópicos em alta: Petrobras, Bacia de Santos, Shell, DOF, SLB, Bacia de Campos. Em baixa: —.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (1 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (1 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n131 assuntos no radar, 11 de alta relevância. Tópicos em alta: Petrobras, Lula, Bacia de Santos, Shell, DOF, Búzios. Em baixa: —.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (4 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (3 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-07-26T17:42:26.806156+00:00"
+  "gerado_em": "2026-07-27T19:02:26.088236+00:00"
  },
  "companhias": [
   {
@@ -215,7 +214,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.308986+00:00",
    "com_release": false,
-   "n_noticias": 8
+   "n_noticias": 9
   },
   {
    "id": "chevron",
@@ -417,55 +416,55 @@
  },
  "series": {
   "semanas": [
-   "07/06",
-   "14/06",
-   "21/06",
-   "28/06",
-   "05/07",
-   "12/07",
-   "19/07",
-   "26/07"
+   "08/06",
+   "15/06",
+   "22/06",
+   "29/06",
+   "06/07",
+   "13/07",
+   "20/07",
+   "27/07"
   ],
   "total": [
    0,
-   14,
-   41,
-   67,
-   52,
-   41,
+   8,
+   35,
+   81,
    48,
-   100
+   35,
+   48,
+   115
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
     6,
-    33,
-    53,
-    44,
-    28,
+    29,
+    64,
+    36,
+    29,
     42,
-    65
+    74
    ],
    "Bids e Licitações": [
     0,
     0,
     0,
-    7,
-    3,
+    10,
     2,
+    0,
     0,
     8
    ],
    "Perfuração e Poços": [
     0,
-    4,
-    8,
+    2,
+    6,
     2,
     0,
     0,
     0,
-    4
+    5
    ],
    "Prospectos e Investimentos": [
     0,
@@ -485,17 +484,17 @@
     1,
     2,
     0,
-    6
+    7
    ],
-   "Opinião e Regulatório": [
-    0,
-    0,
+   "SURF": [
     0,
     0,
     0,
     4,
     2,
-    2
+    0,
+    0,
+    3
    ]
   }
  },
@@ -1032,9 +1031,9 @@
    "aviso_paga": ""
   },
   {
-   "id": "36a5b38f9a84f7fa",
+   "id": "45367db5ac377921",
    "title": "“Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista",
-   "summary": "Petrobras conclui perfuração de poço exploratório na Margem Equatorial. “Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista.",
+   "summary": "Petrobras conclui primeira perfuração de poço exploratório na Margem Equatorial – Edição do dia. Petrobras conclui perfuração de poço exploratório na Margem Equatorial. “Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista.",
    "detalhes": {},
    "category": "Perfuração e Poços",
    "relevance": 76,
@@ -1047,9 +1046,25 @@
     ],
     "servicos": []
    },
-   "published": "2026-07-22T14:15:42+00:00",
-   "n_sources": 2,
+   "published": "2026-07-27T11:38:33+00:00",
+   "n_sources": 4,
    "sources": [
+    {
+     "name": "MegaWhat",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0ZkbkVoT2NVRjZXN0JYeklLLVNvZjRFdF8zUDNTN3B3Y0JDZVBPZk14bWVHUVY5anZIZ0N1dktJM1VPSG40YTFkV0I3Z20zV3ktTjQ3STZTamxnb1ExWjdVVnpCU0paWjZkSkRlc0tpYUMtVnpaX18zVF91ckIyUllRSk5KZG5OZXB0Q2VtSENiVVc1QkZORDNvUl9OVFRUdXZrblpKb3diLXczZldpbUNkeWJEaWZVOHJPMmlINE1NdE5laEtxS0ZNUVJaR0p2?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T11:38:33+00:00",
+     "link_real": null
+    },
+    {
+     "name": "O GLOBO",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMXh0YnhZSUxWNEsxOHFJVEJ1ZkI4UVJQQjdneHRWMVZNMFFGdkNlYjJ6RnFFWVZiN0s5STgza1I0bmNQMjMzSXpObWdZNUdOelE4Y0tXTERRYnJnT0Q4ZkVsQUREX3lLcjhoQjVwdGJqTW1HWnRubWs1QXNBQ2pSTXhQLUZXNGlnYWpmdUl2NXhzeTNOY1J0dVRZb0M4UjUyLTlvVmFFOENnX2hEZjNGUlA4TWFjLWZSU0NESW9qRjdneVM2STZ5M3h4WVlNNWNiOXptNjUyajRuN1VG0gHrAUFVX3lxTE56dFJrQ3hBTFVaU25CbjA4TnVkV2JfMGZVODQ1S2Znekk5a3dZUm5nbXQ1akNFV0JLcGRoMGJQVndmWFBVSHNDZG0tclZKWUtxSVZJa2l3amZuVnIyZHU3ME1TVFFDelpTV3AxalhoanNFcFFLQlNOeEFGY1FwZUR0MHhuM0d4empVUWJOXy1mXzVHOWtJemc2UjIzTlpWeFM4ZmNXMjNSNFhmenJxWHFnSjBzcnFtT0tYbWVHY2o2ZkhwREZfMURONEdYdXhzQ21ISHFIaHk1NC1fbld0VU5xVzBmem1oS3BfNW8?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T07:00:21+00:00",
+     "link_real": null
+    },
     {
      "name": "Boca do Povo News",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQlkwRzQtclcwbDBnZ1hjYVBrSlZndnJyTTZPU3UzU0dKNG1MaktHTzFkY0ZXeTJ6UXY4N0ZaTXBoMFZheE4wcUlqZDBoUFpQWXd3ci1RQUVUU3ZGTW1fUUZGUjk0dFBFQkJTVlJXMTc4NGc0cDNuQkhnX1NORkVsVkZyRHpJOGdhcEtnZTZsYW9yRktWeWpHa1d0Y2U4c3lsM3ow?oc=5",
@@ -1090,7 +1105,7 @@
   {
    "id": "3cc2061dd05ef747",
    "title": "A Petrobras deve concluir em agosto de 2026 a perfuração do poço Morpho, na Foz do Amazonas, o primeiro furo da Margem Equatorial, fronteira de petróleo que a ANP estima em mais de 30 bilhões de barris e pode redesenhar o mapa do Brasil",
-   "summary": "A Petrobras deve concluir em agosto de 2026 a perfuração do poço Morpho, na Foz do Amazonas, o primeiro furo da Margem Equatorial, fronteira de petróleo que a ANP estima em mais de 30 bilhões de barris e pode redesenhar o mapa do Brasil. Petrobras terminará perfuração de poço na Margem Equatorial em agosto. Petrobras deve concluir perfuração de poço na Margem Equatorial em agosto.",
+   "summary": "A Petrobras deve concluir em agosto de 2026 a perfuração do poço Morpho, na Foz do Amazonas, o primeiro furo da Margem Equatorial, fronteira de petróleo que a ANP estima em mais de 30 bilhões de barris e pode redesenhar o mapa do Brasil. Petrobras terminará perfuração de poço na Margem Equatorial em agosto. Petrobras começa a perfurar a Foz do Amazonas, o poço mais polêmico do país, na Margem Equatorial.",
    "detalhes": {
     "datas": [
      "agosto de 2026",
@@ -1110,7 +1125,7 @@
     "servicos": []
    },
    "published": "2026-07-11T07:00:00+00:00",
-   "n_sources": 12,
+   "n_sources": 11,
    "sources": [
     {
      "name": "Poder360",
@@ -1303,38 +1318,6 @@
      "paid": false,
      "published": "2026-06-15T07:00:00+00:00",
      "link_real": null
-    },
-    {
-     "name": "Poder360",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0tBeV90ZEFSdGR4Y09mYjFKQVE0TkNkUEt4VGFGd3RISlNOeDE2NGppQ2xWSkJPZHY1bUFwU0tMaWwtUmZRbm5kSU9aWF9aamJudXpSclNVZUZ4aExLLWxDZ1Q3VHlldnhSREpTWkMyNHNwdmJEUFdfQkd2c2M3LTBDS1FYbWZFdGpSOFRvTkZkSVkzb2F3cjRpYTFlcWR5WjhSX0NEVi14WUMyYUVYM2lQd2NYTzA?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFlURHh3aDF5Vkl4YnQwNEN5V1NmMlFmNXhieVVyR0NnYUpuV1JZNjN0SldJMnJjM2RaUVQtUmcwUFdLcHUtM1V3M2lRZnZUQjBBb2FZMzJnU2tfV0hQUDZ1NERkMUh2TmtkaS15SDhGYjItbVpzckZnQnRfUDdLdUZiYk1zZ3Y0bGtuVFQzTVJHTzY3ak50cVJyUV9pYi0xMVRXR2JmQ3dYVFo1T0RsS09jM1dVQQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Poder360",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0tBeV90ZEFSdGR4Y09mYjFKQVE0TkNkUEt4VGFGd3RISlNOeDE2NGppQ2xWSkJPZHY1bUFwU0tMaWwtUmZRbm5kSU9aWF9aamJudXpSclNVZUZ4aExLLWxDZ1Q3VHlldnhSREpTWkMyNHNwdmJEUFdfQkd2c2M3LTBDS1FYbWZFdGpSOFRvTkZkSVkzb2F3cjRpYTFlcWR5WjhSX0NEVi14WUMyYUVYM2lQd2NYTzA?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFlURHh3aDF5Vkl4YnQwNEN5V1NmMlFmNXhieVVyR0NnYUpuV1JZNjN0SldJMnJjM2RaUVQtUmcwUFdLcHUtM1V3M2lRZnZUQjBBb2FZMzJnU2tfV0hQUDZ1NERkMUh2TmtkaS15SDhGYjItbVpzckZnQnRfUDdLdUZiYk1zZ3Y0bGtuVFQzTVJHTzY3ak50cVJyUV9pYi0xMVRXR2JmQ3dYVFo1T0RsS09jM1dVQQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
     }
    ],
    "has_paid": false,
@@ -1374,6 +1357,313 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-10T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "65d719884e8a4619",
+   "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção e supera 1,2 milhão de barris por dia",
+   "summary": "Produção de Petróleo do Brasil Sobe 16,9% em Maio para 4,3 Mi Barris/dia, Diz ANP. Petrobras (PETR4): Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd. Campo de Búzios bate novo recorde e supera a marca de 1 milhão e 200 mil barris/dia.",
+   "detalhes": {
+    "producao": [
+     "200 mil barris",
+     "100 mil bpd"
+    ],
+    "percentual": [
+     "16,9%"
+    ],
+    "datas": [
+     "Maio"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 62,
+   "entities": {
+    "campos_blocos": [
+     "Búzios"
+    ],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-01T07:00:00+00:00",
+   "n_sources": 16,
+   "sources": [
+    {
+     "name": "Forbes Brasil",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWY1Z3lzb2FjaS1kSGJ3Q1NuRWJ2X2dnaW5aNlB5dDhXNVI1RndHamRyQkdpUnZhTXBWcVdWSW5yejZISmQxbDliSEVyekhTZklrdVpudVh1RUZvWEI2X29ndWVBMEVoUUhOaVRyM1BpajdJYmVLYTVZN2tOMmxFMldRbmVVb2o0SUpjSXB5QlJ5Y18wcklLWmFYV0R6M1hCVmZnSFFQVnY5YXR2R2tUV1pIbU0xVFd1Z1RSdjdn?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-01T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Forbes Brasil",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWY1Z3lzb2FjaS1kSGJ3Q1NuRWJ2X2dnaW5aNlB5dDhXNVI1RndHamRyQkdpUnZhTXBWcVdWSW5yejZISmQxbDliSEVyekhTZklrdVpudVh1RUZvWEI2X29ndWVBMEVoUUhOaVRyM1BpajdJYmVLYTVZN2tOMmxFMldRbmVVb2o0SUpjSXB5QlJ5Y18wcklLWmFYV0R6M1hCVmZnSFFQVnY5YXR2R2tUV1pIbU0xVFd1Z1RSdjdn?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-01T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1qU3lOSncwYUxTLUI5dk1WZFFnaFJpWkswVzJxb3NmX2RZQndMOUVFTVNGWERMdFUyY0FoNHI5MlRYbWl4b1ZQbmZGNEc5NmVUT1ZtbE1SVHUtUmZkRFAxQWFqc0NJYThsNzRtclU3TFphVFRPQlF0QnV3d04yNzB3ZXJJRHVDcFhQeDNSY0NuWGdWOG95X0paZExQMUpUUGZYZm93?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-01T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMklTUTR2ZGhjSG53ZmZFRmN0NkR6MzQ3STBHNTRleVd1MXRPYU5pUE5EYXdZRk1tWE55NXJ1QnJHT05jVTBPbW1MQmZmRG1LUWQyeTlEN0Z5eW5tVVo2aXpTVnhMU0p1VC1RbTNMbm5BM0tXNFlqTFZwU2xDVU5PZlhISmk4akZoTkc0b3pidUlwRVFiU1l4eWM2bGZ0NGVGaWV1ekpFakNDdDhr?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-01T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "TAGD Advogados",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWhSTVpuT3lWRDVxUHpad2ViMDdWcDViaWtDaHhiRGNuRjNqeldtWE1WRmd0VUkycUJHQUk2Yk9nOE43YzMwWlMzZmhYdDdJZWVNZVUwUFBUOEhqaGs4ckxQZ196VjZBOHo3SWd6VnhrQmtzV3VaVHpuVXdiZkttVGFoY1pXUEs1WFdpb2ZaWEFOdw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-30T20:27:19+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Balada IN",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FBRS1iMHRXalNlX2ZjRDgwTm9mTER0YzNFTUE0blNsZmJLRUFtWmlrNUtZblU5cFVMLXRua21sc0lIdjdUcmE1eVB1MnZFYndfSkgyTGhQUVJOclI4c0Zjd2EzLVZfMmxQZGRqY1prekhOSGt1MGF3RmFvdEs2OUtSX0g1RTdSOUpJanJFTExkamt6QWN2SC13TGZyOU90MjM3OXFoTlNkM2NuNFFpMFFGLUNWOUhxbVFycTNB?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T15:15:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Balada IN",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FBRS1iMHRXalNlX2ZjRDgwTm9mTER0YzNFTUE0blNsZmJLRUFtWmlrNUtZblU5cFVMLXRua21sc0lIdjdUcmE1eVB1MnZFYndfSkgyTGhQUVJOclI4c0Zjd2EzLVZfMmxQZGRqY1prekhOSGt1MGF3RmFvdEs2OUtSX0g1RTdSOUpJanJFTExkamt6QWN2SC13TGZyOU90MjM3OXFoTlNkM2NuNFFpMFFGLUNWOUhxbVFycTNB?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T15:15:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUlWOEo5OWxfZGdRdXpNeTROWU44NDQ1ZUIya2RFU0lHcmVsTloyVE41UEFuSVZnV25Palg5UzUzbTZKMVM5ODdsc0s3a2NPUDRvV1h6blRWYXRFRklSTE1qRF94Ymg3Z0dURGxJT09KdElpWTNmTTlobFBJR1FLSWpGcXZKaFFpYnZWcURaaTZhLW1aSjJMSThuVmk4eUs1RVA5QTZETmw4Z0lZYXd6VkNIZDZUMk41Qll3SUx2NzdCMFJUaTBvVy1LZU45YVhvcjNndkxVUdIB5gFBVV95cUxNbGhLN2loUzM2elJ2SWpTUkdVdEJjS2ZtNjdkNGZUNG5xZFFWS2x1WEZnQ3ExM2gtUjQ1RzNabWdPWDRUT1lHaUJjR05qOTF0bGRYOTFRLVoybXNuVGJVZHhyQ1FLZjdlY0czeVFrYjFZVzVkb3dQUTRxdk5wbFN0aWxiZVBiNTJBSXNIbTZjUlUzZWNSLVp2WjE4QjNYdU9IN1pmTDUzOE1iVDE1Y01yQTNNVEVoX3JKQWJDelZVMnFTSEZIenlGc2EtemVZRUh1X0J1RnQ0T01kOTJvNVRVc1g0bHNOZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVFSktKUS00NXFWZEZRTkliRzJPWEU1WEN5bVc0cGhrRUhoQ0VrYWwxZVpvMlZpVV9uUXp5NWVWLVdWRDk1ZS15ck5PT01WYTFua2N6cmtqTHNRZ2FDb0lZYUwyeFRoZ3NzQ0ZEclIzVFNhNHdtSGdnTzJZZDhNcDJzWEIwUmFSckpMUkx0cmlNS04tZkxuQlFUVFVCbHlXTnFWVncwam1DV3RKM1dldW8zem9GYW9Bci04T3FDYng?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKd9IBlAFBVV95cUxNZTZnRnJTNld6UUtPMDVwOVN2dklZSGVIa29Ca3pSV29Oc3hVTzJaOWNpS1kwZFZpeEx5eHk1T3hRb2psY3VhTUJSb1MycFhYOE9rTmpNYzAzSWxTTG5hZjQ3MHduUnN2SVJEa1I2YnBxNG9RZzQ1bURPc3R6dVYzTmlReUd1V0M0dGkxQk1VZmJMVkc5?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CNN Brasil",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1Y1Yjh4eTJKM2pKQ2lVUkZHRzI4Z19CT3FlLUNMS1l6OTh2UFhUUEJqUGFQUlB4LTltUVFOZFE4cHc3d3haaVFrVTlwVENCZFFNOVBMQmIwQTZ1aDZ3ZFRDRVQtd3lMa0daMXM4dENYSUdBM3E1YWxkNjlMdGZELVI2azZnTU04ZFF0WHpBR3AyQ0xJcG03ci03VzJzc0txd1cxWUpoV1RQc0tH?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUlWOEo5OWxfZGdRdXpNeTROWU44NDQ1ZUIya2RFU0lHcmVsTloyVE41UEFuSVZnV25Palg5UzUzbTZKMVM5ODdsc0s3a2NPUDRvV1h6blRWYXRFRklSTE1qRF94Ymg3Z0dURGxJT09KdElpWTNmTTlobFBJR1FLSWpGcXZKaFFpYnZWcURaaTZhLW1aSjJMSThuVmk4eUs1RVA5QTZETmw4Z0lZYXd6VkNIZDZUMk41Qll3SUx2NzdCMFJUaTBvVy1LZU45YVhvcjNndkxVUdIB5gFBVV95cUxNbGhLN2loUzM2elJ2SWpTUkdVdEJjS2ZtNjdkNGZUNG5xZFFWS2x1WEZnQ3ExM2gtUjQ1RzNabWdPWDRUT1lHaUJjR05qOTF0bGRYOTFRLVoybXNuVGJVZHhyQ1FLZjdlY0czeVFrYjFZVzVkb3dQUTRxdk5wbFN0aWxiZVBiNTJBSXNIbTZjUlUzZWNSLVp2WjE4QjNYdU9IN1pmTDUzOE1iVDE1Y01yQTNNVEVoX3JKQWJDelZVMnFTSEZIenlGc2EtemVZRUh1X0J1RnQ0T01kOTJvNVRVc1g0bHNOZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVFSktKUS00NXFWZEZRTkliRzJPWEU1WEN5bVc0cGhrRUhoQ0VrYWwxZVpvMlZpVV9uUXp5NWVWLVdWRDk1ZS15ck5PT01WYTFua2N6cmtqTHNRZ2FDb0lZYUwyeFRoZ3NzQ0ZEclIzVFNhNHdtSGdnTzJZZDhNcDJzWEIwUmFSckpMUkx0cmlNS04tZkxuQlFUVFVCbHlXTnFWVncwam1DV3RKM1dldW8zem9GYW9Bci04T3FDYng?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKd9IBlAFBVV95cUxNZTZnRnJTNld6UUtPMDVwOVN2dklZSGVIa29Ca3pSV29Oc3hVTzJaOWNpS1kwZFZpeEx5eHk1T3hRb2psY3VhTUJSb1MycFhYOE9rTmpNYzAzSWxTTG5hZjQ3MHduUnN2SVJEa1I2YnBxNG9RZzQ1bURPc3R6dVYzTmlReUd1V0M0dGkxQk1VZmJMVkc5?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CNN Brasil",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1Y1Yjh4eTJKM2pKQ2lVUkZHRzI4Z19CT3FlLUNMS1l6OTh2UFhUUEJqUGFQUlB4LTltUVFOZFE4cHc3d3haaVFrVTlwVENCZFFNOVBMQmIwQTZ1aDZ3ZFRDRVQtd3lMa0daMXM4dENYSUdBM3E1YWxkNjlMdGZELVI2azZnTU04ZFF0WHpBR3AyQ0xJcG03ci03VzJzc0txd1cxWUpoV1RQc0tH?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QmJkUUNISDdkUE1uMHJnRWhFM0RVTGNhZG4xcUFPMjk1b0x1X0ZBSFQtRTBRZVU0M2dzRzVMZHQxQjFJa1FZc0prVUFPVHA4XzBEZVMwdl9fdw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKdw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "ADVFN",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZG1GXzRnSUxFMHUxWWlJZGN2Uk5vUWlnTjZ5MTVSZEdWMWk4TDFwSHVxVW5KbW94ZFN0ZFkzX0s1SnIzZDZzYmIxM1BweWVGbk1kY0dUemtGTEQ4VWNxbXhCUk1PVnVPNWhZaVFjRGZlcFp4ZHA3V0M4RWZaODFfRi04R3dWaTB2dUxha1FKVHJyUWUwcmdUclI0TXZYMFFuZTRoSUhvdFAtVk9aVkZYTXF1ZUZTUEdDZ0tj?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Portal BE News",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFJCZDhUQ1EzcnpTOGF5MXFKaGNzOFRSY2xsVGdIQzBGMVIyMElsTU1FNEF0MXdOeVZPVi1JYjBOOGtJNDNyaF9nZnVSZXJ2ZmRWdDR0cF9jeDFJX2xkV0d0SUlyNGEwWUxyd0lrQlNZQk9pSV9QTnFzLWpITUE2bWJLcHJ3QWZkQlNqSFdyUFZ5bjlOM1BkbHlvc3hCRzA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk5JdExLSERhMEdRNDJPQjN2dXhicC1abDExNG5mcDUtTzlReGx1QUUxeEh0RWdtLVN0Y0VzcVhsaW5wZUx1UTlNQlVlM19wS3Q5Vm03aTVQeGxmSXc3Yi0wWHo1dGpuS3hTa3NFV1hzZ2pyZXZDUUdJbDJsRHJCYXVSRTcwR1lqR3pvc2tQNm5uZlNRSVIzVkFmSFQyT285cjE4RXF1eWN0Z0ZKaVlBN1Fjd1RhcFFuZ1h6NG5zd1BvYWhqUlZkRzUxSdIB0AFBVV95cUxPeWM3ODJmMURpTHB2cnR4WWNPWkJuZTlpenkxWkw2bEFob0Y3Nk1rNk5MZU5JamFCd01jdDRESkViVWljZkx3dmQ2NDM5bTExeEZmcC05OGpRaDdNSi1KRUtMS25OSGk0N3gxZ2I4S1BWTXZCOHBsMk5CbTQ4bUVkdmFKZk9WMDR5TS05RmtNZ1ZKVnNUeEVVTkdlZXBJQkp2MVpYeVhVRU43emdHaU0xSmc2cU9lWHJ2VGhvYWtabWRveUttaERFT3NCdVh2dEIw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Terra",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjhVWjFOcEFzbzA3ckFNMFBYcldPdWdyaTNrTGtoR0xicm83bWdCVjhRSTZOSkpBdXlvLU9pajdKNXRGYURfWEQ5Ym0ydEExeW5MMUZrbEU0YzNQLVJBWndfMUIwTW5YQXllU19faEw3STZTVS1vcFFEalIwbUoyeXFlOUtyR0l0a0hPcEVTR1VCUHZXQ2s5RTUtcTRldE11N1ZQazg5TE8tQ2xjVkM2RXZ3c2lzbEpyRnpQTDQ5Z19kR2ItUHF4RzRBanBUMS0zNmxNaTZlQ21EM0xVMEN3YjgwVEVSQndPaGFRTDlhZjlTMzBIQWc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Portal BE News",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFJCZDhUQ1EzcnpTOGF5MXFKaGNzOFRSY2xsVGdIQzBGMVIyMElsTU1FNEF0MXdOeVZPVi1JYjBOOGtJNDNyaF9nZnVSZXJ2ZmRWdDR0cF9jeDFJX2xkV0d0SUlyNGEwWUxyd0lrQlNZQk9pSV9QTnFzLWpITUE2bWJLcHJ3QWZkQlNqSFdyUFZ5bjlOM1BkbHlvc3hCRzA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk5JdExLSERhMEdRNDJPQjN2dXhicC1abDExNG5mcDUtTzlReGx1QUUxeEh0RWdtLVN0Y0VzcVhsaW5wZUx1UTlNQlVlM19wS3Q5Vm03aTVQeGxmSXc3Yi0wWHo1dGpuS3hTa3NFV1hzZ2pyZXZDUUdJbDJsRHJCYXVSRTcwR1lqR3pvc2tQNm5uZlNRSVIzVkFmSFQyT285cjE4RXF1eWN0Z0ZKaVlBN1Fjd1RhcFFuZ1h6NG5zd1BvYWhqUlZkRzUxSdIB0AFBVV95cUxPeWM3ODJmMURpTHB2cnR4WWNPWkJuZTlpenkxWkw2bEFob0Y3Nk1rNk5MZU5JamFCd01jdDRESkViVWljZkx3dmQ2NDM5bTExeEZmcC05OGpRaDdNSi1KRUtMS25OSGk0N3gxZ2I4S1BWTXZCOHBsMk5CbTQ4bUVkdmFKZk9WMDR5TS05RmtNZ1ZKVnNUeEVVTkdlZXBJQkp2MVpYeVhVRU43emdHaU0xSmc2cU9lWHJ2VGhvYWtabWRveUttaERFT3NCdVh2dEIw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Terra",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjhVWjFOcEFzbzA3ckFNMFBYcldPdWdyaTNrTGtoR0xicm83bWdCVjhRSTZOSkpBdXlvLU9pajdKNXRGYURfWEQ5Ym0ydEExeW5MMUZrbEU0YzNQLVJBWndfMUIwTW5YQXllU19faEw3STZTVS1vcFFEalIwbUoyeXFlOUtyR0l0a0hPcEVTR1VCUHZXQ2s5RTUtcTRldE11N1ZQazg5TE8tQ2xjVkM2RXZ3c2lzbEpyRnpQTDQ5Z19kR2ItUHF4RzRBanBUMS0zNmxNaTZlQ21EM0xVMEN3YjgwVEVSQndPaGFRTDlhZjlTMzBIQWc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-25T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Vero Notícias",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2xrWUdEXzctQnBHc3U2QkxlemZId3RkQ3ZLZkZBNlBfRHZMalc1MUlDdVpITDBmUDlHaW9sQ185RnJuSUZXaVhWYkpqcS1qUnVtazM3X0MzTHQ0SmZxeVdEQWQ1MXZYbjdXdkc4Q2I3cGg3UTNyVVpkcUc2SWMyVzdVNnJtWUNQajFEOGR1UmZyZEE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUl9tcklVLVBVbl93NWRyOWJNWnl0eEhfVUoydlF3OWJlaGlGS1BubHRxLXlvNEVmRkZZcmRvUHk2SGpTQ2twOFE3ZmFBRmZDOTU4bWgwRlkxMEVpc1Z6MHlxZmtUUDhDT0QybVQwajJHVHBWNjd6QUtXeThnSk1GcWhxOG15ZjktUmRSNVl0bjQ4Y1BWdmo5OTZGWnkwRU1QSFFDRGJuVUV2VVhtbVBfbi0xTGt6NjMtWUpGUnVHY2ZUNFlFbldv?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência iNFRA",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXM5Q3pJS3B2aUphOGVaSU5rd2Y1STJodTRsQ2t1bE9wTkVkRlhTSm40LTdXR09nNTFPaDRMWnk3OEQ1WVc2NC10aURaRi0zXzFGYmg4Y3d1cUY0UDA3ZTBLV1RmZzA1Vl9ISXdpb194NnVPNGE0VEp2TGtfdzZuWHpTbVRKekgwc0lPNEFFejhRLVh2X2dJ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "UOL Economia",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHN3cFFWalloQ1FDdkZMSHVteVFyLWpsbEdEcXVQVTZ5SjZrMjVxM2hjOWo4WW5pVm1iNWZOaUlVVDMtbUZ0M2xaN3p5dWhEWGFfaHctaFFlTGJhMEFoSVdUMFhVOFBubW9FdWFPekhSMy1iT3lWMU91UWU3MnJCTXpfOEVsSS1RTkd4S1VjbUFZRDNob2ZwcGNsMVp0REt4OW0wUlpyQlBONU5ILXh5azlYSUFzalBER3FDQUNyUVkwQ3hSU1dEMU14TQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Vero Notícias",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2xrWUdEXzctQnBHc3U2QkxlemZId3RkQ3ZLZkZBNlBfRHZMalc1MUlDdVpITDBmUDlHaW9sQ185RnJuSUZXaVhWYkpqcS1qUnVtazM3X0MzTHQ0SmZxeVdEQWQ1MXZYbjdXdkc4Q2I3cGg3UTNyVVpkcUc2SWMyVzdVNnJtWUNQajFEOGR1UmZyZEE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUl9tcklVLVBVbl93NWRyOWJNWnl0eEhfVUoydlF3OWJlaGlGS1BubHRxLXlvNEVmRkZZcmRvUHk2SGpTQ2twOFE3ZmFBRmZDOTU4bWgwRlkxMEVpc1Z6MHlxZmtUUDhDT0QybVQwajJHVHBWNjd6QUtXeThnSk1GcWhxOG15ZjktUmRSNVl0bjQ4Y1BWdmo5OTZGWnkwRU1QSFFDRGJuVUV2VVhtbVBfbi0xTGt6NjMtWUpGUnVHY2ZUNFlFbldv?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agência iNFRA",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXM5Q3pJS3B2aUphOGVaSU5rd2Y1STJodTRsQ2t1bE9wTkVkRlhTSm40LTdXR09nNTFPaDRMWnk3OEQ1WVc2NC10aURaRi0zXzFGYmg4Y3d1cUY0UDA3ZTBLV1RmZzA1Vl9ISXdpb194NnVPNGE0VEp2TGtfdzZuWHpTbVRKekgwc0lPNEFFejhRLVh2X2dJ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "UOL Economia",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHN3cFFWalloQ1FDdkZMSHVteVFyLWpsbEdEcXVQVTZ5SjZrMjVxM2hjOWo4WW5pVm1iNWZOaUlVVDMtbUZ0M2xaN3p5dWhEWGFfaHctaFFlTGJhMEFoSVdUMFhVOFBubW9FdWFPekhSMy1iT3lWMU91UWU3MnJCTXpfOEVsSS1RTkd4S1VjbUFZRDNob2ZwcGNsMVp0REt4OW0wUlpyQlBONU5ILXh5azlYSUFzalBER3FDQUNyUVkwQ3hSU1dEMU14TQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3RlOVhtN3NMeEhRWGJaUms1ZnR3T0c4UGtWa2c5NGRwNlNSVmxTbkNJQ2hlVEQ5OFYxWTR2dm1ZS1AxeWNNeE5UVm9TWTNnNjI3ZG5nUHkzYWs0bkFEVmt6Z1dqQlBvMXNOQk9qTFJXQVNwVnp4RFhZTmg4elJfZlRSWHRZel9VSHAtWXY3WEhJa0doVkczb292MEpwNmc2WkkxMWVDS2Rid3I3Y1F2ZjR2NVdtN0Q4NjhWUmMxZF9NdTk1YzlNbUE1Qm94SHNIc1RSdG1wbjcwclE2aUI4X1VMWdIB8gFBVV95cUxOSXdHcHdQZTFaXzd1SFN3RkFOaWhUWjFVb2R1MHYzQ2F3TGlqUTZ2SnlvTWZubTB4OEhFQ20wZEM4Y19LNnlmV1FZNmUxcU5zeEIwOTUtY2pHM29BdXJTZjZyY05yVGViM1gtc0d4NmlvX2RCakZJOVEtUmQ2RXpLb1oxaDNXREZ5R2N4OVB5OVFrenpjWnF1c0VMdDZPZ2VQNlYtS09OREhPV0NrMWVCMjN0d3NzdmpXLTd3Q3pkbFJVN29GX3pUdFNBalhtTmpMSFRoZV9qSmFDanc3TGdzRjZKV0hCUno3M0VHeHJLaVkzQQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSld1a1BLSEhNUjNzQllMYm1aODFlSFlGSHdYVkFfY1gxTGQ1c1BvRTZiSTFDakpTUmI3eC0zMk9GQmNWTEZaS0JQMFVadnVyZWx2ZkpEZ1g1RDF3YUxHQ1NZRFBpUHVmNHBkdUdmZG5MYVh1ZW5ja0I1MHRtY0tHNU94RmM5SElpY1U5NE1vVUVoaDVFY0hsblVoOXRQRGFRX1JkTXpfRkRndXVxUy1ieDBDNGtEVlVqQ1NtTg?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-24T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -1522,6 +1812,48 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-06-15T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "0f2fdedd1f311c87",
+   "title": "CENTRO TECNOLÓGICO PARA O PRÉ-SAL AVANÇA EM TESTES DE INOVAÇÕES QUE PROMETEM REVOLUCIONAR O MERCADO SUBSEA DO BRASIL",
+   "summary": "Em entrevista ao Petronotícias, o professor Marcos Aurélio de Souza, coordenador geral do CTPB, afirmou que o centro receberá em outubro a primeira bomba relacionada ao HISEP — sistema inovador que promove a separação do gás e do petróleo ainda no fundo do mar, permitindo a reinjeção direta do CO₂ no reservatório. “Esse conjunto de iniciativas, somado ao HISEP, consolida nossa agenda de testes até 2028. Apesar de a cerimônia formal ter ocorrido no dia 3 de julho, o CTPB já vinha operando a plena carga desde o final do ano passado.",
+   "detalhes": {
+    "datas": [
+     "outubro",
+     "2028",
+     "julho"
+    ]
+   },
+   "category": "SURF",
+   "relevance": 55,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T08:00:22+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/centro-tecnologico-para-o-pre-sal-avanca-em-testes-de-inovacoes-que-prometem-revolucionar-o-mercado-subsea-do-brasil",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T08:00:22+00:00",
+     "link_real": "https://petronoticias.com.br/centro-tecnologico-para-o-pre-sal-avanca-em-testes-de-inovacoes-que-prometem-revolucionar-o-mercado-subsea-do-brasil/"
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY1pIS2t4YlBpTEdJdk1aU3BrVXpzZnprS09fYU5rNm8zeHJfekUtUTVkSEFmd0piYm80cTJtQThPWDVpS1NtRUxKa0MyaTIwMUZmc2ZWSDZ0M2tLWnNBWjJ3ZGlJbmhYcDJZWE1jS1E1ZDN5X0RLQTBFZ3JYWDVZQmNIbllRMzhnYjd6TElsbGtpa3plcGo0a0tiaFg0T1pBZE1NTzhQelVZWlpqQkk0Q1dGNTl5SDZXY193MFB5VVFtQlZaR1NIVjNzeURjeE10cUNDeGk2dFYyQ1E5U0xR?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T08:00:00+00:00",
      "link_real": null
     }
    ],
@@ -1739,6 +2071,14 @@
     {
      "name": "Poder360",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFdaUnA4TGVWN0VsRmFXZ3A2cDhlc0VucDA4VUtMR2g2X3kxeEJPb0tvX2xwZmpDdEw4QjNhc05oVGp4Y2dIRTBmTlRBYVgtM1JjcnJtUk4wTUpVZ0NPNExIRU81OGVUdWoxb3N6bXBQYmhfTmt3Y29LeFFGbWlyRWQzV21POGtjMkF5c2Q1S0FXM2E3WHNjeU5ONkxDbVE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-10T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "UOL Economia",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQc01hZVYzc05oWnRqRU41UTNFMnFSMEFBVGZoNUx4ZW15MWxlWFBGOXA1LXRucTNPSjdLMXd4cUc2bmxob1gtV2Z0SG9haTUzZ2JQckdRRW5PZjQyaWFIaDhCM2JwVGFHMzhvbW41SnJtUWk4N2FDUGhselJPOHhjV3luX0ZUa0RqcENlb0NRbk5tV1VpVEFoRTJYbHBDQ0pCb21aY1Vra0xQYncxa2xGeE1seHM0bUJnVy1aQzlMZmFZaldtYkN6bjNPWUNJbUp1NDR0bVB5bzZEMWJTSi1jTGxOMlVOcmxTenBTbkpTZXl3eC1k?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-07-10T07:00:00+00:00",
@@ -2368,6 +2708,34 @@
    "aviso_paga": ""
   },
   {
+   "id": "748384c09eb1e5f1",
+   "title": "Duas décadas após descoberta do pré-sal, desafio do país é repor reservas para manter autossuficiência",
+   "summary": "Duas décadas após descoberta do pré-sal, desafio do país é repor reservas para manter autossuficiência.",
+   "detalhes": {},
+   "category": "Descobertas",
+   "relevance": 47,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T07:00:15+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "O GLOBO",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcFhMbEptZkRhemhLRVdqdndVX1NsTmNfZXN2bVBwaGU2SUJ1YXNBejR1elhveGtMTFRINEZfc3JaUldMNlhSWkZnMlNFVTYxN1BzUWZUMmJUSjlCUDNZVmU0ZU0zWGJheWFXdGpLemc0c1VzaHZ2eVFMbDNkZFRDUGVoYkZaN3hQcnhwbjRBTEJ0SFZwTU9NeGdJanV5c1VwQWNEX3dxMGlqbmt1QzhnYjNWTTFkN212NmplMUl2MVhKVS1JcDJ5T0JIVU9FakJrZWpqSGhMaDNVU09GbTMzcUdCZHhrTURoYVg2Vmg4Z00yazRTcGh5b0g2bEF1d9IBjAJBVV95cUxQMzVteFE5dWM0WExYeFZTTllsVWRrdllHWnRyV3ZnWXJMRmJ1NTd2RGVXdHN6QThzdTNvMlZzVUJKQTk5TmdZRjNwemRWSURvc1EwUEQ3WGgtdWd4bl9yX1BuQWlCSnNZNXBjbFFyODg0UEJtNUhFbi05THJBZjQ4QW50dmdfQWVyZ0ZFNmdMMmRHU3dsX09uR2RVOVpiZG5XeHVTODE0MEVOUXZTaVNKUGcwRXN0VWlaU1BPT1ByUExTOURnTmVZOTM3UEMyLVBxaUxJUnBreW9ZeUVKRTIzLWRvRlUzV3EteUtYczRnay1fMlpZbk5PZWUtWU1WOE5uaGp5dHZrMXVOUFl4?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T07:00:15+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "7b941613b58f274a",
    "title": "Um único navio-plataforma ancorado no pré-sal brasileiro passou a bombear mais de 700 mil barris de petróleo por dia no campo de Mero, e o segredo está numa engenharia que separa gás, óleo e água em alto-mar",
    "summary": "- Quatro estados concentram 61% de todo o gás natural que os Estados Unidos tiram do subsolo, e só o Texas e a Pensilvânia respondem por quase metade de uma produção que chegou a 47,7 trilhões de pés cúbicos em 2025 - Satélites já flagram do espaço as nuvens de metano que escapam de dutos e poços pelo mundo inteiro, mas um levantamento da ONU mostra que apenas 13% dos alertas enviados às empresas viram alguma ação concreta - A quase 5 km abaixo da terra, China avança sobre depósito de gás de xisto de 10 trilhões de m³, capaz de produzir até 50 bilhões de m³ por ano - Megaprojeto milionário no Porto Sudeste pode mudar como o Brasil transfere petróleo entre navios e transporta a produção do pré-sal para o mundo A escolha por esse formato tem uma razão simples. O campo de Mero, na Bacia de Santos, a cerca de 180 quilômetros da costa do Rio de Janeiro, ultrapassou a marca de 700 mil barris de petróleo em um único dia. O campo de Mero, na Bacia de Santos, superou a marca histórica de 700 mil barris de petróleo por dia, e essa façanha depende de navios-plataforma que transformam o óleo bruto do fundo do mar em produto pronto para exportação.",
@@ -2545,66 +2913,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-15T15:01:48+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "e73591cd908e3854",
-   "title": "OceanPact fecha contrato de R$ 443,7 milhões com Petrobras para atuar na P-18",
-   "summary": "OceanPact fecha contrato de R$ 443,7 milhões com Petrobras para atuar na P-18. OceanPact assina contrato com Petrobras para descomissionar P-18 em Marlim.",
-   "detalhes": {
-    "valores": [
-     "R$ 443,7 milhões"
-    ]
-   },
-   "category": "Descomissionamento",
-   "relevance": 43,
-   "entities": {
-    "campos_blocos": [
-     "Marlim"
-    ],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-06-12T07:00:00+00:00",
-   "n_sources": 2,
-   "sources": [
-    {
-     "name": "CNN Brasil",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVY2dXhvWG8wTU9NaW9iUUg1cVRvQnRYRXh6UWZnUWtjQ1V1M2QxRnBuTDEwbmZlb3VRZWdzMzJTUVNSLTVzekRNekFvdjhlX2hmU2pxWTBneHpBUlc5bkxkbkhWM3ktdFlZSXJGdmNZV2tRZ1kxM1JpN09VeDFMWFNvVEZNZFAyX3VvN2xCdGdZMG1MVHdWa2ZZT2tsdGkwSk1oZHVpUUVzdXNkQkg0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CNN Brasil",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVY2dXhvWG8wTU9NaW9iUUg1cVRvQnRYRXh6UWZnUWtjQ1V1M2QxRnBuTDEwbmZlb3VRZWdzMzJTUVNSLTVzekRNekFvdjhlX2hmU2pxWTBneHpBUlc5bkxkbkhWM3ktdFlZSXJGdmNZV2tRZ1kxM1JpN09VeDFMWFNvVEZNZFAyX3VvN2xCdGdZMG1MVHdWa2ZZT2tsdGkwSk1oZHVpUUVzdXNkQkg0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Tribuna do Agreste",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2NBbjJvMGhQMHNsTS1PcEhHLWVoT1NtOVprZVBwMGpoblpjLVVfOUFNMGVFTzBQU0psV3dFMUZRc1hiWkxNclRfeDd3eDV1OHF0Mmk2Y2xka2ZHcGZCQUR5cVdHS2M5aDNJVlM1VkpiZVVLRkR3ZW1pR29mNF9jajVfY2Y4bVVWNDBOSGZGTjhpSTRzd3daZWRfcmhiQnRock0tT2J6ZnhQc01vZ1BLNzMybGlFNXRmYmlLeXgybFdXT2dSbkJXdFd3ejNKVVdp?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-11T19:41:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Tribuna do Agreste",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2NBbjJvMGhQMHNsTS1PcEhHLWVoT1NtOVprZVBwMGpoblpjLVVfOUFNMGVFTzBQU0psV3dFMUZRc1hiWkxNclRfeDd3eDV1OHF0Mmk2Y2xka2ZHcGZCQUR5cVdHS2M5aDNJVlM1VkpiZVVLRkR3ZW1pR29mNF9jajVfY2Y4bVVWNDBOSGZGTjhpSTRzd3daZWRfcmhiQnRock0tT2J6ZnhQc01vZ1BLNzMybGlFNXRmYmlLeXgybFdXT2dSbkJXdFd3ejNKVVdp?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-11T19:41:00+00:00",
      "link_real": null
     }
    ],
@@ -3126,7 +3434,7 @@
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd2VDR1VIUnFYREhNREhDT0Z2RHh0cVhHYmtoZkVJdkpyNWdMYWVtckFOTXdBS0pBMUdGSzZ6TXNSc2VnZ0pkYTV6VXBheUdlVGVmdVg4RTBnZkpEV04xSFF0bUVHb21CZGowbjZJbk4xRGl5U0gwLVItRVg5UDA0Um5vaXR3Vk1xS2lYMXpybEdDamlmVklpS01wNzFpUjBUM3NKbTB3ZVQzSXFoTUl0aFgtWC1jOG9HWWlxQjl2VGVrb2ZNWi1NaW12bTJfTGdHQU9qb0lMSUdWa0JYM2dRU3d3NXo2Sjlv?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-19T15:30:00+00:00",
+     "published": "2026-07-19T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -3268,6 +3576,14 @@
      "paid": false,
      "published": "2026-07-04T07:00:00+00:00",
      "link_real": null
+    },
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTW10TnFYaWIwcXdpU1JqWi1tT1ZrdEc4NGlsWWZfRTJBNlJtbUtpYWdYV2dwV1BRVGxiVnctUXBaQkZOQlJCZDRQNDRvRG5lLXV1MjRFU0tlYUswVEdIMjNqNDlSYmtNTllvT0VfWUFVNUVLREpkdFlhbW9NMWNLdk5KbXdrcGFBa21qZE1IX0hmUWc2OFdJMk9MS2dSMFhVUHNrS0hVNmgzR3JQWEkwLTN0NERNTG4xUng1cVpkNld2cmtjSWtmZGtzNzBEUi1OM1B4VU8wdXJzN205b1hHNnJsT1dSMFJlWHV5dS1aSTdSRDlCWEQzcENyQQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-04T07:00:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -3310,305 +3626,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-01T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "65d719884e8a4619",
-   "title": "Petrobras (PETR4): Campo de Búzios bate recorde de produção e supera 1,2 milhão de barris por dia",
-   "summary": "Produção de Petróleo do Brasil Sobe 16,9% em Maio para 4,3 Mi Barris/dia, Diz ANP. Petrobras (PETR4): Campo de Búzios supera próprio recorde e produz 1 milhão e 100 mil bpd. Campo de Búzios bate novo recorde e supera a marca de 1 milhão e 200 mil barris/dia.",
-   "detalhes": {
-    "producao": [
-     "200 mil barris",
-     "100 mil bpd"
-    ],
-    "percentual": [
-     "16,9%"
-    ],
-    "datas": [
-     "Maio"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [
-     "Búzios"
-    ],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-07-01T07:00:00+00:00",
-   "n_sources": 15,
-   "sources": [
-    {
-     "name": "Forbes Brasil",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWY1Z3lzb2FjaS1kSGJ3Q1NuRWJ2X2dnaW5aNlB5dDhXNVI1RndHamRyQkdpUnZhTXBWcVdWSW5yejZISmQxbDliSEVyekhTZklrdVpudVh1RUZvWEI2X29ndWVBMEVoUUhOaVRyM1BpajdJYmVLYTVZN2tOMmxFMldRbmVVb2o0SUpjSXB5QlJ5Y18wcklLWmFYV0R6M1hCVmZnSFFQVnY5YXR2R2tUV1pIbU0xVFd1Z1RSdjdn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-01T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Forbes Brasil",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWY1Z3lzb2FjaS1kSGJ3Q1NuRWJ2X2dnaW5aNlB5dDhXNVI1RndHamRyQkdpUnZhTXBWcVdWSW5yejZISmQxbDliSEVyekhTZklrdVpudVh1RUZvWEI2X29ndWVBMEVoUUhOaVRyM1BpajdJYmVLYTVZN2tOMmxFMldRbmVVb2o0SUpjSXB5QlJ5Y18wcklLWmFYV0R6M1hCVmZnSFFQVnY5YXR2R2tUV1pIbU0xVFd1Z1RSdjdn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-01T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Brasil 247",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1qU3lOSncwYUxTLUI5dk1WZFFnaFJpWkswVzJxb3NmX2RZQndMOUVFTVNGWERMdFUyY0FoNHI5MlRYbWl4b1ZQbmZGNEc5NmVUT1ZtbE1SVHUtUmZkRFAxQWFqc0NJYThsNzRtclU3TFphVFRPQlF0QnV3d04yNzB3ZXJJRHVDcFhQeDNSY0NuWGdWOG95X0paZExQMUpUUGZYZm93?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-01T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMklTUTR2ZGhjSG53ZmZFRmN0NkR6MzQ3STBHNTRleVd1MXRPYU5pUE5EYXdZRk1tWE55NXJ1QnJHT05jVTBPbW1MQmZmRG1LUWQyeTlEN0Z5eW5tVVo2aXpTVnhMU0p1VC1RbTNMbm5BM0tXNFlqTFZwU2xDVU5PZlhISmk4akZoTkc0b3pidUlwRVFiU1l4eWM2bGZ0NGVGaWV1ekpFakNDdDhr?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-01T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "TAGD Advogados",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWhSTVpuT3lWRDVxUHpad2ViMDdWcDViaWtDaHhiRGNuRjNqeldtWE1WRmd0VUkycUJHQUk2Yk9nOE43YzMwWlMzZmhYdDdJZWVNZVUwUFBUOEhqaGs4ckxQZ196VjZBOHo3SWd6VnhrQmtzV3VaVHpuVXdiZkttVGFoY1pXUEs1WFdpb2ZaWEFOdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-30T20:27:19+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Balada IN",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FBRS1iMHRXalNlX2ZjRDgwTm9mTER0YzNFTUE0blNsZmJLRUFtWmlrNUtZblU5cFVMLXRua21sc0lIdjdUcmE1eVB1MnZFYndfSkgyTGhQUVJOclI4c0Zjd2EzLVZfMmxQZGRqY1prekhOSGt1MGF3RmFvdEs2OUtSX0g1RTdSOUpJanJFTExkamt6QWN2SC13TGZyOU90MjM3OXFoTlNkM2NuNFFpMFFGLUNWOUhxbVFycTNB?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T15:15:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Balada IN",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FBRS1iMHRXalNlX2ZjRDgwTm9mTER0YzNFTUE0blNsZmJLRUFtWmlrNUtZblU5cFVMLXRua21sc0lIdjdUcmE1eVB1MnZFYndfSkgyTGhQUVJOclI4c0Zjd2EzLVZfMmxQZGRqY1prekhOSGt1MGF3RmFvdEs2OUtSX0g1RTdSOUpJanJFTExkamt6QWN2SC13TGZyOU90MjM3OXFoTlNkM2NuNFFpMFFGLUNWOUhxbVFycTNB?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T15:15:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUlWOEo5OWxfZGdRdXpNeTROWU44NDQ1ZUIya2RFU0lHcmVsTloyVE41UEFuSVZnV25Palg5UzUzbTZKMVM5ODdsc0s3a2NPUDRvV1h6blRWYXRFRklSTE1qRF94Ymg3Z0dURGxJT09KdElpWTNmTTlobFBJR1FLSWpGcXZKaFFpYnZWcURaaTZhLW1aSjJMSThuVmk4eUs1RVA5QTZETmw4Z0lZYXd6VkNIZDZUMk41Qll3SUx2NzdCMFJUaTBvVy1LZU45YVhvcjNndkxVUdIB5gFBVV95cUxNbGhLN2loUzM2elJ2SWpTUkdVdEJjS2ZtNjdkNGZUNG5xZFFWS2x1WEZnQ3ExM2gtUjQ1RzNabWdPWDRUT1lHaUJjR05qOTF0bGRYOTFRLVoybXNuVGJVZHhyQ1FLZjdlY0czeVFrYjFZVzVkb3dQUTRxdk5wbFN0aWxiZVBiNTJBSXNIbTZjUlUzZWNSLVp2WjE4QjNYdU9IN1pmTDUzOE1iVDE1Y01yQTNNVEVoX3JKQWJDelZVMnFTSEZIenlGc2EtemVZRUh1X0J1RnQ0T01kOTJvNVRVc1g0bHNOZw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVFSktKUS00NXFWZEZRTkliRzJPWEU1WEN5bVc0cGhrRUhoQ0VrYWwxZVpvMlZpVV9uUXp5NWVWLVdWRDk1ZS15ck5PT01WYTFua2N6cmtqTHNRZ2FDb0lZYUwyeFRoZ3NzQ0ZEclIzVFNhNHdtSGdnTzJZZDhNcDJzWEIwUmFSckpMUkx0cmlNS04tZkxuQlFUVFVCbHlXTnFWVncwam1DV3RKM1dldW8zem9GYW9Bci04T3FDYng?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKd9IBlAFBVV95cUxNZTZnRnJTNld6UUtPMDVwOVN2dklZSGVIa29Ca3pSV29Oc3hVTzJaOWNpS1kwZFZpeEx5eHk1T3hRb2psY3VhTUJSb1MycFhYOE9rTmpNYzAzSWxTTG5hZjQ3MHduUnN2SVJEa1I2YnBxNG9RZzQ1bURPc3R6dVYzTmlReUd1V0M0dGkxQk1VZmJMVkc5?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CNN Brasil",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1Y1Yjh4eTJKM2pKQ2lVUkZHRzI4Z19CT3FlLUNMS1l6OTh2UFhUUEJqUGFQUlB4LTltUVFOZFE4cHc3d3haaVFrVTlwVENCZFFNOVBMQmIwQTZ1aDZ3ZFRDRVQtd3lMa0daMXM4dENYSUdBM3E1YWxkNjlMdGZELVI2azZnTU04ZFF0WHpBR3AyQ0xJcG03ci03VzJzc0txd1cxWUpoV1RQc0tH?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUlWOEo5OWxfZGdRdXpNeTROWU44NDQ1ZUIya2RFU0lHcmVsTloyVE41UEFuSVZnV25Palg5UzUzbTZKMVM5ODdsc0s3a2NPUDRvV1h6blRWYXRFRklSTE1qRF94Ymg3Z0dURGxJT09KdElpWTNmTTlobFBJR1FLSWpGcXZKaFFpYnZWcURaaTZhLW1aSjJMSThuVmk4eUs1RVA5QTZETmw4Z0lZYXd6VkNIZDZUMk41Qll3SUx2NzdCMFJUaTBvVy1LZU45YVhvcjNndkxVUdIB5gFBVV95cUxNbGhLN2loUzM2elJ2SWpTUkdVdEJjS2ZtNjdkNGZUNG5xZFFWS2x1WEZnQ3ExM2gtUjQ1RzNabWdPWDRUT1lHaUJjR05qOTF0bGRYOTFRLVoybXNuVGJVZHhyQ1FLZjdlY0czeVFrYjFZVzVkb3dQUTRxdk5wbFN0aWxiZVBiNTJBSXNIbTZjUlUzZWNSLVp2WjE4QjNYdU9IN1pmTDUzOE1iVDE1Y01yQTNNVEVoX3JKQWJDelZVMnFTSEZIenlGc2EtemVZRUh1X0J1RnQ0T01kOTJvNVRVc1g0bHNOZw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWVFSktKUS00NXFWZEZRTkliRzJPWEU1WEN5bVc0cGhrRUhoQ0VrYWwxZVpvMlZpVV9uUXp5NWVWLVdWRDk1ZS15ck5PT01WYTFua2N6cmtqTHNRZ2FDb0lZYUwyeFRoZ3NzQ0ZEclIzVFNhNHdtSGdnTzJZZDhNcDJzWEIwUmFSckpMUkx0cmlNS04tZkxuQlFUVFVCbHlXTnFWVncwam1DV3RKM1dldW8zem9GYW9Bci04T3FDYng?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKd9IBlAFBVV95cUxNZTZnRnJTNld6UUtPMDVwOVN2dklZSGVIa29Ca3pSV29Oc3hVTzJaOWNpS1kwZFZpeEx5eHk1T3hRb2psY3VhTUJSb1MycFhYOE9rTmpNYzAzSWxTTG5hZjQ3MHduUnN2SVJEa1I2YnBxNG9RZzQ1bURPc3R6dVYzTmlReUd1V0M0dGkxQk1VZmJMVkc5?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CNN Brasil",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb1Y1Yjh4eTJKM2pKQ2lVUkZHRzI4Z19CT3FlLUNMS1l6OTh2UFhUUEJqUGFQUlB4LTltUVFOZFE4cHc3d3haaVFrVTlwVENCZFFNOVBMQmIwQTZ1aDZ3ZFRDRVQtd3lMa0daMXM4dENYSUdBM3E1YWxkNjlMdGZELVI2azZnTU04ZFF0WHpBR3AyQ0xJcG03ci03VzJzc0txd1cxWUpoV1RQc0tH?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência Petrobras de Notícias",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QmJkUUNISDdkUE1uMHJnRWhFM0RVTGNhZG4xcUFPMjk1b0x1X0ZBSFQtRTBRZVU0M2dzRzVMZHQxQjFJa1FZc0prVUFPVHA4XzBEZVMwdl9fdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-29T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Portal BE News",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFJCZDhUQ1EzcnpTOGF5MXFKaGNzOFRSY2xsVGdIQzBGMVIyMElsTU1FNEF0MXdOeVZPVi1JYjBOOGtJNDNyaF9nZnVSZXJ2ZmRWdDR0cF9jeDFJX2xkV0d0SUlyNGEwWUxyd0lrQlNZQk9pSV9QTnFzLWpITUE2bWJLcHJ3QWZkQlNqSFdyUFZ5bjlOM1BkbHlvc3hCRzA?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Investidor10",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk5JdExLSERhMEdRNDJPQjN2dXhicC1abDExNG5mcDUtTzlReGx1QUUxeEh0RWdtLVN0Y0VzcVhsaW5wZUx1UTlNQlVlM19wS3Q5Vm03aTVQeGxmSXc3Yi0wWHo1dGpuS3hTa3NFV1hzZ2pyZXZDUUdJbDJsRHJCYXVSRTcwR1lqR3pvc2tQNm5uZlNRSVIzVkFmSFQyT285cjE4RXF1eWN0Z0ZKaVlBN1Fjd1RhcFFuZ1h6NG5zd1BvYWhqUlZkRzUxSdIB0AFBVV95cUxPeWM3ODJmMURpTHB2cnR4WWNPWkJuZTlpenkxWkw2bEFob0Y3Nk1rNk5MZU5JamFCd01jdDRESkViVWljZkx3dmQ2NDM5bTExeEZmcC05OGpRaDdNSi1KRUtMS25OSGk0N3gxZ2I4S1BWTXZCOHBsMk5CbTQ4bUVkdmFKZk9WMDR5TS05RmtNZ1ZKVnNUeEVVTkdlZXBJQkp2MVpYeVhVRU43emdHaU0xSmc2cU9lWHJ2VGhvYWtabWRveUttaERFT3NCdVh2dEIw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjhVWjFOcEFzbzA3ckFNMFBYcldPdWdyaTNrTGtoR0xicm83bWdCVjhRSTZOSkpBdXlvLU9pajdKNXRGYURfWEQ5Ym0ydEExeW5MMUZrbEU0YzNQLVJBWndfMUIwTW5YQXllU19faEw3STZTVS1vcFFEalIwbUoyeXFlOUtyR0l0a0hPcEVTR1VCUHZXQ2s5RTUtcTRldE11N1ZQazg5TE8tQ2xjVkM2RXZ3c2lzbEpyRnpQTDQ5Z19kR2ItUHF4RzRBanBUMS0zNmxNaTZlQ21EM0xVMEN3YjgwVEVSQndPaGFRTDlhZjlTMzBIQWc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Portal BE News",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFJCZDhUQ1EzcnpTOGF5MXFKaGNzOFRSY2xsVGdIQzBGMVIyMElsTU1FNEF0MXdOeVZPVi1JYjBOOGtJNDNyaF9nZnVSZXJ2ZmRWdDR0cF9jeDFJX2xkV0d0SUlyNGEwWUxyd0lrQlNZQk9pSV9QTnFzLWpITUE2bWJLcHJ3QWZkQlNqSFdyUFZ5bjlOM1BkbHlvc3hCRzA?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Investidor10",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYk5JdExLSERhMEdRNDJPQjN2dXhicC1abDExNG5mcDUtTzlReGx1QUUxeEh0RWdtLVN0Y0VzcVhsaW5wZUx1UTlNQlVlM19wS3Q5Vm03aTVQeGxmSXc3Yi0wWHo1dGpuS3hTa3NFV1hzZ2pyZXZDUUdJbDJsRHJCYXVSRTcwR1lqR3pvc2tQNm5uZlNRSVIzVkFmSFQyT285cjE4RXF1eWN0Z0ZKaVlBN1Fjd1RhcFFuZ1h6NG5zd1BvYWhqUlZkRzUxSdIB0AFBVV95cUxPeWM3ODJmMURpTHB2cnR4WWNPWkJuZTlpenkxWkw2bEFob0Y3Nk1rNk5MZU5JamFCd01jdDRESkViVWljZkx3dmQ2NDM5bTExeEZmcC05OGpRaDdNSi1KRUtMS25OSGk0N3gxZ2I4S1BWTXZCOHBsMk5CbTQ4bUVkdmFKZk9WMDR5TS05RmtNZ1ZKVnNUeEVVTkdlZXBJQkp2MVpYeVhVRU43emdHaU0xSmc2cU9lWHJ2VGhvYWtabWRveUttaERFT3NCdVh2dEIw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjhVWjFOcEFzbzA3ckFNMFBYcldPdWdyaTNrTGtoR0xicm83bWdCVjhRSTZOSkpBdXlvLU9pajdKNXRGYURfWEQ5Ym0ydEExeW5MMUZrbEU0YzNQLVJBWndfMUIwTW5YQXllU19faEw3STZTVS1vcFFEalIwbUoyeXFlOUtyR0l0a0hPcEVTR1VCUHZXQ2s5RTUtcTRldE11N1ZQazg5TE8tQ2xjVkM2RXZ3c2lzbEpyRnpQTDQ5Z19kR2ItUHF4RzRBanBUMS0zNmxNaTZlQ21EM0xVMEN3YjgwVEVSQndPaGFRTDlhZjlTMzBIQWc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-25T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Vero Notícias",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2xrWUdEXzctQnBHc3U2QkxlemZId3RkQ3ZLZkZBNlBfRHZMalc1MUlDdVpITDBmUDlHaW9sQ185RnJuSUZXaVhWYkpqcS1qUnVtazM3X0MzTHQ0SmZxeVdEQWQ1MXZYbjdXdkc4Q2I3cGg3UTNyVVpkcUc2SWMyVzdVNnJtWUNQajFEOGR1UmZyZEE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência Petrobras de Notícias",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUl9tcklVLVBVbl93NWRyOWJNWnl0eEhfVUoydlF3OWJlaGlGS1BubHRxLXlvNEVmRkZZcmRvUHk2SGpTQ2twOFE3ZmFBRmZDOTU4bWgwRlkxMEVpc1Z6MHlxZmtUUDhDT0QybVQwajJHVHBWNjd6QUtXeThnSk1GcWhxOG15ZjktUmRSNVl0bjQ4Y1BWdmo5OTZGWnkwRU1QSFFDRGJuVUV2VVhtbVBfbi0xTGt6NjMtWUpGUnVHY2ZUNFlFbldv?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência iNFRA",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXM5Q3pJS3B2aUphOGVaSU5rd2Y1STJodTRsQ2t1bE9wTkVkRlhTSm40LTdXR09nNTFPaDRMWnk3OEQ1WVc2NC10aURaRi0zXzFGYmg4Y3d1cUY0UDA3ZTBLV1RmZzA1Vl9ISXdpb194NnVPNGE0VEp2TGtfdzZuWHpTbVRKekgwc0lPNEFFejhRLVh2X2dJ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHN3cFFWalloQ1FDdkZMSHVteVFyLWpsbEdEcXVQVTZ5SjZrMjVxM2hjOWo4WW5pVm1iNWZOaUlVVDMtbUZ0M2xaN3p5dWhEWGFfaHctaFFlTGJhMEFoSVdUMFhVOFBubW9FdWFPekhSMy1iT3lWMU91UWU3MnJCTXpfOEVsSS1RTkd4S1VjbUFZRDNob2ZwcGNsMVp0REt4OW0wUlpyQlBONU5ILXh5azlYSUFzalBER3FDQUNyUVkwQ3hSU1dEMU14TQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Vero Notícias",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2xrWUdEXzctQnBHc3U2QkxlemZId3RkQ3ZLZkZBNlBfRHZMalc1MUlDdVpITDBmUDlHaW9sQ185RnJuSUZXaVhWYkpqcS1qUnVtazM3X0MzTHQ0SmZxeVdEQWQ1MXZYbjdXdkc4Q2I3cGg3UTNyVVpkcUc2SWMyVzdVNnJtWUNQajFEOGR1UmZyZEE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência Petrobras de Notícias",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUl9tcklVLVBVbl93NWRyOWJNWnl0eEhfVUoydlF3OWJlaGlGS1BubHRxLXlvNEVmRkZZcmRvUHk2SGpTQ2twOFE3ZmFBRmZDOTU4bWgwRlkxMEVpc1Z6MHlxZmtUUDhDT0QybVQwajJHVHBWNjd6QUtXeThnSk1GcWhxOG15ZjktUmRSNVl0bjQ4Y1BWdmo5OTZGWnkwRU1QSFFDRGJuVUV2VVhtbVBfbi0xTGt6NjMtWUpGUnVHY2ZUNFlFbldv?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência iNFRA",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXM5Q3pJS3B2aUphOGVaSU5rd2Y1STJodTRsQ2t1bE9wTkVkRlhTSm40LTdXR09nNTFPaDRMWnk3OEQ1WVc2NC10aURaRi0zXzFGYmg4Y3d1cUY0UDA3ZTBLV1RmZzA1Vl9ISXdpb194NnVPNGE0VEp2TGtfdzZuWHpTbVRKekgwc0lPNEFFejhRLVh2X2dJ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "UOL Economia",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOHN3cFFWalloQ1FDdkZMSHVteVFyLWpsbEdEcXVQVTZ5SjZrMjVxM2hjOWo4WW5pVm1iNWZOaUlVVDMtbUZ0M2xaN3p5dWhEWGFfaHctaFFlTGJhMEFoSVdUMFhVOFBubW9FdWFPekhSMy1iT3lWMU91UWU3MnJCTXpfOEVsSS1RTkd4S1VjbUFZRDNob2ZwcGNsMVp0REt4OW0wUlpyQlBONU5ILXh5azlYSUFzalBER3FDQUNyUVkwQ3hSU1dEMU14TQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Valor Econômico",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV3RlOVhtN3NMeEhRWGJaUms1ZnR3T0c4UGtWa2c5NGRwNlNSVmxTbkNJQ2hlVEQ5OFYxWTR2dm1ZS1AxeWNNeE5UVm9TWTNnNjI3ZG5nUHkzYWs0bkFEVmt6Z1dqQlBvMXNOQk9qTFJXQVNwVnp4RFhZTmg4elJfZlRSWHRZel9VSHAtWXY3WEhJa0doVkczb292MEpwNmc2WkkxMWVDS2Rid3I3Y1F2ZjR2NVdtN0Q4NjhWUmMxZF9NdTk1YzlNbUE1Qm94SHNIc1RSdG1wbjcwclE2aUI4X1VMWdIB8gFBVV95cUxOSXdHcHdQZTFaXzd1SFN3RkFOaWhUWjFVb2R1MHYzQ2F3TGlqUTZ2SnlvTWZubTB4OEhFQ20wZEM4Y19LNnlmV1FZNmUxcU5zeEIwOTUtY2pHM29BdXJTZjZyY05yVGViM1gtc0d4NmlvX2RCakZJOVEtUmQ2RXpLb1oxaDNXREZ5R2N4OVB5OVFrenpjWnF1c0VMdDZPZ2VQNlYtS09OREhPV0NrMWVCMjN0d3NzdmpXLTd3Q3pkbFJVN29GX3pUdFNBalhtTmpMSFRoZV9qSmFDanc3TGdzRjZKV0hCUno3M0VHeHJLaVkzQQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Brasil 247",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSld1a1BLSEhNUjNzQllMYm1aODFlSFlGSHdYVkFfY1gxTGQ1c1BvRTZiSTFDakpTUmI3eC0zMk9GQmNWTEZaS0JQMFVadnVyZWx2ZkpEZ1g1RDF3YUxHQ1NZRFBpUHVmNHBkdUdmZG5MYVh1ZW5ja0I1MHRtY0tHNU94RmM5SElpY1U5NE1vVUVoaDVFY0hsblVoOXRQRGFRX1JkTXpfRkRndXVxUy1ieDBDNGtEVlVqQ1NtTg?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-24T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -3765,98 +3782,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "b6c63d3433e7761f",
-   "title": "Após luta da categoria, ficam mantidos 50% de royalties do pré-sal para educação",
-   "summary": "Após luta da categoria, fica mantido os 50% de royalties do pré-sal para educação. Após luta da categoria, ficam mantidos 50% de royalties do pré-sal para educação.",
-   "detalhes": {
-    "percentual": [
-     "50%"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-06-12T07:00:00+00:00",
-   "n_sources": 2,
-   "sources": [
-    {
-     "name": "Sinpro-DF",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzJ2ZzU5bVRCeGZjbGxVenZQd0daNjFFZ0VBcWJCQlRZaWdfWGJBdUREbVVEZ2VlcGtmRlNOZ2pYcEplUFBETXhLVk5Ib21kMjNxUktsblBGbjBzRW9RcUprVkl1N25SOXdJenJhNmdZeXM2OENDVVAyMnE0Ri1aVEd6U01nX2oyeVdJVVVPc0hwb3pzVkxJWTVCUGVkbjRwRVZBbXd2MUZJTGlY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Apufsc-Sindical",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFIzSkhncnVBUGdxcmFNVWwwUFdvOEg5d0lfTXhpOFFCRk1CT0ZQemtuNFN3TW9yc2VQdjFpa1V5WmlzMXhOYnBNZE1uYUFkdUxSXzNENHhXNDFoZnJhajRiU1FQdk9qMkl6dXlQUDdXNXlONG1OeUZXYUM5cTRneHlvMEN6ZGtwOUdxZllXYWwzV3JVTTg3OFBzNUcwNG1iRWdZRXZhbEprYTJDQkQwdkFjR2tGUmd4?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Sinpro-DF",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZzJ2ZzU5bVRCeGZjbGxVenZQd0daNjFFZ0VBcWJCQlRZaWdfWGJBdUREbVVEZ2VlcGtmRlNOZ2pYcEplUFBETXhLVk5Ib21kMjNxUktsblBGbjBzRW9RcUprVkl1N25SOXdJenJhNmdZeXM2OENDVVAyMnE0Ri1aVEd6U01nX2oyeVdJVVVPc0hwb3pzVkxJWTVCUGVkbjRwRVZBbXd2MUZJTGlY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Apufsc-Sindical",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUFIzSkhncnVBUGdxcmFNVWwwUFdvOEg5d0lfTXhpOFFCRk1CT0ZQemtuNFN3TW9yc2VQdjFpa1V5WmlzMXhOYnBNZE1uYUFkdUxSXzNENHhXNDFoZnJhajRiU1FQdk9qMkl6dXlQUDdXNXlONG1OeUZXYUM5cTRneHlvMEN6ZGtwOUdxZllXYWwzV3JVTTg3OFBzNUcwNG1iRWdZRXZhbEprYTJDQkQwdkFjR2tGUmd4?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "a587e2b7c5ddaf7b",
-   "title": "Senado Federal aprova projeto de lei que ameaça Fundo Social do Pré-sal para a educação; entenda",
-   "summary": "Senado Federal aprova projeto de lei que ameaça Fundo Social do Pré-sal para a educação; entenda.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-06-12T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "União Brasileira dos Estudantes Secundaristas (UBES)",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkl1SG1iNnd0Y1U3ZXJoS1lQNk1QTzZBcVpVeVdDZE9zZGdXVzl4VHVSbWNDYlAzU0sxNWFxVGJLMEN4Tk5TejlJQU9ZRjlVS0tHOUpnM1Yxb2Fqa0JNdjFlRU9GVzdJdTNhbDltVTJTNnRpZjlGeFVKcldTZDNQa0xkdnpYMVVweC11cDV5NExYMDhwZmxhYl9ldzN3a2dEUUN2bTJTbUI3cEppX1A1T0FpTVhROFJHTHFWYV9qYkw3VWM?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "União Brasileira dos Estudantes Secundaristas (UBES)",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkl1SG1iNnd0Y1U3ZXJoS1lQNk1QTzZBcVpVeVdDZE9zZGdXVzl4VHVSbWNDYlAzU0sxNWFxVGJLMEN4Tk5TejlJQU9ZRjlVS0tHOUpnM1Yxb2Fqa0JNdjFlRU9GVzdJdTNhbDltVTJTNnRpZjlGeFVKcldTZDNQa0xkdnpYMVVweC11cDV5NExYMDhwZmxhYl9ldzN3a2dEUUN2bTJTbUI3cEppX1A1T0FpTVhROFJHTHFWYV9qYkw3VWM?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-12T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "771370ca0a498f4e",
    "title": "Seatrium anuncia início da produção de petróleo da FPSO P-78",
    "summary": "Seatrium anuncia início da produção de petróleo da FPSO P-78.",
@@ -3887,6 +3812,36 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-05T19:46:44+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "1f270f4d00a40110",
+   "title": "Petrobras conclui perfuração de Pitu Oeste com indícios de hidrocarboneto",
+   "summary": "Petrobras conclui perfuração de Pitu Oeste com indícios de hidrocarboneto.",
+   "detalhes": {},
+   "category": "Descobertas",
+   "relevance": 27,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-27T17:44:03+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Agência eixos",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGc5QVBNbGdvQ011aXJlUEJnTlZyU3NycTRvUGxuUG1YX2RkY2V1aDhBcElKUXFtdkQwUEFDam95Nzg0bE56V3pNWXpNSWN5NmYtQTE2VWU0OTZfM0JibnVSbW1xT053RHMwRU00WmpjSWdhTkNsZ1JINU1SWC1CeUs4SGJOSjdvSVlIMmJKVV9HWlZoaTEzbjZZZDdTZUhJZ29BVjNmOVdENWJzeFFHeEtnbWFHRldLRDZqeVp5UUd3NFBKZXc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T17:44:03+00:00",
      "link_real": null
     }
    ],
@@ -3971,6 +3926,36 @@
      "paid": false,
      "published": "2026-07-22T22:00:42+00:00",
      "link_real": "https://petronoticias.com.br/a-volkswagen-realiza-no-brasil-a-venda-de-56-caminhoes-movidos-a-biometano/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "08da535f74bd7d69",
+   "title": "Petrobras: 5 motivos para seguir otimista com a ação mesmo com queda do petróleo",
+   "summary": "Petrobras: 5 motivos para seguir otimista com a ação mesmo com queda do petróleo.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-27T18:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOWY0QkhVRDFkakZsbXlJRWxGR3hLa3F6bnVoN3h4UEhqNHRIVGFzNU1TMGJPWFRWQlFvTEJBcml6dTZQZy1wa2RVeVotZXlQMWdNQmtfOHcxZk1DbHowenJpbjZuc3lQZld2QUllb0w2V0pmVktxSWRtR0E0TEtBTDBGZC1Sd1lGdzczRU5tbHNlajRieWhpOHZaSnFhdHN5QUpqU2QxeWVTb29KUW15RVpXQkhhYWVubkdmMG0xQzJTQdIBxwFBVV95cUxNWjBrS2hJcWh2QkdxNy1Ja0ZYZXh5d1RlMHJXZEFLZEVPN1FYdTJfOFBDTFNGWWdkY0t6ajRfNUhLX3BjTlpRTVc3cTR4RlpBVEpRWm1iTnhjcE5TZnlHcUpGa1pHTmVoenh2bzhCa05jSXJxMy16aXJQNTZ0YTZNMnZFZml2MWYyS3pIcDNja1Y5YThVOHk1ZVJuVVU2UUZXZmpiR19lS0JMZGJZcm1sV0hkVkhLT2xvYl9vQXYyaGZJclllVWhr?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T18:00:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -4684,6 +4669,399 @@
      "paid": false,
      "published": "2026-07-15T20:45:34+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "67b7d56115f6e3d5",
+   "title": "BNDES E IBP ANUNCIAM PARCERIA PARA CONECTAR STARTUPS ÀS DEMANDAS DA INDÚSTRIA DE PETRÓLEO",
+   "summary": "BNDES E IBP ANUNCIAM PARCERIA PARA CONECTAR STARTUPS ÀS DEMANDAS DA INDÚSTRIA DE PETRÓLEO. A iniciativa busca conectar startups apoiadas pelo banco às demandas da indústria de petróleo, gás e biocombustíveis. A parceria faz parte da estratégia de expansão do programa BNDES Garagem e permitirá aproximar startups, empresas e especialistas, criando um ambiente favorável ao desenvolvimento de soluções voltadas para desafios como transição energética e descarbonização.",
+   "detalhes": {},
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T19:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/bndes-e-ibp-anunciam-parceria-para-conectar-startups-as-demandas-da-industria-de-petroleo",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T19:00:00+00:00",
+     "link_real": "https://petronoticias.com.br/bndes-e-ibp-anunciam-parceria-para-conectar-startups-as-demandas-da-industria-de-petroleo/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a1131d83ec3b8774",
+   "title": "Eyke Cardoso, estudante do interior do Pará, saiu de Ourilândia do Norte para representar o Brasil na Olimpíada Europeia de Física, marcou 9,70 na prova experimental, conquistou bronze na Suécia e garantiu vaga para disputar outra competição internacional de astronomia no Vietnã",
+   "summary": "Nota experimental igualou marca brasileira de 2021 Eyke obteve a segunda maior pontuação total entre os cinco brasileiros relacionados no resultado oficial. A conquista é compartilhada com Bruno, que em 2021 terminou a olimpíada com 23 pontos no total. O estudante paraense Eyke Cardoso de Souza Torres conquistou medalha de bronze na Olimpíada Europeia de Física de 2026, na Suécia, após alcançar 15,10 pontos e igualar a maior nota experimental registrada por um brasileiro na competição.",
+   "detalhes": {
+    "datas": [
+     "2026",
+     "2021",
+     "2022",
+     "2024",
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T18:33:34+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/eyke-cardoso-estudante-do-interior-do-para-saiu-de-ourilandia-do-norte-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-marcou-970-na-prova-experimental-conquistou-bronze-na-flpc96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T18:33:34+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/eyke-cardoso-estudante-do-interior-do-para-saiu-de-ourilandia-do-norte-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-marcou-970-na-prova-experimental-conquistou-bronze-na-flpc96/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "962b3c15ba4d0aad",
+   "title": "Jovem brasileiro de escola pública trabalha, faz vaquinha e leva à Coreia do Sul máquina de reciclagem criada com um colega, que corta tampas, prensa garrafas PET e separa materiais por cor, até conquistar medalha de prata em competição internacional realizada em Seul",
+   "summary": "Victor declarou que a vaquinha e os patrocínios cobriram aproximadamente 30% das despesas necessárias para a viagem. “Infelizmente o Rafael não pôde viajar comigo, mas o projeto e o mérito são 100% nossos”, afirmou Victor no comunicado divulgado pela administração municipal. De acordo com a organização oficial da competição, o encontro foi realizado entre 16 e 18 de julho de 2026, na Universidade Nacional de Educação de Seul.",
+   "detalhes": {
+    "percentual": [
+     "30%",
+     "100%"
+    ],
+    "datas": [
+     "julho de 2026",
+     "2023",
+     "2024"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T16:24:38+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/victor-vaquinha-maquina-reciclagem-medalha-prata-coreia-flpc96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T16:24:38+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/victor-vaquinha-maquina-reciclagem-medalha-prata-coreia-flpc96/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "dbe6abc41062124a",
+   "title": "ENGIE CONTRATA WEG PARA AMPLIAR CAPACIDADE DA HIDRELÉTRICA JAGUARA",
+   "summary": "Com investimento estimado em R$ 1,2 bilhão, a iniciativa vai acrescentar 232 MW à capacidade instalada da planta, por meio da instalação de duas turbinas de 116 MW cada em poços já existentes. O projeto integra o plano de expansão da companhia e foi viabilizado após a vitória da empresa no Leilão de Reserva de Capacidade de 2026. A previsão é que as novas unidades entrem em operação em 2030.",
+   "detalhes": {
+    "valores": [
+     "R$ 1,2 bilhão",
+     "R$ 500 milhões",
+     "R$ 150 milhões"
+    ],
+    "datas": [
+     "2026",
+     "2030",
+     "junho de 2048",
+     "julho de 2023",
+     "2029"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T16:00:22+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/engie-contrata-weg-para-ampliar-capacidade-da-hidreletrica-jaguara",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T16:00:22+00:00",
+     "link_real": "https://petronoticias.com.br/engie-contrata-weg-para-ampliar-capacidade-da-hidreletrica-jaguara/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "17224c0aaa4992bb",
+   "title": "LULA DIZ QUERER FORÇAS ARMADAS PREPARADAS, MAS CORTA R$ 1,43 BILHÃO DA MARINHA QUE NÃO GARANTE COMBATER O CRIME E PROTEGER A SOBERANIA",
+   "summary": "LULA DIZ QUERER FORÇAS ARMADAS PREPARADAS, MAS CORTA R$ 1,43 BILHÃO DA MARINHA QUE NÃO GARANTE COMBATER O CRIME E PROTEGER A SOBERANIA. Quase a todo momento, ouvimos o presidente Lula atacar o governo americano por tarifas comerciais de 25% impostas pelos Estados Unidos, mas não ouvimos uma palavra contra a China, que está impondo uma tarifa de quase 65 % contra a carne brasileira. Sem nenhuma arrogância: falando em paz, mas preparados para não deixar ninguém meter nariz neste país.” Mas foi aí que a realidade deu três batidinhas na porta: O documento entregue ao Ministro José Mucio aponta que bloqueio de R$ 1,43 bilhão vai reduzir a capacidade de resposta da Marinha e afetar programas estratégicos.",
+   "detalhes": {
+    "valores": [
+     "R$ 1,43 BILHÃO"
+    ],
+    "percentual": [
+     "25%",
+     "65 %"
+    ],
+    "datas": [
+     "maio"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [
+     "Lula"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T15:00:28+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/lula-diz-querer-forcas-armadas-preparadas-mas-corta-r-143-bilhao-da-marinha-que-nao-garante-combater-o-crime-e-garantir-a-soberania",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T15:00:28+00:00",
+     "link_real": "https://petronoticias.com.br/lula-diz-querer-forcas-armadas-preparadas-mas-corta-r-143-bilhao-da-marinha-que-nao-garante-combater-o-crime-e-garantir-a-soberania/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "3286efb422f35942",
+   "title": "SEM NOME TITULAR DESDE ABRIL, PETROBRÁS ESCOLHE NOVO INTERINO PARA DIRETORIA DE TRANSIÇÃO ENERGÉTICA",
+   "summary": "SEM NOME TITULAR DESDE ABRIL, PETROBRÁS ESCOLHE NOVO INTERINO PARA DIRETORIA DE TRANSIÇÃO ENERGÉTICA. A diretoria de Transição Energética e Sustentabilidade foi criada em abril de 2023, com o objetivo de concentrar e potencializar as ações da Petrobrás relacionadas à transição energética. Em julho daquele mesmo ano, a Petrobrás anunciou Angélica Laureano como a nova titular da pasta.",
+   "detalhes": {
+    "datas": [
+     "ABRIL",
+     "agosto",
+     "agosto de 2024",
+     "dezembro de 2023",
+     "abril de 2023",
+     "maio de 2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-27T14:00:37+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/sem-nome-titular-desde-abril-petrobras-escolhe-novo-interino-para-comandar-diretoria-de-transicao-energetica",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T14:00:37+00:00",
+     "link_real": "https://petronoticias.com.br/sem-nome-titular-desde-abril-petrobras-escolhe-novo-interino-para-comandar-diretoria-de-transicao-energetica/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a4928734240ca8d1",
+   "title": "Taxa das blusinhas pode voltar após disparada de compras internacionais, e governo já admite rever imposto sobre encomendas de até US$ 50",
+   "summary": "- Quando parecia que o petróleo só subiria, uma reviravolta entre EUA e Irã derrubou os preços e mudou o cenário global em poucas horas - País vizinho tira € 1,3 bilhão do bolso e vai erguer a maior fábrica de ureia da América Latina, um gigante com 80 hectares, produção de 2,1 milhões de toneladas por ano e mais de 3.500 empregos - Tarifaço dos Estados Unidos pressiona exportações brasileiras, que caem 13% e somam US$ 17,4 bilhões no primeiro semestre de 2026, enquanto participação dos EUA recua a 9,4%, menor nível desde 1997, com perdas concentradas em café, petróleo e aço e novas sobretaxas ampliando a pressão sobre a indústria - China entrega navio cegonha de 230 metros para 10.800 veículos, com 14 conveses e sistema solar de 200 kW que gera cerca de 1.000 kWh por dia, enquanto motores bicombustíveis usam GNL e combustível convencional em rotas globais entre Ásia, Europa e América do Norte Governo monitora alta das encomendas internacionais A retirada da taxa das blusinhas foi adotada como uma espécie de período de avaliação da nova política tributária. Compras de até US$ 50 tinham imposto de 20% A chamada taxa das blusinhas aplicava uma alíquota de 20% de Imposto de Importação sobre compras internacionais abaixo de US$ 50. Taxa das blusinhas pode voltar após disparada de compras internacionais, e governo já admite rever imposto sobre encomendas de até US$ 50.",
+   "detalhes": {
+    "valores": [
+     "US$ 50.",
+     "€ 1,3 bilhão",
+     "US$ 17,4 bilhões",
+     "US$ 50"
+    ],
+    "percentual": [
+     "13%",
+     "9,4%",
+     "20%"
+    ],
+    "profundidade": [
+     "230 metros"
+    ],
+    "datas": [
+     "2026",
+     "maio",
+     "junho"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T13:47:05+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/taxa-das-blusinhas-pode-voltar-apos-disparada-de-compras-internacionais-e-governo-ja-admite-rever-imposto-sobre-encomendas-de-ate-us-50-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T13:47:05+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/taxa-das-blusinhas-pode-voltar-apos-disparada-de-compras-internacionais-e-governo-ja-admite-rever-imposto-sobre-encomendas-de-ate-us-50-vacs75/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "2a31674bad484473",
+   "title": "Os gringos descobriram a jabuticaba brasileira e estão pagando muitos dólares por árvores adultas da fruta, descrita como doce e semelhante à uva",
+   "summary": "Um anúncio localizado no mercado norte-americano oferecia uma jabuticabeira preta, com aproximadamente 2,1 a 2,7 metros e carregada de frutos, por US$ 2 mil. Outro viveiro anunciou jabuticabeiras da variedade Sabará, cultivadas em recipientes de 45 galões e com até 2,4 metros, por US$ 900, além de US$ 200 para entrega e instalação. No Paraná, por exemplo, a cultura ocupou 104 hectares, produziu 1,3 mil toneladas e alcançou Valor Bruto da Produção de R$ 4,4 milhões em 2022, conforme o Departamento de Economia Rural.",
+   "detalhes": {
+    "valores": [
+     "US$ 2 mi",
+     "US$ 195,",
+     "US$ 100.",
+     "US$ 900,",
+     "US$ 200",
+     "R$ 4,4 milhões"
+    ],
+    "percentual": [
+     "46,5%",
+     "31%",
+     "7,7%"
+    ],
+    "profundidade": [
+     "2,7 metros",
+     "2,4 metros"
+    ],
+    "datas": [
+     "maio de 2025",
+     "2022"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T04:18:58+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/gringos-descobrem-jabuticaba-brasileira-arvores-adultas-muitos-dolares-flpc96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T04:18:58+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/gringos-descobrem-jabuticaba-brasileira-arvores-adultas-muitos-dolares-flpc96/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "392415f8d017dc57",
+   "title": "Ele vendia garrafas vazias no ferro-velho, coxinha, sacolé e pipa para conseguir alguns trocados, abandonou o sonho de viver do surfe por falta de dinheiro, começou descarregando caminhões em obras e hoje comanda a maior construtora do litoral sul paulista, está entre as 100 maiores do Brasil e patrocina atletas internacionais",
+   "summary": "Primeiro imóvel abriu caminho para novos investimentos Depois da morte do pai, Rodrigo recebeu um terreno de 135 metros quadrados e R$ 40 mil de um seguro de vida, mas parte do valor foi destinada pela família ao pagamento de dívidas deixadas por Francisco. Dos recursos recebidos, R$ 25 mil da parte de cada filho foram utilizados para quitar compromissos financeiros, o que deixou Pacheco com R$ 15 mil disponíveis para iniciar a construção de uma casa e testar seu primeiro projeto independente. De acordo com a reportagem do R7, a construtora chegou a responder por 16 edifícios, entre eles um empreendimento de 31 andares, dos quais 20 eram destinados a apartamentos, além de duas coberturas com 670 metros quadrados cada.",
+   "detalhes": {
+    "valores": [
+     "R$ 40 mi",
+     "R$ 25 mi",
+     "R$ 15 mi",
+     "R$ 15 milhões"
+    ],
+    "profundidade": [
+     "135 metros",
+     "670 metros"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T03:12:26+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/ele-vendia-garrafas-vazias-no-ferro-velho-coxinha-sacole-e-pipa-para-conseguir-alguns-trocados-abandonou-o-sonho-de-viver-do-surfe-por-falta-de-dinheiro-comecou-descarregando-caminhoes-afch",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T03:12:26+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/ele-vendia-garrafas-vazias-no-ferro-velho-coxinha-sacole-e-pipa-para-conseguir-alguns-trocados-abandonou-o-sonho-de-viver-do-surfe-por-falta-de-dinheiro-comecou-descarregando-caminhoes-afch/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "5b8626a8fa13f6f4",
+   "title": "Navio com capacidade equivalente a 3.500 contêineres de 20 pés chega ao Rio de Janeiro e inaugura conexão marítima direta com a Zona Franca de Manaus, colocando oito portos brasileiros na mesma rota de cabotagem",
+   "summary": "Navio com capacidade equivalente a 3.500 contêineres de 20 pés chega ao Rio de Janeiro e inaugura conexão marítima direta com a Zona Franca de Manaus, colocando oito portos brasileiros na mesma rota de cabotagem. Um navio com capacidade equivalente a 3.500 contêineres de 20 pés realizou sua primeira operação no Rio Brasil Terminal, no Porto do Rio de Janeiro, e abriu uma ligação marítima direta com Manaus, incorporando o terminal carioca à rota regular de cabotagem da Norcoast. Realizada em 21 de julho de 2026, a escala do NC Breda envolveu cargas domésticas de cabotagem e volumes classificados como feeder, transportados por serviços costeiros até pontos onde podem ser transferidos para outras rotas marítimas.",
+   "detalhes": {
+    "datas": [
+     "Janeiro",
+     "julho de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T03:08:37+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/navio-com-capacidade-equivalente-a-3-500-conteineres-de-20-pes-chega-ao-rio-de-janeiro-e-inaugura-conexao-maritima-direta-com-a-zona-franca-de-manaus-colocando-oito-portos-brasileiros-n-afch",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T03:08:37+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/navio-com-capacidade-equivalente-a-3-500-conteineres-de-20-pes-chega-ao-rio-de-janeiro-e-inaugura-conexao-maritima-direta-com-a-zona-franca-de-manaus-colocando-oito-portos-brasileiros-n-afch/"
     }
    ],
    "has_paid": false,
@@ -5647,6 +6025,38 @@
      "paid": false,
      "published": "2026-07-24T14:26:20+00:00",
      "link_real": "https://clickpetroleoegas.com.br/russia-e-brasil-fecharam-um-acordo-para-colocar-o-idioma-russo-na-grade-de-algumas-escolas-federais-brasileiras-com-formacao-de-professores-e-o-envio-de-docentes-russos-ao-pais-numa-l-mhbb01/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "21277d0e1d28b46c",
+   "title": "Petróleo dispara com guerra de Trump, supera US$ 100, e isso deve ampliar os ganhos comerciais do Brasil",
+   "summary": "Petróleo dispara com guerra de Trump, supera US$ 100, e isso deve ampliar os ganhos comerciais do Brasil.",
+   "detalhes": {
+    "valores": [
+     "US$ 100,"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-24T06:20:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdnlIVW5rdlFwRVVmUG1wVzVCcU1vTFh1REZ3d0hiTzBEMEZ3bFAzeTBodW5oSGJOcXpyTDBETlVUUXVtNDZyanRVX3RjYmYyV3JkYmZIOE9MMVhGSU1IVkNhWndoV0ZQZ0tiZ3JRdFk1Z09FMWZ2c0lXd0cyNW1hRUxVMGU3VHFTV1ZxUXRRY3lRd0hZRzdPbnBwNk1TY3EwVnJ2OXU4YnpJdVRsV0lMYW9sVUpjNUU4bVZGVTJfRGZIclVIcFhrZTZLTTFsek84YzhR?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-24T06:20:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
