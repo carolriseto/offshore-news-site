@@ -1,38 +1,50 @@
 {
  "meta": {
-  "gerado_em": "2026-07-27T19:02:25.834557+00:00",
-  "total_grupos": 131,
-  "total_noticias": 370,
+  "gerado_em": "2026-07-28T18:56:13.085137+00:00",
+  "total_grupos": 147,
+  "total_noticias": 390,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 131,
+  "total_grupos": 147,
   "por_categoria": {
-   "Operadoras e IOCs": 90,
-   "Prospectos e Investimentos": 8,
-   "Novas Tecnologias": 8,
+   "Operadoras e IOCs": 100,
+   "Prospectos e Investimentos": 10,
+   "Novas Tecnologias": 10,
    "Bids e Licitações": 7,
    "SURF": 4,
    "Contratos e Concorrentes": 4,
    "Descobertas": 3,
+   "Resultados Trimestrais": 3,
    "Perfuração e Poços": 2,
    "Opinião e Regulatório": 2,
-   "Resultados Trimestrais": 2,
-   "Campanhas e Blocos": 1
+   "Campanhas e Blocos": 2
   },
   "com_fonte_paga": 1,
-  "alta_relevancia": 11
+  "alta_relevancia": 12
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
     "atual": 14,
+    "anterior": 2,
+    "delta": 12
+   },
+   {
+    "topico": "DOF",
+    "atual": 2,
     "anterior": 0,
-    "delta": 14
+    "delta": 2
    },
    {
     "topico": "Lula",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
+   },
+   {
+    "topico": "Total",
     "atual": 2,
     "anterior": 0,
     "delta": 2
@@ -48,27 +60,22 @@
     "atual": 2,
     "anterior": 0,
     "delta": 2
-   },
-   {
-    "topico": "DOF",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
-   },
-   {
-    "topico": "Búzios",
-    "atual": 1,
-    "anterior": 0,
-    "delta": 1
    }
   ],
-  "baixa": []
+  "baixa": [
+   {
+    "topico": "Altera",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
+   }
+  ]
  },
  "mercado": {
   "brent": {
-   "atual": 88.12,
+   "atual": 84.11,
    "moeda": "US$",
-   "variacao_pct": -8.95,
+   "variacao_pct": -4.81,
    "serie": [
     73.15,
     72.92,
@@ -89,16 +96,16 @@
     94.07,
     100.69,
     96.78,
-    88.12
+    88.36,
+    84.11
    ],
    "fonte": "Yahoo"
   },
   "usd": {
-   "atual": 5.0825,
+   "atual": 5.1164,
    "moeda": "R$",
-   "variacao_pct": -0.0,
+   "variacao_pct": 0.67,
    "serie": [
-    5.0603,
     5.084,
     5.1469,
     5.1603,
@@ -127,16 +134,16 @@
     5.0797,
     5.0715,
     5.0827,
-    5.0825
+    5.0825,
+    5.1164
    ],
    "fonte": "Frankfurter"
   },
   "eur": {
-   "atual": 5.7885,
+   "atual": 5.8158,
    "moeda": "R$",
-   "variacao_pct": 0.1,
+   "variacao_pct": 0.47,
    "serie": [
-    5.8669,
     5.8929,
     5.8989,
     5.9173,
@@ -165,15 +172,16 @@
     5.7949,
     5.7775,
     5.7826,
-    5.7885
+    5.7885,
+    5.8158
    ],
    "fonte": "Frankfurter"
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n131 assuntos no radar, 11 de alta relevância. Tópicos em alta: Petrobras, Lula, Bacia de Santos, Shell, DOF, Búzios. Em baixa: —.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (4 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (3 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n147 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, DOF, Lula, Total, Bacia de Santos, Shell. Em baixa: Altera.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (4 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (7 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (3 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 2 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-07-27T19:02:26.088236+00:00"
+  "gerado_em": "2026-07-28T18:56:13.453254+00:00"
  },
  "companhias": [
   {
@@ -214,7 +222,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.308986+00:00",
    "com_release": false,
-   "n_noticias": 9
+   "n_noticias": 12
   },
   {
    "id": "chevron",
@@ -244,7 +252,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.314483+00:00",
    "com_release": false,
-   "n_noticias": 5
+   "n_noticias": 6
   },
   {
    "id": "brava",
@@ -254,7 +262,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.319832+00:00",
    "com_release": false,
-   "n_noticias": 3
+   "n_noticias": 4
   },
   {
    "id": "karoon",
@@ -384,7 +392,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.340658+00:00",
    "com_release": false,
-   "n_noticias": 0
+   "n_noticias": 1
   },
   {
    "id": "sbm",
@@ -416,35 +424,35 @@
  },
  "series": {
   "semanas": [
-   "08/06",
-   "15/06",
-   "22/06",
-   "29/06",
-   "06/07",
-   "13/07",
-   "20/07",
-   "27/07"
+   "09/06",
+   "16/06",
+   "23/06",
+   "30/06",
+   "07/07",
+   "14/07",
+   "21/07",
+   "28/07"
   ],
   "total": [
    0,
-   8,
-   35,
-   81,
-   48,
-   35,
-   48,
-   115
+   16,
+   45,
+   66,
+   47,
+   39,
+   55,
+   122
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    6,
-    29,
-    64,
+    14,
+    39,
+    48,
     36,
-    29,
-    42,
-    74
+    33,
+    43,
+    77
    ],
    "Bids e Licitações": [
     0,
@@ -453,8 +461,18 @@
     10,
     2,
     0,
+    2,
+    6
+   ],
+   "Novas Tecnologias": [
     0,
-    8
+    0,
+    0,
+    0,
+    1,
+    2,
+    0,
+    12
    ],
    "Perfuração e Poços": [
     0,
@@ -470,21 +488,11 @@
     0,
     0,
     0,
-    0,
-    2,
-    0,
-    0,
-    10
-   ],
-   "Novas Tecnologias": [
-    0,
-    0,
-    0,
-    0,
     1,
-    2,
+    1,
     0,
-    7
+    4,
+    8
    ],
    "SURF": [
     0,
@@ -990,6 +998,64 @@
      "paid": false,
      "published": "2026-07-23T22:00:21+00:00",
      "link_real": "https://petronoticias.com.br/navio-skandi-amazonas-sofreu-perda-total-apos-encalhar-em-macae/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "fb91c876961e41e2",
+   "title": "MODEC TESTA NOVAS TECNOLOGIAS NO PRÉ-SAL PARA REDUZIR AS EMISSÕES DE PLATAFORMAS",
+   "summary": "Modec testa no Brasil tecnologias inéditas que podem reduzir em até 50% as emissões em plataformas offshore. MODEC testa no pré-sal tecnologias inéditas que podem reduzir em até 50% as emissões de plataformas offshore. MODEC TESTA NOVAS TECNOLOGIAS NO PRÉ-SAL PARA REDUZIR AS EMISSÕES DE PLATAFORMAS.",
+   "detalhes": {
+    "percentual": [
+     "50%"
+    ]
+   },
+   "category": "Prospectos e Investimentos",
+   "relevance": 80,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": [
+     "Modec"
+    ]
+   },
+   "published": "2026-07-28T10:22:19+00:00",
+   "n_sources": 3,
+   "sources": [
+    {
+     "name": "Fator Brasil",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUGxSMTAyTC16S24yN3hpaEY1V1p1Q1phRThPbE02b0huZTdUR2ZXWFdrS053NjdrMmIybnlhcmpwWUItQ29CTVQyLTRFUjhNUUFWT1NOak9iQ3NqS2xaWFotWVNGOXNwdUlhQ3NhSk03WndPU3pfamgyUXhZdkdCTTdPTGJYeWVMS3cxaGtxOEFqR0RKaDFGS2NWeVFyMFJjMXVpRVMzdGdKaUp6R3Q0QWVnQjhSR2dtMWFHTkJ1VzltTGIwWEZQdFNnUWJfcTBYamZBNkRhRDlpckh6cW52bEw5Z1BrZ05EVGVYMQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T10:22:19+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/modec-testa-novas-tecnologias-no-pre-sal-para-reduzir-as-emissoes-de-plataformas",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T22:00:23+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHE1RXNZQU1WMGRtTHdZbVpBcmNuRnBNR0NscmZQblpnci1TOGhheXZYZDdOSzdfMXlNZHMzMWtnd0NmU0tZQ0x1VW5OLXN4RTU4UW1uc3NQX1VqUmk1RFBTMU1JWGoxQkliajJ3SERoNWdqNU5qb1NXUTVxZ0dQTUhRWWZSMmROcFdpbEZpQ2RsNGRWc1g0OW43ODFEZjhUaS1BQjJUXzl4MENKZ19B?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T22:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Cenário Energia",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnhDSnJGX1Bqb3l2OHg4MG1fUkR4eE1wS0FzNTdOUUw2b0g1X0NEZDJ0VC1IWlZpLUNVdXU3QzNwZzNSaXFKVEYtR200QnpQeWN2dHJON21FWEZWVDJhdWFKNGd2WTBOUV9Ic09oaDNITk0tZFlXTlRjRVpfNHJLS25JbWJkUnZrUXQ5blFZYURNNHRiWkxWRWVJTQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T19:47:50+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -1964,6 +2030,36 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-22T19:49:09+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "8273b200b0654c9c",
+   "title": "Solar no pré-sal: Petrobras implantará usina fotovoltaica no Complexo Boaventura",
+   "summary": "Solar no pré-sal: Petrobras implantará usina fotovoltaica no Complexo Boaventura.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 50,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-15T07:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Canal Solar",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wampJWjhwZ0Q3RGhhT295V2YtWWpRTVBLcUNjU1RlTmJ5R1RrM0pvYVYwS2hPUTJyazBHTHNIN3JvcHUxWS1QaU9LT0NOMUZjWExSQkVNbzBydXFUTDZ0YjAzTWxXRnBXc3JBaE1uQ1hLVE93WlA0?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-15T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -3222,6 +3318,70 @@
    "aviso_paga": ""
   },
   {
+   "id": "d9a491fef6f9ce6f",
+   "title": "Disputa dos estados em torno dos royalties do pré-sal - Bloco 2 (09'48\")",
+   "summary": "Disputa dos estados em torno dos royalties do pré-sal - Bloco 2 (09'48\"). Disputa dos estados em torno dos royalties do pré-sal - Bloco 1 (19'23\").",
+   "detalhes": {},
+   "category": "Campanhas e Blocos",
+   "relevance": 35,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T21:46:01+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Portal da Câmara dos Deputados",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEpxNWhwMGJwd3pETkFPQ0lEWktDN1JXR3RNNnlCQ1JXYU15WWpoZTR2X2x5RUR4dno5bWlnYk5tbXpRWVl4amdUaG5TSjBlcHBDV2xKWXlUaHZVdmFOT1FZOXhhTFF5eDVoRDZsRl9GaThUaEh2amdfdkhRa29MSjJWMzNGVUlVcHdkaEhZcXNHY2xpNzUyRDNBNGVURWphSkt3MGx4MnJrQUM3bTBoc3ZudmtLQQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T21:46:01+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Portal da Câmara dos Deputados",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdkU4ZW9TZWtlZUQza1dqQ0E3MlcweE5tMXhNMVFoSFlNb2pOREVDT25qa2Q2eVR1SVlFM2JDQ3ZjX1VVT0ptQmtGZW5NV2h3VGxMWlpERUdNUUpHdjZVaHR4dkhOa1prRjQ5ajRSYVVBMkk3N2JpUTN4UGIybFdOY2hnM1c2cmhvVzFNSldTT0lsa183ZXpQTDJXcDUxZXZBV2pIYkl0Yzh0OG95bDlLbmxLay0tdGptSmVNblBCNk1hM1hy?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T21:00:28+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "d1b3f9803bca7cef",
+   "title": "Plenário aprova nova distribuição dos royalties do Pré-Sal",
+   "summary": "Plenário aprova nova distribuição dos royalties do Pré-Sal.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 35,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-26T23:21:13+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Portal da Câmara dos Deputados",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHh0ampwalVGNUJKbDNsOU9PbU1RX3J1bUJYRzlPSlhZMVRxQTJDX1VJbDcwRFpwSW9xRnc4ZVRkZlRrQ3o1Um9IelFnVXFfRkdkeHV2dUdGWi1kUXFnOWxDQzRQRFppcXpfeWJhcUh4Rnh3bzIyLTNNdklRVkRjcWdMSlZrQjh3LVZKLUxaRnhtbG9pYWp3WjdtX3ZFODNmSnZSemhoZVVtZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-26T23:21:13+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "814355bd5b6d89d3",
    "title": "Megaprojeto milionário no Porto Sudeste pode mudar como o Brasil transfere petróleo entre navios e transporta a produção do pré-sal para o mundo",
    "summary": "Megaprojeto milionário no Porto Sudeste pode mudar como o Brasil transfere petróleo entre navios e transporta a produção do pré-sal para o mundo.",
@@ -3746,7 +3906,7 @@
    "aviso_paga": ""
   },
   {
-   "id": "c41c6cd120611b17",
+   "id": "4e9bc768b4aefb11",
    "title": "MPSP e Ministério Público Federal ajuízam ação climática no âmbito do licenciamento do pré-sal",
    "summary": "MPSP e Ministério Público Federal ajuízam ação climática no âmbito do licenciamento do pré-sal.",
    "detalhes": {},
@@ -3757,7 +3917,7 @@
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-06-16T07:00:00+00:00",
+   "published": "2026-06-16T13:30:50+00:00",
    "n_sources": 1,
    "sources": [
     {
@@ -3765,7 +3925,7 @@
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkdjMEhlR2t5OHhmZ0pMcFFGeFRVYmlxOU1SVmRuOUR4T3lwSV9jRXpBblY2Ty11NUxCTl9mWWZjS3U1aV9GQUdYQVpLeFRUeXZVc1RiNHlfZzkyb2JqNFU1Z1dQS3VIbkhhekM4SkM3bzItaUMySXROMzlFVldoSjdBbEhZbkd1cXF1Yi1CUlR2WFpyTUt0MDRjT2ZxTjFHaGlva2RrSlQ5cWJpN2kyXzZVWllnQnluS2ZPTHVUR0tBSDhSMTdmQkh5WlJRbGZHeTExZXREdjduLVZp?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
+     "published": "2026-06-16T13:30:50+00:00",
      "link_real": null
     },
     {
@@ -3926,6 +4086,108 @@
      "paid": false,
      "published": "2026-07-22T22:00:42+00:00",
      "link_real": "https://petronoticias.com.br/a-volkswagen-realiza-no-brasil-a-venda-de-56-caminhoes-movidos-a-biometano/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f644ca5e48f8740d",
+   "title": "Ela teve uma ideia genial após restrição em um show: investiu R$ 355 em 200 bolsas transparentes, vendeu tudo em três horas na porta de arena e faturou cerca de US$ 1 mil em Nova York",
+   "summary": "Com investimento total de US$ 70, equivalente a R$ 355,41 no valor informado, Letícia Milla comprou 200 bolsas transparentes, revendeu cada unidade por US$ 5 e obteve aproximadamente US$ 1 mil, ou R$ 5.077,40. Ela teve uma ideia genial após restrição em um show: investiu R$ 355 em 200 bolsas transparentes, vendeu tudo em três horas na porta de arena e faturou cerca de US$ 1 mil em Nova York. Bolsas transparentes compradas por R$ 355 foram revendidas na porta de um show em Nova York e geraram cerca de US$ 1 mil para uma brasileira.",
+   "detalhes": {
+    "valores": [
+     "R$ 355",
+     "US$ 1 mi",
+     "US$ 70,",
+     "R$ 355,41",
+     "US$ 5",
+     "R$ 5.077,40."
+    ],
+    "datas": [
+     "julho de 2026"
+    ]
+   },
+   "category": "Prospectos e Investimentos",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Total"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-28T17:12:38+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/brasileira-investe-r-355-em-200-bolsas-transparentes-apos-restricao-em-show-de-ariana-grande-ama01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T17:12:38+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/brasileira-investe-r-355-em-200-bolsas-transparentes-apos-restricao-em-show-de-ariana-grande-ama01"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "96112bd4fe049d72",
+   "title": "Petróleo mais caro deve turbinar balanços de PRIO (PRIO3), Brava (BRAV3) e PetroReconcavo (RECV3) no 2T26",
+   "summary": "Petróleo mais caro deve turbinar balanços de PRIO (PRIO3), Brava (BRAV3) e PetroReconcavo (RECV3) no 2T26.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Prio"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-28T15:29:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnltaEJvS0I3MkdWcVFZMTQ5VDZjMjg2N0VMNE4xRVpiaDk1T0ZaVUVGRnAydlRJT1h0T0lqaXBuOW5ZcVNFVHVKRW5CQWVCZkdmRkRveGljMEtZR1BiUFpKYlM0RnJXSlRCa2JmTHhWbHVUY3UyVTlFNXFFeklVOHNFM2I5TFZkNjRSTlN6WnhKTlRUcEwtdVFoS0g1RDZFZUtDR2w4YzZYVDJKT2RxSG56emNwXzZGVEN6MnZFVFlSaThQNVBDSzFNLTRrY0E?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T15:29:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "7e4f26204f6b89db",
+   "title": "Petrobras (PETR4): queda da ação muda oportunidade? Veja 5 motivos que ainda sustentam a tese de compra",
+   "summary": "Petrobras (PETR4): queda da ação muda oportunidade? Veja 5 motivos que ainda sustentam a tese de compra.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-28T10:23:04+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Guia do Investidor",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRTdkOXhNUGRDaEhEVnBVRHBFbGpqVThFeUsybG82M2NaVi1ZVGtaMmRLTFp1bERPZHRKdjIwaWswbG9iWi1UT0VjYWlMaUtwczVWcU1fdTQtMjhVLVVCcWoyN0Z4aVZYc1YwTXZXWk9zWXZQeHI0Z1IyMjYtc3M2b1g3enNtQ2QyVEVEZHA3cWFlaFo1VDJLMVdaVjgtVkV5R05rLWRtR1d0TVBaTDlWemE4QmRSZTI4Rm54UDJmWkU1ellURnh1bk4zTWRpeTgyd2hHMmV2aw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T10:23:04+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -4507,28 +4769,72 @@
      "link_real": null
     },
     {
+     "name": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3J1SE9pM0RzY1BiQ0xwZGdsMWVKdU8tUTJwdnhqazdqdF9TcklhQkV2RFRVSlF5cUhLZ3dnWlJDTktTWmt2cHM0M1lVYXFmZDhuU3prcFJDZlVudmNQZEFycWM3TDdVQkpkZ1JxSUFEZmlXbTVLRk1ycTA5c2Z2SURSekx3QXlIT1hGbEtuR0FURG5yRjBON2diMHhSZHk3X1BMVVM2UHdjZ0t6WTJPNW5zSExCRHFlQUVua0NNd9IBxAFBVV95cUxOWFdwamNlTWYwR1lobDdoMkR4SThFb2Q0TlAwTE93T2hwQUFqRkVRZWJOdmdFWEtTNElSTXQ2bzJMWVVmQTl5Q09sQVBBU2lHQW9QUWU4dU1UM0pzeDhvNmZjeC1oM1QxV0V0YU9GMU54VjViT2dzako3dWw3S2tuQk9aUFpKajFwMnVIdzBVQkJsdzIwQ1dvOTZ6Y0gzUGdqZUV4cFRpWHhhT3VJUGFLaHRNMUVxMEFWQjlOXzFWaExKbF9S?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-27T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3J1SE9pM0RzY1BiQ0xwZGdsMWVKdU8tUTJwdnhqazdqdF9TcklhQkV2RFRVSlF5cUhLZ3dnWlJDTktTWmt2cHM0M1lVYXFmZDhuU3prcFJDZlVudmNQZEFycWM3TDdVQkpkZ1JxSUFEZmlXbTVLRk1ycTA5c2Z2SURSekx3QXlIT1hGbEtuR0FURG5yRjBON2diMHhSZHk3X1BMVVM2UHdjZ0t6WTJPNW5zSExCRHFlQUVua0NNd9IBxAFBVV95cUxOWFdwamNlTWYwR1lobDdoMkR4SThFb2Q0TlAwTE93T2hwQUFqRkVRZWJOdmdFWEtTNElSTXQ2bzJMWVVmQTl5Q09sQVBBU2lHQW9QUWU4dU1UM0pzeDhvNmZjeC1oM1QxV0V0YU9GMU54VjViT2dzako3dWw3S2tuQk9aUFpKajFwMnVIdzBVQkJsdzIwQ1dvOTZ6Y0gzUGdqZUV4cFRpWHhhT3VJUGFLaHRNMUVxMEFWQjlOXzFWaExKbF9S?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-27T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "noticiasdoplanalto.com.br",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWtGZ2FxRnlzOFF2UGFwNUhsSHhWc1AtVjh5c0tjU0xiZERNLV9haFd6TWtUY3EweTZrajVSeFBlaTJ2TkJMb0piYmNudjZKMHZHc0RxX3lzemQ5VzRXaFFON0NMYzdYLWNFOTRsYmZCclF2NzczVTVTUGZmZ3dxVWFEdGtQczMzSkl4LXVBaXoybFlrbno3d0ZQaEdVdUpTS3RqY2lUcG4?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-06-27T18:45:38+00:00",
-     "link_real": null
-    },
-    {
-     "name": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3J1SE9pM0RzY1BiQ0xwZGdsMWVKdU8tUTJwdnhqazdqdF9TcklhQkV2RFRVSlF5cUhLZ3dnWlJDTktTWmt2cHM0M1lVYXFmZDhuU3prcFJDZlVudmNQZEFycWM3TDdVQkpkZ1JxSUFEZmlXbTVLRk1ycTA5c2Z2SURSekx3QXlIT1hGbEtuR0FURG5yRjBON2diMHhSZHk3X1BMVVM2UHdjZ0t6WTJPNW5zSExCRHFlQUVua0NNd9IBxAFBVV95cUxOWFdwamNlTWYwR1lobDdoMkR4SThFb2Q0TlAwTE93T2hwQUFqRkVRZWJOdmdFWEtTNElSTXQ2bzJMWVVmQTl5Q09sQVBBU2lHQW9QUWU4dU1UM0pzeDhvNmZjeC1oM1QxV0V0YU9GMU54VjViT2dzako3dWw3S2tuQk9aUFpKajFwMnVIdzBVQkJsdzIwQ1dvOTZ6Y0gzUGdqZUV4cFRpWHhhT3VJUGFLaHRNMUVxMEFWQjlOXzFWaExKbF9S?oc=5",
-     "type": "aberta",
-     "paid": false,
      "published": "2026-06-27T07:00:00+00:00",
      "link_real": null
-    },
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "7b5d0f3260f203ec",
+   "title": "Chef catarinense transforma espaço provisório de apenas 12 lugares em restaurante reconhecido entre os 100 melhores do Brasil, aposta em ostras, peixes e ingredientes locais, alcança a 50ª posição nacional e encerra o ciclo após seis anos porque novas obras ocuparão o endereço em Jurerê Internacional",
+   "summary": "- Brasil pode ganhar o direito de taxar produtos americanos, mas antes precisa vencer 4 etapas na OMC que começam com 60 dias de negociação direta contra tarifas de 25% e 12,5% - Motorista pode perder a CNH na hora mesmo com zero ponto no prontuário, e duas infrações gravíssimas em 12 meses derrubam o limite de 40 para apenas 20 pontos - De projeto universitário a empresa em expansão: Mahá Biocosméticos cresce 44%, aposta em ingredientes da Amazônia e fortalece comunidades locais - Cidade catarinense tem estacionamento onde ninguém vigia, ninguém cobra e o motorista paga R$ 10 por Pix sozinho, modelo baseado só na confiança viraliza nas redes sociais A proposta inicial era testar um pequeno bar especializado em ostras nativas da variedade Gasar. Criado como projeto temporário, o Puro Oyster Bar cresceu dentro do Jurerê Open, passou de 12 para 28 lugares e conquistou reconhecimento nacional ao valorizar ostras, peixes, berbigão, ouriços, vinhos e produtores de Santa Catarina, antes de anunciar o encerramento das atividades em 31 de julho de 2026 no local. Segundo reportagem publicada pelo NSC Total em 22 de julho de 2026, o restaurante encerrará as atividades em 31 de julho porque o Jurerê Open, em Jurerê Internacional, utilizará o espaço para iniciar as obras de um novo empreendimento.",
+   "detalhes": {
+    "valores": [
+     "R$ 10"
+    ],
+    "percentual": [
+     "25%",
+     "12,5%",
+     "44%"
+    ],
+    "datas": [
+     "julho de 2026",
+     "julho",
+     "2020"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 12,
+   "entities": {
+    "campos_blocos": [
+     "Berbigão"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T17:53:38+00:00",
+   "n_sources": 1,
+   "sources": [
     {
-     "name": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3J1SE9pM0RzY1BiQ0xwZGdsMWVKdU8tUTJwdnhqazdqdF9TcklhQkV2RFRVSlF5cUhLZ3dnWlJDTktTWmt2cHM0M1lVYXFmZDhuU3prcFJDZlVudmNQZEFycWM3TDdVQkpkZ1JxSUFEZmlXbTVLRk1ycTA5c2Z2SURSekx3QXlIT1hGbEtuR0FURG5yRjBON2diMHhSZHk3X1BMVVM2UHdjZ0t6WTJPNW5zSExCRHFlQUVua0NNd9IBxAFBVV95cUxOWFdwamNlTWYwR1lobDdoMkR4SThFb2Q0TlAwTE93T2hwQUFqRkVRZWJOdmdFWEtTNElSTXQ2bzJMWVVmQTl5Q09sQVBBU2lHQW9QUWU4dU1UM0pzeDhvNmZjeC1oM1QxV0V0YU9GMU54VjViT2dzako3dWw3S2tuQk9aUFpKajFwMnVIdzBVQkJsdzIwQ1dvOTZ6Y0gzUGdqZUV4cFRpWHhhT3VJUGFLaHRNMUVxMEFWQjlOXzFWaExKbF9S?oc=5",
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/chef-catarinense-transforma-espaco-provisorio-de-apenas-12-lugares-em-restaurante-reconhecido-entre-os-100-melhores-do-brasil-aposta-em-ostras-peixes-e-ingredientes-locais-alcanca-a-50-ctl01",
      "type": "aberta",
      "paid": false,
-     "published": "2026-06-27T07:00:00+00:00",
-     "link_real": null
+     "published": "2026-07-28T17:53:38+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/chef-catarinense-transforma-espaco-provisorio-de-apenas-12-lugares-em-restaurante-reconhecido-entre-os-100-melhores-do-brasil-aposta-em-ostras-peixes-e-ingredientes-locais-alcanca-a-50-ctl01/"
     }
    ],
    "has_paid": false,
@@ -4668,6 +4974,285 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-15T20:45:34+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "4bb704475478e077",
+   "title": "Aos 86 anos, “rei do gado brasileiro” reúne 240 mil bovinos em fazendas que somam mais de 100 mil hectares no Pará; conheça o império rural de Roque Quagliato",
+   "summary": "Os números sobre o rebanho e as propriedades foram divulgados pelos portais Compre Rural e Agrozil, em julho de 2026. Números mostram a dimensão do Grupo Rio Vermelho Os principais dados associados ao empreendimento incluem: - mais de 240 mil bovinos distribuídos pelas propriedades; - área total superior a 100 mil hectares; - aproximadamente 50 retiros dentro do complexo; - cerca de 3 mil animais mantidos em cada núcleo; - compra adicional de aproximadamente 27 mil hectares; - sede das atividades na região de Sapucaia, no sul do Pará; - patrimônio total associado à faixa de bilhões de reais; - operação organizada pelo Grupo Rio Vermelho. Aos 86 anos, “rei do gado brasileiro” reúne 240 mil bovinos em fazendas que somam mais de 100 mil hectares no Pará; conheça o império rural de Roque Quagliato.",
+   "detalhes": {
+    "datas": [
+     "julho de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T18:30:04+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/aos-86-anos-rei-do-gado-brasileiro-reune-240-mil-bovinos-em-fazendas-que-somam-mais-de-100-mil-hectares-no-para-conheca-o-imperio-rural-de-roque-quagliato-rmrm97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T18:30:04+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/aos-86-anos-rei-do-gado-brasileiro-reune-240-mil-bovinos-em-fazendas-que-somam-mais-de-100-mil-hectares-no-para-conheca-o-imperio-rural-de-roque-quagliato-rmrm97/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "90693e1a83e7b335",
+   "title": "Brasil pode ganhar o direito de taxar produtos americanos, mas antes precisa vencer 4 etapas na OMC que começam com 60 dias de negociação direta contra tarifas de 25% e 12,5%",
+   "summary": "A tarifa adicional de 25% foi divulgada em 15 de julho de 2026, resultado de uma investigação americana sobre supostas práticas comerciais consideradas desleais pelo governo dos Estados Unidos. - Chef catarinense transforma espaço provisório de apenas 12 lugares em restaurante reconhecido entre os 100 melhores do Brasil, aposta em ostras, peixes e ingredientes locais, alcança a 50ª posição nacional e encerra o ciclo após seis anos porque novas obras ocuparão o endereço em Jurerê Internacional - Motorista pode perder a CNH na hora mesmo com zero ponto no prontuário, e duas infrações gravíssimas em 12 meses derrubam o limite de 40 para apenas 20 pontos - De projeto universitário a empresa em expansão: Mahá Biocosméticos cresce 44%, aposta em ingredientes da Amazônia e fortalece comunidades locais - Cidade catarinense tem estacionamento onde ninguém vigia, ninguém cobra e o motorista paga R$ 10 por Pix sozinho, modelo baseado só na confiança viraliza nas redes sociais Somadas, as duas medidas chegam a 37,5% de tarifa adicional. Brasil pode ganhar o direito de taxar produtos americanos, mas antes precisa vencer 4 etapas na OMC que começam com 60 dias de negociação direta contra tarifas de 25% e 12,5%.",
+   "detalhes": {
+    "valores": [
+     "R$ 10",
+     "US$ 6,6 bilhões"
+    ],
+    "percentual": [
+     "25%",
+     "12,5%",
+     "44%",
+     "37,5%"
+    ],
+    "datas": [
+     "julho de 2026"
+    ]
+   },
+   "category": "Resultados Trimestrais",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T18:06:20+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/brasil-pode-ganhar-o-direito-de-taxar-produtos-americanos-mas-antes-precisa-vencer-4-etapas-na-omc-que-comecam-com-60-dias-de-negociacao-direta-contra-tarifas-de-25-e-125-mhbb01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T18:06:20+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/brasil-pode-ganhar-o-direito-de-taxar-produtos-americanos-mas-antes-precisa-vencer-4-etapas-na-omc-que-comecam-com-60-dias-de-negociacao-direta-contra-tarifas-de-25-e-125-mhbb01/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "1f691c25c6c8afcf",
+   "title": "Menino de 8 anos fica entre os 10% melhores do Brasil na Olimpíada Canguru de Matemática, conquista medalha de honra ao mérito e emociona ao vencer desafios enquanto a mãe caminha 3 quilômetros por dia para levá-lo à escola",
+   "summary": "Menino de 8 anos fica entre os 10% melhores do Brasil na Olimpíada Canguru de Matemática, conquista medalha de honra ao mérito e emociona ao vencer desafios enquanto a mãe caminha 3 quilômetros por dia para levá-lo à escola. Samuel, de 8 anos, alcançou uma das faixas de melhor desempenho nacional na Olimpíada Canguru de Matemática e recebeu a classificação de honra ao mérito, resultado que o colocou entre os 10% mais bem posicionados do país. - O plano era sobreviver a uma guerra nuclear: empresário compra caverna por US$ 146 mil, investe US$ 2 milhões e espaço vira hospedagem subterrânea de luxo - Por 15 anos ela limpou os corredores da universidade federal com balde e pano na mão, e agora, aos 50, se senta como aluna nas mesmas salas que esfregava, sendo a primeira pessoa da família inteira a chegar ao ensino superior - Pítons-tapete podem se tornar aliadas dos menores pinguins do mundo na Austrália ao controlar ratos e coelhos invasores, enquanto projetos com cães, erradicação de raposas e recuperação da vegetação mostram que proteger as colônias exige restaurar todo o equilíbrio ecológico das ilhas e áreas costeiras - Casal compra a escola onde estudou na infância, assume um quarteirão com 14 salas, ginásio e palco e planeja transformar os 1.579 m² em uma casa para quatro gerações e 16 familiares após pagar US$ 470 mil pelo prédio abandonado no Kansas Divulgada inicialmente pela EPTV, a história ganhou alcance nas redes sociais após um vídeo sobre a família ser compartilhado pela apresentadora Ana Maria Braga, atraindo milhares de comentários, segundo reportagem publicada pelo portal acidade on.",
+   "detalhes": {
+    "valores": [
+     "US$ 146 mi",
+     "US$ 2 milhões",
+     "US$ 470 mi"
+    ],
+    "percentual": [
+     "10%",
+     "4%",
+     "1%",
+     "2%",
+     "3%"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T18:00:38+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/menino-de-8-anos-fica-entre-os-10-melhores-do-brasil-na-olimpiada-canguru-de-matematica-conquista-medalha-de-honra-ao-merito-e-emociona-ao-vencer-desafios-enquanto-a-mae-caminha-3-quilo-afch",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T18:00:38+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/menino-de-8-anos-fica-entre-os-10-melhores-do-brasil-na-olimpiada-canguru-de-matematica-conquista-medalha-de-honra-ao-merito-e-emociona-ao-vencer-desafios-enquanto-a-mae-caminha-3-quilo-afch"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "7a8af02021173765",
+   "title": "Pesquisadores da UFPE desenvolvem pavimento permeável capaz de absorver grandes volumes de água da chuva; tecnologia criada em Pernambuco pode reduzir alagamentos urbanos, melhorar a drenagem das cidades e transformar projetos de infraestrutura sustentável no Brasil",
+   "summary": "O estudo começou em 2021, foi conduzido pelo pesquisador Lucas Amorim, atualmente doutorando em Recursos Hídricos na UFPE, com orientação do professor Jaime Cabral, e teve seus resultados publicados em 16 de março de 2026 na Revista Brasileira de Ciências Ambientais. Conforme dados do Instituto Nacional de Meteorologia (Inmet), o Recife acumulou 2.155,5 milímetros de chuva entre 1991 e 2020, um dos maiores índices pluviométricos do Nordeste. Pesquisadores da UFPE desenvolvem pavimento permeável capaz de absorver grandes volumes de água da chuva; tecnologia criada em Pernambuco pode reduzir alagamentos urbanos, melhorar a drenagem das cidades e transformar projetos de infraestrutura sustentável no Brasil.",
+   "detalhes": {
+    "datas": [
+     "2021",
+     "março de 2026",
+     "2020"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T17:12:10+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/pesquisadores-da-ufpe-desenvolvem-pavimento-permeavel-capaz-de-absorver-grandes-volumes-de-agua-da-chuva-tecnologia-criada-em-pernambuco-que-pode-reduzir-alagamentos-urbanos-melhorar-hl1402",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T17:12:10+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/pesquisadores-da-ufpe-desenvolvem-pavimento-permeavel-capaz-de-absorver-grandes-volumes-de-agua-da-chuva-tecnologia-criada-em-pernambuco-que-pode-reduzir-alagamentos-urbanos-melhorar-hl1402/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "242015402a6bddd5",
+   "title": "Novo Xiaomi Redmi A7 Pro possui bateria gigante de 6.000 mAh, tela de 6,9 polegadas e 120 Hz, HyperOS 3, áudio Dolby Atmos e preço a partir de R$ 1.747 no Brasil",
+   "summary": "Na página oficial da empresa, a compra à vista recebe desconto de 8%, reduzindo o preço para R$ 1.747,99. Novo Xiaomi Redmi A7 Pro possui bateria gigante de 6.000 mAh, tela de 6,9 polegadas e 120 Hz, HyperOS 3, áudio Dolby Atmos e preço a partir de R$ 1.747 no Brasil. Xiaomi Redmi A7 Pro chega ao Brasil com bateria de 6.000 mAh, tela de 120 Hz, HyperOS 3 e preço à vista de R$ 1.747,99.",
+   "detalhes": {
+    "valores": [
+     "R$ 1.747",
+     "R$ 1.747,99.",
+     "R$ 1.899,99",
+     "R$ 158,33,"
+    ],
+    "percentual": [
+     "8%"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T17:03:51+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/novo-xiaomi-redmi-a7-pro-e-lancado-no-brasil-com-bateria-de-6-000-mah-tela-de-69-polegadas-e-120-hz-hyperos-3-audio-dolby-atmos-e-preco-a-partir-de-r-1-747-rmrm97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T17:03:51+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/novo-xiaomi-redmi-a7-pro-e-lancado-no-brasil-com-bateria-de-6-000-mah-tela-de-69-polegadas-e-120-hz-hyperos-3-audio-dolby-atmos-e-preco-a-partir-de-r-1-747-rmrm97/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "255cdb4bde63f2b9",
+   "title": "AXIA ENERGIA INVESTE R$ 1,8 MILHÃO EM PLATAFORMA DE IA DA BIP BRASIL PARA GESTÃO AMBIENTAL",
+   "summary": "AXIA ENERGIA INVESTE R$ 1,8 MILHÃO EM PLATAFORMA DE IA DA BIP BRASIL PARA GESTÃO AMBIENTAL. Desenvolvida pela consultoria BIP Brasil, por meio da unidade Bip x Tech, a solução utiliza IA generativa para interpretar documentos, organizar informações e acompanhar obrigações regulatórias, reduzindo em até 80% o tempo dedicado à gestão documental. A Axia administra atualmente mais de 400 Licenças de Operação (LO), que reúnem cerca de 4 mil condicionantes ambientais e envolvem investimentos superiores a R$ 300 milhões.",
+   "detalhes": {
+    "valores": [
+     "R$ 1,8 MILHÃO",
+     "R$ 300 milhões"
+    ],
+    "percentual": [
+     "80%"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T17:00:30+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/axia-energia-investe-r-18-milhao-em-plataforma-de-ia-da-bip-brasil-para-gestao-ambiental",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T17:00:30+00:00",
+     "link_real": "https://petronoticias.com.br/axia-energia-investe-r-18-milhao-em-plataforma-de-ia-da-bip-brasil-para-gestao-ambiental/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "962daa4c8575da34",
+   "title": "BRASIL E COREIA DO SUL FIRMAM ACORDO PARA COOPERAÇÃO EM MINERAIS CRÍTICOS E TRANSIÇÃO ENERGÉTICA",
+   "summary": "BRASIL E COREIA DO SUL FIRMAM ACORDO PARA COOPERAÇÃO EM MINERAIS CRÍTICOS E TRANSIÇÃO ENERGÉTICA. O ministro de Minas e Energia, Alexandre Silveira, e o ministro do Comércio, Indústria e Energia sul-coreano, Jung-Kwan Kim, assinaram um comunicado conjunto que estabelece as bases para o fortalecimento das cadeias produtivas de minerais estratégicos e o desenvolvimento de projetos voltados à inovação tecnológica e à descarbonização. O documento foi firmado durante a visita oficial ao Brasil do presidente da Coreia do Sul, Lee Jae Myung, e expressa a intenção dos dois países de desenvolver cadeias de valor mais resilientes, diversificadas e sustentáveis para minerais considerados essenciais às transições energética e digital, como lítio, terras raras, níquel e grafita.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-28T15:00:47+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/brasil-e-coreia-do-sul-firmam-acordo-para-cooperacao-em-minerais-criticos-e-transicao-energetica",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-28T15:00:47+00:00",
+     "link_real": "https://petronoticias.com.br/brasil-e-coreia-do-sul-firmam-acordo-para-cooperacao-em-minerais-criticos-e-transicao-energetica/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "1b9e2d3185d0a858",
+   "title": "O SINDICATO DAS INDÚSTRIAS DE ENERGIA DO MATO GROSSO QUER DIFUNDIR PELO BRASIL AS EXPERIÊNCIAS QUE DERAM BONS RESULTADOS",
+   "summary": "O SINDICATO DAS INDÚSTRIAS DE ENERGIA DO MATO GROSSO QUER DIFUNDIR PELO BRASIL AS EXPERIÊNCIAS QUE DERAM BONS RESULTADOS. O presidente do Sindicato das Indústrias de Energia do Estado de Mato Grosso, Carlos Garcia, que levar os posicionamentos da entidade para um nível nacional de conhecimento. Em um evento promovido pela Greener em São Paulo ele apresentou as experiências e estratégias desenvolvidas no Mato Grosso para enfrentar os desafios da geração e distribuição de",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-27T20:00:52+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/o-sindicato-das-industrias-de-energia-do-mato-grosso-quer-difundir-pelo-brasil-as-experiencias-que-deram-bons-resultados",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-27T20:00:52+00:00",
      "link_real": null
     }
    ],
