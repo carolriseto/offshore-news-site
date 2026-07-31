@@ -1,23 +1,23 @@
 {
  "meta": {
-  "gerado_em": "2026-07-30T19:01:16.512681+00:00",
-  "total_grupos": 177,
-  "total_noticias": 456,
+  "gerado_em": "2026-07-31T18:57:54.168947+00:00",
+  "total_grupos": 194,
+  "total_noticias": 479,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 177,
+  "total_grupos": 194,
   "por_categoria": {
-   "Operadoras e IOCs": 119,
+   "Operadoras e IOCs": 129,
+   "Bids e Licitações": 14,
    "Prospectos e Investimentos": 13,
-   "Bids e Licitações": 11,
-   "Novas Tecnologias": 11,
-   "Opinião e Regulatório": 4,
-   "Contratos e Concorrentes": 4,
-   "Perfuração e Poços": 3,
+   "Novas Tecnologias": 12,
+   "Opinião e Regulatório": 6,
+   "Contratos e Concorrentes": 6,
    "SURF": 3,
    "Descobertas": 3,
    "Resultados Trimestrais": 3,
+   "Perfuração e Poços": 2,
    "Campanhas e Blocos": 2,
    "Projetos Futuros": 1
   },
@@ -28,18 +28,12 @@
   "alta": [
    {
     "topico": "Petrobras",
-    "atual": 16,
-    "anterior": 5,
-    "delta": 11
+    "atual": 20,
+    "anterior": 7,
+    "delta": 13
    },
    {
-    "topico": "Total",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
-   },
-   {
-    "topico": "Foz do Amazonas",
+    "topico": "Bacia de Santos",
     "atual": 2,
     "anterior": 0,
     "delta": 2
@@ -51,7 +45,7 @@
     "delta": 2
    },
    {
-    "topico": "Bacia de Santos",
+    "topico": "Atapu",
     "atual": 2,
     "anterior": 0,
     "delta": 2
@@ -61,11 +55,29 @@
     "atual": 1,
     "anterior": 0,
     "delta": 1
+   },
+   {
+    "topico": "Margem Equatorial",
+    "atual": 1,
+    "anterior": 0,
+    "delta": 1
    }
   ],
   "baixa": [
    {
-    "topico": "Constellation",
+    "topico": "DOF",
+    "atual": 0,
+    "anterior": 2,
+    "delta": -2
+   },
+   {
+    "topico": "SLB",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
+   },
+   {
+    "topico": "Altera",
     "atual": 0,
     "anterior": 1,
     "delta": -1
@@ -77,25 +89,13 @@
     "delta": -1
    },
    {
+    "topico": "Constellation",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
+   },
+   {
     "topico": "Bacia de Campos",
-    "atual": 0,
-    "anterior": 1,
-    "delta": -1
-   },
-   {
-    "topico": "Subsea7",
-    "atual": 0,
-    "anterior": 1,
-    "delta": -1
-   },
-   {
-    "topico": "SLB",
-    "atual": 0,
-    "anterior": 1,
-    "delta": -1
-   },
-   {
-    "topico": "BP",
     "atual": 0,
     "anterior": 1,
     "delta": -1
@@ -104,9 +104,9 @@
  },
  "mercado": {
   "brent": {
-   "atual": 88.99,
+   "atual": 90.12,
    "moeda": "US$",
-   "variacao_pct": -1.93,
+   "variacao_pct": 1.22,
    "serie": [
     72.92,
     71.57,
@@ -129,17 +129,92 @@
     88.36,
     84.09,
     90.74,
-    88.99
+    89.03,
+    90.12
    ],
    "fonte": "Yahoo"
   },
-  "usd": null,
-  "eur": null
+  "usd": {
+   "atual": 5.0583,
+   "moeda": "R$",
+   "variacao_pct": -0.83,
+   "serie": [
+    5.1519,
+    5.1725,
+    5.1996,
+    5.2019,
+    5.1759,
+    5.1639,
+    5.1784,
+    5.1874,
+    5.201,
+    5.1962,
+    5.18,
+    5.1413,
+    5.1563,
+    5.1453,
+    5.1185,
+    5.1155,
+    5.1233,
+    5.081,
+    5.0857,
+    5.1158,
+    5.1043,
+    5.0794,
+    5.0797,
+    5.0715,
+    5.0827,
+    5.0825,
+    5.1164,
+    5.1202,
+    5.1006,
+    5.0583
+   ],
+   "fonte": "Frankfurter"
+  },
+  "eur": {
+   "atual": 5.8095,
+   "moeda": "R$",
+   "variacao_pct": -0.75,
+   "serie": [
+    5.902,
+    5.8925,
+    5.8963,
+    5.9,
+    5.901,
+    5.8899,
+    5.9003,
+    5.9048,
+    5.9286,
+    5.9486,
+    5.913,
+    5.8781,
+    5.8802,
+    5.8837,
+    5.8505,
+    5.8439,
+    5.8431,
+    5.7954,
+    5.8318,
+    5.8499,
+    5.8322,
+    5.7997,
+    5.7949,
+    5.7775,
+    5.7826,
+    5.7885,
+    5.8158,
+    5.8268,
+    5.8535,
+    5.8095
+   ],
+   "fonte": "Frankfurter"
+  }
  },
  "analise": {
-  "texto": "## Panorama do dia\n177 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, Total, Foz do Amazonas, Shell, Bacia de Santos, Albacora. Em baixa: Constellation, Saipem, Bacia de Campos, Subsea7, SLB, BP.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (11 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Perfuração e Poços** (3 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (3 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 4 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n194 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, Bacia de Santos, Shell, Atapu, Albacora, Margem Equatorial. Em baixa: DOF, SLB, Altera, Saipem, Constellation, Bacia de Campos.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **Bids e Licitações** (14 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Perfuração e Poços** (2 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (3 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 6 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-07-30T19:01:16.955912+00:00"
+  "gerado_em": "2026-07-31T18:57:54.697280+00:00"
  },
  "companhias": [
   {
@@ -160,7 +235,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.298675+00:00",
    "com_release": false,
-   "n_noticias": 0
+   "n_noticias": 1
   },
   {
    "id": "shell",
@@ -180,7 +255,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.308986+00:00",
    "com_release": false,
-   "n_noticias": 13
+   "n_noticias": 15
   },
   {
    "id": "chevron",
@@ -200,7 +275,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T12:23:07.682637+00:00",
    "com_release": false,
-   "n_noticias": 1
+   "n_noticias": 2
   },
   {
    "id": "prio",
@@ -210,7 +285,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-07-23T11:36:10.314483+00:00",
    "com_release": false,
-   "n_noticias": 6
+   "n_noticias": 7
   },
   {
    "id": "brava",
@@ -375,52 +450,52 @@
  ],
  "mensal": {
   "2026-07": {
-   "texto": "**FECHAMENTO MENSAL — 2026-07**  \n**De:** Função de Inteligência de Mercado\n\n## Resumo do mês\n53 assuntos no mês. Distribuição: Operadoras e IOCs (32), Prospectos e Investimentos (4), Bids e Licitações (3), Novas Tecnologias (3), SURF (2), Perfuração e Poços (2).\n\n## Destaques (por relevância)\n- [100] (SURF) VALLOUREC FORNECERÁ 143 KM DE DUTOS PARA O PROJETO ATAPU 2, NO PRÉ-SAL DA BACIA DE SANTOS\n- [100] (Bids e Licitações) SLB ONESUBSEA SAI NA FRENTE EM LICITAÇÃO DE 32 ÁRVORES DE NATAL PARA A PETROBRÁS NO PROJETO SERGIPE ÁGUAS PROFUNDAS - Petronotícias\n- [100] (SURF) BNP Paribas restabelece cobertura de Saipem e Subsea 7 após aprovação de fusão no Brasil - Investing.com Brasil - Finanças, Câmbio e Investimentos\n- [95] (Prospectos e Investimentos) Turquia aprova fusão entre Saipem e Subsea7 - Investing.com Brasil - Finanças, Câmbio e Investimentos\n- [92] (Operadoras e IOCs) EMBARCAÇÃO DE APOIO DA DOF GROUP SOFRE INCÊNDIO NA BACIA DE CAMPOS\n- [76] (Perfuração e Poços) “Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista - Diário do Amapá\n- [62] (Operadoras e IOCs) Lula trata minerais críticos como novo pré-sal, e governo avalia entrada de BNDES e Petrobras em empresas do setor - Folha de S.Paulo\n- [50] (Opinião e Regulatório) ANP investiga Petrobras e PPSA por possível prática anticoncorrencial e coloca acesso ao pré-sal sob escrutínio regulatório - Cenário Energia\n- [50] (Operadoras e IOCs) ANP vai mediar acesso à infraestrutura de gás do pré-sal, em negociação entre Petrobras e PPSA - Agência eixos\n- [50] (Operadoras e IOCs) Sem fechar acordo, PPSA recua de mediação na ANP em conflito com a Petrobras por gasodutos do pré-sal - Agência eixos\n- [50] (Novas Tecnologias) Petrobras celebra início das operações do Centro Tecnológico para o Pré-sal brasileiro, em Itajubá (MG) - Agência Petrobras de Notícias\n- [50] (Operadoras e IOCs) Petrobras inaugura centro tecnológico do pré-sal, em Minas Gerais, e acelera o desenvolvimento do projeto Hisep - ADVFN\n\n_Fechamento completo (prometido × praticado, consequências e prioridades) exige a IA (Opus 4.8)._",
+   "texto": "**FECHAMENTO MENSAL — 2026-07**  \n**De:** Função de Inteligência de Mercado\n\n## Resumo do mês\n174 assuntos no mês. Distribuição: Operadoras e IOCs (113), Bids e Licitações (13), Prospectos e Investimentos (12), Novas Tecnologias (12), Opinião e Regulatório (6), Contratos e Concorrentes (5).\n\n## Destaques (por relevância)\n- [100] (Perfuração e Poços) PETROBRÁS COMEMORA OS DOIS PRIMEIROS TRIMESTRES DE OURO COM RECORDES DE PRODUÇÃO NOS CAMPOS, REFINOS E VENDAS\n- [100] (SURF) BNP Paribas restabelece cobertura de Saipem e Subsea 7 após aprovação de fusão no Brasil\n- [100] (Bids e Licitações) SLB ONESUBSEA SAI NA FRENTE EM LICITAÇÃO DE 32 ÁRVORES DE NATAL PARA A PETROBRÁS NO PROJETO SERGIPE ÁGUAS PROFUNDAS\n- [95] (Operadoras e IOCs) NAVIO SKANDI AMAZONAS SOFREU PERDA TOTAL APÓS ENCALHAR EM MACAÉ\n- [80] (Prospectos e Investimentos) MODEC TESTA NOVAS TECNOLOGIAS NO PRÉ-SAL PARA REDUZIR AS EMISSÕES DE PLATAFORMAS\n- [80] (Operadoras e IOCs) Nova oportunidade em julho de 2026: TechnipFMC está com nova vaga offshore aberta para quem quer trabalhar embarcado em Macaé (RJ) como Técnico de Serviços Offshore\n- [76] (Bids e Licitações) EXXONMOBIL E TOTALENERGIES VENCEM LEILÃO DE PETRÓLEO DA UNIÃO PROMOVIDO PELA PPSA\n- [76] (Perfuração e Poços) PETROBRÁS JÁ ESTÁ A 500 METROS DE ATINGIR O RESERVATÓRIO DE MORPHO, NA BACIA DA FOZ DO AMAZONAS\n- [76] (Bids e Licitações) A Petrobras deve concluir em agosto de 2026 a perfuração do poço Morpho, na Foz do Amazonas, o primeiro furo da Margem Equatorial, fronteira de petróleo que a ANP estima em mais de 30 bilhões de barris e pode redesenhar o mapa do Brasil\n- [62] (Operadoras e IOCs) Lula trata minerais críticos como novo pré-sal, e governo avalia entrada de BNDES e Petrobras em empresas do setor\n- [62] (Operadoras e IOCs) Petrobras (PETR4): Campo de Búzios bate recorde de produção e supera 1,2 milhão de barris por dia\n- [55] (SURF) CENTRO TECNOLÓGICO PARA O PRÉ-SAL AVANÇA EM TESTES DE INOVAÇÕES QUE PROMETEM REVOLUCIONAR O MERCADO SUBSEA DO BRASIL\n\n_Fechamento completo (prometido × praticado, consequências e prioridades) exige a IA (Opus 4.8)._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-07-23T11:38:52.803558+00:00"
+   "gerado_em": "2026-07-31T18:57:54.697682+00:00"
   }
  },
  "series": {
   "semanas": [
-   "11/06",
-   "18/06",
-   "25/06",
-   "02/07",
-   "09/07",
-   "16/07",
-   "23/07",
-   "30/07"
+   "12/06",
+   "19/06",
+   "26/06",
+   "03/07",
+   "10/07",
+   "17/07",
+   "24/07",
+   "31/07"
   ],
   "total": [
    0,
-   25,
-   67,
-   43,
-   38,
-   52,
-   85,
-   146
+   21,
+   68,
+   55,
+   40,
+   41,
+   99,
+   155
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    23,
-    56,
-    29,
-    28,
+    17,
+    57,
     42,
-    58,
-    108
+    26,
+    35,
+    68,
+    110
    ],
    "Bids e Licitações": [
     0,
     0,
-    0,
-    10,
+    2,
+    9,
     2,
     0,
     6,
-    6
+    10
    ],
    "Prospectos e Investimentos": [
     0,
@@ -429,8 +504,8 @@
     2,
     0,
     0,
-    8,
-    8
+    11,
+    5
    ],
    "Novas Tecnologias": [
     0,
@@ -439,34 +514,34 @@
     0,
     3,
     0,
-    4,
+    5,
     9
    ],
    "Perfuração e Poços": [
     0,
-    2,
-    6,
+    4,
+    4,
     0,
     0,
     0,
     4,
-    2
+    3
    ],
    "Opinião e Regulatório": [
     0,
     0,
     0,
     0,
-    0,
-    6,
+    4,
     2,
-    2
+    2,
+    4
    ]
   }
  },
  "grupos": [
   {
-   "id": "f9c7dda73c8caac4",
+   "id": "042b01b35c26cb6e",
    "title": "PETROBRÁS COMEMORA OS DOIS PRIMEIROS TRIMESTRES DE OURO COM RECORDES DE PRODUÇÃO NOS CAMPOS, REFINOS E VENDAS",
    "summary": "Tais ativos – como Tupi, Sépia, Atapu, Itapu, Sapinhoá e Berbigão – apresentam um desempenho operacional consistente, que sustenta, juntamente com os grandes desenvolvimentos do portfólio, uma produção acima de 1,5 MM bpd; - Na Bacia de Campos, a produção de óleo foi de 559 mil bpd no 2T26, a segunda maior produção desde o 4T23, resultante dos ganhos obtidos com investimentos e com medidas de gestão e otimização dos ativos desta Bacia, revertendo a tendência de queda. - O FPSO Almirante Tamandaré, que também produz no campo de Búzios, atingiu recorde de produção média mensal de óleo com 253 mbpd em junho/2026, se mantendo como a plataforma com a maior produção no Brasil; - O ativo de Mero teve uma produção média de cerca de 740 mbpd no 2T26, com elevado índice de eficiência operacional; - Além de Búzios e Mero, os outros ativos da Bacia de Santos vêm mantendo um alto patamar de produção, estável desde 2022, mesmo sem a entrada de novos sistemas. VALLOUREC FORNECERÁ 143 KM DE DUTOS PARA O PROJETO ATAPU 2, NO PRÉ-SAL DA BACIA DE SANTOS A Vallourec foi contratada pela Allseas para fornecer tubos de aço carbono sem costura e revestimento com isolamento térmico que serão utilizados no projeto Atapu 2, operado pela Petrobrás no pré-sal da Bacia de Santos.",
    "detalhes": {
@@ -514,15 +589,39 @@
      "Allseas"
     ]
    },
-   "published": "2026-07-30T13:32:00+00:00",
-   "n_sources": 43,
+   "published": "2026-07-31T01:36:12+00:00",
+   "n_sources": 46,
    "sources": [
+    {
+     "name": "DatamarNews",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1JIUlpJN01oNEN6QjZuS1ozcVNYMkhvR2daRVZyVVQtWDJzSDNOYTJKUXlZNjBVQl9IQUs5YmZSRW1NUU5pSDJYamJTRk5kQnMxX2tyQUR1cThMWndYTk01dTFMZFNPa080RV9ITXpiMmVjcHQtMGRLVm1YQjJONnprd1JjMGlhMEl5WGxsc3pSTHhQWUNBYlhTZDk2YURq?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T01:36:12+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Agora RN",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03WkVuM0stUjR1ZHZ3VmNUbjR0VTM0Wk9wMmM4aHp3eEJxTWVkRWFBSFpBTVI4RUNjZ1J2czIwSFdQc3AyWFlIbFpUbGVESDZhNm1NX05ueE4wc1YycWc1a2RJT0NLdTlOWEcwOXktNmhmZUk2?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T18:56:08+00:00",
+     "link_real": null
+    },
     {
      "name": "Portal BE News",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3l1Mk9admU4Ny1sc3A5ZzBuM2tlWFBJeFlnUTBWbHFPQTQ3MHh4cmlxcjNiS0Y3Y1NYajVJc2xyb3RFd2o2czFkMmRZVlJ2cFVIaHpZakI3UUhGS0hwaXQ3VHNxZ21QS2Zsdkpfdmp5QThhdGlZWVdsWEtqWmhUYnduZUdWeGlqMFp6OXR1UGc?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-30T13:32:00+00:00",
+     "published": "2026-07-30T14:16:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "InvestNews",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWV1UzBid090N0VnRERqazJRak1YZVpvVllUWFVRNXFaMzAxTDZ3VkozejFtSXNFbm5YcWZnZTRmbzNnZW44MjB5RmpiN01YcVVtbWw3V2MxYndmUGVRdGZyMzBuUS1IdEV1RklDVTluR1VTQ0RTNXVhUDNBUGpkUkJGdXRKb0lxajVmNVUxa3RDRGVEc2pzOGdIYks1THRoejNwdEdzeXVkWERQLWJibjB30gG3AUFVX3lxTE9JZGJlbUdNek1aakpxMTNRZG9EaWRCaTZ6WE13QUVtVFYxalF2QzVuOC1QMFpNeERya2owbjZrd2M5cnVESXAxN2I4QjRnQTltTzVLeC1xZ3FYOF93YlZuM19KcVNSWWhkNVhCMWNQVEhGalBwRmZTZUprSlZIUTdJN0VqRzFCNWpNSW5lSk1uZ3cybDhuMEJmYkpMbmdmdThNMFJOSTdqWENvaklXRjZWai1RbW1ndw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T13:51:02+00:00",
      "link_real": null
     },
     {
@@ -542,7 +641,7 @@
      "link_real": null
     },
     {
-     "name": "Terra",
+     "name": "terra.com.br",
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVYwc3dZY0xKV2tMbE1hU2hfX2hBbW55am1ZZU93NHQ5X3V5MWVHdnM1M0ZGS1lRS3NuaWQzdG8tOWlvZEhMclYwNWZjbW1Ma2NtMkUyT3ZCRDRiTEFTcTMwX3ljUVZiMllMZ3JLb0pENWZzenFyelRWRWRuYU5lUDFISEJ1ZlotZkdWTHJkYkZITnE0aHBWdEc5dmppNUQ0bkRjbFNlN2pjTTltb0xfRG00TFhaZTBmRjBxbnBmaU1HejMwLVFTUVdzSDNINWdUWk5MN1VQWGNkTElSamZ0WA?oc=5",
      "type": "aberta",
      "paid": false,
@@ -670,7 +769,7 @@
      "link_real": null
     },
     {
-     "name": "piauihoje.com",
+     "name": "Portal Piauí Hoje",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWRCTkh1Z2QwdlV1WHdmdzZCakZhV2dhaEUwQzVkRU44UU5OdEdjUFVjeVBSVVdvd1ZyY1otY0hRMlBaZWtheHhpUk1nZ1ZSaVhTaVRZUGstLUtZVjhfeXVwUGdQYVhxM0NDNWhJdElFVFBnZDRrLTE0ZW9tcDdRRktTOHFsM3NoNGkzQTJ6TEJuZnh3WVNBejBWOVVLU1VWckJiZXNyNzJfNWVkYjN0VTVpbEhBNW_SAbwBQVVfeXFMTUZNMVl1TWE0WWExbGZXMHU0MExFYlgzNnpRSEd3dEFXWU56bXBXWWRaMGhNSm1mWld4NFQ0bXNPaExDNUVsbHVnejlwdmVwMnpkUFZoeV9sSXhMUDZNWFlNVXF6dFh3U1J3RWJ2NS1ERngyU196MmZqNzhVamdHWjR5dkVrN25QaW9VTTlZaS1YTWNRTEZjVDdMUTlYQTZIclFWSjQ0OFg5WDdZNWRLcjFReUtKVGN6LV9MVUg?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1278,7 +1377,7 @@
     ]
    },
    "published": "2026-06-24T07:00:00+00:00",
-   "n_sources": 10,
+   "n_sources": 8,
    "sources": [
     {
      "name": "TAGD Advogados",
@@ -1313,7 +1412,7 @@
      "link_real": null
     },
     {
-     "name": "tagdlaw.com.br",
+     "name": "TAGD Advogados",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qWU9KLVQta3pHRUFuTmpZRUh0bXpRMktrR2M3OFpoMnFkeU1xS0JCMUdYdDlEb2liaHJRbS1HbGxjU0RqNHVybTFCN3kyWE02Ny1vRy10V1VMUWhLQXlNRXBLaVpuUG1IeHRLelRHV0ZnUQ?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1417,7 +1516,7 @@
      "link_real": null
     },
     {
-     "name": "br.tradingview.com",
+     "name": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05T3YzSHhDR0p6blJLaW9vLXVLZTB4NzN2VG1sLThYQVpEREVtckdKcjU0MFZmanNMVGhsNkk1UDJxSExhdmRKNXN0eE9POW5LemRHakJXdnRITFNYNHIxSVVZX21OdFZZcmI1M242VHBFUUtuZkln?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1425,7 +1524,7 @@
      "link_real": null
     },
     {
-     "name": "br.tradingview.com",
+     "name": "TradingView",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfaXlNbmcxdi0tMGEwM3ItLXFwbHVtX202RmVMdzhDaGtzUUtMMk5iR3dDSkUzcFRwdFlsRXdLRG5HdzI5bjVWTVBWR3VZd2lWenlsMjIxTGk5VVhiQV8xUEpQcW1yNXRkajJFNmxVd1VPN0xFN2hF?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1610,14 +1709,85 @@
    "aviso_paga": ""
   },
   {
-   "id": "45367db5ac377921",
-   "title": "“Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista",
-   "summary": "Petrobras conclui primeira perfuração de poço exploratório na Margem Equatorial – Edição do dia. Petrobras conclui perfuração de poço exploratório na Margem Equatorial. “Petrobras tem toda condição para explorar a Margem Equatorial com segurança”, diz especialista.",
-   "detalhes": {},
+   "id": "3eabe4e5914761dd",
+   "title": "EXXONMOBIL E TOTALENERGIES VENCEM LEILÃO DE PETRÓLEO DA UNIÃO PROMOVIDO PELA PPSA",
+   "summary": "A empresa francesa arrematou uma carga de 900 mil barris de petróleo do campo de Atapu (lote 1), com previsão de carregamento em setembro de 2026; e a ExxonMobil arrematou uma carga 1 milhão de barris do campo de Bacalhau (lote 2), com previsão de carregamento em outubro de 2026. Desta vez, além da TotalEnergies e da ExxonMobil, participaram do certame: CNOOC, Equinor, Galp, Petrobrás e Petrochina. O lote 3, referente a uma carga de 1 milhão de barris do campo de Bacalhau com carregamento previsto para novembro/dezembro, não foi arrematado e voltará a ser comercializado oportunamente.",
+   "detalhes": {
+    "producao": [
+     "900 mil barris"
+    ],
+    "datas": [
+     "setembro de 2026",
+     "outubro de 2026",
+     "novembro",
+     "dezembro",
+     "2026",
+     "2027"
+    ]
+   },
+   "category": "Bids e Licitações",
+   "relevance": 76,
+   "entities": {
+    "campos_blocos": [
+     "Atapu"
+    ],
+    "operadoras": [
+     "ExxonMobil",
+     "TotalEnergies"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-31T15:00:52+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/exxonmobil-e-totalenergies-vencem-leilao-de-petroleo-da-uniao-promovido-pela-ppsa",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T15:00:52+00:00",
+     "link_real": "https://petronoticias.com.br/exxonmobil-e-totalenergies-vencem-leilao-de-petroleo-da-uniao-promovido-pela-ppsa/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "44d31505a1799144",
+   "title": "PETROBRÁS JÁ ESTÁ A 500 METROS DE ATINGIR O RESERVATÓRIO DE MORPHO, NA BACIA DA FOZ DO AMAZONAS",
+   "summary": "- US$ 6,2 bilhões no meio do mar: gigante aprova megaobra de gasoduto com 14 poços sobre um dos campos de petróleo mais antigos dos Emirados - Depois de 25 anos bombeando petróleo na Bacia de Campos, a plataforma P-32 foi cortada no maçarico bloco por bloco dentro do maior dique seco da América Latina, e suas mais de 40 mil toneladas viraram aço de novo no forno da Gerdau em Charqueadas - Bilionário transforma água residual do petróleo em aposta de US$ 7,5 bilhões para atrair gigantescos data centers de IA ao deserto do Texas - Satélites já flagram do espaço as nuvens de metano que escapam de dutos e poços pelo mundo inteiro, mas um levantamento da ONU mostra que apenas 13% dos alertas enviados às empresas viram alguma ação concreta Pesquisas identificam deslocamento rápido do óleo para outros territórios Pesquisadores da Universidade Federal da Bahia e da Universidade Federal de Pernambuco avaliaram quatro pontos da bacia por meio do MEDSLIK-II, programa capaz de projetar o movimento do petróleo no oceano. A diretora de Exploração e Produção da companhia, Sylvia Anjos, revelou nesta quinta-feira (30) durante o evento Sergipe Óleo e Gás 2026 que faltam apenas 500 metros para a sonda de perfuração atingir o reservatório do poço pioneiro Morpho. Petrobras estima concluir perfuração de poço na Foz do Amazonas em agosto.",
+   "detalhes": {
+    "valores": [
+     "US$ 6,2 bilhões",
+     "US$ 7,5 bilhões"
+    ],
+    "percentual": [
+     "13%",
+     "40%",
+     "50%",
+     "12,5%",
+     "5%",
+     "2%"
+    ],
+    "profundidade": [
+     "500 METROS",
+     "6 mil metros de profundidade"
+    ],
+    "datas": [
+     "2026",
+     "agosto",
+     "outubro",
+     "janeiro",
+     "2023",
+     "março"
+    ]
+   },
    "category": "Perfuração e Poços",
    "relevance": 76,
    "entities": {
     "campos_blocos": [
+     "Foz do Amazonas",
      "Margem Equatorial"
     ],
     "operadoras": [
@@ -1625,9 +1795,41 @@
     ],
     "servicos": []
    },
-   "published": "2026-07-27T11:38:33+00:00",
-   "n_sources": 4,
+   "published": "2026-07-31T03:00:04+00:00",
+   "n_sources": 8,
    "sources": [
+    {
+     "name": "ClimaInfo",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlRnb3N4SjBJanV0VWpobjZRd1V5OHRwamhwSk0zd1A1ZFIxM2dOMDBiSzc2TkI2UVQ5NzZpUW5sR0tJcnlyRy1UX0paaHh6bmt5NHc0WTRNQnN0TnUtcUI3c3VabXExWWpib3h5QVhfWDlzQk1GUFhSYi1QOFZnbmlyVGtIcFVCRUFNaDhBNkhZT3pSTGFDNmhUdEstRUVjMjBzWG5XY3k4a3FPbV9LYw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T03:00:04+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/petrobras-ja-esta-a-500-metros-de-atingir-o-reservatorio-de-morpho-na-bacia-da-foz-do-amazonas",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T20:00:03+00:00",
+     "link_real": "https://petronoticias.com.br/petrobras-ja-esta-a-500-metros-de-atingir-o-reservatorio-de-morpho-na-bacia-da-foz-do-amazonas/"
+    },
+    {
+     "name": "amazonas atual",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2xjb3ZhODAxaHlEUkY5cDRWWHpCZ01MSGgxUGlQREhsdXZJcFRSUlFKb3VsalJBYmZDdzdNby1BSjBsR0VNYjluNGFOVTVYdG8yc19hcm5UUzAyRFY0R2hoMXZnWWdlUWJPdTA5bjZuZzFBNWtKR01SMzhod2t6Rzlxd0N4U3p3VG8yZTNhdGV3Uy12aGpoanFOS2psOFl3SXljQWJ3?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T18:52:25+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/novos-estudos-apontam-que-um-eventual-vazamento-na-foz-do-amazonas-poderia-atingir-areas-protegidas-e-paises-vizinhos-ama01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-29T16:09:36+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/novos-estudos-apontam-que-um-eventual-vazamento-na-foz-do-amazonas-poderia-atingir-areas-protegidas-e-paises-vizinhos-ama01"
+    },
     {
      "name": "MegaWhat",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ0ZkbkVoT2NVRjZXN0JYeklLLVNvZjRFdF8zUDNTN3B3Y0JDZVBPZk14bWVHUVY5anZIZ0N1dktJM1VPSG40YTFkV0I3Z20zV3ktTjQ3STZTamxnb1ExWjdVVnpCU0paWjZkSkRlc0tpYUMtVnpaX18zVF91ckIyUllRSk5KZG5OZXB0Q2VtSENiVVc1QkZORDNvUl9OVFRUdXZrblpKb3diLXczZldpbUNkeWJEaWZVOHJPMmlINE1NdE5laEtxS0ZNUVJaR0p2?oc=5",
@@ -1744,6 +1946,14 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-06-29T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "TN Petróleo",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSHQ3dGd4MVlYZURXQjJqRHM1U2JBS19vWVdFX0Q5RHd0TklUd2xOZVpTU2VPZ3JWRVJaX3p0WmVmR1hLSWJCRE9ic1RXS3c2c1N3M0pFeS1uM05Ka3JsWnpwLU96WE1PUGNlV08za0l2X2R5dW5kLWN2ekVaTGhGaFBIYmdnQzU2Mm9UbXlUTXdSNHU2aV9qbkVWbkVIYVJjcGVmTi1pVmltbFYyb3FwdVlnSWxjRlFvdkR4S1ZwSnQxcUk2cTFSVWo2djQzTWItb3pkQ1RoYlo3a2ZXTk05Qg?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-27T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -1955,7 +2165,7 @@
     "servicos": []
    },
    "published": "2026-07-01T07:00:00+00:00",
-   "n_sources": 17,
+   "n_sources": 19,
    "sources": [
     {
      "name": "Forbes Brasil",
@@ -1990,7 +2200,7 @@
      "link_real": null
     },
     {
-     "name": "tagdlaw.com.br",
+     "name": "TAGD Advogados",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYWhSTVpuT3lWRDVxUHpad2ViMDdWcDViaWtDaHhiRGNuRjNqeldtWE1WRmd0VUkycUJHQUk2Yk9nOE43YzMwWlMzZmhYdDdJZWVNZVUwUFBUOEhqaGs4ckxQZ196VjZBOHo3SWd6VnhrQmtzV3VaVHpuVXdiZkttVGFoY1pXUEs1WFdpb2ZaWEFOdw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2062,7 +2272,7 @@
      "link_real": null
     },
     {
-     "name": "G1",
+     "name": "g1.globo.com",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTRKX2NtRWJjWGRfVFkzS2dzNWFFUHVhS3hCeWVDVzI3a2E0Qkloak9lTjc3S19Bc3owWFBWMWwyVW1vMkdISHBqU3VuRTZTQzNaNEF2MjV2V05EbDJYajFJTzZXWlFDMDJUcEhyM25QMFFFV05EQzB6SDUxaGplZlFHOHdKd9IBlAFBVV95cUxNZTZnRnJTNld6UUtPMDVwOVN2dklZSGVIa29Ca3pSV29Oc3hVTzJaOWNpS1kwZFZpeEx5eHk1T3hRb2psY3VhTUJSb1MycFhYOE9rTmpNYzAzSWxTTG5hZjQ3MHduUnN2SVJEa1I2YnBxNG9RZzQ1bURPc3R6dVYzTmlReUd1V0M0dGkxQk1VZmJMVkc5?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2142,7 +2352,7 @@
      "link_real": null
     },
     {
-     "name": "Terra",
+     "name": "terra.com.br",
      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONjhVWjFOcEFzbzA3ckFNMFBYcldPdWdyaTNrTGtoR0xicm83bWdCVjhRSTZOSkpBdXlvLU9pajdKNXRGYURfWEQ5Ym0ydEExeW5MMUZrbEU0YzNQLVJBWndfMUIwTW5YQXllU19faEw3STZTVS1vcFFEalIwbUoyeXFlOUtyR0l0a0hPcEVTR1VCUHZXQ2s5RTUtcTRldE11N1ZQazg5TE8tQ2xjVkM2RXZ3c2lzbEpyRnpQTDQ5Z19kR2ItUHF4RzRBanBUMS0zNmxNaTZlQ21EM0xVMEN3YjgwVEVSQndPaGFRTDlhZjlTMzBIQWc?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2236,117 +2446,13 @@
      "paid": false,
      "published": "2026-06-24T07:00:00+00:00",
      "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "f0c18ab61081aeb4",
-   "title": "MPF e MP-SP querem a suspensão do licenciamento da nova exploração de óleo e gás natural em águas profundas na Bacia de Santos –",
-   "summary": "MPF entra com ação contra Ibama e Petrobras sobre exploração de pré-sal na Bacia de Santos. Pré-sal na Bacia de Santos tem suspensão de nova fase solicitada; MPF alega licença ilegal e risco para crise climática. MPF e MP-SP pedem suspensão imediata da licença da Petrobras na etapa 4 do pré-sal.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 62,
-   "entities": {
-    "campos_blocos": [
-     "Bacia de Santos"
-    ],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-06-19T07:00:00+00:00",
-   "n_sources": 6,
-   "sources": [
-    {
-     "name": "A Tribuna",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelFKUF8xdlg1MVFFTXlhTUo2S3p3RXg2YnNZTV91ZE5IZlNCanBYVTRYS1RZMzBZQ0txODMySjZ6eW1YVk9NMWxsZHpSUEtMRVRnenV2bXlPN2VVSkxLbGdkSllhMU83bldiS0VDNk9HVTZoTHNabVBvNm5FTW9IeWNOVENyQmpVM2syRUd6bldJN0JNUWlUY25vM3hyTU9DVWVWS3o3SEM3d2V1REFBUVk3dndkMzNJM3ZwblkwdWF2bTJDU0JxQjBJc2hBN0VWSVVGY2JFQUQ4Mm1CU3JCRi0yN2cySjdGdTc3U3VXQzk1UWhCNE04Zmg0OUluUnc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-19T07:00:00+00:00",
-     "link_real": null
     },
     {
-     "name": "atribuna.com.br",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelFKUF8xdlg1MVFFTXlhTUo2S3p3RXg2YnNZTV91ZE5IZlNCanBYVTRYS1RZMzBZQ0txODMySjZ6eW1YVk9NMWxsZHpSUEtMRVRnenV2bXlPN2VVSkxLbGdkSllhMU83bldiS0VDNk9HVTZoTHNabVBvNm5FTW9IeWNOVENyQmpVM2syRUd6bldJN0JNUWlUY25vM3hyTU9DVWVWS3o3SEM3d2V1REFBUVk3dndkMzNJM3ZwblkwdWF2bTJDU0JxQjBJc2hBN0VWSVVGY2JFQUQ4Mm1CU3JCRi0yN2cySjdGdTc3U3VXQzk1UWhCNE04Zmg0OUluUnc?oc=5",
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWk5YUNQUjZDdlR2SU9NWHhSRV9jaVFJaWFEaXc4X0N1RVRBYVREdTBLN1BEbWdnT2VUNjBDVzhuVER6R0JvNGltN2t3OWhuazdaU0V5VFd5blgtWldnRU1jWDQ1MFhUVlpSUTAtck01RmRjR0VfdkdwSHkxVks2V2dGZVhRWTRnMThaTEU3azJOOFgzc0tHY0VMUDZuYXE0M2hCc3VEcUlxaEMxdjlJV3c3TTNub1ZEd1pDLWNFT0YwbWNYZ3hnSW96VQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-06-19T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3E1Z1k3X25SSEExR0ZFSGFXN1ZYMHJ3YnFkcHB0eFhFUW1IaHhTaHJ5X1pkUW5vYm5pWGxnSm9pRlRXY1puUFotN0Y1M0NGemlndWFmTk1mdmxEbExOQ2h2UUNTWjFpVnNYOWZZaXB3UDdtVFJYRlVLN3VWMnpNbnExS0VzbnNjMDFWX0c1T1NIeDVHamxDS0xXSUdmUkMwbVBOZWtReXVEbi1FX2hHdXd3c3ZpVkY5dDI5N0FiZ1B3TncyRWZzdTFVd1NDcllsOGJOSlRNNWE3SFRnb0xUTG5uV3B5SC00bDBJ0gH6AUFVX3lxTE5hQllfdHFzdnU5bTBuM2E3VExCbEo5SGhpOEJ0eEk0N3ZacUZ5TVJSaDBfTlVjdkI1a1lKbllSX2FMdF9WdFFqa2pVaFBMcjFxUTVtYkc3VmxHZWxBQjlWa2tURzRkaEw2ZXFpLUtDa2hSaUh6RHZlTEsyRFNrdEFBNWxWa0JwT00zRnl3UklYVUtTNnNCWTFqRThBMWZBX1d5N0xjV2s2WDBLOGJxV0tSdENtUHFkdnRHS1JRdVI3YnpJSzZXSGY1V25mRS1pN2Vxd2d3aDZCVFNUV01lUkRaQWhVbmRhR0FvRlJZUnNoQWNFOVFvT3Vsemc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-17T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Notícias das Praias",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-17T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Notícias das Praias",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-17T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3E1Z1k3X25SSEExR0ZFSGFXN1ZYMHJ3YnFkcHB0eFhFUW1IaHhTaHJ5X1pkUW5vYm5pWGxnSm9pRlRXY1puUFotN0Y1M0NGemlndWFmTk1mdmxEbExOQ2h2UUNTWjFpVnNYOWZZaXB3UDdtVFJYRlVLN3VWMnpNbnExS0VzbnNjMDFWX0c1T1NIeDVHamxDS0xXSUdmUkMwbVBOZWtReXVEbi1FX2hHdXd3c3ZpVkY5dDI5N0FiZ1B3TncyRWZzdTFVd1NDcllsOGJOSlRNNWE3SFRnb0xUTG5uV3B5SC00bDBJ0gH6AUFVX3lxTE5hQllfdHFzdnU5bTBuM2E3VExCbEo5SGhpOEJ0eEk0N3ZacUZ5TVJSaDBfTlVjdkI1a1lKbllSX2FMdF9WdFFqa2pVaFBMcjFxUTVtYkc3VmxHZWxBQjlWa2tURzRkaEw2ZXFpLUtDa2hSaUh6RHZlTEsyRFNrdEFBNWxWa0JwT00zRnl3UklYVUtTNnNCWTFqRThBMWZBX1d5N0xjV2s2WDBLOGJxV0tSdENtUHFkdnRHS1JRdVI3YnpJSzZXSGY1V25mRS1pN2Vxd2d3aDZCVFNUV01lUkRaQWhVbmRhR0FvRlJZUnNoQWNFOVFvT3Vsemc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-17T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Notícias das Praias",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-17T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "VEJA",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdG42MUR1TG43UHQ1a2xWVFFhODkzWFZzamt0anhucXFMV3pOV082R1Y1M1FRaWtNOEVTU0J2RTl2OWowNkJfbHFXVGR4a2pZZmdyWm5tbU55MU10Smw5eUJpNWR5NzZUSktuTHJ5ZkdZc2otN20wdlpjek1IbGVMZEZFM3ZpX3BQQm55VVlvamZJcnhQaVBzSG1hQ1NveWs0UEt5a1BqM0JPaHFfTkI3dTdmdC1SWkJ0Ykp2bnE0TUE1VGxwOFd4bkI2ZzE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Diário do Litoral",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0JaSkZNaHdJOFFNNWxQNThuN05GVmdPX1RMbVJQMlJXLWFVVDdSN1VMeG5nV1YzTS10NnJaYmhSMXVJNjFsM1hVS2xzS2lGbEdQOVVYYjJDbF9UOEZmRlZGVDBJaE5PbC0yVnk4LTZfNkg2QVVMRWpXOVlNZVJjazdPa0R6MTc5WlVROENLUTJkREZGVVZ3c2RCZ0tMc2J6MHdEU3Z5RXNXX19FQk1WNW1ybzcwMURxeHlNNnFWUF91SWV2UURQajNiOHZ1VjNiOFE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "VEJA",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdG42MUR1TG43UHQ1a2xWVFFhODkzWFZzamt0anhucXFMV3pOV082R1Y1M1FRaWtNOEVTU0J2RTl2OWowNkJfbHFXVGR4a2pZZmdyWm5tbU55MU10Smw5eUJpNWR5NzZUSktuTHJ5ZkdZc2otN20wdlpjek1IbGVMZEZFM3ZpX3BQQm55VVlvamZJcnhQaVBzSG1hQ1NveWs0UEt5a1BqM0JPaHFfTkI3dTdmdC1SWkJ0Ykp2bnE0TUE1VGxwOFd4bkI2ZzE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Diário do Litoral",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd0JaSkZNaHdJOFFNNWxQNThuN05GVmdPX1RMbVJQMlJXLWFVVDdSN1VMeG5nV1YzTS10NnJaYmhSMXVJNjFsM1hVS2xzS2lGbEdQOVVYYjJDbF9UOEZmRlZGVDBJaE5PbC0yVnk4LTZfNkg2QVVMRWpXOVlNZVJjazdPa0R6MTc5WlVROENLUTJkREZGVVZ3c2RCZ0tMc2J6MHdEU3Z5RXNXX19FQk1WNW1ybzcwMURxeHlNNnFWUF91SWV2UURQajNiOHZ1VjNiOFE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
+     "published": "2026-06-24T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -2999,7 +3105,7 @@
     "servicos": []
    },
    "published": "2026-07-01T19:40:07+00:00",
-   "n_sources": 2,
+   "n_sources": 1,
    "sources": [
     {
      "name": "BNamericas",
@@ -3010,7 +3116,7 @@
      "link_real": null
     },
     {
-     "name": "BNamericas.com",
+     "name": "BNamericas",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa05JNktOenFUTV9SNHZTdFJ5bmxzXzlWa0ZzWFFJZzhQdThpZk4tZWQ1ckxTWnFDZXljbXNQNldmbjdrZ0dSNC1pX1ZHNVUxM0xNWnJNeHY1NnJ1aG1ZNlVnMmdsaVl6amxENnd3OTRRZGhYa2U3ZVg0WkhFbU4tdEVjZmpJZUIzLUJPRzBaM3VTNG50VjhLSWZhejdCcXJEc2xHeUk4dW5id055?oc=5",
      "type": "aberta",
      "paid": false,
@@ -3143,7 +3249,7 @@
     "servicos": []
    },
    "published": "2026-06-23T07:00:00+00:00",
-   "n_sources": 2,
+   "n_sources": 1,
    "sources": [
     {
      "name": "Seu Dinheiro",
@@ -3154,7 +3260,7 @@
      "link_real": null
     },
     {
-     "name": "seudinheiro.com",
+     "name": "Seu Dinheiro",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT0hEcHg3RjVzSnRhWHdrQnZDd1hMR3U3VkhFek5DZFprUjcyVEtzdklxQUhfdXg5azc3dGZwQkxyd3U3amM5c3dwMFZkbVZYRlMwOWtWbktXRkx1d0RNUlVRUWdNQUQtRnRPbTZVaEJZaDlENkNFMlJtU2tmQ1ZIbFVpejBOOV83eGZlWWNCSVF0OUY2VmlKR2pHZ1hzaERIbHNzenNHZFlpU0phbFB3ajRXZk00RUV2SG53UFlHTU1FalhlVEZUWXByUlQyalp6SkR5aDYwMy1wTXhaNmo4?oc=5",
      "type": "aberta",
      "paid": false,
@@ -3317,9 +3423,47 @@
    "aviso_paga": ""
   },
   {
-   "id": "85462224c57adf37",
+   "id": "22bd4f6cb2c2678b",
+   "title": "MPF e MP-SP pedem suspensão imediata da licença da Petrobras na etapa 4 do pré-sal",
+   "summary": "MPF e MP-SP pedem suspensão imediata da licença da Petrobras na etapa 4 do pré-sal.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 50,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-06-17T07:00:00+00:00",
+   "n_sources": 2,
+   "sources": [
+    {
+     "name": "G1",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3E1Z1k3X25SSEExR0ZFSGFXN1ZYMHJ3YnFkcHB0eFhFUW1IaHhTaHJ5X1pkUW5vYm5pWGxnSm9pRlRXY1puUFotN0Y1M0NGemlndWFmTk1mdmxEbExOQ2h2UUNTWjFpVnNYOWZZaXB3UDdtVFJYRlVLN3VWMnpNbnExS0VzbnNjMDFWX0c1T1NIeDVHamxDS0xXSUdmUkMwbVBOZWtReXVEbi1FX2hHdXd3c3ZpVkY5dDI5N0FiZ1B3TncyRWZzdTFVd1NDcllsOGJOSlRNNWE3SFRnb0xUTG5uV3B5SC00bDBJ0gH6AUFVX3lxTE5hQllfdHFzdnU5bTBuM2E3VExCbEo5SGhpOEJ0eEk0N3ZacUZ5TVJSaDBfTlVjdkI1a1lKbllSX2FMdF9WdFFqa2pVaFBMcjFxUTVtYkc3VmxHZWxBQjlWa2tURzRkaEw2ZXFpLUtDa2hSaUh6RHZlTEsyRFNrdEFBNWxWa0JwT00zRnl3UklYVUtTNnNCWTFqRThBMWZBX1d5N0xjV2s2WDBLOGJxV0tSdENtUHFkdnRHS1JRdVI3YnpJSzZXSGY1V25mRS1pN2Vxd2d3aDZCVFNUV01lUkRaQWhVbmRhR0FvRlJZUnNoQWNFOVFvT3Vsemc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-17T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "g1.globo.com",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ3E1Z1k3X25SSEExR0ZFSGFXN1ZYMHJ3YnFkcHB0eFhFUW1IaHhTaHJ5X1pkUW5vYm5pWGxnSm9pRlRXY1puUFotN0Y1M0NGemlndWFmTk1mdmxEbExOQ2h2UUNTWjFpVnNYOWZZaXB3UDdtVFJYRlVLN3VWMnpNbnExS0VzbnNjMDFWX0c1T1NIeDVHamxDS0xXSUdmUkMwbVBOZWtReXVEbi1FX2hHdXd3c3ZpVkY5dDI5N0FiZ1B3TncyRWZzdTFVd1NDcllsOGJOSlRNNWE3SFRnb0xUTG5uV3B5SC00bDBJ0gH6AUFVX3lxTE5hQllfdHFzdnU5bTBuM2E3VExCbEo5SGhpOEJ0eEk0N3ZacUZ5TVJSaDBfTlVjdkI1a1lKbllSX2FMdF9WdFFqa2pVaFBMcjFxUTVtYkc3VmxHZWxBQjlWa2tURzRkaEw2ZXFpLUtDa2hSaUh6RHZlTEsyRFNrdEFBNWxWa0JwT00zRnl3UklYVUtTNnNCWTFqRThBMWZBX1d5N0xjV2s2WDBLOGJxV0tSdENtUHFkdnRHS1JRdVI3YnpJSzZXSGY1V25mRS1pN2Vxd2d3aDZCVFNUV01lUkRaQWhVbmRhR0FvRlJZUnNoQWNFOVFvT3Vsemc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-17T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "550b9c70664382dd",
    "title": "CNPE APROVA DIRETRIZES PARA LEILÕES DE GÁS DA UNIÃO E GOVERNO PREVÊ REDUÇÃO DE MAIS DE 50% NO PREÇO PARA A INDÚSTRIA",
-   "summary": "CNPE APROVA DIRETRIZES PARA LEILÕES DE GÁS DA UNIÃO E GOVERNO PREVÊ REDUÇÃO DE MAIS DE 50% NO PREÇO PARA A INDÚSTRIA. (PPSA), serão organizados em duas modalidades: curto prazo (2026 a 2030) e longo prazo (a partir de 2030). Segundo estimativas do Ministério de Minas e Energia, o preço do gás natural da União poderá cair em pelo menos 50%.",
+   "summary": "CNPE APROVA DIRETRIZES PARA LEILÕES DE GÁS DA UNIÃO E GOVERNO PREVÊ REDUÇÃO DE MAIS DE 50% NO PREÇO PARA A INDÚSTRIA. (PPSA), serão organizados em duas modalidades: curto prazo (2026 a 2030) e longo prazo (a partir de 2030). De acordo com o ministro de Minas e Energia, Alexandre Silveira, o primeiro leilão deverá ser realizado no último bimestre deste ano, com foco na comercialização da produção da União prevista para 2027.",
    "detalhes": {
     "valores": [
      "R$ 95 bilhões",
@@ -3334,6 +3478,8 @@
     "datas": [
      "2026",
      "2030",
+     "2027",
+     "2029",
      "2021",
      "2023"
     ]
@@ -3345,9 +3491,17 @@
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-07-30T18:00:37+00:00",
-   "n_sources": 1,
+   "published": "2026-07-30T20:45:40+00:00",
+   "n_sources": 2,
    "sources": [
+    {
+     "name": "Poder360",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmtvMjlFWGhvM0dfb0FxNE9yZGZ6NE1ObzlsYzhscXNTdF96ZHJpTHhzYWlmZ1hUNUZIeDBLOWhMRVlqMTRYajJRaXBZeXA3WVVYbk4yNnRjaU9hR1BuNThQLURIaWVkeXJyaVFUTkZndi10MFBCMlg0aWl1Nmt4U1ZvWG9rSVVxRnVjV1h6X3pSY18yLS14eFRJQ2hvRjRXY0lTbFFSQV9sNE0?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T20:45:40+00:00",
+     "link_real": null
+    },
     {
      "name": "Petronotícias",
      "link": "https://petronoticias.com.br/cnpe-aprova-diretrizes-para-leiloes-de-gas-da-uniao-e-governo-preve-reducao-de-mais-de-50-no-preco-do-insumo",
@@ -3355,6 +3509,34 @@
      "paid": false,
      "published": "2026-07-30T18:00:37+00:00",
      "link_real": "https://petronoticias.com.br/cnpe-aprova-diretrizes-para-leiloes-de-gas-da-uniao-e-governo-preve-reducao-de-mais-de-50-no-preco-do-insumo/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "2b61b7038b8cb7b9",
+   "title": "Silveira defende igualdade em leilões do pré-sal e gera polêmica com analogia preconceituosa sobre agentes econômicos",
+   "summary": "Silveira defende igualdade em leilões do pré-sal e gera polêmica com analogia preconceituosa sobre agentes econômicos.",
+   "detalhes": {},
+   "category": "Bids e Licitações",
+   "relevance": 49,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-30T19:14:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "francesnews.com.br",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTkZWS3daRGRtajFTaXNBM2JuOV8xWE8xQ1pTdHN0c2NqeU9OYktGeURvMTNxZHhXQUtGUHVsZU80ekxfejFORENoRXZNcXBjTW53bHM1SDZVTVNNZ0RZekhfUkQwajhnVVdCYkl0Vm9BS3BRWHZXemYzOG5mNzJNcjRfNjRoWXhveWlMWnlTbE9EMHEzdTYySUJQWHJoU2hlWjJNU0tQOTlOVU9BaTJweG9ISzA0UDMwel9JRzRjTmVDR3FnWTBKY3JDdnpEU2h5QkxSc25zXy1wclBNS3hONXl1b3pIeWV0TU9URjVTcHh4eGs5QVlKdkN3?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T19:14:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -3549,34 +3731,60 @@
    "aviso_paga": ""
   },
   {
-   "id": "dd983bd9a5d3c3c0",
-   "title": "Petrobras estima concluir perfuração de poço na Foz do Amazonas em agosto",
-   "summary": "Petrobras estima concluir perfuração de poço na Foz do Amazonas em agosto.",
-   "detalhes": {
-    "datas": [
-     "agosto"
-    ]
-   },
-   "category": "Perfuração e Poços",
-   "relevance": 41,
+   "id": "f0c18ab61081aeb4",
+   "title": "MPF e MP-SP querem a suspensão do licenciamento da nova exploração de óleo e gás natural em águas profundas na Bacia de Santos –",
+   "summary": "Pré-sal na Bacia de Santos tem suspensão de nova fase solicitada; MPF alega licença ilegal e risco para crise climática. MPF e MP-SP querem a suspensão do licenciamento da nova exploração de óleo e gás natural em águas profundas na Bacia de Santos.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 47,
    "entities": {
     "campos_blocos": [
-     "Foz do Amazonas"
+     "Bacia de Santos"
     ],
-    "operadoras": [
-     "Petrobras"
-    ],
+    "operadoras": [],
     "servicos": []
    },
-   "published": "2026-07-30T18:52:25+00:00",
-   "n_sources": 1,
+   "published": "2026-06-19T07:00:00+00:00",
+   "n_sources": 2,
    "sources": [
     {
-     "name": "amazonas atual",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa2xjb3ZhODAxaHlEUkY5cDRWWHpCZ01MSGgxUGlQREhsdXZJcFRSUlFKb3VsalJBYmZDdzdNby1BSjBsR0VNYjluNGFOVTVYdG8yc19hcm5UUzAyRFY0R2hoMXZnWWdlUWJPdTA5bjZuZzFBNWtKR01SMzhod2t6Rzlxd0N4U3p3VG8yZTNhdGV3Uy12aGpoanFOS2psOFl3SXljQWJ3?oc=5",
+     "name": "A Tribuna",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelFKUF8xdlg1MVFFTXlhTUo2S3p3RXg2YnNZTV91ZE5IZlNCanBYVTRYS1RZMzBZQ0txODMySjZ6eW1YVk9NMWxsZHpSUEtMRVRnenV2bXlPN2VVSkxLbGdkSllhMU83bldiS0VDNk9HVTZoTHNabVBvNm5FTW9IeWNOVENyQmpVM2syRUd6bldJN0JNUWlUY25vM3hyTU9DVWVWS3o3SEM3d2V1REFBUVk3dndkMzNJM3ZwblkwdWF2bTJDU0JxQjBJc2hBN0VWSVVGY2JFQUQ4Mm1CU3JCRi0yN2cySjdGdTc3U3VXQzk1UWhCNE04Zmg0OUluUnc?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-30T18:52:25+00:00",
+     "published": "2026-06-19T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "A Tribuna",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNelFKUF8xdlg1MVFFTXlhTUo2S3p3RXg2YnNZTV91ZE5IZlNCanBYVTRYS1RZMzBZQ0txODMySjZ6eW1YVk9NMWxsZHpSUEtMRVRnenV2bXlPN2VVSkxLbGdkSllhMU83bldiS0VDNk9HVTZoTHNabVBvNm5FTW9IeWNOVENyQmpVM2syRUd6bldJN0JNUWlUY25vM3hyTU9DVWVWS3o3SEM3d2V1REFBUVk3dndkMzNJM3ZwblkwdWF2bTJDU0JxQjBJc2hBN0VWSVVGY2JFQUQ4Mm1CU3JCRi0yN2cySjdGdTc3U3VXQzk1UWhCNE04Zmg0OUluUnc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-19T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Notícias das Praias",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-17T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Notícias das Praias",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-17T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Notícias das Praias",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZXpueU9RRWhyVk9OWVpGYjM3OEhUOW9JU203Wl9uOW9DZ09CZENDcklJWml0cnFqT0ZTaGc2cFBfeG5yTXVFVGVHYkxRTFV5V2pVckNGRDVGVlMxTkR5Z1FXLUhuamQ1d01JdW1iNVBFdXFaYTdhUV9UTjFuZjI2UUlGOWhEX05WLVBCcVJHQ09RQzRRNzF5LVVlN3FpWnlDQ2w1QUdsQVUtdXgzVmxXTDVSY3NiTVBmeGgtRjRrRk9NRUVJN3pyNk5sT3hXME9DTlRWR3VGUGhIQXM0VHB0Q2gyZzlXcHJNMnZEc1VwM1QycmdOVHlIVGVVWUY?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-17T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -3616,7 +3824,7 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFBMR2RWejR2azhuNHdFa0NwZVRUYmxha1RBSjk5a1BVMzRpbTRxQ1FlZ3hpWXBUVEp4WlB6bFphS3U1OUM5TFVSOW5PVkt6V3RUTVYtNlhiOUpWLTNqVzAxQ0hQZWxqUWh5U3Z0RDRfY2ZJLVhIR2x0VFJUZndnMFZac1ZWTEVNR0djRi1kN09sU2habFNXVktMd29ERHVJ0gGmAUFVX3lxTE9BZ1VJSUQ3bi1iSUp5VE9hSkdCZFJtekZDcEI4YVJ1Ny1VbWtDZkhFSTAzd2N6eFF4d09ERlVWemk4VDk2TmNpZTVOSWNFZXlqUUhNcHMzM2lQTXJ5YkZBalpBaFJQNmoxWDhuTmFOQXpsT3BUQ1hOcTFHT21QU0VmSFNfUDlodC1PQXlFZW1Gc2NCVUxveVpmWWFvejg2b3o4RWhjUVE?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-20T21:00:00+00:00",
+     "published": "2026-07-20T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -3894,7 +4102,7 @@
     "servicos": []
    },
    "published": "2026-07-20T10:37:00+00:00",
-   "n_sources": 7,
+   "n_sources": 6,
    "sources": [
     {
      "name": "Jornal do Comércio",
@@ -3909,11 +4117,11 @@
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DZFpLU0t4LThnb2dxY1VHNEY3ZUdaQ09KX0Vxa0NXNWx3WU5SWFR2OXFVeV9LMGtCSmg0MG1QbTFVSjVuTjVCd0txbFJjc3ZFZi1WVXBrb1E5aHN3U3FhODlsLTlSMzg?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-20T04:33:21+00:00",
+     "published": "2026-07-20T04:33:37+00:00",
      "link_real": null
     },
     {
-     "name": "aciara.com.br",
+     "name": "Associação Comercial e Industrial de Araçatuba",
      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DZFpLU0t4LThnb2dxY1VHNEY3ZUdaQ09KX0Vxa0NXNWx3WU5SWFR2OXFVeV9LMGtCSmg0MG1QbTFVSjVuTjVCd0txbFJjc3ZFZi1WVXBrb1E5aHN3U3FhODlsLTlSMzg?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4106,7 +4314,7 @@
     "servicos": []
    },
    "published": "2026-07-04T07:00:00+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "G1",
@@ -4117,7 +4325,7 @@
      "link_real": null
     },
     {
-     "name": "G1",
+     "name": "g1.globo.com",
      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTW10TnFYaWIwcXdpU1JqWi1tT1ZrdEc4NGlsWWZfRTJBNlJtbUtpYWdYV2dwV1BRVGxiVnctUXBaQkZOQlJCZDRQNDRvRG5lLXV1MjRFU0tlYUswVEdIMjNqNDlSYmtNTllvT0VfWUFVNUVLREpkdFlhbW9NMWNLdk5KbXdrcGFBa21qZE1IX0hmUWc2OFdJMk9MS2dSMFhVUHNrS0hVNmgzR3JQWEkwLTN0NERNTG4xUng1cVpkNld2cmtjSWtmZGtzNzBEUi1OM1B4VU8wdXJzN205b1hHNnJsT1dSMFJlWHV5dS1aSTdSRDlCWEQzcENyQdIBigJBVV95cUxOazJLZVF4QlBTMmZaQzF3elg5RVRkLTAzdkZVTTQyVExrZzB6bUNKMGRlSk56SG81XzRFeGVVdmxKM1JZMklYSnZlaVE5Q3hfcS11UjByMGFqcWNvZjA2TU5tQXJWcVZGcUFDdHA5LUNJM0RrSFFvZkFueGZHRmM1RHBOUHhEcDN6dWxhUXgwenpod21jUE9mbHNNMDZhbjdjU19fcTU5VFBERmpnV1pVcEFORVlYQ3RIV1dDU0NVTC1uYTNXUkVJQnB0UUd0NURaanA4UXM5YjVkd3pjV1pJVXdGcFZTMmxUWDRfVVBoRGNiWFRlOS02RVVRQlFOdWNmQTVQeHFHdlN5UQ?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4293,82 +4501,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "4e9bc768b4aefb11",
-   "title": "MPSP e Ministério Público Federal ajuízam ação climática no âmbito do licenciamento do pré-sal",
-   "summary": "MPSP e Ministério Público Federal ajuízam ação climática no âmbito do licenciamento do pré-sal.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-06-16T13:30:50+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Ministério Público do Estado de São Paulo",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkdjMEhlR2t5OHhmZ0pMcFFGeFRVYmlxOU1SVmRuOUR4T3lwSV9jRXpBblY2Ty11NUxCTl9mWWZjS3U1aV9GQUdYQVpLeFRUeXZVc1RiNHlfZzkyb2JqNFU1Z1dQS3VIbkhhekM4SkM3bzItaUMySXROMzlFVldoSjdBbEhZbkd1cXF1Yi1CUlR2WFpyTUt0MDRjT2ZxTjFHaGlva2RrSlQ5cWJpN2kyXzZVWllnQnluS2ZPTHVUR0tBSDhSMTdmQkh5WlJRbGZHeTExZXREdjduLVZp?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T13:30:50+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Ministério Público do Estado de São Paulo",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkdjMEhlR2t5OHhmZ0pMcFFGeFRVYmlxOU1SVmRuOUR4T3lwSV9jRXpBblY2Ty11NUxCTl9mWWZjS3U1aV9GQUdYQVpLeFRUeXZVc1RiNHlfZzkyb2JqNFU1Z1dQS3VIbkhhekM4SkM3bzItaUMySXROMzlFVldoSjdBbEhZbkd1cXF1Yi1CUlR2WFpyTUt0MDRjT2ZxTjFHaGlva2RrSlQ5cWJpN2kyXzZVWllnQnluS2ZPTHVUR0tBSDhSMTdmQkh5WlJRbGZHeTExZXREdjduLVZp?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "3a64b37cba8707c4",
-   "title": "Junho Ambiental: MPF e MPSP pedem anulação de nova licença do pré-sal por risco de agravamento da crise climática",
-   "summary": "Junho Ambiental: MPF e MPSP pedem anulação de nova licença do pré-sal por risco de agravamento da crise climática.",
-   "detalhes": {
-    "datas": [
-     "Junho"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-06-16T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "mpf.mp.br",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMXFycVl3dTFPZFZmR2xibF95eTBGVXJBRHhGOGxPcHdTV2MtWTllcGVSYlY4WWhXWHpiYkJjWnhHaHVWa1ZKbnNMX2ZtNDNVXzFUcFFBendCYzlkaDRET3h5RVpvMzZRbkh0c1dtMkp6NV9GWnNzQ0JBemVmMUU2MGM4c3RPS1Y0bk9JMGpEcFU1dXZxS3V1aVB3LTBjdWZQc2kwZWlXYTdJM2l6VV96QnduYUpLWVVPZl9aY1Q5XzhXS01mQmxTVmE0TnJhMEpkWngxXzU5cW9ETjdFajdoQTVn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "mpf.mp.br",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMXFycVl3dTFPZFZmR2xibF95eTBGVXJBRHhGOGxPcHdTV2MtWTllcGVSYlY4WWhXWHpiYkJjWnhHaHVWa1ZKbnNMX2ZtNDNVXzFUcFFBendCYzlkaDRET3h5RVpvMzZRbkh0c1dtMkp6NV9GWnNzQ0JBemVmMUU2MGM4c3RPS1Y0bk9JMGpEcFU1dXZxS3V1aVB3LTBjdWZQc2kwZWlXYTdJM2l6VV96QnduYUpLWVVPZl9aY1Q5XzhXS01mQmxTVmE0TnJhMEpkWngxXzU5cW9ETjdFajdoQTVn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-06-16T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "771370ca0a498f4e",
    "title": "Seatrium anuncia início da produção de petróleo da FPSO P-78",
    "summary": "Seatrium anuncia início da produção de petróleo da FPSO P-78.",
@@ -4400,6 +4532,44 @@
      "paid": false,
      "published": "2026-07-05T19:46:44+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "2a15a535d58de0af",
+   "title": "NUCLEP CONCLUI NOVAS ENTREGAS DE ESTACAS TORPEDO PARA A PETROBRÁS",
+   "summary": "Elas serão destinadas a projetos nos campos de Marlim, Atapu, Sicar, Roncador, Búzios e Sépia, além de áreas da Bacia de Campos e do Projeto Integrado Parque das Baleias. Com isso, o número de estacas fornecidas pela Nuclep em 2026 chegou a 11 unidades, de um total de 37 previsto para este ano. Assinados entre 2023 e 2025, os contratos com da Nuclep com Petrobrás permanecem vigentes até 2028 e contemplam a fabricação e o fornecimento de 199 estacas.",
+   "detalhes": {
+    "datas": [
+     "junho de 2026",
+     "2026",
+     "2023",
+     "2025",
+     "2028"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 27,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-30T21:00:04+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/nuclep-conclui-novas-entregas-de-estacas-torpedo-para-a-petrobras",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T21:00:04+00:00",
+     "link_real": "https://petronoticias.com.br/nuclep-conclui-novas-entregas-de-estacas-torpedo-para-a-petrobras/"
     }
    ],
    "has_paid": false,
@@ -4520,9 +4690,44 @@
    "aviso_paga": ""
   },
   {
-   "id": "2175a232512b2d10",
+   "id": "fc0b6bb87e0f66c6",
+   "title": "A DIRETORA DA PETROBRÁS, SYLVIA DOS ANJOS, DEFENDE O AUMENTO DA OFERTA DE GÁS DURANTE EVENTO SOBRE PETRÓLEO EM SERGIPE",
+   "summary": "A diretora afirmou que a desconcentração do setor aconteceu nos últimos anos, com a participação da Petrobrás na comercialização de gás caindo de 100% para 56% em menos de cinco anos. A DIRETORA DA PETROBRÁS, SYLVIA DOS ANJOS, DEFENDE O AUMENTO DA OFERTA DE GÁS DURANTE EVENTO SOBRE PETRÓLEO EM SERGIPE. A executiva apresentou o posicionamento da companhia sobre o gás release, um mecanismo regulatório que obrigaria empresas com elevada participação de mercado — no caso, a própria Petrobrás — a disponibilizar parte de sua oferta para concorrentes, e alertou para os impactos que a medida pode trazer aos investimentos no setor.",
+   "detalhes": {
+    "percentual": [
+     "100%",
+     "56%"
+    ]
+   },
+   "category": "Opinião e Regulatório",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-31T15:45:11+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/a-diretora-da-petrobras-sylvia-dos-anjos-defende-o-aumento-da-oferta-de-gas-durante-evento-sobre-petroleo-em-sergipe",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T15:45:11+00:00",
+     "link_real": "https://petronoticias.com.br/a-diretora-da-petrobras-sylvia-dos-anjos-defende-o-aumento-da-oferta-de-gas-durante-evento-sobre-petroleo-em-sergipe/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "ab910717dd0b1859",
    "title": "Governo libera gasoduto da Petrobras para baratear gás industrial",
-   "summary": "Governo libera gasoduto da Petrobras para baratear gás industrial.",
+   "summary": "Governo libera gasoduto da Petrobras para baratear gás. Governo libera gasoduto da Petrobras para baratear gás industrial.",
    "detalhes": {},
    "category": "Operadoras e IOCs",
    "relevance": 15,
@@ -4533,15 +4738,133 @@
     ],
     "servicos": []
    },
-   "published": "2026-07-30T18:19:25+00:00",
-   "n_sources": 1,
+   "published": "2026-07-31T14:03:00+00:00",
+   "n_sources": 4,
    "sources": [
+    {
+     "name": "Portal BE News",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN01uVEptRW16WFJpYUFBWXU1YkJXWHJhM3JoUkFCS0tsdUd1TzVxTGEyQWw5Rk9YNUZGbUJyUndkT3pjSFdweVdsazdQeWlHWHpQNktQdFFuai1SLUVYNmRSZmlqWG9MS3BOUXc1SGVGaDNYZmlnTTdJaVMxZVRaaUVMVERhMmtKbllj?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T14:03:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "ametropolesorocabana.com.br",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0JZWWZZbmY4QVc3UUlkb0RIOE1jaHRaS2JxSlZGc1hoT3FfbThNZDZUMzRDblpiNlNudlJsUmFVMEpoZFBYVnlPbHcyNjJUeXBoM0t3QlljR1EzNHNqVzQ4aGJDWUFjS2o2NnQyZEdscy1qSThCWmhYLW5WRTcyUTNmZkFGTTJjbFoza2tDRkRRV2RzM1RyRXA0TlMtYTRaMFFlMA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T18:39:00+00:00",
+     "link_real": null
+    },
     {
      "name": "Atividade News",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVUhRQmFSZXk1MFByZm9vSEl1SmpFMTNOb0xwLTNZVndOSnZBRkJITnBHRXlwVDZyMlIzTU1uaVh2QTVxWVRpOW8tX2FOcTlKMzhrYjBtOTVpaFJPc2pxV3lJYUZFdV9BRnhGYjg1QzBxRkwxLS1uRE41UDQ4YVRLYWVabDQ2bXFGNFRfd3BTN1hRX21WbF9YX0lrcw?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-07-30T18:19:25+00:00",
+     "link_real": null
+    },
+    {
+     "name": "panoramagocomunicacao.com.br",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRi03NEJ0UkpoWVhwN3R2WXNFbXlGU2Y5WFRyTWJvLWhjRlIySnRiUWh1Z1puMS14Rkt5QkRrSnVTNHRwOE9RNXJSUmxfSVBrbExtRzBOMXhPSUlWekk1bTNzY2ZxRXFuczZqbjh6QzhfWXFxcVpDUWU2V2hkM2JONEMyeUJhb2V3bkpmUlIzUkxzRG13UUNHRlpyckhnNk9oMXhMQVlR?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T18:17:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "4da149ef6496078b",
+   "title": "MME interfere em acordo entre PPSA e Petrobras",
+   "summary": "MME interfere em acordo entre PPSA e Petrobras.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-31T08:02:20+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXEwS0tQSVNFUUZBMEprUDVoampjNVY0eWVJT2g2SVROb0pPUEwtWl9xd1ZhOVpZcFBnRl9td3NRakNJNzFwX0ZJdFJZVHowSGo1b19xdExESVRhczFDQWR0aDJRNmNBSGpaYVF2dFBpRHJiX1NjVVd6VHhRbzR5OTZrVU9aWVdHR2pLbW1JOWotY1NQN0tzN0NINmRjbFZsUC04TmQ3MNIBtgFBVV95cUxOeVYydVA2Ykh0ZXZsUGd6NFZ3Vm9Ub0RORERwMVJUQ0lZemZ1cERoV3hUdVNBRWZNUF91SjZvWjNWLVRZSVNiWDlPdHViYk1ZWFFPMjdvU2ZiRDhZRmZfY1lwNnhBQ2Z1YW9kX0dFQ2ctV1hRVEdIM1l6anNPdTJmQnZIOFJmMi1saU11c21iem03RVFQWkVKVEhKTlVYM0NzWktzdXVFOEZxT1RTSWFscTQ5RWhCUQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T08:02:20+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a85b045fd468eeea",
+   "title": "CNPE aprova uso de gasodutos da Petrobras para ampliar oferta de gás natural",
+   "summary": "CNPE aprova uso de gasodutos da Petrobras para ampliar oferta de gás natural.",
+   "detalhes": {},
+   "category": "Opinião e Regulatório",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-30T19:28:46+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Portal Agro2",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkkzdGgwUndQQjhkZExyZ3BiRFhaVVR1cXBjcnJDR2ZnZWI5b05qdkNnbjJ4NWVYYVB6MUNSZjFoaHZKbTJqV3YwYU9JN0tZZ0VjcWpZenNoeEUxTmRYNl95cXNKZVhXX293Sk1PaWJRZHMzSGtmMk9qQjZNR3R6ZVFiQUhvem50ZGpDUVFYLTk5S1cwbGpnS2dmempsMUp1bWFNbmxNWGVROTVmcUhF?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T19:28:46+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "6563920705331da1",
+   "title": "Operação acima de 100% da Petrobras é fruto de modernização estruturada, destaca executiva da Firjan",
+   "summary": "Operação acima de 100% da Petrobras é fruto de modernização estruturada, destaca executiva da Firjan.",
+   "detalhes": {
+    "percentual": [
+     "100%"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-30T12:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Times Brasil | CNBC",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVp5NGhWMEZqVFlUUm5sRUQ2NTZKYjVhWmdPR3hkVk00djNYMlhTZkkyZlByVm5Hd08tMU1QaFpSWFVTR0dMSV9fdXZTQ0pxWFNfRHg5dFlvX253LTVnYmVzdGI3Y09xdEc5cmRTMk1mT1NUNVFwNGJqNHRuc3dwbXQ1ME9FQi0zQnpUdUdWbXgzVDExZFNGQQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T12:00:00+00:00",
      "link_real": null
     }
    ],
@@ -5007,7 +5330,7 @@
     "servicos": []
    },
    "published": "2026-07-03T07:00:00+00:00",
-   "n_sources": 3,
+   "n_sources": 2,
    "sources": [
     {
      "name": "Money Times",
@@ -5034,7 +5357,7 @@
      "link_real": null
     },
     {
-     "name": "conteudos.xpi.com.br",
+     "name": "XP Investimentos",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYjl2YTZ2WFJGb3JKZjh3b2wteC01b2NsV0pOUXRkOHdWU3NaTjF1c3piTndIVjJQek9MaUplSWNYUlpZR0xDTnhVOEVMM0FpaGJlazdadDhYOVVlMVBxOXB0eGsyRkJxODViQlZoVlZUN1ExTlFaSUxrS24wN1pBbEFEb3R5NUllX05UZFQ0Y2xQZXNhckJPdTRGcUpSaExSUDFsaFRPRXpma1k?oc=5",
      "type": "aberta",
      "paid": false,
@@ -5095,7 +5418,7 @@
     "servicos": []
    },
    "published": "2026-06-24T07:00:00+00:00",
-   "n_sources": 2,
+   "n_sources": 1,
    "sources": [
     {
      "name": "TAGD Advogados",
@@ -5106,12 +5429,48 @@
      "link_real": null
     },
     {
-     "name": "tagdlaw.com.br",
+     "name": "TAGD Advogados",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1ljcHRELXhPUnlrN3FZQlN6MXpvZjBPOGV4M0VDMGFoYjJwc0h5WktmRENibl9jSlJhWW9oRUJEeFJYSUpzdS1HbXNjY3pBU3hxdUllenZVWXlRNTgwdGNLLTZXWkFmck1zdU0taFlJMktoZ25sSWpmeFpibVRqTnBjYXZ1TTVWY0dUSzYtZWQwTWc?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-06-24T07:00:00+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "70124f32df7ea329",
+   "title": "RÚSSIA ASSINA ACORDO PARA AUMENTAR PROCESSAMENTO DE URÂNIO DO BRASIL EM 25%",
+   "summary": "RÚSSIA ASSINA ACORDO PARA AUMENTAR PROCESSAMENTO DE URÂNIO DO BRASIL EM 25% O processamento de urânio brasileiro pela estatal russa Rosatom aumentará 25% após a assinatura de um acordo complementar firmado entre as partes em junho de 2026. RÚSSIA ASSINA ACORDO PARA AUMENTAR PROCESSAMENTO DE URÂNIO DO BRASIL EM 25%. Um novo marco na cooperação entre Brasil e Rússia foi alcançado em 2025, quando a Rosatom venceu uma licitação internacional para realizar os serviços de conversão e enriquecimento do urânio extraído da jazida de Caetité, na Bahia.",
+   "detalhes": {
+    "percentual": [
+     "25%"
+    ],
+    "datas": [
+     "junho de 2026",
+     "2025"
+    ]
+   },
+   "category": "Bids e Licitações",
+   "relevance": 14,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-30T22:00:05+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/russia-assina-acordo-para-aumentar-processamento-de-uranio-do-brasil-em-25",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T22:00:05+00:00",
+     "link_real": "https://petronoticias.com.br/russia-assina-acordo-para-aumentar-processamento-de-uranio-do-brasil-em-25/"
     }
    ],
    "has_paid": false,
@@ -5134,7 +5493,7 @@
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-07-30T15:14:46+00:00",
+   "published": "2026-07-30T15:26:04+00:00",
    "n_sources": 1,
    "sources": [
     {
@@ -5142,7 +5501,7 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZUFZQm5McktMUjBVSkczZlU1TFE3eFlIdTNjWldMRURleENfRHRKLTdZSW8ya1ozQnpvNDZqWlFzRk81RU9xQm1lQnBCWlRQMlBleGY5RkNlMU9ySDBzQUR0Ti14SnFYa3dnVnhKcUh4TklUbGpJdkx3dEg0S1RjVU5udlJGMmdqNTE1MHNya0ktMzZKOEJ1RDRuOEZFV3RPZjJlTHl2WQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-07-30T15:14:46+00:00",
+     "published": "2026-07-30T15:26:04+00:00",
      "link_real": null
     }
    ],
@@ -5399,6 +5758,44 @@
    "aviso_paga": ""
   },
   {
+   "id": "916a2ae422ec3b34",
+   "title": "Quem comprou imóvel com contrato e nunca conseguiu a escritura pode pedir indenização a qualquer tempo se a transferência ficou impossível, decidiu o STJ, porque essa cobrança não prescreve nunca",
+   "summary": "- Petrobras contra empresa de engenharia: a decisão de Moraes que colocou R$ 255 milhões em jogo - Inquilina pagou R$ 4.200 sem reclamar e descobriu o erro cinco anos depois, uma vizinha avisou que essa cobrança nunca foi obrigação de inquilino e o dinheiro devia sair do bolso do dono - Comprar o carro com a película já instalada não livra ninguém de multa grave, cinco pontos na carteira e retenção do veículo, e a fiscalização mede o conjunto do vidro com a película, não o número que a loja informou - Ele dirigia havia quase quatro horas, colocou a garrafa entre as pernas para não perder tempo e saiu da blitz com quatro pontos e R$ 130,16 para pagar A averbação nunca foi feita, e sem ela a transferência de propriedade ficou travada. O caso julgado envolve um contrato assinado nos anos 1980 no Rio de Janeiro. A Terceira Turma do Superior Tribunal de Justiça decidiu que, quando a outorga da escritura definitiva se torna inviável, o pedido feito na ação de adjudicação compulsória pode ser convertido em perdas e danos sem estar sujeito a prazo de prescrição, conforme informação divulgada pelo próprio tribunal em 20 de julho de 2026.",
+   "detalhes": {
+    "valores": [
+     "R$ 255 milhões",
+     "R$ 4.200",
+     "R$ 130,16"
+    ],
+    "datas": [
+     "Janeiro",
+     "julho de 2026"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 12,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T17:15:39+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/quem-comprou-imovel-com-contrato-e-nunca-conseguiu-a-escritura-pode-pedir-indenizacao-a-qualquer-tempo-se-a-transferencia-ficou-impossivel-decidiu-o-stj-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T17:15:39+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/quem-comprou-imovel-com-contrato-e-nunca-conseguiu-a-escritura-pode-pedir-indenizacao-a-qualquer-tempo-se-a-transferencia-ficou-impossivel-decidiu-o-stj-btl96/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "a625f99a605dff5b",
    "title": "BYD Song Pro 2027: maior que o Jeep Compass, SUV híbrido flex estreia em agosto com até 235 cv, bateria de 18,3 kWh, 4,73 metros de comprimento, visual renovado e produção na Bahia",
    "summary": "BYD Song Pro 2027: maior que o Jeep Compass, SUV híbrido flex estreia em agosto com até 235 cv, bateria de 18,3 kWh, 4,73 metros de comprimento, visual renovado e produção na Bahia. - Para não depender da gasolina racionada durante a ocupação de Paris, artista criou em 1942 um carro elétrico em forma de ovo com cinco baterias escondidas na traseira - Escocês milionário cria na Índia um carro cisne de 5,8 metros com motor de 3,2 litros, olhos iluminados e carroceria esculpida para desfilar entre veículos comuns nas ruas de Calcutá - Tentando levar uma família inteira em um carro minúsculo, fabricante alemã colocou portas na frente e atrás, motor no centro e passageiros sentados de costas uns para os outros - Cientistas constroem um laboratório móvel maior que muitos ônibus, atravessam os Estados Unidos rumo à Antártida, mas a máquina afunda na neve e desaparece no gelo Song Pro 2027 terá sistema híbrido flex O sistema esperado combina um motor 1.5 aspirado, apto a funcionar com gasolina ou etanol, e uma máquina elétrica, mantendo a arquitetura híbrida plug-in que permite recarga externa e também utiliza o propulsor a combustão durante o funcionamento do veículo. Visual redesenhado, motorização híbrida plug-in flex e montagem em Camaçari marcam a chegada do BYD Song Pro 2027 ao Brasil, enquanto potência, bateria, dimensões e cronograma industrial colocam o SUV no centro da disputa entre modelos médios eletrificados vendidos no país.",
@@ -5647,6 +6044,424 @@
      "paid": false,
      "published": "2026-07-15T20:45:34+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "918b145ff5e44b4b",
+   "title": "Pequeno japonês enfrenta lama onde SUVs gigantes recuam: Suzuki Jimny 4Sport 2018 tem 4×4 com reduzida, chassi robusto, 200 mm de vão livre e custa cerca de R$ 76 mil usado",
+   "summary": "- Carregadores de carros elétricos nunca mais serão um mistério: descubra, de uma vez por todas, como funcionam as recargas AC e DC, quais são as diferenças entre Wallbox, EVSE portátil e carregadores rápidos e por que as tecnologias V2L, V2H, V2B e V2G estão revolucionando o futuro da mobilidade elétrica e da energia - Ele custa cerca de R$ 60 mil, possui motor Firefly, consumo de até 14,7 km/l e 300 litros de porta-malas, manutenção acessível e mecânica confiável; saiba se vale a pena comprar um Fiat Argo Drive 1.3 2020 usado - Com preço de R$ 66.733 na Fipe e média de R$ 69.939 na Webmotors em julho de 2026, o Peugeot 2008 Griffe 2019 oferece motor 1.6 de 118 cv, transmissão automática de seis marchas, seis airbags e bom pacote de equipamentos entre os SUVs compactos usados - BMW testa alternativa ecológica à fibra de carbono que usa plantas e pode equipar futuros carros de alto desempenho O modo 4×4 pode ser engatado em movimento a velocidades de até 100 km/h. Em julho de 2026, a Tabela Fipe indicava R$ 76.652, enquanto a média nacional da Webmotors estava em R$ 75.925. Os anúncios monitorados pela plataforma apareciam entre R$ 72.890 e R$ 77 mil, faixa que coloca o pequeno jipe diante de SUVs compactos convencionais e hatches turbo usados.",
+   "detalhes": {
+    "valores": [
+     "R$ 76 mi",
+     "R$ 76.652,",
+     "R$ 75.925.",
+     "R$ 72.890",
+     "R$ 77 mi",
+     "R$ 60 mi"
+    ],
+    "profundidade": [
+     "14,7 km",
+     "100 km",
+     "120 km",
+     "10,3 km",
+     "10,4 km"
+    ],
+    "datas": [
+     "julho de 2026",
+     "2020"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T18:45:31+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/pequeno-japones-enfrenta-lama-onde-suvs-gigantes-recuam-suzuki-jimny-4sport-2018-tem-4x4-com-reduzida-chassi-robusto-200-mm-de-vao-livre-e-custa-cerca-de-r-76-mil-usado-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T18:45:31+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/pequeno-japones-enfrenta-lama-onde-suvs-gigantes-recuam-suzuki-jimny-4sport-2018-tem-4x4-com-reduzida-chassi-robusto-200-mm-de-vao-livre-e-custa-cerca-de-r-76-mil-usado-vml97"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f53c1553457e7208",
+   "title": "MEDO DE SANÇÕES FAZ EMPRESA DEVOLVER O PORTO DE MARIEL PARA CUBA, QUE DÁ CALOTE NO BRASIL DE US$ 682 MILHÕES EMPRESTADOS PARA CONSTRUÇÃO",
+   "summary": "A PSA International, que teve receitas de US$ 8,6 bilhões em 2025, é uma operadora portuária global e uma empresa da cadeia de suprimentos com mais de 70 terminais de águas profundas, ferroviários e interiores, distribuídos em 180 localidades em 45 países, incluindo o porto de Antuérpia, na Bélgica, de onde partem muitos carregamentos destinados a Cuba. A garantia oferecida e aceita pelo presidente Lula e pelo BNDES, na época, na época presidi pelo petista Luciano Coutinho (direita), era pagar com a produção de charutos, caso a ditadura cubana não devolvesse os US$ 682 milhões emprestados. O Terminal de Contêineres do Porto de Mariel foi inaugurado em 27 de janeiro de 2014, dentro da Zona Especial de Desenvolvimento de Mariel (ZEDM), operada pelo regime regime cubano, e foi lançado como um importante centro de operações portuárias que nunca atingiu sua capacidade total.",
+   "detalhes": {
+    "valores": [
+     "US$ 682 MILHÕES",
+     "R$ 3,43 bilhões",
+     "US$ 8,6 bilhões"
+    ],
+    "datas": [
+     "janeiro de 2014",
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T17:45:30+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/medo-de-sancoes-faz-empresa-devolver-o-porto-de-mariel-para-cuba-que-esta-dando-calote-de-us-682-milhoes-no-brasil-emprestados-para-construcao",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T17:45:30+00:00",
+     "link_real": "https://petronoticias.com.br/medo-de-sancoes-faz-empresa-devolver-o-porto-de-mariel-para-cuba-que-esta-dando-calote-de-us-682-milhoes-no-brasil-emprestados-para-construcao/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "58f338fcb83b5e32",
+   "title": "Natural One cresce quase 60% com avanço das exportações, busca investidor estratégico para acelerar expansão internacional, ampliar sua distribuição global, fortalecer a marca em novos mercados e despertar o interesse de fundos e gigantes do setor de bebidas",
+   "summary": "- Gado vindo do Paraguai marca nova fase de Ana Castela: pai da cantora atravessa a fronteira para escolher pessoalmente o rebanho da Fazenda Boiadeira em MS e revela detalhes do projeto no agronegócio - Ela começou a criar gado há apenas três anos numa das fronteiras mais pressionadas da Amazônia e virou a primeira pecuarista do Pará a colocar brinco eletrônico em cada um dos seus 76 bois, apostando na origem rastreada antes de a lei exigir - Produtor de Minas não achava máquina para abacaxi, começou a construir as próprias com sucata num galpão de fazenda e hoje produz cinco por mês e exporta para Taiwan - A mega infestação de lebres europeias já avança cerca de 45 km por ano no Brasil, invade mais de 100 localidades, destrói lavouras de soja, milho, feijão e pomares, enquanto produtores enfrentam um obstáculo inesperado que pode tornar essa praga ainda mais difícil de controlar do que o javali Segundo fontes ouvidas pela CNN, a Natural One deverá crescer aproximadamente 60% em 2026, desempenho impulsionado principalmente pelo forte avanço das exportações. Em entrevista concedida ao LIDE, em março de 2026, o fundador e presidente Ricardo Ermírio de Moraes revelou que a companhia encerrou 2025 com faturamento de R$ 1 bilhão. Na mesma ocasião, o executivo informou que a expectativa era registrar crescimento de cerca de 30% em 2026, percentual que acabou sendo ultrapassado.",
+   "detalhes": {
+    "valores": [
+     "R$ 1 bilhão"
+    ],
+    "percentual": [
+     "60%",
+     "30%"
+    ],
+    "profundidade": [
+     "45 km"
+    ],
+    "datas": [
+     "julho de 2026",
+     "2026",
+     "março de 2026",
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T17:31:31+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/natural-one-cresce-quase-60-com-avanco-das-exportacoes-busca-investidor-estrategico-para-acelerar-expansao-internacional-ampliar-sua-distribuicao-global-fortalecer-a-marca-em-novos-merc-caes",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T17:31:31+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/natural-one-cresce-quase-60-com-avanco-das-exportacoes-busca-investidor-estrategico-para-acelerar-expansao-internacional-ampliar-sua-distribuicao-global-fortalecer-a-marca-em-novos-merc-caes"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "2424f3285a9e2334",
+   "title": "Uma pesquisadora da Embrapa passou quatro décadas estudando bactérias que vivem no solo, levou a tecnologia a mais de 40 milhões de hectares e ganhou o prêmio mundial de alimentação por poupar até 25 bilhões de dólares por ano ao agricultor",
+   "summary": "- Adeus rodo, pano e balde tradicionais: Philips surpreende e lança esfregão elétrico que separa água limpa da suja, dispensa torcer o pano, usa até 90% menos água, remove até 99% das bactérias, seca o piso 50% mais rápido e funciona por até 70 minutos - Pelo menos dezessete buscas falharam ao longo de décadas até um pesquisador com robô submarino achar, a 61 metros de profundidade, o jato executivo que sumiu em 1971 - Após eliminar cerca de 65 mil postos de trabalho, um dos maiores bancos dos EUA anuncia novos cortes e seu presidente chama de “realidade positiva” o avanço da inteligência artificial sobre os empregos - Amazon demitiu 30 mil pessoas de cargos corporativos, admite que a inteligência artificial vai reduzir, mas Jeff Bezos afirma que o verdadeiro problema será a falta de trabalhadores, não o desemprego O nitrogênio é abundante no ar e inútil para a planta O ponto de partida é um paradoxo. Em 2025, esse trabalho recebeu o World Food Prize, o principal prêmio internacional de alimentação e agricultura. Cerca de 78% do ar que envolve a lavoura é nitrogênio puro, e mesmo assim a planta pode morrer de fome desse mesmo elemento.",
+   "detalhes": {
+    "percentual": [
+     "90%",
+     "99%",
+     "50%",
+     "78%"
+    ],
+    "profundidade": [
+     "61 metros de profundidade"
+    ],
+    "datas": [
+     "2025"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T17:06:33+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/uma-pesquisadora-da-embrapa-passou-quatro-decadas-estudando-bacterias-que-vivem-no-solo-levou-a-tecnologia-a-mais-de-40-milhoes-de-hectares-e-ganhou-o-premio-mundial-de-alimentacao-por-gstts",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T17:06:33+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/uma-pesquisadora-da-embrapa-passou-quatro-decadas-estudando-bacterias-que-vivem-no-solo-levou-a-tecnologia-a-mais-de-40-milhoes-de-hectares-e-ganhou-o-premio-mundial-de-alimentacao-por-gstts/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "41d9b6432fe0905d",
+   "title": "Petrobras contra empresa de engenharia: a decisão de Moraes que colocou R$ 255 milhões em jogo",
+   "summary": "IPCA mais juros elevaram dívida da Petrobras para quase R$ 500 milhões Na fase de cumprimento da sentença, a FDS Engenharia aplicou o IPCA como índice de correção monetária, além de juros de mora de 1% ao mês. Petrobras contra empresa de engenharia: a decisão de Moraes que colocou R$ 255 milhões em jogo. Uma diferença de R$ 255 milhões no cálculo da dívida levou o STF a interromper uma execução contra a Petrobras; entenda por que a aplicação da Selic se tornou decisiva no processo Uma decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal, suspendeu provisoriamente uma cobrança de R$ 492,8 milhões contra a Petrobras.",
+   "detalhes": {
+    "valores": [
+     "R$ 255 milhões",
+     "R$ 492,8 milhões",
+     "R$ 4.200",
+     "R$ 130,16",
+     "R$ 80,4 milhões",
+     "R$ 17 milhões"
+    ],
+    "percentual": [
+     "1%"
+    ],
+    "datas": [
+     "Janeiro",
+     "julho de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-31T16:15:43+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/moraes-stf-suspende-cobranca-492-milhoes-petrobras-empresa-engenharia-phsn84",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T16:15:43+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/moraes-stf-suspende-cobranca-492-milhoes-petrobras-empresa-engenharia-phsn84/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "5f40d66fe4383fb7",
+   "title": "Engenheiros criam soluções dentro de fábricas, mas deixam invenções desprotegidas e Brasil perde espaço na corrida mundial por patentes",
+   "summary": "- Adeus rodo, pano e balde tradicionais: Philips surpreende e lança esfregão elétrico que separa água limpa da suja, dispensa torcer o pano, usa até 90% menos água, remove até 99% das bactérias, seca o piso 50% mais rápido e funciona por até 70 minutos - Pelo menos dezessete buscas falharam ao longo de décadas até um pesquisador com robô submarino achar, a 61 metros de profundidade, o jato executivo que sumiu em 1971 - Uma pesquisadora da Embrapa passou quatro décadas estudando bactérias que vivem no solo, levou a tecnologia a mais de 40 milhões de hectares e ganhou o prêmio mundial de alimentação por poupar até 25 bilhões de dólares por ano ao agricultor - Após eliminar cerca de 65 mil postos de trabalho, um dos maiores bancos dos EUA anuncia novos cortes e seu presidente chama de “realidade positiva” o avanço da inteligência artificial sobre os empregos O problema ganha importância diante do avanço mundial dos registros de propriedade industrial. Em 2024, inventores e empresas depositaram aproximadamente 3,7 milhões de pedidos de patente em todo o planeta. O número cresceu 4,9% em relação ao ano anterior e representou a maior expansão anual desde 2018, segundo a Organização Mundial da Propriedade Intelectual.",
+   "detalhes": {
+    "percentual": [
+     "90%",
+     "99%",
+     "50%",
+     "4,9%"
+    ],
+    "profundidade": [
+     "61 metros de profundidade"
+    ],
+    "datas": [
+     "2024",
+     "janeiro de 2025",
+     "junho de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T15:41:15+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/engenheiros-criam-solucoes-dentro-de-fabricas-mas-deixam-invencoes-desprotegidas-e-brasil-perde-espaco-na-corrida-mundial-por-patentes",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T15:41:15+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/engenheiros-criam-solucoes-dentro-de-fabricas-mas-deixam-invencoes-desprotegidas-e-brasil-perde-espaco-na-corrida-mundial-por-patentes"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "b64b448d9977011b",
+   "title": "Ninguém esperava que o prédio onde funciona a sede da Petrobras no Rio entrasse em uma operação de R$ 2,8 bilhões; agora os detalhes desse movimento começam a aparecer",
+   "summary": "- Tribunal suspendeu indenização de oito bilhões às transmissoras de energia e apontou que parte do valor já tinha sido cobrada do consumidor na tarifa por anos - B3 atrasa abertura do pregão nesta sexta-feira após falha operacional, mantém ações, mini índice e mini dólar em leilão e surpreende investidores que tentavam negociar pelas corretoras - A gasolina que sai da bomba a partir deste sábado, 1º de agosto, tem 32% de etanol, e quem tem carro antigo ou não flex pode enfrentar corrosão, mangueira ressecada, falha na partida e conta de manutenção mais alta - Vender o carro agora não exige mais reconhecer firma em cartório, e a venda sai pelo celular em poucos minutos com biometria facial, CPF do comprador, valor da venda e quilometragem atual Além disso, a operação prevê que os imóveis passem a integrar a carteira do Valora Edifícios Corporativos, enquanto a Brookfield continuará administrando os empreendimentos. Ninguém esperava que o prédio onde funciona a sede da Petrobras no Rio entrasse em uma operação de R$ 2,8 bilhões; agora os detalhes desse movimento começam a aparecer. Entre os ativos escolhidos está o Centro Empresarial Senado, localizado no Centro do Rio de Janeiro e ocupado pela Petrobras desde 2013.",
+   "detalhes": {
+    "valores": [
+     "R$ 2,8 bilhões"
+    ],
+    "percentual": [
+     "32%",
+     "80%"
+    ],
+    "profundidade": [
+     "185 mil metros",
+     "200 mil metros"
+    ],
+    "datas": [
+     "Janeiro",
+     "agosto"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-07-31T15:34:58+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/ninguem-esperava-que-o-predio-onde-funciona-a-sede-da-petrobras-no-rio-entrasse-em-uma-operacao-de-r-2-8-bilhoes-agora-os-detalhes-desse-movimento-comecam-a-aparecer-caes",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T15:34:58+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/ninguem-esperava-que-o-predio-onde-funciona-a-sede-da-petrobras-no-rio-entrasse-em-uma-operacao-de-r-2-8-bilhoes-agora-os-detalhes-desse-movimento-comecam-a-aparecer-caes"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f5477e3f58d32614",
+   "title": "Eles mantêm vivo um barbaquá de 125 anos! Casal preserva técnica herdada de imigrante alemão que levava 30 dias para vender erva-mate em carretão, usa mula, roda de fogo e atrai turistas do Brasil e até do Uruguai",
+   "summary": "- Filha de um trabalhador diarista, ela estudou sozinha de quatro a cinco horas por dia sem nunca pagar cursinho, tirou 478 pontos de 500 e terminou em primeiro lugar do estado inteiro na prova final do ensino médio - Ela chegou à universidade só para fazer aulas de espanhol, foi convencida a experimentar literatura americana e acabou passando vinte anos escolhendo disciplinas por puro gosto, até receber o diploma aos 86 anos sob uma ovação de pé - Aos 7 anos ele ajudava o pai pedreiro, cresceu sonhando em ser chefe, abriu com um amigo uma modesta loja de materiais e transformou o aluguel de máquinas de obra em uma rede de 800 unidades que faturou R$ 940 milhões em um ano - Túnel colossal com 5,9 km corta montanha, reduz viagem de 30 para apenas 7 minutos, custou 142 milhões de euros e esconde 11 passagens de emergência que reforçam a segurança rumo à Riviera Albanesa Um processo artesanal que atravessou mais de um século praticamente sem mudanças Tudo começa ainda dentro da mata nativa. Eles mantêm vivo um barbaquá de 125 anos! Casal preserva técnica herdada de imigrante alemão que levava 30 dias para vender erva-mate em carretão, usa mula, roda de fogo e atrai turistas do Brasil e até do Uruguai.",
+   "detalhes": {
+    "valores": [
+     "R$ 940 milhões"
+    ],
+    "profundidade": [
+     "5,9 km"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T14:57:42+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/eles-mantem-vivo-um-barbaqua-de-125-anos-casal-preserva-tecnica-herdada-de-imigrante-alemao-que-levava-30-dias-para-vender-erva-mate-em-carretao-usa-mula-roda-de-fogo-e-atrai-turistas-d-fpsv",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T14:57:42+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/eles-mantem-vivo-um-barbaqua-de-125-anos-casal-preserva-tecnica-herdada-de-imigrante-alemao-que-levava-30-dias-para-vender-erva-mate-em-carretao-usa-mula-roda-de-fogo-e-atrai-turistas-d-fpsv/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "d27856a2b3b922e8",
+   "title": "CRISE ENERGÉTICA IMPULSIONA VENDAS DE CARROS ELÉTRICOS NO SEGUNDO SEMESTRE, INCLUSIVE NO BRASIL",
+   "summary": "Segundo o relatório, as vendas globais de automóveis caíram cerca de 5% entre janeiro e junho na comparação com o mesmo período de 2025. Agora, a expectativa é que eles representem 29% das vendas mundiais de carros, um ponto percentual acima da estimativa apresentada no Global EV Outlook 2026. Mesmo assim, mais de 60% das vendas de automóveis na China deverão ser de modelos elétricos em 2026, estabelecendo um novo recorde histórico.",
+   "detalhes": {
+    "percentual": [
+     "5%",
+     "35%",
+     "29%",
+     "60%"
+    ],
+    "datas": [
+     "2026",
+     "março",
+     "junho",
+     "2025",
+     "maio",
+     "janeiro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-31T08:00:34+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/crise-energetica-impulsiona-vendas-de-carros-eletricos-no-segundo-semestre-inclusive-no-brasil",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-31T08:00:34+00:00",
+     "link_real": "https://petronoticias.com.br/crise-energetica-impulsiona-vendas-de-carros-eletricos-no-segundo-semestre-inclusive-no-brasil/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "6917fb6f0d5cbdd1",
+   "title": "O GRUPO ARGENTA FAZ NOVAS INAUGURAÇÕES E SEGUE OBJETIVO DE TER MIL POSTOS PETRONAS EM TODO BRASIL ATÉ 2030",
+   "summary": "O GRUPO ARGENTA FAZ NOVAS INAUGURAÇÕES E SEGUE OBJETIVO DE TER MIL POSTOS PETRONAS EM TODO BRASIL ATÉ 2030. Com cerca de 200 postos PETRONAS em operação, a expectativa é chegar a 300 unidades até dezembro de 2026 e alcançar mil postos nos próximos quatro anos. Ao conectar a experiência operacional da SIM Rede, a capacidade de expansão da NEXTA e a tecnologia da PETRONAS, a companhia fortalece uma plataforma preparada para evoluir de forma consistente e sustentável, oferecendo soluções cada vez mais completas ao mercado brasileiro.",
+   "detalhes": {
+    "datas": [
+     "2030",
+     "dezembro de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-07-30T19:00:45+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/o-grupo-argenta-faz-novas-inauguracoes-e-segue-objetivo-de-ter-mil-postos-petronas-em-todo-brasil-ate-2030",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-07-30T19:00:45+00:00",
+     "link_real": "https://petronoticias.com.br/o-grupo-argenta-faz-novas-inauguracoes-e-segue-objetivo-de-ter-mil-postos-petronas-em-todo-brasil-ate-2030/"
     }
    ],
    "has_paid": false,
@@ -6296,57 +7111,6 @@
      "paid": false,
      "published": "2026-07-29T16:10:44+00:00",
      "link_real": "https://clickpetroleoegas.com.br/catador-brasileiro-que-passou-mais-de-20-anos-longe-da-escola-voltou-a-estudar-pela-eja-concluiu-ciencias-sociais-na-ufrgs-e-agora-pode-se-tornar-o-primeiro-catador-do-mundo-com-ctl01"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "2b9b2351f766a0da",
-   "title": "Novos estudos apontam que um eventual vazamento na Foz do Amazonas poderia atingir áreas protegidas e países vizinhos como a Guiana Francesa, Suriname e Guiana",
-   "summary": "- US$ 6,2 bilhões no meio do mar: gigante aprova megaobra de gasoduto com 14 poços sobre um dos campos de petróleo mais antigos dos Emirados - Depois de 25 anos bombeando petróleo na Bacia de Campos, a plataforma P-32 foi cortada no maçarico bloco por bloco dentro do maior dique seco da América Latina, e suas mais de 40 mil toneladas viraram aço de novo no forno da Gerdau em Charqueadas - Bilionário transforma água residual do petróleo em aposta de US$ 7,5 bilhões para atrair gigantescos data centers de IA ao deserto do Texas - Satélites já flagram do espaço as nuvens de metano que escapam de dutos e poços pelo mundo inteiro, mas um levantamento da ONU mostra que apenas 13% dos alertas enviados às empresas viram alguma ação concreta Pesquisas identificam deslocamento rápido do óleo para outros territórios Pesquisadores da Universidade Federal da Bahia e da Universidade Federal de Pernambuco avaliaram quatro pontos da bacia por meio do MEDSLIK-II, programa capaz de projetar o movimento do petróleo no oceano. Durante a fase mais preocupante do ano, os cálculos indicaram cerca de 12,5% de chance de entrada de óleo na Foz do Amazonas. A possibilidade de avanço até as baías de Marajó e de São Marcos chegou a 5%, revelando que a ameaça não ficaria restrita ao mar aberto ou às faixas litorâneas diretamente próximas dos poços.",
-   "detalhes": {
-    "valores": [
-     "US$ 6,2 bilhões",
-     "US$ 7,5 bilhões"
-    ],
-    "percentual": [
-     "13%",
-     "40%",
-     "50%",
-     "12,5%",
-     "5%",
-     "2%"
-    ],
-    "datas": [
-     "2023",
-     "março",
-     "setembro",
-     "abril",
-     "janeiro",
-     "julho"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [
-     "Foz do Amazonas"
-    ],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-07-29T16:09:36+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/novos-estudos-apontam-que-um-eventual-vazamento-na-foz-do-amazonas-poderia-atingir-areas-protegidas-e-paises-vizinhos-ama01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-07-29T16:09:36+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/novos-estudos-apontam-que-um-eventual-vazamento-na-foz-do-amazonas-poderia-atingir-areas-protegidas-e-paises-vizinhos-ama01"
     }
    ],
    "has_paid": false,
@@ -9106,6 +9870,34 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-07-01T21:54:58+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "0c96cb88d418b9af",
+   "title": "Falta de licença atrasa plataforma no maior campo de petróleo do Brasil",
+   "summary": "Falta de licença atrasa plataforma no maior campo de petróleo do Brasil.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-06-30T07:00:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Portos e Navios",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMGg4VjZHRkRqclB1OGM3QmhYOWxMelpaaXJZeXpOWUFsck9Wck85bkJ0NmlYOTJqelpxbllaUFY2aXJIcEJDa2VXdW1iNTJPSjZ3OXNUMW9zYmN4R0tvcE13TGxMcHFDelQxc0NDU3dmRWNjd0taZVlBT3Q1Zk94ODVuaVU5bjBlenN2QWdBRjctZTNzSWVBVk84QUVvLTdPLUYwV0NkYXdGQ1B2RjhSb3d5Z0NBaDdxcmM1MzZUVXl6WVByX25CQzhuX2trT21ob0E?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-06-30T07:00:00+00:00",
      "link_real": null
     }
    ],
