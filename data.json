@@ -1,60 +1,48 @@
 {
  "meta": {
-  "gerado_em": "2026-09-15T17:59:40.987757+00:00",
-  "total_grupos": 520,
-  "total_noticias": 1566,
+  "gerado_em": "2026-09-16T18:00:43.686963+00:00",
+  "total_grupos": 521,
+  "total_noticias": 1573,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 520,
+  "total_grupos": 521,
   "por_categoria": {
    "Operadoras e IOCs": 388,
-   "Bids e Licitações": 30,
-   "Novas Tecnologias": 24,
+   "Bids e Licitações": 29,
+   "Novas Tecnologias": 25,
    "Prospectos e Investimentos": 18,
-   "Contratos e Concorrentes": 17,
+   "Contratos e Concorrentes": 16,
    "Descobertas": 8,
    "Resultados Trimestrais": 8,
    "Campanhas e Blocos": 6,
    "Projetos Futuros": 6,
    "Opinião e Regulatório": 5,
    "Perfuração e Poços": 4,
+   "SURF": 3,
    "FIDs e PADs": 2,
-   "SURF": 2,
-   "Brent e Commodities": 1,
-   "Descomissionamento": 1
+   "Descomissionamento": 2,
+   "Brent e Commodities": 1
   },
   "com_fonte_paga": 0,
-  "alta_relevancia": 12
+  "alta_relevancia": 14
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
     "atual": 16,
-    "anterior": 4,
-    "delta": 12
-   },
-   {
-    "topico": "Shell",
-    "atual": 3,
-    "anterior": 1,
-    "delta": 2
-   },
-   {
-    "topico": "Repsol",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
-   },
-   {
-    "topico": "Repsol Sinopec",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
+    "anterior": 7,
+    "delta": 9
    },
    {
     "topico": "Bacia de Campos",
+    "atual": 3,
+    "anterior": 0,
+    "delta": 3
+   },
+   {
+    "topico": "Repsol",
     "atual": 2,
     "anterior": 0,
     "delta": 2
@@ -64,9 +52,27 @@
     "atual": 2,
     "anterior": 0,
     "delta": 2
+   },
+   {
+    "topico": "Bacia de Santos",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
+   },
+   {
+    "topico": "Repsol Sinopec",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
    }
   ],
   "baixa": [
+   {
+    "topico": "Shell",
+    "atual": 1,
+    "anterior": 3,
+    "delta": -2
+   },
    {
     "topico": "Prio",
     "atual": 1,
@@ -74,7 +80,7 @@
     "delta": -1
    },
    {
-    "topico": "Marlim",
+    "topico": "Baker Hughes",
     "atual": 0,
     "anterior": 1,
     "delta": -1
@@ -95,9 +101,9 @@
  },
  "mercado": {
   "brent": {
-   "atual": 109.26,
+   "atual": 105.69,
    "moeda": "US$",
-   "variacao_pct": 3.39,
+   "variacao_pct": -2.81,
    "serie": [
     90.87,
     91.02,
@@ -119,16 +125,16 @@
     107.63,
     104.61,
     105.68,
-    109.26
+    108.75,
+    105.69
    ],
    "fonte": "Yahoo"
   },
   "usd": {
-   "atual": 5.1512,
+   "atual": 5.1459,
    "moeda": "R$",
    "variacao_pct": -0.1,
    "serie": [
-    5.1153,
     5.1237,
     5.0998,
     5.0856,
@@ -157,16 +163,16 @@
     5.1247,
     5.1108,
     5.1566,
-    5.1512
+    5.1512,
+    5.1459
    ],
    "fonte": "Frankfurter"
   },
   "eur": {
-   "atual": 5.944,
+   "atual": 5.9368,
    "moeda": "R$",
-   "variacao_pct": -0.21,
+   "variacao_pct": -0.12,
    "serie": [
-    5.9102,
     5.9138,
     5.8826,
     5.8764,
@@ -195,15 +201,16 @@
     5.9528,
     5.9244,
     5.9564,
-    5.944
+    5.944,
+    5.9368
    ],
    "fonte": "Frankfurter"
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n520 assuntos no radar, 12 de alta relevância. Tópicos em alta: Petrobras, Shell, Repsol, Repsol Sinopec, Bacia de Campos, Sinopec. Em baixa: Prio, Marlim, Jubarte, Albacora.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (2 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (30 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (1 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (4 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (8 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 5 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n521 assuntos no radar, 14 de alta relevância. Tópicos em alta: Petrobras, Bacia de Campos, Repsol, Sinopec, Bacia de Santos, Repsol Sinopec. Em baixa: Shell, Prio, Baker Hughes, Jubarte, Albacora.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (29 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (2 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (4 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (8 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 5 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-09-15T17:59:42.574245+00:00"
+  "gerado_em": "2026-09-16T18:00:45.483437+00:00"
  },
  "companhias": [
   {
@@ -451,89 +458,160 @@
  },
  "series": {
   "semanas": [
-   "28/07",
-   "04/08",
-   "11/08",
-   "18/08",
-   "25/08",
-   "01/09",
-   "08/09",
-   "15/09"
+   "29/07",
+   "05/08",
+   "12/08",
+   "19/08",
+   "26/08",
+   "02/09",
+   "09/09",
+   "16/09"
   ],
   "total": [
    0,
-   145,
-   176,
-   462,
-   307,
-   197,
-   184,
+   167,
+   162,
+   494,
+   303,
+   167,
+   185,
    95
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    116,
-    88,
-    302,
-    234,
-    161,
-    81,
-    67
+    127,
+    78,
+    320,
+    252,
+    127,
+    82,
+    64
    ],
    "Descobertas": [
     0,
-    23,
-    4,
-    104,
-    35,
-    4,
+    25,
     2,
-    1
+    123,
+    16,
+    4,
+    3,
+    0
    ],
    "Perfuração e Poços": [
     0,
     0,
-    2,
+    3,
     24,
-    7,
-    5,
+    6,
+    6,
     61,
-    6
+    5
    ],
    "Bids e Licitações": [
     0,
-    2,
+    4,
     46,
-    10,
-    2,
-    13,
-    17,
-    8
+    7,
+    3,
+    12,
+    18,
+    7
    ],
    "Contratos e Concorrentes": [
     0,
-    2,
-    14,
-    2,
-    4,
+    5,
+    10,
+    3,
+    3,
     2,
     1,
-    2
+    6
    ],
    "Novas Tecnologias": [
     0,
-    0,
+    2,
+    3,
+    7,
+    3,
     4,
-    8,
-    3,
-    3,
     5,
     4
    ]
   }
  },
  "grupos": [
+  {
+   "id": "3e8588427120a24e",
+   "title": "VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS",
+   "summary": "VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS A Vallourec anunciou hoje (16) que recebeu um contrato de grande porte da Subsea7 para o fornecimento de tubos de linha de aço-carbono sem costura e revestimento de isolamento térmico para o projeto Sépia 2, operado pela Petrobrás no pré-sal da Bacia de Santos. O empreendimento contempla 15 poços, além de um duto de exportação conectado a uma nova unidade flutuante de produção, armazenamento e transferência de petróleo (FPSO), que será instalada em uma lâmina d’água de aproximadamente 2.170 metros. Vallourec fornecerá tubos ao Sépia 2 após contrato com a Subsea7 para projeto da Petrobras.",
+   "detalhes": {
+    "profundidade": [
+     "2.170 metros"
+    ]
+   },
+   "category": "SURF",
+   "relevance": 100,
+   "entities": {
+    "campos_blocos": [
+     "Bacia de Santos",
+     "Sépia"
+    ],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": [
+     "Subsea7"
+    ]
+   },
+   "published": "2026-09-16T17:45:00+00:00",
+   "n_sources": 4,
+   "sources": [
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDRuLVo2SkNIbzhEYjdoUjY3WG5Nd045WnJxTXFlbjJqdFgtWlJBcmRKUEctbHBzM3labkNMOXZ2TXhMdkRLeXVUQVlLVHdUcFhobjQxMFdKQ2E5bTN6Nm9NYkU3UE01cGhJWmdVR1c1M2hoLUFiSDNZUE50RWxFSmV4Mm9Nb1JuUVdPZVYyUV95SlVPWUQwSmM5al85cno1cUM0U2szMUtHTGxqaF83TzdBbVBFMFk2aHJ5dS1qNTdCZ3ZL?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T17:45:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "UOL Economia",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSy1vMTF5T2RVQjU3UnZvdVB6YTJUQjlQLTY4ZWhiZXlwcG4xR3F5TzI0TXJBcUJsc0dwclVlZ3J0X2w0Vzdta2NRX1BmSDRCTXdHalBkbndDZDloMTZvaXY3ZkdYM1RXbUVYOGpLdFdpMlFESG1Hc2w1X3RXLWM0ZHVneEhBSk9OcXBJcUhDbGd0am1DTGhOdHBfRHc3QTdkMFFxOHlRNWFJTVNneFlqbUpjYU1POEQ1clczdVljd0JZd0pSOTllUmtqdGtYVUdiUlRMUWo0eUpGNHNIV1RVM0J4UzhLUU85WEo0T0Y1dThKZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T16:34:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/vallourec-fecha-contrato-com-a-subsea7-para-fornecimento-de-dutos-no-projeto-sepia-2-da-petrobras",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T14:00:22+00:00",
+     "link_real": "https://petronoticias.com.br/vallourec-fecha-contrato-com-a-subsea7-para-fornecimento-de-dutos-no-projeto-sepia-2-da-petrobras/"
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZE94WG8zODVxbm1HZmxhMzBTVUZIWGt5RzJrelJ3N3FGVDZXcWh0M3lwY1Z4RFZOdTBnUXNvQ2w4bVRNZ0RhVFZfTThRUEhJWmR0SERTTDdqeG1hRk1tY0dna1BLVVpaaGZZUTY3WGFPMFBSQmduT0o5MDltcDVXYjB4aVFqTnpNaGlhUHFaQ1JJd01QX05OUlZJdlZiTG5WOFVHTDdOb2RMUWhDVVpnRjRSVnhCUnhoamlVLW9XWmY0eGNuTFE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T14:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "TN Petróleo",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOd093MGlXN1hRYldxbzR3VjRoMFZpNEpSYWZUUDVMcU11N3U5aVloeXg0T3Nkd3Y0a2lWMGNVQi1mMkJ0RmNZTlVrelRSLTlNRHc1SkRUYmJDaHlubXh5Tko2R2RMVDlQb3Ffa3Vzc1VCYlJ5ZE9YNVhlZ2padkdSeHN3U0dPV2plbFpQUnJWblFTWHdFQVN4Unp4Q3I3dXdJTlM0bmVQYjBRTXlLLU5vYnRHZW40MDVYQnhXZHROdlRRbDBLaTZ2d2lEN1dpQVlMN1dKZzJrb3Vhbms?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T12:25:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
   {
    "id": "199a55b9bea467f2",
    "title": "O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS",
@@ -620,7 +698,7 @@
     ]
    },
    "published": "2026-09-12T09:40:40+00:00",
-   "n_sources": 355,
+   "n_sources": 357,
    "sources": [
     {
      "name": "Defesa em Foco",
@@ -631,7 +709,7 @@
      "link_real": null
     },
     {
-     "name": "movimentoeconomico.com.br",
+     "name": "Movimento Econômico",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQi1BWi10OFZSRHNGT1IzcE1ULXFCQk1rUHJQNTBNRXhubERiTzg3Sklpd3pkWTdxSkl6SWtLbU0tUnpFcHZNZjZNczlscFlOZHI3ZUd3NUFBRVVDd3NPZGh4YXE5YnlvOTRpMnhkNW1QRzF3UFZreTFTZDgtcHE1ZkVwcUhFcDVmNzJpeHFGTjBVTWg1eUQ2WGZVYnNOSWY4WmkwQWxuWFFmU3l5N1BSQ3hlWC1oQmVSWWNCWEZLdFhUWWhtR1dOeg?oc=5",
      "type": "aberta",
      "paid": false,
@@ -711,6 +789,14 @@
      "link_real": null
     },
     {
+     "name": "oliberal.com",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWENZRF9vNUprcWRITlJGZ0hsWEs1SFc2UWFkcG5aNmYya2dCNG9RWTFScnlLdXFaME1URDRZLV9IV0hLWXdiMVB1c2N2c3NULUJqN0dGSU91c3J0LXNOZnZvTGhmUXhDOUhCX3R0ZkJOWGQ0ZHZQN1BCazhrRUF1X3JybWdocE9pelBzZjUtbmlyU3dfQktkZWlwZzhwdVdUbFl1Wmt5QXV1RDFHemlod0Y3dGE0bHlXelE1ZDZaSldoN1lfOEVQU0F1ONIB0AFBVV95cUxQZUdoUElRdG1aQVo2NU5JSVM0Zy02b0xUZDB5NnhHbHB2b3dXcTVrenQtR0doMlVCRVJYenpORGxmNm04WHc4V2haaVoydHlFeWRKQzJuaGsxcTEtYzhyN0JKUlZxNFpxVjhQTkxWR0hUTU91M25aaURuWUNHRjBEenRrUE04YlZxQTMxc3FEOXNwbEw2ZTFSMnZXWklveHdzMndIbFdfa2tDZFVzbFBkSEstQ1UxM2JkNUJZa0ZWMHREdmFjSDRxUnFOSmlnNHdm?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-10T13:13:42+00:00",
+     "link_real": null
+    },
+    {
      "name": "A Revista",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWluSWpzSXNKbDByU2xOZmNxOFo4UUVQZnI2d21jZl9zb3B4ZlRfc2VEd2xudWJ2VmJXU2Jwc09mdnFsQ1FqMnU2aklkaWNtRWJ2eGtJWWVRUU8wVTlJdlNBTUtNWjZfSS0yUlZNZUJESV9TNTUwd3NaUjVKdEZxa1BtRnZ2OXkxazlyc0tCOUJQOXYxalE?oc=5",
      "type": "aberta",
@@ -743,14 +829,6 @@
      "link_real": null
     },
     {
-     "name": "Brasil 247",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVBzSVhvTFdSZU91WV9mazBoYVkteHZuTHJjXzF3Q0NwNUlxY2h6VXZZaXAzMWxHNzhGa1Y1cDN4TXI4eUZMY2RCVEJDZndQdWtLYk5ydFU5MmxCaE9JbjBDc0VVbUwwVHNEOWRBOUhtLXQ5R3B1R3lfbDFQLU1UcnhublVQa3VPeF84SGhqOFFqb1dlYnk3VG16Qi1QX0Q1b1E1dm0yQjVhV2dhMDYzQkFLd2tzTTZreENDMTJTTjg?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-08T19:58:00+00:00",
-     "link_real": null
-    },
-    {
      "name": "Tribuna do Agreste",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk5Za3lZTnZHemRKc1VQLUpYN3lZbElEaEVQNU9rV1lyMnVDU0dURWR6eTBjUEZrZHZVaWx0Z1VYYWpqMmxvU3A2UXd0NnlUTHh1NkxMaVNqNUwwS2QyN016ZVRKMEVqemJ5azhCZGlCWEstaDN2UUZIYU5UMWxfLTlDajZ2SnAwRVZueVZ4Sk40TlBRSXhxX3NKUlZxcUsyVC1nOE1IaDZFZmthWWhtWThya3NfV0ZNZUFV?oc=5",
      "type": "aberta",
@@ -767,27 +845,11 @@
      "link_real": null
     },
     {
-     "name": "ADVFN",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZW5zN2doTTU2aU96dFVzOFdQYnkxOHhrQXBMUS1oYmtUak1RYmtCMVkxRXVoYUk3NW1hWlkzaFNYMTltSGhfZEJjNEpxM1JZdGJxNzhZVDJmMW1OMHBSaXJ3M0FPOENKZDdMY082VXZBSU5yMUtNZ0dSc3h5RDFEZjZSYzB5OWF0RXZIYy04c29ncWtGMHdzbDI5Vl9nODlXVGc4WXZUcTJkT3dh?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-08T16:35:32+00:00",
-     "link_real": null
-    },
-    {
      "name": "ativovirtual.com.br",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONDg2TFItVXNqNTlNaUVQMzBIOHItSWNjdGNycW5UZnFHakkwYVRJNmwtdU9rQTJiUEVLWjZjak1xMU41NzJDSnJQVW0tTWVnZjlkLVJKOVd4VzVzZmg5SHFJX0hYMTJZS3FoYXFDWGt3M0NyeFdIV2UwT2lMNDFvU2E2R3hEbkQ3U1BFU3I3WDlONEZiYjBkT0tpd05NZTE0WnJWSUd3TlJRVC1pTW1hY0VyTEItSXNZNmw2Ng?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-09-08T16:16:59+00:00",
-     "link_real": null
-    },
-    {
-     "name": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVExODNaWERWRlBvNFlFVzdGNzJzNnFVNDFta25VWkNjWGNDbEtoYlN2cHJyVVBlOHZfSDJyb1BsSnhMNkdpU01UZTE3ZnhYVHd2a3hPQTZJTHphQVNrSUUxajlqQWdXQ1lTaTZzNTZhc0ozWFhndDlwUlZBbTFPVjd5ZElNZmhBNnRwS2pQdXY3UE9RSmluT1R5alZSSDBkdFhQZkx0andmN09BRnVjc21zUmNqY0560gG-AUFVX3lxTFAwcldmU21HR1NsaDRtd0stNExwVjJJSlY2SFR2czdIaE4tQ19LVVZoemdoRllPQUFhRF9WbnZqNzU2X0J5QVcxdEdhcU9kZFAtY1l1UG9TRkE1YUhvVmZVY0RyVnlRM29fS25NWktjUWFmd2t2S2gxaEdLSUFSTXBmU3ZlQ09WaFhJVlN3Qm9MWEg3SU1MWjJjalpnVmZaVWd4Y1NobEoyYV9heW5uYlhreXo3MXJWQ25ZTzlGUGc?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-08T16:09:27+00:00",
      "link_real": null
     },
     {
@@ -895,6 +957,38 @@
      "link_real": null
     },
     {
+     "name": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVExODNaWERWRlBvNFlFVzdGNzJzNnFVNDFta25VWkNjWGNDbEtoYlN2cHJyVVBlOHZfSDJyb1BsSnhMNkdpU01UZTE3ZnhYVHd2a3hPQTZJTHphQVNrSUUxajlqQWdXQ1lTaTZzNTZhc0ozWFhndDlwUlZBbTFPVjd5ZElNZmhBNnRwS2pQdXY3UE9RSmluT1R5alZSSDBkdFhQZkx0andmN09BRnVjc21zUmNqY0560gG-AUFVX3lxTFAwcldmU21HR1NsaDRtd0stNExwVjJJSlY2SFR2czdIaE4tQ19LVVZoemdoRllPQUFhRF9WbnZqNzU2X0J5QVcxdEdhcU9kZFAtY1l1UG9TRkE1YUhvVmZVY0RyVnlRM29fS25NWktjUWFmd2t2S2gxaEdLSUFSTXBmU3ZlQ09WaFhJVlN3Qm9MWEg3SU1MWjJjalpnVmZaVWd4Y1NobEoyYV9heW5uYlhreXo3MXJWQ25ZTzlGUGc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "ADVFN",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZW5zN2doTTU2aU96dFVzOFdQYnkxOHhrQXBMUS1oYmtUak1RYmtCMVkxRXVoYUk3NW1hWlkzaFNYMTltSGhfZEJjNEpxM1JZdGJxNzhZVDJmMW1OMHBSaXJ3M0FPOENKZDdMY082VXZBSU5yMUtNZ0dSc3h5RDFEZjZSYzB5OWF0RXZIYy04c29ncWtGMHdzbDI5Vl9nODlXVGc4WXZUcTJkT3dh?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVBzSVhvTFdSZU91WV9mazBoYVkteHZuTHJjXzF3Q0NwNUlxY2h6VXZZaXAzMWxHNzhGa1Y1cDN4TXI4eUZMY2RCVEJDZndQdWtLYk5ydFU5MmxCaE9JbjBDc0VVbUwwVHNEOWRBOUhtLXQ5R3B1R3lfbDFQLU1UcnhublVQa3VPeF84SGhqOFFqb1dlYnk3VG16Qi1QX0Q1b1E1dm0yQjVhV2dhMDYzQkFLd2tzTTZreENDMTJTTjg?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brazil Journal",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNemRkanRyeGF0TTgyclgzazZ2TGZFaW91ZDNyaDM0d0VqUVVyek5Pa0R0ZFd3MTRUSm5NS202TmZRb3Qwa09PQ080SFNkLXo0N2dqdldHT2xNSzhtMERIeVdNQzNVUzZZZkZtdnFPLWlGOXN4N3Nmb1FNQzhsR0lJejNWZXhWZGI5TnlKeldHTVBxNi00czBQOE5jWUZ3Zw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "CPG Click Petróleo e Gás",
      "link": "https://clickpetroleoegas.com.br/anp-banco-mundial-medicao-metano-petroleo-gas-phsn84",
      "type": "aberta",
@@ -975,7 +1069,7 @@
      "link_real": null
     },
     {
-     "name": "opiniaoempauta.com.br",
+     "name": "Opinião em Pauta",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0lNajcwNkF4VGZlc0J4SFVDdDRWbFhFY01HX0JWcVRPRHVhTG1SM2NXUV92X0RHQmlxekhicVV5NzlRTFpxMTJnTFNFY29pWFVHSW5MZHZTZEZtdi1FMnlzLW00Rlk1aS1XS2ZieWdfRzBUOTY3OS1rVnBhaFV3cWsteG1TN1R1SS1aeHQtaEFDSHVIaHBTbVpn?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1047,7 +1141,7 @@
      "link_real": null
     },
     {
-     "name": "Diário do Nordeste",
+     "name": "diariodonordeste.verdesmares.com.br",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVXJxMHp5cVdPSlZIdzU5NlJNbUdzMmU1UnlNYkFWU0VHaFdYNE8wN3hzQktNUWQ1OGduZ0tkZFhzc05zUGJYNWp5bWtfX1NxbXNOS1dQNF9DWDlockp1bXVLYmxxWXg3MjRna1JhbVktLXcydmFrUmJaOFAzN09JcmlITzNJVm9TWmM1OWpld3F1TTh3RVVCNkdCakFtajM0R1l3X2VmU0pZVFJ2aU02VDYtMk8xQUtTTVFJaXRneXlFSjd6YVlJUHRvT2t0N05K?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1127,7 +1221,7 @@
      "link_real": null
     },
     {
-     "name": "vanguardadonorte.com.br",
+     "name": "Vanguarda do Norte",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTFZoY0FfU3VWUjdJU1hDdHRDaTk2dnZ2ME4zNEpXYmVzUEZxS290enlrUVY0U29lRzA4SjhMSlQxQ0dVc3FjZGRxMVRSSmtUWlRsd2RsLUVjV0hDLUNCVWl1N19NdGlDMlUtMTBQb1dXMFlULXFFcUUtVE96Rm9tUkVkeV9mbElJY3hGVVZmSnBCU2YxVUNtQ3k0cGpPNHlKVURpT2FhTlZiTHJ5aVFv?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1207,7 +1301,7 @@
      "link_real": null
     },
     {
-     "name": "Balada IN",
+     "name": "portalin.com.br",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnNEd2RxN25uYkFCYml0RmxUTGhURUxvaUhnNmdHMkZGM3ZzTXh1blBWZUx6dDUyall0Y0E0eU8wYzZzWFhMQmZDZzZoVzFFS1NkSUMwTkdPOUFKZUtLUEJUUzJtNFN0dThhRjVtaDI3VWwzUWE0c0lCWmIzSnZSR0o0bmpIWUdrNjkzNkJxOFJkTjdJMWo5RDI4LUl5ZXFJdFBLVXpNZGROQjF0cDRQNTRfYUg?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1284,14 +1378,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-04T17:02:58+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1dETG9sNjBDemsyX2FxWHpqRHViSUJGeUlsNTU1ME0tNUN3YzB1dC0tdkFDQ0RocGdyQXdUeXVHZmxnYTlxbk1iMDlsbHhDR0ZaYldyVE9EV3d1N1VPQ0dKT3E5NlZyeExHOUQtOWxRRWduX0VYYnJaeXNvSUhDRUNQRTJzZ0dIT3RJcGcyRFBsdmt2c1RKYi1LZUpocndzd182b05Ud25MY1NIT0ExcmdXOVhPTXg5RDJhYUJXclViNExFeEhVQ3pSRmRrcWNsVVZNc2lR?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-04T16:50:50+00:00",
      "link_real": null
     },
     {
@@ -1391,6 +1477,14 @@
      "link_real": null
     },
     {
+     "name": "Agência eixos",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1dETG9sNjBDemsyX2FxWHpqRHViSUJGeUlsNTU1ME0tNUN3YzB1dC0tdkFDQ0RocGdyQXdUeXVHZmxnYTlxbk1iMDlsbHhDR0ZaYldyVE9EV3d1N1VPQ0dKT3E5NlZyeExHOUQtOWxRRWduX0VYYnJaeXNvSUhDRUNQRTJzZ0dIT3RJcGcyRFBsdmt2c1RKYi1LZUpocndzd182b05Ud25MY1NIT0ExcmdXOVhPTXg5RDJhYUJXclViNExFeEhVQ3pSRmRrcWNsVVZNc2lR?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-04T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "Brasil 247",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXJ3dzczM01SODdYRDdHZWFzU2ZGUnFqOERMZzVnam4yeFBTUnpWUGx4YTVlRUZYX3ptamw5bVB5REdzbS1qT1lzVGVoUkM1ZExfTzIySmdRQU1yaEdqdjZzQzl2enZ4eUNLakQtVGEwWHBoeHBqVnZ3MUs3eGY3cXc3bzJzX0R4TTliRzBTVDJaZ25vS0Q4aEVQYTFkbWhQRlpLQ1AtMjZZSDJxU2IxN3lTV3FkT01J?oc=5",
      "type": "aberta",
@@ -1431,7 +1525,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFpKbmFhTlYwYWc1bGNmT0RENWxIUkZFb0E5MFVzMGw4cEFocS1FYXpUTTVBbTlVbGlyZEF4ajRwQzlfWUZjQVAzYlZDTXBWdTM5VTJqanBZam43TGVHTnFhTm81VG14dml3SFdlbDZPQmprN3IzMVE4Y3EyVGRsdUs3WjRfYkhNcFJLUGhzSDRXdGxFM0xGaW1Odi1hZVI3WkNlWndwNXFOMVBkOENmS3lNYnBtSUk?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1495,7 +1589,7 @@
      "link_real": null
     },
     {
-     "name": "TradingView",
+     "name": "br.tradingview.com",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ci1ycVEyaHZINWFTczF6ekhXSVB2Z21PRmFQMFJsU3RPUUtLVkQzU3ZlMk82Q2VUUTJQbC10MGwzQ3pMZHgxdFF2X1JRUDRGTjFlam1vSWM4Ni13M0pVRXpyZGpjVEd2R3FRVFlNYlgzZjEwMXdB?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1607,7 +1701,7 @@
      "link_real": null
     },
     {
-     "name": "oglobo.globo.com",
+     "name": "O GLOBO",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEFTOE90czZtYVMtNFZ5NXA5SXNYRzhSa3Q0YUM4RlE3TDVCWngyYzY2WC1RWmpON096WHhta05kcFpQYlNiZ1R1OWlJTXl3WTBwc0tUVDkyckVpdk5UOGVIc2FJOTBpR1o5a2VTV2JQY2ZRS1dCWkNKeFZrQm40WDMtcnAyRkQ4OWZpMTFKMHZXWTBDdjlIMm1SWkRyUnphaEhuVldROUZSQzhOWEo5MUxqMDEwLXNXVXNWRk54OE1KSlhxS0pSX0UwZDZ0SE830gHfAUFVX3lxTE1XTFppa1BnZjZKSkxMbERSMWcxb2wwXzVCNnJyNWk0S244ZHVDSXNocGJwWE1MUi1yUVBJcDlKUFZRRVRzRVBMc0ZGY3NaRUFwYnBXdGdzc0FEcE9NOHotbGE0ZXhuVWYxNHl5OWczN21OalRsMGI3WEc5UkNpREphSXlZdmxMd3MzcVJac1JLNWNZdzJMT2txcFF0ZGN1dHhjRlZJXzVYZkg0ZjRXQ09TdUptbHhHUmxLN2xnNnNxUHlrMHhNWm1VYzY1dXBhaVRHcEJaQ0NlVC1ZRW9aMWs?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2367,7 +2461,7 @@
      "link_real": "https://petronoticias.com.br/jean-paul-prates-alerta-que-a-riqueza-da-margem-eleitoral-precisa-ser-comprovada-e-nao-pertence-ao-calendario-eleitoral/"
     },
     {
-     "name": "Instituto Humanitas Unisinos - IHU",
+     "name": "ihu.unisinos.br",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd09mcWQzSjJoczcwczRzT1ZqSzA0TmxaWXQ1SFd2UTJvU3BlaHlkdzdPZHJSWkZCWHhqMWdmR0NkYWluQkJadUtyRHY2S2VMS21weHZiV2hXVlRqUlRuSEZTMWNlR3U4NElrM2E3c2ozRVJXSXNVbGdGYUt0eWtiYU95Q045WUFMRnRyNXhEZkprX1Z6d0hmTmpVRTQ1UEhvWkkwYWtTY0w2YWJoNzhGenlNcVU0WGVybjB5VEZ2NGlsMVBnZ0FiaWxpMjVoX2ltdmFn?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2431,7 +2525,7 @@
      "link_real": null
     },
     {
-     "name": "moneytimes.com.br",
+     "name": "Money Times",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd3Q2d3VJajg1cHV6NGMtVGMtV25GUzB0NElSaFp5N0ZUOWpPUVViczZWWkFvQkQ3VE9NWUJaRXNkMUd2WmNrX3BvVFN1X1RqcF9nSWZpc2c2ejNUNlJIUVc2Mjk0VE92ejRVX3RIeGNDdnhobGlyNGdJT0xSR05xOW9WaDhpZWl2cjB5WHFYazFyNDdnUUk1MWJwSXByVWlWeE9DbTZGTUV0Wk1vN2VDQ3BSekhpZ2l1MDNaRkdqQjBQTXVOa09R?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2735,6 +2829,14 @@
      "link_real": null
     },
     {
+     "name": "SpaceMoney",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1VSZ0w0WUgxaEJ1WFJ0M1FJZGxaazMwOWcxUkNHQ0xiSWhjeEM5YVkyU1laeDZVX2hjTjVhdm9aMUF5dkswX1JyM1JfbFRTQ1VKQ3FHdTBZUUNLbkRMbG1UWmdzaGhNOWU0eXpLaURBX1ExNlY3dlJtZGl5dDJVM2J1SGU?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-08-24T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "G1",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQmMtaE1wZVFNOXRTSFVjVXNwWFp3cGh0bE50OEJUSHFXVVhRV3VZbmk0ZnhRU3ZLRlU2X19UTk5RYnFaQV9yQ090QmNyMDduaHo2MTFiNk53eWVuTjRwTlNjMk5aT2lQN014cGxxb3ZTREZVVS1YMkh3dU5QdDRSOHR6ZnRfdmVIeS1iNFZSUTJHeHlFMWRLT3FfZHhPSmNxWkNvZWZ3VWpUX0VTb0E2NUpRMEZ3M3ZXS0pza1hQWEN3Ynd1VWExb1dsUXV5NE1J0gHfAUFVX3lxTE5aZ09iLTFyRV9ZWU5IOFlaUExaZkc5YTBESTlYZlNnMF9hclQtUFE2Nm8yUWV3bDlEUXE4ZWg0dmZ5OTdObkh1QlBlXy1iOW5lTnFWQTdYTkhwc0lmcXhYQTJtOHFaSC0ybnFRTVhIQ1h5bWU2T2pyQy1TRDNSSzVxNlVvVUNQZE5GUDVyRmZsMFFBVTcxaTZ4SG50enZsMjV1a0NzeDl4LWZpemdtVDdpXzh3ZlVNdDdibFd6aXplWU5FREJISlZzZXVyem10SldZaWtsZGkzVUJzQXhicDA?oc=5",
      "type": "aberta",
@@ -2743,7 +2845,7 @@
      "link_real": null
     },
     {
-     "name": "metropoles.com",
+     "name": "Metrópoles",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMzNVWnNfa01uZ1JGeWR4N29aaEZpaDhHcFVJaVlvTk5LQ3BTRW5sMUhMUVY3cU9Bd21iVnFua21EQTlyaGtHNzQ2R1BDWTFScS15WkNacUZUa25SdnExU3pTc2czbDhPQ3ZEVGE5emM4SjYyXzdxa3dGZjFBYllERnRFOC02dG9QQ0loLXBqWXQ1TFJNdDdrcVlnWlRFNFo1dnR3SVNn?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2791,7 +2893,7 @@
      "link_real": null
     },
     {
-     "name": "aciara.com.br",
+     "name": "Acia Araçatuba",
      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjdjJUU1NQbkcwS3Q3cl9RTlB0SHJvRk5ucHNFaDBWS0dnYWM1cGJwWGU2TUpTNjFqT1dlSmxJZHRWLU5WMi1IRWRtTXhrWlpjc3NodHFHcEF6bjV2ZllGWUMzWlgyU1MxLWlMalUtR3BtbzdW?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2812,14 +2914,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "SpaceMoney",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1VSZ0w0WUgxaEJ1WFJ0M1FJZGxaazMwOWcxUkNHQ0xiSWhjeEM5YVkyU1laeDZVX2hjTjVhdm9aMUF5dkswX1JyM1JfbFRTQ1VKQ3FHdTBZUUNLbkRMbG1UWmdzaGhNOWU0eXpLaURBX1ExNlY3dlJtZGl5dDJVM2J1SGU?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-24T06:36:48+00:00",
      "link_real": null
     },
     {
@@ -2868,7 +2962,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T12:39:40+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/pix-acelera-substituicao-do-dinheiro-em-papel-no-brasil-com-61-da-populacao-dizendo-ter-reduzido-ou-abandonado-as-cedulas-mas-idosos-ainda-resistem-por-medo-de-golpes-e-dificuldade-te-mhbb01/"
     },
     {
      "name": "PortalR3",
@@ -3319,7 +3413,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdG9laUdEa2F0eWRyemUySGJfQ3JwZ1lyV0kzSk43WkV5cVlXdll5VTZoc0NyNWZhcmZoejVOcjk1endSY2EzYUQ5Vmw5ZE8xaHBTdFpyMkRzTXBnQ3M2RkZ5dnhqcE0tSndZZ2dHSWNESktCQ2x1cGxRbFBoWXVMc3Rkam5VZG0xNVBsck9oLU1UN25qUGVzZUJEQkFwSkdvY0tDb3BqSXdULXA3bXJIaUVwNGpKYVU?oc=5",
      "type": "aberta",
      "paid": false,
@@ -3495,7 +3589,7 @@
      "link_real": null
     },
     {
-     "name": "novarejo",
+     "name": "portalnovarejo.com.br",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbUxBQjY0c1lSaWNHVWJuSmdQbFJfUVpEakU4TDdUT2U0NllteW0ydHdqZV9veGg5VnZHZmxlYU9hOHYwRnN2RDREVFJqOEVhdWVoejRHT2xzZVRsZlVFM0tWRXJrUWQ5Qm5rSlhQcm10MWd3bUphLVFrN2t6aGwyNUxwUnlBV0NldURmOS1VVEt3TlduMzZELWs4QmlCbm5KT1ZCWDhyOXpWeWJUdGFJR1hTdV9kUURxZFRHX3E1Yw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -3959,7 +4053,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc0lYek1KTENGd2NTeWlGRHowa0gzWVdDZGdEZVcycVFsMU4yYlpJbkpLUUJIMWF6S1BTenVOV0pNc1lPcWxXUTZWRWVpSXBnNEstdjRTQzR5TmVLV1JlRlJBaWFtbTBIVEh4Z0x6eEZKSDhrZTNKd1VaV0k4ME9qbTZkUUY4R2E5RklVTE4wZkYzaGRKZzU0Z1FQU1I5TFhLMkt4bTR5Tjc4M2FRMGNISQ?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4215,7 +4309,7 @@
      "link_real": null
     },
     {
-     "name": "aepet.org.br",
+     "name": "AEPET",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3BScnI2NHlCaXZ3bFlGVjZxWGtXSTdEelRodDNUNENfNHNOX1NlbHlReXRnVFVULW9Gb1Q2UzFBX2dCNG5CNmpVOXFYdmQxWS1Nc2YwMTRPYjZqeTZ6UmhLYk1tUWN4MmFiM3dNdU1Xc0g0WFp0LXEyamVTZTcwbjNoSVhGT204ZTI0RVZlZkUtbElUc1IzN3VUZ0ptbU1fMDA0Q1pTWWpCZDBLaFRGUjBzNmNmcFRVN3NlUDAzNA?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4383,7 +4477,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1J0d2lQWjgzVUhseExWUExMblBXRDB5aVFra0g3UXd6Y1Z3amxrLXF0OGtYLXU0VUlqWV9zVm9laDRjZDRKc2QwWWtsZTNueXZLS0JWdjlIM2tqeHBfWXUzR08yV1ZsZmlXVVdUNmxpS1U4dllIc21xRlE3cHBpNF9XTXJlZDRFdnZMZlpac0tmdzN4OHQzZTA3VzVGbzBrSk4wZC1R?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4543,7 +4637,7 @@
      "link_real": null
     },
     {
-     "name": "portaldoholanda.com.br",
+     "name": "Portal do Holanda",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODctc09TLWY1U0VvaE9JU0NxdkF6djRmOVhUbG9yUFIzeHN1NVFFanM3SFQxOThxbENTUGhDclBuU21aUnZPMUROQlU1RkVJa0pNN2dPVVVJcDFtQUs5bmJVcFZic2phOTZOY2RUWURiV1VtZVRrZ0ZqWnhoTWJNa204R1l3OEFZTzdieFVYbHNmOU8wNUtfa2pBcDJnZllNSTJ0QlpHSmdxQndLbDVDT2p0SWJyWGJia09CWENJVGJ1UHI2dXBLam4xM0I?oc=5",
      "type": "aberta",
      "paid": false,
@@ -5159,7 +5253,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOVZ0QjhoNzE5RU50WHBlTk5Ia291RHlKY19uVFczc2xaTllxTUJULVlNNWRWRmNMMzE3bzZaT1R1RHhRSW1fUXhKOVV5ZXYteWk2am1tX2ZibmViRXp3V2lBdTNrU2hRYm42alBJbUt2VTJabk1lV3lJd2VKV2NjVEllXzUxMUs5ekc4U2wxOXVQZGZIR2szbUVTdUdSUHB3dDlZaGNGV1k?oc=5",
      "type": "aberta",
      "paid": false,
@@ -5311,7 +5405,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjFpQktCMlgyM3VNR1RNVXJWeXYyS3FDMDh1dnlVZ0NvemN4QXRPYVBCelJtd2d1ODladFZ2YmpaczRFU0tZaXlGa0REbU9vb2psY0NUUDF3UUpxM3NUMkZJN283dkJ3YUlrVm5xMjVwaFdLR056SGxfU1ZjeEtwemtEdlIyNTNOX2FkMDc4UmZ6TFhwZGNYcHpKSm9vM2FGU2xHZXliUGp0NF9sTmc?oc=5",
      "type": "aberta",
      "paid": false,
@@ -5535,14 +5629,6 @@
      "link_real": null
     },
     {
-     "name": "bra1.com.br",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTROMUEtVm5DOU05YjVZQVFuNkFHUU4zNENMNkpqcU5nNWM4dHpQV0tEOERXLVZSZF9rX0JPdzM1alBUcWFWY09fZnZfTmNGZUtNbXhaTnJZX0dQYngybEtTMUxMV3F2azcyTEk1cWQtYW4tN0w3eE8zM1JFZV9RbWxWMFFFeUJ1S2ZrN1FkT0cwOC1Md3k5ckZwcTVjSzRSdkRHancyVFpTR3NGRzl1dVJxQ3JnS3VXSElrREJqLXowUHM1?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-16T17:01:00+00:00",
-     "link_real": null
-    },
-    {
      "name": "Jornal GGN",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkRfZjRBdkxMVTIwT3VYRm9uQ0o3SzExd3hZRE5fdFc4N044dGFzVXp3dm5yZWY5TTFSaHpYRmlILUpIQ01RbGRNVDhDbklMYkJPUmlkVk9pN3ZfeEJjei1IWlZ5d2w2QnZFcHdYa0VMenRQVFFyajR4WTJPSVc5VzdHdWJMQmlfTEVZaTNYSnotc3J0OXItSmJmNXppZDRGVV82dUZlZDZlMmdnMGc?oc=5",
      "type": "aberta",
@@ -5625,6 +5711,14 @@
     {
      "name": "Folha de S.Paulo",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTzdWYU80a014dzlEalZTMDZRd0FTUktIdzJfRzkzOFdDQ3lwYzJjenpKenB2d3Y4U183V0d4OEtHNmZvcFcxRXJUbmYwSjZ0eDVWY1dRLXp4QWZmcFVwOEhRejd3c0xaVS03RlFVdUJoM0JEc0FnVldjY0lCWFE0cUh5RVZOZlRuUnFERDBCN2ZUTE5iR2NsUHFxR3FyU2JOajNwTE9XMHBaMjBXal80UDRUdWlqVXdXajVFaEx6R19wX2lvd2JxLUtoY2dpM3pxUXFnODZxOEIzS0Q5ODBxa0Vaaw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-08-16T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "bra1.com.br",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTROMUEtVm5DOU05YjVZQVFuNkFHUU4zNENMNkpqcU5nNWM4dHpQV0tEOERXLVZSZF9rX0JPdzM1alBUcWFWY09fZnZfTmNGZUtNbXhaTnJZX0dQYngybEtTMUxMV3F2azcyTEk1cWQtYW4tN0w3eE8zM1JFZV9RbWxWMFFFeUJ1S2ZrN1FkT0cwOC1Md3k5ckZwcTVjSzRSdkRHancyVFpTR3NGRzl1dVJxQ3JnS3VXSElrREJqLXowUHM1?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-08-16T07:00:00+00:00",
@@ -6919,7 +7013,7 @@
      "link_real": null
     },
     {
-     "name": "ibandce.com.br",
+     "name": "iBand CE",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcGRBWVhjNFA0LTJWbG95Q05zSnppY2c4dnBWX2pGdHlNZy1HdEVRRWJzaDg4YjNUM0cza255bk1hSHBQYUtDN2lKMllPZ0l5UDdQVDVOcDNtaWR1V3BlUmloZGp5T1hUYnp2MXV2b0tETFNadHdaeVFpQi1RRGhxS25hcUdoQ0t0VzJwdUVkUmMtdw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -7111,7 +7205,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblJ5X2dnSjhzUmZLZkI5Y0kxYmRfY1FSS29UMm9XNkFvMFBiZUtjUUxkUWV4ZTNUQ3M2eks3X2t1anplU3JSYlhIcWxmRXJOTDl0S0lZU1FRNnkzQmg1LTYtMmYxUjhReW92dVZqNzg2Mzd5NGRrU2syRDhIWjFTOGRJZVBmaWhEUENuWU1YaHBUaGJfamE3MzZndlFIVTBraXJrTw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -8207,7 +8301,7 @@
      "link_real": null
     },
     {
-     "name": "Poder360",
+     "name": "poder360.com.br",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaURaVXo1dVVJWWRxVXd3V3JKRjdCcE1kRG1qODNmaThhTUdTdWpJeXV4RkZqN1dTLUtTS1AwSGp6cElaUGtxVnJnSmZ3NnFreURWeHF0ajh6eGtOMFp0MU9Wc2JfTHpOQTlZNTJScU5HdEhDd0c0QktMRFYyM0hBRzBzYzRvRmJYRGZieWdlWGxRT0ZJ?oc=5",
      "type": "aberta",
      "paid": false,
@@ -8316,14 +8410,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-02T20:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQLXNodTRtcTlCV0FERFhvb2l1ZWUxNHVIZ3djYXZ6TkZPUU5ab2QxQmt3MERHbU5HM0RVRk0xYkdzcGR3elNZMzY3dkFraTR2UFZDRlZYQWZzejFlUkF2bkhETnNyaHNnVU5TN0RNX0ltU2ozNF93NHZnNWNVdkI0UW9rVG9TOFl2WmNMR2dpOEhDcTJsQzNlZVplTnZUN1FZT1piS19DZTc2TmZXZmJlSVg0VGQ5b3lYOV9vQnQ0T0gtYktOcjNCNjlscXZNYURhSmNGa3JCYlZ4WXo3c3JkSTBYalREWDROX3MzWDJ2blE2akI2NWItMk1lNkJjLWctb3VHb3duOGZSQlJvVmtMZk9odmtiSnRxaDJ0YzhmVDVhdThad3M1ZEhVUDJEMmV0QlhJQmU3eDM4ODlpUm4zOWxNb2V6Qjg?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-01T22:30:00+00:00",
      "link_real": null
     }
    ],
@@ -8530,6 +8616,44 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-10T19:01:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "137366c9bec15c20",
+   "title": "MDL CONCLUI CAMPANHA DE DESCOMISSIONAMENTO DE SURF EM ÁGUAS PROFUNDAS DA BACIA DE CAMPOS",
+   "summary": "MDL CONCLUI CAMPANHA DE DESCOMISSIONAMENTO DE SURF EM ÁGUAS PROFUNDAS DA BACIA DE CAMPOS. Executado a partir de uma embarcação multipropósito, o projeto envolveu o recolhimento de linhas de escoamento flexíveis, umbilicais e jumpers associados a um FPSO descomissionado. Maritime Developments conclui descomissionamento de SURF em águas profundas na bacia de Campos, no Brasil.",
+   "detalhes": {},
+   "category": "Descomissionamento",
+   "relevance": 71,
+   "entities": {
+    "campos_blocos": [
+     "Bacia de Campos"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-16T15:00:31+00:00",
+   "n_sources": 2,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/mdl-conclui-campanha-de-descomissionamento-de-surf-em-aguas-profundas-da-bacia-de-campos",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T15:00:31+00:00",
+     "link_real": "https://petronoticias.com.br/mdl-conclui-campanha-de-descomissionamento-de-surf-em-aguas-profundas-da-bacia-de-campos/"
+    },
+    {
+     "name": "IndexBox",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHdwcThRQTBMQkU4TkEyTjEzc3RzTDN1T3dKWFllVVdneHJBR0ctbDlFenA4QW5aSmIyNDZpWWhwaE5TQUI3TGxtS18yZ0lXT0VkYkx0MEY5NllqclRJeEIxMnFrVi11UF9oRHl6SHdPY3BRcTVPM1ZFMjVBQXZFOGVKeHdLaGl1bVhJQXNSM1pIbkhnZGs3TURwdE4zTWZDN2tKNUJteldvY1pZWW9RNlZkRVpDMGJqTHlYaV8tYw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T14:42:32+00:00",
      "link_real": null
     }
    ],
@@ -8913,6 +9037,40 @@
    "aviso_paga": ""
   },
   {
+   "id": "74fc615a80d6474d",
+   "title": "PETROBRÁS CONTRATA A STROHM PARA FORNECIMENTO DE TUBOS COMPÓSITOS TERMOPLÁSTICOS",
+   "summary": "O TCP, que será utilizado em aplicações de injeção de água e gas lift offshore no Brasil, em lâminas d’água de até 1.500 metros, será avaliado em condições reais de operação, incluindo o manuseio e a capacidade de instalação a partir de embarcações típicas de lançamento de dutos da frota da Petrobrás. O projeto testará a tecnologia em lâminas d’água de até 1.500 metros. “A conquista deste contrato é uma prova da forte colaboração entre nossas duas empresas e demonstra o compromisso da Petrobras em incorporar tecnologias avançadas de dutos às suas operações, com o objetivo de melhorar a eficiência operacional e reduzir os custos de produção”, declarou Martin van Onna (foto principal), CEO da Strohm.",
+   "detalhes": {
+    "profundidade": [
+     "1.500 metros"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 50,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-09-15T22:00:13+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/petrobras-contrata-a-strohm-para-fornecer-tubos-compositos-termoplasticos",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-15T22:00:13+00:00",
+     "link_real": "https://petronoticias.com.br/petrobras-contrata-a-strohm-para-fornecer-tubos-compositos-termoplasticos/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "32bf13178a96b264",
    "title": "PPSA E PETROBRAS FIRMAM ACORDO PARA COMERCIALIZAÇÃO DO GÁS NATURAL DA UNIÃO",
    "summary": "Com vigência de três anos, o acordo também possibilitará que a PPSA promova ainda este ano o 1º Leilão de Gás Natural da União, previsto para outubro. PPSA e Petrobras fecham acordo para escoamento e processamento do gás da União. PPSA Fecha Acordo Com A Petrobras E Destrava 1º Leilão De Gás Da União.",
@@ -9000,7 +9158,7 @@
    "n_sources": 1,
    "sources": [
     {
-     "name": "epocanegocios.globo.com",
+     "name": "Época Negócios",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcGxlTklHM0NOV0NxUENJSmRIcmlYVmU2aklUU0VWaEQ5STYyY3hISWNrOWxyZFZhUzVBUTBodW1NV3lOT1l0R0d0aUotX3BBNkFIclYxX18tZW9YbVh1M0JrcFV1UE44S0E0RFl5TWQ3NDFpaXNiSWkxSmVZU05aT3NBS1RoSGdia2JVRW1qaHpxSU5uOWtvV2ZBcnFSbkNZekJHQ2ZDenhhaWhZaVI2MnVSV0F2Mkp1OGQxMkswMTU0YXJmQkVpeWVidjNiMEVaVHpoTFdn0gHkAUFVX3lxTE1jWHBpQjZZc0lHdXVmWVVCZDZhQnVQSDJ4UDFpUTlxVkx5Q3RWb2R4bXRuMmw3MGNscENURG1KNUUxUnFwc0NBc1ZuYkFQbjAwU1lUenNHVVRuT0J0UEVHQ2pOSUoxemhuUGtiWnptRmFaYlc1a2xJdUdsdGdtWXhIeFZ1anVieWlkV2c2Vi0wRC1lU0RhZmQyRFVJdlV6NGhoQmpacEJDWFJnNHlJWVZVTnRzcDBDS1BzRTlRT1Z0MmZVem9TdEFLWmE3NGlKMGJFUnk5Q2RSeHRmYUREY0dIOWEzYw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -9116,7 +9274,7 @@
      "link_real": null
     },
     {
-     "name": "noticias.uol.com.br",
+     "name": "UOL Notícias",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ1NhcFNQOG9JSWdhYmh2WGZMMFRWelpGT3llTWgxLVY0WWR0cXlqc3lEemZyd1hrRUhtQ2dySng3UVFTMFpHZkRpdGpzX05sOWtOM3FGZWJjSEsxTkpkUHJUaEpCZWVhMzNzNUdIUUwxd1drMmtsd0VGYzdObDRoRVI2ajV1Z2JHcFN6bVJEeE5rSnI4N3BrQjFRZHVHb1BMQkdKOGRPS2pKTktNLWxTLTlpNFF1eElaRU1UT01oMUFVYkRCY1IzelowREFibFUzSUQ4Rw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -9409,7 +9567,7 @@
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rcmVCOWhzSHFsQkFINkU4c1dqUHZsYlMtTF83dURaX21rOWk4OWpsTDJwVndiSmNGT0NGMVQ2QjhieXljWFRzN3VEYllNZGg5aFVzYldWaXZyT0QtN0R6VGVDanFSdnVvWWpNRHJwTVo?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-05T07:30:34+00:00",
+     "published": "2026-09-05T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -9609,6 +9767,34 @@
    "aviso_paga": ""
   },
   {
+   "id": "a70ad8a3a524c8a0",
+   "title": "Brasil tem aquífero com mais águas que o Guarani e nova reserva de petróleo comparável ao pré-sal",
+   "summary": "Brasil tem aquífero com mais águas que o Guarani e nova reserva de petróleo comparável ao pré-sal.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 35,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-16T13:44:51+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "jornalcruzeiro.com.br",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeXdXcjM5NlNGenl2NE5pcTBrQ0NQbnlPanQ4ZmxJeDd1UmF0RUlRVEhFQjloaW9SWWFIMUdiRVV2bGxiZngwSTFvYkpRYnNjNU1kTzZPOFJYSWoxc0hZbzh5V2Jia2dCZkxZNXZyQmE5TnNJU1FnSjg5MmUyNS1fcFBuSWZzNVNMVi1NX0xSYzhvNXpxbUluNTFwNjZjSVMwenE1bEJBZ1NxdFNJSEU2UUZjYjBvN2o4Y1VpZEk0ZTNZeGptb3YwS3JTbFN5ZVEtXzc5cWhucTNnQlU?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T13:44:51+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "c508e9a5aa18ef75",
    "title": "PETR4 vale a pena? R$22,4 bi do pré-sal, Brent a US$100 e preço-teto",
    "summary": "R$22,4 bi do pré-sal, Brent a US$100 e preço-teto. PETR4 acelera com petróleo acima de US$ 100 e pré-sal de R$ 22,4 bi.",
@@ -9768,7 +9954,7 @@
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-09-05T11:57:42+00:00",
+   "published": "2026-09-05T07:00:00+00:00",
    "n_sources": 1,
    "sources": [
     {
@@ -9776,7 +9962,7 @@
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0M3ZlJrcTRkWnhjR29FQmx4UWpRYnRvTmx2ZFA5RW5xazRCcnlDN1pCMk9KQkFBRzR6WWpSS0k2b1RaaWJsNnlmQ1c3Q0xOT2w3MmRLd0xIamFvclV6TGswX2pDSnl5Q0VqdzNLdEkxRXZ4Y2FkWl9NdHZJbFpta2MwdF9qM1k0ZUtveGxfV2FMMmwzVGpYZ2cyM0paRnd6WGthQWh2QVFBUERKTFVpb09HYnota21PNHM4aVFFYXrSAcYBQVVfeXFMUEU5SGV6eDRiRk11Qk02QnB4S3ZocGdJQXdSdUV6TUJLb0NoVzhsVkswZXE3TEZ4c2ZEZUx3UW1tMEZoaHZYdHhtMHRCbU85NmdoZGVvaUdPTzBmOEpkTjR1WXFsck5FTDVQcUtuakxaNzQ3Ym1lQzlkZ2U5N1BGV21EalRTazR4SWZuVWpscXhDM0Y0cm04S012WW5KekdNYk1hd0tjcEFVMkJpZ3ZOTTdnYXRicmVtcFRENENSbTRoelJFdHln?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-05T11:57:42+00:00",
+     "published": "2026-09-05T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -10574,36 +10760,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "b25583adf4a692e9",
-   "title": "Painel S.A.: Agência analisa licitação contestada e que pode gerar custo bilionário para a Petrobras",
-   "summary": "Painel S.A.: Agência analisa licitação contestada e que pode gerar custo bilionário para a Petrobras.",
-   "detalhes": {},
-   "category": "Bids e Licitações",
-   "relevance": 29,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-08-02T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Folha de S.Paulo",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSjQxVjRScS1IWmVoRGlKVGQ2Z21BeEw2N1lSNS1ac0ZMQ0V2MElhRjZKczlKVGZBb3JHT3lYQk1hT2hxeE1ZZEVGWFl0UmVtdGhsb1dxYXdDMkdvVVRUWE81TC11cHZmTmpoQS0zLXJuY0FoWTJDekxKZVp5OFhLbFRYX3dDOXpMUkxwcWVONm1rVU5uTnFMX0pRQjFPQ3c5LV8wcHg0NUQyT19scnM3eHhWbWs5cm1EVzlfT3dZUkc1QUZiYktlZzZ5Rmt6Mnk1LWpULWNoYk8tZUJrcmg0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "4b9d601a2304624f",
    "title": "PARA REDUZIR VOLATILIDADE NO MERCADO SPOT PETROBRÁS COMPRA GRANDE QUANTIDADE DE GAS DE EMPRESA AMERICANA POR 20 ANOS",
    "summary": "O contrato, assinado no fim de agosto, prevê a compra, pela Petrobrás, de 0,8 milhão de toneladas por ano (mtpa) de GNL por um período de 20 anos, com suprimento a partir do Terminal de Liquefação de GNL de Port Arthur, no Texas, Estados Unidos. PARA REDUZIR VOLATILIDADE NO MERCADO SPOT PETROBRÁS COMPRA GRANDE QUANTIDADE DE GAS DE EMPRESA AMERICANA POR 20 ANOS. A contratação de volumes de longo prazo contribui para reduzir a exposição da empresa brasileira a volatilidade do mercado spot, fortalecendo a gestão de riscos do portfólio de gás natural e ampliando a capacidade da companhia de atender aos seus contratos de forma mais flexível e segura.",
@@ -10977,38 +11133,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-06T07:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "d54e8ff119886d83",
-   "title": "Lula: ‘Ai da Petrobras se não trouxer plataformas para cá’",
-   "summary": "Lula: ‘Ai da Petrobras se não trouxer plataformas para cá’.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 27,
-   "entities": {
-    "campos_blocos": [
-     "Lula"
-    ],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-08-01T20:34:42+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Portos e Navios",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcGpTSDdCeDNGOUQzbmV3VFdyRlVhSGVkWUNaVlZFcWQwY09ZRktudUtOUDgwUDIyMEtwdXRuV0EySEVJRDR4ZzJhVXpyWndtbUo0dHNZbURBZkh1Wnl0ZVhrV1VnZzVSQWo3WnNQV0JWV1F4cHNyTmJwY0ZfaHFxS1duTG9mZ3hTOUtEZmVNaVVZV25JVDltd0ExYmRWdjhCa0h5d0VWU0FzdUkxc2xIM1JxaktlWE5pbHl4ZUVMbGgtcE4wOXRnT0F0bjRZalFOUkE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-01T20:34:42+00:00",
      "link_real": null
     }
    ],
@@ -11409,6 +11533,40 @@
      "paid": false,
      "published": "2026-09-05T14:47:00+00:00",
      "link_real": "https://clickpetroleoegas.com.br/o-porto-do-acu-projeta-r-22-bilhoes-em-investimentos-nos-proximos-dez-anos-com-hidrogenio-verde-data-centers-e-um-hub-de-descomissionamento-de-plataformas-no-mesmo-complexo-que-ja-mov-phsn84"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "d6772dd5e38990d7",
+   "title": "PROFESSORES DA UNIVERSIDADE DE ITAJUBÁ DESENVOLVEM COM A PETROBRÁS COMBUSTÍVEL SAF",
+   "summary": "O projeto, iniciado em janeiro de 2026, reúne pesquisadores da UNIFEI, da Universidade Federal de Santa Maria (UFSM), da Universidade Federal de Uberlândia (UFU) e da Universidade Federal do Paraná (UFPR), consolidando uma rede nacional de pesquisa voltada ao desenvolvimento de tecnologias para a descarbonização do setor aeronáutico. PROFESSORES DA UNIVERSIDADE DE ITAJUBÁ DESENVOLVEM COM A PETROBRÁS COMBUSTÍVEL SAF. Entre as atividades previstas estão o mapeamento georreferenciado das fontes de biomassa no Brasil, a avaliação da maturidade tecnológica (TRL) e comercial (CRL), estudos de prospecção em bases de patentes, análises de viabilidade técnica, econômica e ambiental, integração da tecnologia às refinarias da Petrobras, avaliação do potencial de captura, utilização e armazenamento de carbono (CCUS) e a elaboração de um roadmap para implantação industrial da tecnologia.",
+   "detalhes": {
+    "datas": [
+     "janeiro de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-09-16T17:00:09+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/professores-da-universidade-de-itajuba-desenvolvem-com-a-petrobras-combustivel-saf",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T17:00:09+00:00",
+     "link_real": "https://petronoticias.com.br/professores-da-universidade-de-itajuba-desenvolvem-com-a-petrobras-combustivel-saf/"
     }
    ],
    "has_paid": false,
@@ -11846,7 +12004,7 @@
     ],
     "servicos": []
    },
-   "published": "2026-09-08T11:56:22+00:00",
+   "published": "2026-09-08T07:00:00+00:00",
    "n_sources": 1,
    "sources": [
     {
@@ -11854,7 +12012,7 @@
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOU5CMVI5RnVPcEtZU2pHMWs5TEQ5eEE0VjVCdVRUY0p1dnRyZDBtWDdVWmMwUE9TZDRxRGNRSS16MEpQRU9kYWM2NzZKb3FiVTdoVGp3Ynh1aFphTFRxSGZSNGRqSnlra1BrbUUzV3h1Tno0ZTgzSFJ6X2R6WDZVNTlvcFBDcFFPcHV6V2JHV1N3TUU?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-08T11:56:22+00:00",
+     "published": "2026-09-08T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -14338,16 +14496,21 @@
   {
    "id": "253c9cd87602bab5",
    "title": "Aos 7 anos, pequeno gênio brasileiro com QI 141 aprende tão rápido que a própria mãe admite ter dificuldade até para fazê-lo parar de estudar, já se aventura pela matemática e até por inglês, francês e italiano e conquista medalha de bronze em competição internacional de matemática em Singapura",
-   "summary": "- Filho de pedreiro analfabeto cresce ajudando o pai nas obras no sertão, supera dificuldades para estudar longe de casa, vira o primeiro graduado da família e tem foto da formatura entregue ao presidente Lula - Aos 11 anos, menino vê mães enfrentando dificuldades para comprar fraldas durante a pandemia, monta uma barraca de limonada com amigos, transforma cada copo vendido em ajuda e acaba mobilizando doações que ultrapassam 22 mil fraldas para famílias em situação de vulnerabilidade - Filho de mãe analfabeta e criado com pouco dinheiro, brasileiro foi catador de recicláveis, dono de bar, vigilante e sargento do Exército, trabalhou para pagar a faculdade de Direito, estudou em uma mesa improvisada na sala de casa e acabou conquistando a maior nota da OAB em Pernambuco - Dos milhões e da pressão dos gramados para uma fazenda entre montanhas e rios: aos 52 anos, técnico do Flamengo é dono de 23 hectares no Douro, onde cultiva videiras de quase um século, oliveiras de 200 anos e produz vinhos premium e azeite extravirgem A família recebeu fisicamente a premiação em 23 de outubro de 2025, depois de ter sido comunicada sobre o resultado meses antes. Dentro dela estavam uma medalha e um troféu do International Star Kids Awards, o ISKA 2025, reconhecimento internacional destinado a crianças com habilidades consideradas excepcionais em diferentes áreas. A aprovação foi comunicada em maio de 2025.",
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Quando João tinha 2 anos, a família o submeteu ao primeiro teste de quociente de inteligência, no qual ele alcançou 130 pontos; dois anos depois, uma nova avaliação apontou QI de 141, resultado posteriormente divulgado pela mãe ao jornal cearense. - Filho de pedreiro analfabeto cresce ajudando o pai nas obras no sertão, supera dificuldades para estudar longe de casa, vira o primeiro graduado da família e tem foto da formatura entregue ao presidente Lula - Aos 11 anos, menino vê mães enfrentando dificuldades para comprar fraldas durante a pandemia, monta uma barraca de limonada com amigos, transforma cada copo vendido em ajuda e acaba mobilizando doações que ultrapassam 22 mil fraldas para famílias em situação de vulnerabilidade - Filho de mãe analfabeta e criado com pouco dinheiro, brasileiro foi catador de recicláveis, dono de bar, vigilante e sargento do Exército, trabalhou para pagar a faculdade de Direito, estudou em uma mesa improvisada na sala de casa e acabou conquistando a maior nota da OAB em Pernambuco - Dos milhões e da pressão dos gramados para uma fazenda entre montanhas e rios: aos 52 anos, técnico do Flamengo é dono de 23 hectares no Douro, onde cultiva videiras de quase um século, oliveiras de 200 anos e produz vinhos premium e azeite extravirgem A família recebeu fisicamente a premiação em 23 de outubro de 2025, depois de ter sido comunicada sobre o resultado meses antes. Aos 7 anos, João Vitor Guedes Rasetto levou a Singapura uma trajetória de aprendizagem acelerada e conquistou medalha de bronze na SIMOC 2026, competição internacional de matemática realizada presencialmente entre 17 e 22 de julho, após avançar por etapas classificatórias.",
    "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
     "percentual": [
      "2%"
     ],
     "datas": [
-     "2025",
-     "outubro de 2025",
-     "maio de 2025",
-     "outubro"
+     "2026",
+     "julho",
+     "dezembro de 2019",
+     "agosto",
+     "julho de 2026",
+     "junho"
     ]
    },
    "category": "Projetos Futuros",
@@ -14366,7 +14529,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T22:45:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/aos-7-anos-pequeno-genio-brasileiro-com-qi-141-aprende-tao-rapido-que-a-propria-mae-admite-ter-dificuldade-ate-para-faze-lo-parar-de-estudar-ja-se-aventura-pela-matematica-e-ate-por-ing-afch/"
     },
     {
      "name": "CPG Click Petróleo e Gás",
@@ -14870,48 +15033,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "ba41f1eb7722f5d7",
-   "title": "Argentina imprimiu cédulas no Brasil e agora não paga a conta, o país vizinho furou as duas primeiras parcelas de uma dívida de R$ 63,6 milhões com a Casa da Moeda, sem dar nenhuma explicação formal até o momento",
-   "summary": "A Argentina deixou de pagar duas parcelas de uma dívida de R$ 63,6 milhões com a Casa da Moeda do Brasil, descumprindo acordo firmado entre as duas estatais em dezembro de 2025, conforme reportagem publicada pelo portal ND Mais. Em dezembro de 2025, as duas estatais firmaram entendimento que previa o pagamento parcelado do montante de R$ 63,6 milhões. Argentina imprimiu cédulas no Brasil e agora não paga a conta, o país vizinho furou as duas primeiras parcelas de uma dívida de R$ 63,6 milhões com a Casa da Moeda, sem dar nenhuma explicação formal até o momento.",
-   "detalhes": {
-    "valores": [
-     "R$ 63,6 milhões",
-     "R$ 5 milhões",
-     "R$ 63 milhões"
-    ],
-    "datas": [
-     "dezembro de 2025",
-     "2021",
-     "2023",
-     "junho",
-     "julho de 2026",
-     "dezembro"
-    ]
-   },
-   "category": "Contratos e Concorrentes",
-   "relevance": 12,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T17:03:31+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/argentina-imprimiu-cedulas-no-brasil-e-agora-nao-paga-a-conta-o-pais-vizinho-furou-as-duas-primeiras-parcelas-de-uma-divida-de-r-636-milhoes-com-a-casa-da-moeda-sem-dar-nenhuma-explic-mhbb01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T17:03:31+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/argentina-imprimiu-cedulas-no-brasil-e-agora-nao-paga-a-conta-o-pais-vizinho-furou-as-duas-primeiras-parcelas-de-uma-divida-de-r-636-milhoes-com-a-casa-da-moeda-sem-dar-nenhuma-explic-mhbb01"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "87a5f1b2faaca726",
    "title": "Secretaria-Adjunta revoga classificação de devedora contumaz da Maersk FPSO Brasil",
    "summary": "Secretaria-Adjunta revoga classificação de devedora contumaz da Maersk FPSO Brasil.",
@@ -14960,6 +15081,175 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-05T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a574a44d13fb389b",
+   "title": "Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab",
+   "summary": "A safra brasileira de grãos 2025/26 deve alcançar 361,7 milhões de toneladas, alta de 2,6%, com novo recorde da soja, avanço do milho e do sorgo, mas retrações importantes no trigo, arroz e feijão. Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab. A nova estimativa da Companhia Nacional de Abastecimento cresceu […] O post Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "percentual": [
+     "27,1%",
+     "2,6%"
+    ],
+    "datas": [
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-16T16:11:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/produtores-colhem-3617-milhoes-de-toneladas-de-graos-com-soja-recorde-de-1804-milhoes-enquanto-trigo-recua-271-aponta-a-conab-phsn84",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T16:11:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "efe4b62ce1df85de",
+   "title": "Custando cerca de R$ 18 mil e com motor 300 cc de 25,4 cv, trail japonesa entrega até 28 km/l, conforto para longas viagens e fama de nunca quebrar; conheça a Honda XRE 300 usada",
+   "summary": "Custando cerca de R$ 18 mil e com motor 300 cc de 25,4 cv, trail japonesa entrega até 28 km/l, conforto para longas viagens e fama de nunca quebrar; conheça a Honda XRE 300 usada. Honda XRE 300 usada: custa cerca de R$ 18 mil, tem motor 25,4 cv, faz até 28 km/l e virou referência em durabilidade, conforto e versatilidade no Brasil. Em um mercado onde motos novas 300 cc ultrapassam os R$ 30 mil com facilidade, encontrar uma trail robusta, confortável e respeitada por menos de R$ 20 […] O post Custando cerca de R$ 18 mil e com motor 300 cc de 25,4 cv, trail japonesa entrega até 28 km/l, conforto para longas viagens e fama de nunca quebrar; conheça a Honda XRE 300 usada apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "R$ 18 mi",
+     "R$ 30 mi",
+     "R$ 20"
+    ],
+    "profundidade": [
+     "28 km"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-16T15:46:32+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/custando-cerca-de-r-18-mil-e-com-motor-300-cc-de-254-cv-trail-japonesa-entrega-ate-28-km-l-conforto-para-longas-viagens-e-fama-de-nunca-quebrar-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T15:46:32+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "c7577004a4944553",
+   "title": "Praia de SC que teve trechos praticamente engolidos pelo mar recebe mais de 156 mil mudas de restinga após maior alargamento do Brasil recuperar 8,8 km de orla, enquanto projeto prevê chegar a 280 mil plantas nativas para estabilizar dunas e reforçar proteção contra erosão costeira",
+   "summary": "A previsão é chegar a até 280 mil plantas nativas em dezembro de 2026, reforçando a estabilidade das dunas contra a erosão costeira Itapoá, no litoral norte de […] O post Praia de SC que teve trechos praticamente engolidos pelo mar recebe mais de 156 mil mudas de restinga após maior alargamento do Brasil recuperar 8,8 km de orla, enquanto projeto prevê chegar a 280 mil plantas nativas para estabilizar dunas e reforçar proteção contra erosão costeira apareceu primeiro em CPG Click Petróleo e Gás . Praia de SC que teve trechos praticamente engolidos pelo mar recebe mais de 156 mil mudas de restinga após maior alargamento do Brasil recuperar 8,8 km de orla, enquanto projeto prevê chegar a 280 mil plantas nativas para estabilizar dunas e reforçar proteção contra erosão costeira. O Porto de São Francisco do Sul já plantou 156.736 mudas de restinga nas dunas do alargamento de 8,8 km da orla de Itapoá, em Santa Catarina.",
+   "detalhes": {
+    "profundidade": [
+     "8,8 km"
+    ],
+    "datas": [
+     "dezembro de 2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-16T13:27:54+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/praia-de-sc-que-teve-trechos-praticamente-engolidos-pelo-mar-recebe-mais-de-156-mil-mudas-de-restinga-apos-maior-alargamento-do-brasil-recuperar-88-km-de-orla-enquanto-projeto-preve-c-mhbb01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-16T13:27:54+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "310eaf0d6dd1a8e6",
+   "title": "O RIO DE JANEIRO JÁ ESTÁ SE PREPARANDO PARA RECEBER A ROG 2026, QUE DEVERÁ PASSAR A SER A MAIOR FEIRA DE PETRÓLEO DO MUNDO",
+   "summary": "O RIO DE JANEIRO JÁ ESTÁ SE PREPARANDO PARA RECEBER A ROG 2026, QUE DEVERÁ PASSAR A SER A MAIOR FEIRA DE PETRÓLEO DO MUNDO. O próxima semana será muito importante para a indússtria de petróleo, quando será realizada a ROG 2026 – Rio Óleo e Gás – A estimativa é de que a feira passe a ser o maior festival de energia do planeta, superando inclusive a Feira de Houston, a OTC. Organizado pelo IBP, a feira movimente cerca",
+   "detalhes": {
+    "datas": [
+     "JANEIRO",
+     "2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-15T21:00:55+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/o-rio-de-janeiro-ja-esta-se-preparando-para-receber-a-rog-2026-que-devera-passar-a-ser-a-maior-feira-de-petroleo-do-mundo",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-15T21:00:55+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "8fda70c3ac6dcb86",
+   "title": "A COPA ENERGIA DÁ UM PASSO IMPORTANTE NO RELACIONAMENTO COM O CONSUMIDOR COM REVENDAS DE GÁS AUTÔNOMA E 24 HORAS",
+   "summary": "A COPA ENERGIA DÁ UM PASSO IMPORTANTE NO RELACIONAMENTO COM O CONSUMIDOR COM REVENDAS DE GÁS AUTÔNOMA E 24 HORAS. A Copa Energia, líder no mercado brasileiro de GLP e com atuação em GNC, GNL e biometano, está dando um passo a frente na melhora do atendimento de seus consumidores. A empresa está lançando a sua primeira revenda de autoatendimento, em Guarulhos, São Paulo.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-15T20:00:33+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/a-copa-energia-da-um-passo-importante-no-relacionamento-com-o-consumidor-com-revendas-de-gas-autonoma-e-24-horas",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-15T20:00:33+00:00",
      "link_real": null
     }
    ],
@@ -19423,8 +19713,18 @@
   {
    "id": "54c604aba64771c9",
    "title": "Brasileiro entrou com colheitadeira em uma lavoura de soja coberta de neve nos Estados Unidos, encarou frio de até -15 °C e explicou por que precisava colher antes que a neve derretesse: se passasse molhada pela máquina, poderia entupir todas as peneiras",
-   "summary": "Brasileiro entrou com colheitadeira em uma lavoura de soja coberta de neve nos Estados Unidos, encarou frio de até -15 °C e explicou por que precisava colher antes que a neve derretesse: se passasse molhada pela máquina, poderia entupir todas as peneiras. Guilherme Padilha operou uma colheitadeira em Minnesota, perto da fronteira com o Canadá, durante uma safra marcada por frio e neve fora de época. Com temperaturas entre -8 °C e -15 °C, ele explicou que a neve precisava permanecer seca para atravessar a máquina sem derreter e obstruir as peneiras.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração O frio, entretanto, fazia parte da estratégia daquele momento. Em 16 de novembro de 2018, ele entrou no campo mesmo com temperatura de aproximadamente -8 °C e previsão de queda para até -15 °C, porque precisava terminar a colheita enquanto a neve ainda conseguia atravessar a máquina sem derreter. Fazenda terminou a colheita de 1.680 hectares de soja Apesar das dificuldades, Padilha informou que a propriedade terminou de colher 1.680 hectares destinados à soja em 16 de novembro, justamente no dia em que as imagens da operação na neve foram registradas.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "novembro de 2018",
+     "dezembro de 2019",
+     "agosto",
+     "novembro"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19441,7 +19741,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-25T14:15:58+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiro-entrou-com-colheitadeira-em-uma-lavoura-de-soja-coberta-de-neve-nos-estados-unidos-encarou-frio-de-ate-15-c-e-explicou-por-que-precisava-colher-antes-que-a-neve-derretesse-ctl01/"
     }
    ],
    "has_paid": false,
@@ -19451,15 +19751,29 @@
   {
    "id": "9ed49b4475d126a0",
    "title": "Com mineração projetando US$ 76,9 bilhões em investimentos até 2030, FUCHS leva lubrificantes de alta performance à EXPOSIBRAM 2026 para reduzir custos, falhas e consumo de energia",
-   "summary": "Com mineração projetando US$ 76,9 bilhões em investimentos até 2030, FUCHS leva lubrificantes de alta performance à EXPOSIBRAM 2026 para reduzir custos, falhas e consumo de energia. Empresa apresenta em Belo Horizonte soluções para britadores, moinhos, redutores, transmissões, motores e equipamentos móveis, com foco na disponibilidade dos ativos, na redução de paradas e no avanço das metas de sustentabilidade da mineração A mineração brasileira movimentou R$ 150,7 bilhões somente no primeiro semestre de 2026 e prepara uma nova rodada bilionária de investimentos. […] O post Com mineração projetando US$ 76,9 bilhões em investimentos até 2030, FUCHS leva lubrificantes de alta performance à EXPOSIBRAM 2026 para reduzir custos, falhas e consumo de energia apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "- Cratera de quase 9 metros se abre numa rua após anos da compra das casas na região, os contratos dos lotes avisavam aos construtores que havia minas de gesso no subsolo, mas quase todos os donos das casas não sabiam e 13 imóveis precisam ser evacuados - Gigante da siderurgia brasileira pisa no freio em Minas Gerais após minério cair abaixo de US$ 100 e frete para a China explodir, paralisa planta ligada a até 35% da produção e deixa cerca de 300 trabalhadores com o emprego por um fio - Uberlândia entra na rota das terras raras: projeto de R$ 2 bilhões dentro de complexo de 500 mil m² mira 50 mil toneladas por ano, 500 empregos e operação até 2030 - Empresa perfura depósito de terras raras no Canadá, encontra mineralização por mais de 400 metros, atravessa zona com 5% de óxidos e sistema continua 275 metros abaixo da cava projetada Durante o evento, a fabricante apresenta lubrificantes de alta performance, tecnologias para equipamentos críticos e serviços especializados de monitoramento e suporte técnico. Com mineração projetando US$ 76,9 bilhões em investimentos até 2030, FUCHS leva lubrificantes de alta performance à EXPOSIBRAM 2026 para reduzir custos, falhas e consumo de energia. Empresa apresenta em Belo Horizonte soluções para britadores, moinhos, redutores, transmissões, motores e equipamentos móveis, com foco na disponibilidade dos ativos, na redução de paradas e no avanço das metas de sustentabilidade da mineração A mineração brasileira movimentou R$ 150,7 bilhões somente no primeiro semestre de 2026 e prepara uma nova rodada bilionária de investimentos.",
    "detalhes": {
     "valores": [
      "US$ 76,9 bilhões",
-     "R$ 150,7 bilhões"
+     "R$ 150,7 bilhões",
+     "US$ 100",
+     "R$ 2 bilhões",
+     "US$ 21,3 bilhões"
+    ],
+    "percentual": [
+     "35%",
+     "5%",
+     "8,2%"
+    ],
+    "profundidade": [
+     "9 metros",
+     "400 metros",
+     "275 metros"
     ],
     "datas": [
      "2030",
-     "2026"
+     "2026",
+     "agosto"
     ]
    },
    "category": "Prospectos e Investimentos",
@@ -19478,7 +19792,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-25T13:59:50+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/com-mineracao-projetando-us-769-bilhoes-em-investimentos-ate-2030-fuchs-leva-lubrificantes-de-alta-performance-a-exposibram-2026-para-reduzir-custos-falhas-e-consumo-de-energia/"
     }
    ],
    "has_paid": false,
@@ -19488,10 +19802,20 @@
   {
    "id": "4f6a4a01f6ba76d3",
    "title": "Moda penitenciária ganha força no Brasil e transforma regras de roupa para entrar em presídios em negócio lucrativo, enquanto lojas especializadas vendem centenas de peças e empreendedora chega a faturar R$ 20 mil por mês",
-   "summary": "Moda penitenciária ganha força no Brasil e transforma regras de roupa para entrar em presídios em negócio lucrativo, enquanto lojas especializadas vendem centenas de peças e empreendedora chega a faturar R$ 20 mil por mês. Mulheres que visitam familiares ou companheiros privados de liberdade precisam respeitar regras de roupas, cores, […] O post Moda penitenciária ganha força no Brasil e transforma regras de roupa para entrar em presídios em negócio lucrativo, enquanto lojas especializadas vendem centenas de peças e empreendedora chega a faturar R$ 20 mil por mês apareceu primeiro em CPG Click Petróleo e Gás . Regras rígidas de vestuário impulsionam lojas especializadas, consultorias e perfis que ensinam visitantes a escolher roupas permitidas dentro das unidades prisionais.",
+   "summary": "- Passageiros do DF ficam no centro de crédito de R$ 636 milhões aprovado, com R$ 508,5 milhões destinados ao transporte coletivo - Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab - Candidatos encontram 3,1 mil vagas em feirão nesta quarta-feira, com salários de até R$ 2.664 e entrevistas presenciais em Goiânia - Engenheira de alimentos compra três cursos de cerca de R$ 100, transforma a própria cozinha em laboratório e passa quase um ano testando fórmulas com urucum, cupuaçu e maracujá até criar uma marca de cosméticos amazônicos que agora planeja levar seus produtos para mercados como Estados Unidos e Austrália A Folha de S.Paulo, em reportagem publicada em 19 de agosto de 2026, mostrou como essa demanda passou a movimentar negócios especializados. Moda penitenciária ganha força no Brasil e transforma regras de roupa para entrar em presídios em negócio lucrativo, enquanto lojas especializadas vendem centenas de peças e empreendedora chega a faturar R$ 20 mil por mês. Empreendedora chega a faturar R$ 20 mil por mês Vitória Valter, de 28 anos, encontrou uma oportunidade semelhante depois de começar a visitar o marido.",
    "detalhes": {
     "valores": [
-     "R$ 20 mi"
+     "R$ 20 mi",
+     "R$ 636 milhões",
+     "R$ 508,5 milhões",
+     "R$ 2.664",
+     "R$ 100,"
+    ],
+    "percentual": [
+     "27,1%"
+    ],
+    "datas": [
+     "agosto de 2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -19510,7 +19834,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-25T13:54:43+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/moda-penitenciaria-ganha-forca-no-brasil-e-transforma-regras-de-roupa-para-entrar-em-presidios-em-negocio-lucrativo-enquanto-lojas-especializadas-vendem-centenas-de-pecas-e-empreended-vacs75/"
     }
    ],
    "has_paid": false,
@@ -19701,14 +20025,22 @@
   {
    "id": "a30e1a9c3db39c38",
    "title": "Mais uma gigante petroquímica brasileira em crise: Braskem pede recuperação extrajudicial para renegociar dívida de US$ 10,9 bilhões",
-   "summary": "O Conselho de Administração da petroquímica aprovou, nesta segunda-feira, 24 de agosto de 2026, o pedido de recuperação extrajudicial destinado à […] O post Mais uma gigante petroquímica brasileira em crise: Braskem pede recuperação extrajudicial para renegociar dívida de US$ 10,9 bilhões apareceu primeiro em CPG Click Petróleo e Gás . Mais uma gigante petroquímica brasileira em crise: Braskem pede recuperação extrajudicial para renegociar dívida de US$ 10,9 bilhões. Petroquímica busca proteção para reorganizar aproximadamente R$ 56 bilhões em compromissos financeiros, mas afirma que fornecedores, clientes e operações continuarão normalmente A Braskem entrou em uma das etapas mais delicadas de sua história financeira.",
+   "summary": "O Conselho de Administração da petroquímica aprovou, nesta segunda-feira, 24 de agosto de 2026, o pedido de recuperação extrajudicial destinado à reorganização de aproximadamente US$ 10,9 bilhões em dívidas, montante equivalente a cerca de R$ 56 bilhões. - Passageiros do DF ficam no centro de crédito de R$ 636 milhões aprovado, com R$ 508,5 milhões destinados ao transporte coletivo - Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab - Candidatos encontram 3,1 mil vagas em feirão nesta quarta-feira, com salários de até R$ 2.664 e entrevistas presenciais em Goiânia - Engenheira de alimentos compra três cursos de cerca de R$ 100, transforma a própria cozinha em laboratório e passa quase um ano testando fórmulas com urucum, cupuaçu e maracujá até criar uma marca de cosméticos amazônicos que agora planeja levar seus produtos para mercados como Estados Unidos e Austrália Portanto, pelo menos neste primeiro momento, contratos com fornecedores, clientes, funcionários e parceiros comerciais continuam válidos. Lucro recente não foi suficiente para afastar o risco A situação chama atenção porque a Braskem registrou lucro líquido de aproximadamente R$ 3,33 bilhões no segundo trimestre de 2026, além de apresentar melhora em alguns indicadores operacionais.",
    "detalhes": {
     "valores": [
      "US$ 10,9 bilhões",
-     "R$ 56 bilhões"
+     "R$ 56 bilhões",
+     "R$ 636 milhões",
+     "R$ 508,5 milhões",
+     "R$ 2.664",
+     "R$ 100,"
+    ],
+    "percentual": [
+     "27,1%"
     ],
     "datas": [
-     "agosto de 2026"
+     "agosto de 2026",
+     "2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -19727,7 +20059,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T14:21:21+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/braskem-recuperacao-extrajudicial-divida-56-bilhoes-phsn84/"
     }
    ],
    "has_paid": false,
@@ -19737,8 +20069,19 @@
   {
    "id": "bef963c92a2d46cd",
    "title": "Bilibili: o “YouTube chinês” está saindo da China para disputar o mundo com o YouTube e já está contratando no Brasil",
-   "summary": "Bilibili relança aplicativo internacional, prepara site em inglês e contrata em São Paulo enquanto leva ao exterior uma plataforma com mais de 376 milhões de usuários mensais. Bilibili: o “YouTube chinês” está saindo da China para disputar o mundo com o YouTube e já está contratando no Brasil. Uma das maiores plataformas de vídeo da China começou a montar as peças para uma expansão muito mais agressiva fora de seu mercado doméstico, e o Brasil apareceu […] O post Bilibili: o “YouTube chinês” está saindo da China para disputar o mundo com o YouTube e já está contratando no Brasil apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "A receita trimestral foi de 7,47 bilhões de yuans, aproximadamente R$ 5,7 bilhões pela cotação consultada em 23 de agosto de 2026. - Maior ilha do mundo ocupa 2,16 milhões de km quadrados, tem 81% do território coberto por gelo e não possui estradas ligando suas cidades - Cientistas desenvolvem novo revestimento “inteligente” capaz de se autorreparar e reduzir a corrosão do aço em mais de 600 vezes - Uma faixa de água de 371 mil km² se espalha entre Europa e Ásia e forma o maior lago do mundo, grande o bastante para cinco países dividirem suas margens - China reconhece oficialmente 11 novas profissões do futuro e 23 novas especialidades profissionais, incluindo técnicos em robótica com inteligência incorporada, desenvolvedores de agentes de inteligência artificial, analistas de dados esportivos e operadores de logística de baixa altitude, enquanto governo prepara padrões nacionais para orientar cursos, treinamento profissional e avaliação de trabalhadores Bilibili está montando uma operação internacional muito além da China A informação mais importante surgiu em 19 de agosto de 2026, quando o Semafor revelou que a Bilibili estava preparando uma expansão global mais estruturada. Segundo o Semafor, a Bilibili relançou em agosto de 2026 seu aplicativo internacional, prepara um site em inglês, tenta atrair criadores estrangeiros e abriu posições em cidades estratégicas ao redor do mundo.",
+   "detalhes": {
+    "valores": [
+     "R$ 5,7 bilhões"
+    ],
+    "percentual": [
+     "81%"
+    ],
+    "datas": [
+     "agosto de 2026",
+     "2026"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19755,7 +20098,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T14:03:53+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/bilibili-o-youtube-chines-esta-saindo-da-china-para-disputar-o-mundo-com-o-youtube-e-ja-esta-contratando-no-brasil-vml97/"
     }
    ],
    "has_paid": false,
@@ -19765,8 +20108,17 @@
   {
    "id": "fd08b719c8e885c3",
    "title": "Brasileiro deixa São Paulo há 13 anos, chega aos Estados Unidos, larga o cargo de gerente de loja para trabalhar como faxineiro em Miami e, anos depois, transforma o serviço na Deluxe Cleaning Services e vira referência de imigrantes nas redes sociais",
-   "summary": "Brasileiro deixa São Paulo há 13 anos, chega aos Estados Unidos, larga o cargo de gerente de loja para trabalhar como faxineiro em Miami e, anos depois, transforma o serviço na Deluxe Cleaning Services e vira referência de imigrantes nas redes sociais. Lucas Galhano deixou São Paulo há 13 anos e recomeçou nos Estados Unidos sem inglês e com pouco dinheiro. Depois de abandonar cargo de gerente para trabalhar com limpeza, formalizou o negócio, criou a Deluxe Cleaning Services e passou a mostrar nas redes sociais a rotina de imigrante e empresário.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração A adaptação exigiu que ele aprendesse inglês, entendesse as leis do país e encontrasse espaço no mercado de trabalho. Segundo reportagem publicada pelo Gazeta News em 4 de fevereiro de 2026, Lucas tinha 31 anos e vivia em Gulf Shores, no Alabama, onde administrava equipes, clientes e cronogramas da empresa ao mesmo tempo em que produzia conteúdo sobre sua rotina de trabalho e imigração. Brasileiro deixa São Paulo há 13 anos, chega aos Estados Unidos, larga o cargo de gerente de loja para trabalhar como faxineiro em Miami e, anos depois, transforma o serviço na Deluxe Cleaning Services e vira referência de imigrantes nas redes sociais.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "fevereiro de 2026",
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19783,7 +20135,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T13:18:50+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiro-deixa-sao-paulo-ha-13-anos-chega-aos-estados-unidos-larga-o-cargo-de-gerente-de-loja-para-trabalhar-como-faxineiro-em-miami-e-anos-depois-transforma-o-servico-na-deluxe-clea-btl96/"
     }
    ],
    "has_paid": false,
@@ -19793,8 +20145,19 @@
   {
    "id": "6ff9937fa2b818a8",
    "title": "Aos 5 anos, pequeno gênio brasileiro tem QI de 135, entrou para a Mensa e surpreende ao memorizar países e aprender novos assuntos sozinho, enquanto a família busca preservar as brincadeiras e a rotina de criança",
-   "summary": "Aos 5 anos, pequeno gênio brasileiro tem QI de 135, entrou para a Mensa e surpreende ao memorizar países e aprender novos assuntos sozinho, enquanto a família busca preservar as brincadeiras e a rotina de criança. Thomas, de 5 anos, teve QI de 135 identificado em avaliação, entrou para a Mensa e chama atenção pela memória, leitura e curiosidade. Aos 5 anos, Thomas não precisa esperar que um assunto apareça na escola para começar a investigá-lo.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Entre pesquisas sobre geografia e matemática, Thomas continua brincando, participando de jogos e explorando assuntos conforme a curiosidade muda. Esse comportamento passou a ganhar outro significado depois de uma avaliação realizada em 2024 apontar QI de 135, resultado que posteriormente abriu caminho para sua entrada na Mensa, sociedade internacional voltada a pessoas com elevado desempenho em testes de inteligência. A trajetória ganhou repercussão em reportagem publicada pelo g1 em 15 de março de 2025.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "2024",
+     "março de 2025",
+     "dezembro de 2019",
+     "agosto",
+     "2025"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19811,7 +20174,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T11:15:44+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/aos-5-anos-pequeno-genio-brasileiro-tem-qi-de-135-entrou-para-a-mensa-e-surpreende-ao-memorizar-paises-e-aprender-novos-assuntos-sozinho-enquanto-a-familia-busca-preservar-as-brincadei-ama01/"
     }
    ],
    "has_paid": false,
@@ -19821,8 +20184,25 @@
   {
    "id": "a9df9051db39bc02",
    "title": "Empresas portuguesas reclamam que ninguém quer trabalhar, enquanto brasileiros com formação e experiência são ignorados nos processos seletivos",
-   "summary": "Empresas portuguesas reclamam que ninguém quer trabalhar, enquanto brasileiros com formação e experiência são ignorados nos processos seletivos. Enquanto empresas portuguesas relatam falta de mão de obra qualificada, brasileiros com ensino superior e experiência enfrentam entraves para validar diplomas, conseguir entrevistas e trabalhar em suas áreas de formação Mesmo diante da escassez de profissionais em setores como turismo, hotelaria, restauração e saúde, imigrantes brasileiros enfrentam dificuldades para validar diplomas, conseguir entrevistas e trabalhar […] O post Empresas portuguesas reclamam que ninguém quer trabalhar, enquanto brasileiros com formação e experiência são ignorados nos processos seletivos apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração A declaração parte da experiência de uma entidade especializada em aproximar trabalhadores e empregadores. A situação foi abordada em uma reportagem publicada pelo Público em 3 de agosto de 2026. Em março de 2025, António Marto afirmou ao Jornal de Negócios que ainda existia uma carência estimada de 40 mil profissionais no turismo, consequência também da saída de trabalhadores durante a pandemia.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "percentual": [
+     "42%",
+     "56%",
+     "41%",
+     "21%"
+    ],
+    "datas": [
+     "agosto de 2026",
+     "dezembro de 2019",
+     "agosto",
+     "março de 2025",
+     "julho de 2025"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19839,7 +20219,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T10:36:46+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileira-deixa-carreira-de-aeromoca-comeca-lavando-pratos-em-mina-e-passa-a-dirigir-caminhoes-gigantes-de-100-toneladas-na-australia-flpc96/"
     }
    ],
    "has_paid": false,
@@ -19849,8 +20229,19 @@
   {
    "id": "5f3ee891354d3f89",
    "title": "Aos 38 anos, depois de se tornarem uma das duplas mais famosas do sertanejo brasileiro, Maiara e Maraisa trocam parte da rotina dos palcos por uma fazenda milionária no interior de Goiás, onde vivem entre gado, lago, pesca e natureza, descansam ao lado da família e escolhem até os repertórios dos próximos shows",
-   "summary": "Aos 38 anos, depois de se tornarem uma das duplas mais famosas do sertanejo brasileiro, Maiara e Maraisa trocam parte da rotina dos palcos por uma fazenda milionária no interior de Goiás, onde vivem entre gado, lago, pesca e natureza, descansam ao lado da família e escolhem até os repertórios dos próximos shows. Entre palcos, estrada e vida no campo, Maiara e Maraisa mantêm em Goiás uma propriedade que reúne lazer, família, animais e até parte do processo de escolha das músicas que levam aos shows. Entre uma sequência de shows e outra, Maiara e Maraisa mantêm no interior de Goiás um endereço onde a rotina segue uma […] O post Aos 38 anos, depois de se tornarem uma das duplas mais famosas do sertanejo brasileiro, Maiara e Maraisa trocam parte da rotina dos palcos por uma fazenda milionária no interior de Goiás, onde vivem entre gado, lago, pesca e natureza, descansam ao lado da família e escolhem até os repertórios dos próximos shows apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Mais de um ano depois, o imóvel continuou sendo citado pelo gshow em 2026 entre as fazendas de artistas sertanejos, com localização identificada em Aruanã, no estado de Goiás. O lugar ganhou exposição nacional em dezembro de 2024, quando Marcos Mion visitou a propriedade para o Caldeirão com Mion, da TV Globo. As gêmeas, nascidas em 31 de dezembro de 1987 e atualmente com 38 anos, construíram ali um espaço que mistura descanso, convivência familiar e parte do próprio trabalho musical.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "dezembro de 2024",
+     "dezembro de 2019",
+     "agosto",
+     "2026",
+     "dezembro"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19867,7 +20258,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T05:39:40+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/aos-38-anos-depois-de-se-tornarem-uma-das-duplas-mais-famosas-do-sertanejo-brasileiro-maiara-e-maraisa-trocam-parte-da-rotina-dos-palcos-por-uma-fazenda-milionaria-no-interior-de-goia-asaf04/"
     }
    ],
    "has_paid": false,
@@ -19877,8 +20268,20 @@
   {
    "id": "cecf833995717d6e",
    "title": "Casal brasileiro larga empregos em multinacionais, casa, carro e uma vida estável para recomeçar do zero na Austrália, troca escritório por faxina, carregar móveis e fazer delivery, mas diz que viver com baixa criminalidade e andar à noite sem medo fez a troca valer a pena",
-   "summary": "Casal brasileiro larga empregos em multinacionais, casa, carro e uma vida estável para recomeçar do zero na Austrália, troca escritório por faxina, carregar móveis e fazer delivery, mas diz que viver com baixa criminalidade e andar à noite sem medo fez a troca valer a pena. A mudança de um casal brasileiro para a Austrália reúne troca de carreira, trabalhos fora da formação, adaptação longe da família e uma rotina que passou a ser compartilhada nas redes sociais. Trocar carreira em multinacional, rotina de escritório, carro, casa e proximidade da família por faxina, entregas e carregamento de móveis em outro país […] O post Casal brasileiro larga empregos em multinacionais, casa, carro e uma vida estável para recomeçar do zero na Austrália, troca escritório por faxina, carregar móveis e fazer delivery, mas diz que viver com baixa criminalidade e andar à noite sem medo fez a troca valer a pena apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Victoria passou a conciliar os estudos com trabalhos de limpeza, enquanto Gabriel trocou a área de publicidade por serviços de mudança e delivery, e os dois afirmaram que conseguiam pagar aluguel, escola, internet e outras despesas com a nova configuração. Foi justamente essa mudança que Victoria e Gabriel Magliani fizeram ao deixar Praia Grande, no litoral de São Paulo, e recomeçar a vida em Gold Coast, na Austrália, em 2023. Na entrevista concedida à SBS em junho daquele ano, o casal dizia que a escolha envolvia menos status profissional e mais o tipo de rotina que pretendia construir.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "2023",
+     "junho",
+     "dezembro de 2019",
+     "agosto",
+     "julho de 2024",
+     "2024"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19895,7 +20298,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T03:57:48+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/casal-brasileiro-larga-empregos-em-multinacionais-casa-carro-e-uma-vida-estavel-para-recomecar-do-zero-na-australia-troca-escritorio-por-faxina-carregar-moveis-e-fazer-delivery-mas-di-asaf04/"
     }
    ],
    "has_paid": false,
@@ -19905,8 +20308,18 @@
   {
    "id": "fde8ff973edfd68f",
    "title": "Gusttavo Lima transformou memórias da vida na roça em negócio de bebida e lançou um amaro em parceria com o bartender Márcio Silva, conectando sua origem rural à produção do destilado no interior de São Paulo",
-   "summary": "Gusttavo Lima transformou memórias da vida na roça em negócio de bebida e lançou um amaro em parceria com o bartender Márcio Silva, conectando sua origem rural à produção do destilado no interior de São Paulo. Memórias da infância rural de Gusttavo Lima ajudaram a inspirar um projeto que levou referências pessoais do cantor ao mercado de bebidas, reunindo criação de marca, desenvolvimento sensorial e uma parceria empresarial voltada à produção e à distribuição do Vermelhão no Brasil. Gusttavo Lima levou referências da infância no campo para um projeto empresarial fora […] O post Gusttavo Lima transformou memórias da vida na roça em negócio de bebida e lançou um amaro em parceria com o bartender Márcio Silva, conectando sua origem rural à produção do destilado no interior de São Paulo apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Esses elementos pessoais serviram como ponto de partida para a identidade do produto, mas precisaram passar por um processo técnico de formulação, capaz de converter referências de memória e percepção em uma bebida com perfil definido e condições de produção comercial. Gusttavo Lima levou referências da infância no campo para um projeto empresarial fora da música ao participar da criação do Vermelhão, amaro desenvolvido com a Better Drinks e o bartender Márcio Silva, lançado oficialmente em 23 de abril de 2022, no Mineirão, em Belo Horizonte. Escolhido para marcar a estreia do produto, o Buteco realizado no Mineirão, em Belo Horizonte, recebeu o lançamento oficial em 23 de abril de 2022, aproximando a nova marca de uma audiência que já acompanhava Gusttavo Lima por sua trajetória musical.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi",
+     "R$ 31 milhões"
+    ],
+    "datas": [
+     "abril de 2022",
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19923,7 +20336,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-24T03:12:46+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/gusttavo-lima-transformou-memorias-da-vida-na-roca-em-negocio-de-bebida-iniciou-conversas-com-a-better-drinks-em-fevereiro-de-2022-e-dois-meses-depois-lancou-um-amaro-em-parceria-com-o-afch/"
     }
    ],
    "has_paid": false,
@@ -19933,10 +20346,11 @@
   {
    "id": "c0c02be46b5ae6a8",
    "title": "CONGRESSO NACIONAL VAI DEBATER O MERCADO DE FERTILIZANTES NO BRASIL EM UM DOS MOMENTOS DE MAIOR CRISE DO SETOR",
-   "summary": "O primeiro, da ANDA (Associação Nacional para Difusão de Adubos) vai realizar seu 13ª Congresso Internacional Brasil 2026, na próxima terça-feira (25) com a participação de Felipe Pecci (vice-presidente Comercial da Mosaic Fertilizantes) e Guilherme Schmitz(direita)(vice-presidente de Marketing e Agronomia da Yara Brasil). CONGRESSO NACIONAL VAI DEBATER O MERCADO DE FERTILIZANTES NO BRASIL EM UM DOS MOMENTOS DE MAIOR CRISE DO SETOR. Dois bons eventos no início desta semana, em São Paulo.",
+   "summary": "A Intersolar South America 2026 faz como parte da plataforma The Smarter e South America. O primeiro, da ANDA (Associação Nacional para Difusão de Adubos) vai realizar seu 13ª Congresso Internacional Brasil 2026, na próxima terça-feira (25) com a participação de Felipe Pecci (vice-presidente Comercial da Mosaic Fertilizantes) e Guilherme Schmitz(direita)(vice-presidente de Marketing e Agronomia da Yara Brasil). Com foco em temas estratégicos, a edição de 2026 contará com quatro painéis temáticos: “Geopolítica e os Fertilizantes.",
    "detalhes": {
     "datas": [
-     "2026"
+     "2026",
+     "2024"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -19955,7 +20369,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T16:00:59+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/congresso-nacional-vai-debater-o-mercado-de-fertilizantes-no-brasil-em-dos-momentos-de-maior-crise-do-setor/"
     }
    ],
    "has_paid": false,
@@ -19965,8 +20379,16 @@
   {
    "id": "fb376ab173c92f1b",
    "title": "Fundado por um casal em 1991, o santuário Rancho dos Gnomos virou o destino dos animais resgatados de circos e apreensões do Brasil, de ursos a leões, que chegam quebrados e reaprendem a viver",
-   "summary": "Fundado por um casal em 1991, o santuário Rancho dos Gnomos virou o destino dos animais resgatados de circos e apreensões do Brasil, de ursos a leões, que chegam quebrados e reaprendem a viver. O Rancho dos Gnomos recebe animais exóticos, silvestres e domésticos, incluindo ursos, leões, tigres, onças, macacos, aves e outros vindos de circos e situações de destruição ambiental. Segundo o santuário, muitos chegam com mutilações, queimaduras, dentes arrancados, ossos deslocados, estresse e outros sinais de maus-tratos após anos de exploração prolongada.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração O Rancho dos Gnomos associa boa parte dessas histórias ao uso de animais em circos e apresenta uma posição explícita contra esse tipo de atividade. Fundado por um casal em 1991, o santuário Rancho dos Gnomos virou o destino dos animais resgatados de circos e apreensões do Brasil, de ursos a leões, que chegam quebrados e reaprendem a viver. O Rancho dos Gnomos recebe animais exóticos, silvestres e domésticos, incluindo ursos, leões, tigres, onças, macacos, aves e outros vindos de circos e situações de destruição ambiental.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -19983,7 +20405,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T13:04:48+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/fundado-por-um-casal-em-1991-o-santuario-rancho-dos-gnomos-virou-o-destino-dos-animais-resgatados-de-circos-e-apreensoes-do-brasil-de-ursos-a-leoes-que-chegam-quebrados-e-reaprendem-a-btl96/"
     }
    ],
    "has_paid": false,
@@ -19993,8 +20415,17 @@
   {
    "id": "c92585a6a95e8e61",
    "title": "Caminhoneiro brasileiro que encarou o gelo canadense conta a rotina de dirigir a 40 graus negativos parando para pôr correntes no pneu, num ofício que exige alma de mecânico e figura entre os volantes mais bem pagos do mundo",
-   "summary": "Caminhoneiro brasileiro que encarou o gelo canadense conta a rotina de dirigir a 40 graus negativos parando para pôr correntes no pneu, num ofício que exige alma de mecânico e figura entre os volantes mais bem pagos do mundo. Luiz Carlos Xavier de Oliveira, natural de Ubatuba e radicado em Calgary, conduz caminhões pelo Canadá onde o inverno chega a 40 graus negativos. Com 23 anos de profissão, enfrenta gelo, estradas remotas e Ice Roads, instala correntes nos pneus e trabalha transportando diversas cargas como explosivos, combustível e fertilizantes.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração O pai, porém, não queria que o filho seguisse a mesma profissão. Segundo entrevista publicada pelo Blog do Caminhoneiro em 24 de fevereiro de 2014, Luiz, natural de Ubatuba (SP) e então morador de Calgary, na província de Alberta, trabalhava para a Westcan Bulk Transport. Caminhoneiro brasileiro que encarou o gelo canadense conta a rotina de dirigir a 40 graus negativos parando para pôr correntes no pneu, num ofício que exige alma de mecânico e figura entre os volantes mais bem pagos do mundo.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "fevereiro de 2014",
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20011,7 +20442,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T12:40:53+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/caminhoneiro-brasileiro-que-encarou-o-gelo-canadense-conta-a-rotina-de-dirigir-a-40-graus-negativos-parando-para-por-correntes-no-pneu-num-oficio-que-exige-alma-de-mecanico-e-figura-en-btl96/"
     }
    ],
    "has_paid": false,
@@ -20021,10 +20452,14 @@
   {
    "id": "d8995ad94165a248",
    "title": "Discussão no trânsito do Rio sai do controle, caminhão avança contra carro e o arrasta por vários metros diante da câmera de um motoboy; automóvel gira na pista, fica danificado e mãe idosa do motorista estava dentro do veículo",
-   "summary": "Confusão ocorreu em Cascadura, na Zona Norte do Rio de Janeiro, e foi registrada por um motociclista de aplicativo; carro tentou bloquear passagem do caminhão, acabou arrastado por vários metros e ficou destruído, enquanto motorista e a mãe idosa escaparam sem ferimentos Uma discussão de trânsito que começou com uma suposta fechada terminou em uma […] O post Discussão no trânsito do Rio sai do controle, caminhão avança contra carro e o arrasta por vários metros diante da câmera de um motoboy; automóvel gira na pista, fica danificado e mãe idosa do motorista estava dentro do veículo apareceu primeiro em CPG Click Petróleo e Gás . Discussão no trânsito do Rio sai do controle, caminhão avança contra carro e o arrasta por vários metros diante da câmera de um motoboy; automóvel gira na pista, fica danificado e mãe idosa do motorista estava dentro do veículo.",
+   "summary": "Confusão ocorreu em Cascadura, na Zona Norte do Rio de Janeiro, e foi registrada por um motociclista de aplicativo; carro tentou bloquear passagem do caminhão, acabou arrastado por vários metros e ficou destruído, enquanto motorista e a mãe idosa escaparam sem ferimentos Uma discussão de trânsito que começou com uma suposta fechada terminou em uma cena difícil de imaginar no Rio de Janeiro. O episódio ocorreu por volta das 11h40 de 12 de agosto de 2026, na descida do Viaduto de Cascadura, na Zona Norte do Rio. - Caminhoneiro veterano dos Fuzileiros Navais dos Estados Unidos vê carreta tombar sob chuva forte, improvisa torniquete com cinto de segurança e salva motorista - Cozinheiro acorda com navio afundando, encontra bolsa de ar a 30 metros de profundidade e sobrevive quase 60 horas no escuro até mergulhador enviado para recolher corpos segurar sua mão - Vocalista do Duran Duran participa de regata internacional, quilha de iate se rompe e Simon Le Bon fica preso com cinco tripulantes dentro do casco virado, respirando fumaça de diesel até mergulhador da Marinha resgatá-los - Um Ford Ka despencou do alto do Morro do Farol, em Torres, na noite de sábado (29), e o motorista de 25 anos foi resgatado entre as pedras da orla com dores e hematomas, horas depois de deixar sem autorização o hospital onde havia sido internado no Litoral Norte gaúcho Discussão teria começado depois de caminhão fechar o carro no trânsito Segundo o relato dado posteriormente pelo motociclista que fez a gravação, a confusão teria começado depois que o caminhão fechou o automóvel durante o trajeto.",
    "detalhes": {
+    "profundidade": [
+     "30 metros de profundidade"
+    ],
     "datas": [
-     "Janeiro"
+     "Janeiro",
+     "agosto de 2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20043,7 +20478,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T11:21:40+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/discussao-no-transito-do-rio-sai-do-controle-caminhao-avanca-contra-carro-e-o-arrasta-por-varios-metros-diante-da-camera-de-um-motoboy-automovel-gira-na-pista-fica-danificado-e-mae-ido-nmb91/"
     }
    ],
    "has_paid": false,
@@ -20053,14 +20488,22 @@
   {
    "id": "88a1f8c6065148b9",
    "title": "Brasileiro vai aos Estados Unidos sem saber inglês para tentar jogar futebol, mas aprende o idioma para conquistar bolsa integral, faz mestrado, chega ao profissional e, após voltar ao Brasil e não conseguir retornar aos EUA durante a pandemia, transforma aulas para amigos em rede com 40 franquias e 1.300 alunos",
-   "summary": "Uma viagem ao Brasil no início de 2020 mudou os planos e abriu caminho para a Spaceclass, empresa criada em Minas Gerais que faturou R$ 2 milhões em 2025. Brasileiro vai aos Estados Unidos sem saber inglês para tentar jogar futebol, mas aprende o idioma para conquistar bolsa integral, faz mestrado, chega ao profissional e, após voltar ao Brasil e não conseguir retornar aos EUA durante a pandemia, transforma aulas para amigos em rede com 40 franquias e 1.300 alunos. Lucca Lacerda saiu do Brasil para tentar construir uma carreira no futebol americano universitário, precisou aprender inglês para estudar com bolsa e chegou ao esporte profissional.",
+   "summary": "Uma viagem ao Brasil no início de 2020 mudou os planos e abriu caminho para a Spaceclass, empresa criada em Minas Gerais que faturou R$ 2 milhões em 2025. - Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Segundo reportagem publicada pelo UOL em 24 de julho de 2026, a empresa faturou R$ 2 milhões em 2025 e estabeleceu como meta alcançar entre R$ 8 milhões e R$ 12 milhões em 2026. Um investimento de R$ 1 milhão levou as aulas informais para uma empresa criada em Passos Em 2022, Lucca convidou Raphael Brito, também de Passos, para entrar no negócio.",
    "detalhes": {
     "valores": [
-     "R$ 2 milhões"
+     "R$ 2 milhões",
+     "R$ 20 mi",
+     "R$ 8 milhões",
+     "R$ 12 milhões",
+     "R$ 1 milhão"
     ],
     "datas": [
      "2020",
-     "2025"
+     "2025",
+     "julho de 2026",
+     "dezembro de 2019",
+     "agosto",
+     "2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20079,7 +20522,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T11:03:59+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiro-vai-aos-estados-unidos-sem-saber-ingles-para-tentar-jogar-futebol-mas-aprende-o-idioma-para-conquistar-bolsa-integral-faz-mestrado-chega-ao-profissional-e-apos-voltar-ao-brasi-gls/"
     }
    ],
    "has_paid": false,
@@ -20089,8 +20532,16 @@
   {
    "id": "f1ea789d80b718ac",
    "title": "Brasileiro chega aos Estados Unidos sem falar inglês e transforma sonho em empresa de estruturas metálicas com quatro unidades",
-   "summary": "Brasileiro chega aos Estados Unidos sem falar inglês e transforma sonho em empresa de estruturas metálicas com quatro unidades. Brasileiro chegou a Boston em 2003 com poucos recursos e sem falar inglês, fundou a Kings Iron Works um ano depois e expandiu o negócio de estruturas metálicas para quatro unidades nos Estados Unidos. Um brasileiro que desembarcou em Boston com poucos dólares, sem falar inglês e sem conexões conseguiu transformar a experiência como artesão […] O post Brasileiro chega aos Estados Unidos sem falar inglês e transforma sonho em empresa de estruturas metálicas com quatro unidades apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração A pequena operação começou a conquistar espaço principalmente em projetos realizados em áreas tradicionais de Boston. Brasileiro chega aos Estados Unidos sem falar inglês e transforma sonho em empresa de estruturas metálicas com quatro unidades. Brasileiro chegou a Boston em 2003 com poucos recursos e sem falar inglês, fundou a Kings Iron Works um ano depois e expandiu o negócio de estruturas metálicas para quatro unidades nos Estados Unidos.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20107,7 +20558,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T02:57:41+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiro-chega-aos-estados-unidos-sem-falar-ingles-e-transforma-sonho-em-empresa-de-estruturas-metalicas-com-quatro-unidades-flpc96/"
     }
    ],
    "has_paid": false,
@@ -20117,14 +20568,27 @@
   {
    "id": "a6f03334b254b9f9",
    "title": "Brasileiro chega aos EUA com pouco inglês, trabalha em restaurante e limpando piscinas, começa negócio com US$ 3 mil e transforma serviço em empresa de US$ 16 milhões por ano, com mais de 1.200 clientes por semana.",
-   "summary": "Brasileiro chega aos EUA com pouco inglês, trabalha em restaurante e limpando piscinas, começa negócio com US$ 3 mil e transforma serviço em empresa de US$ 16 milhões por ano, com mais de 1.200 clientes por semana.. Nilson Silva saiu do Brasil ainda criança, trabalhou em restaurante e entrou no mercado de piscinas na Flórida; hoje, sua empresa administra cerca de 1.200 contas e entrou no ranking Top 50 Builders de 2026. O brasileiro Nilson Silva chegou aos Estados Unidos aos 12 anos e, depois de trabalhar em restaurante, entrou no setor […] O post Brasileiro chega aos EUA com pouco inglês, trabalha em restaurante e limpando piscinas, começa negócio com US$ 3 mil e transforma serviço em empresa de US$ 16 milhões por ano, com mais de 1.200 clientes por semana.",
+   "summary": "Anos mais tarde, a Master Touch Outdoor Living, comandada por ele na Flórida, registrou US$ 10,8 milhões em receita de construção residencial em 2025 e passou a figurar entre as 50 empresas destacadas pela revista especializada Pool & Spa News. Pool & Spa News — Top 50 Builders 2026 Master Touch Outdoor Living nasceu de uma operação iniciada com US$ 3 mil A trajetória empresarial começou de forma bem menor. - Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Já no país, começou trabalhando como garçom em um restaurante.",
    "detalhes": {
     "valores": [
      "US$ 3 mi",
-     "US$ 16 milhões"
+     "US$ 16 milhões",
+     "US$ 10,8 milhões",
+     "US$ 5 milhões",
+     "US$ 5,8 milhões",
+     "US$ 80 mi"
+    ],
+    "percentual": [
+     "95%",
+     "53,7%"
     ],
     "datas": [
-     "2026"
+     "2026",
+     "2025",
+     "dezembro de 2019",
+     "agosto",
+     "julho de 2024",
+     "fevereiro de 2009"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20143,7 +20607,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T02:34:34+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiro-chega-aos-eua-com-pouco-ingles-trabalha-em-restaurante-e-limpando-piscinas-comeca-negocio-com-us-3-mil-e-transforma-servico-em-empresa-de-us-16-milhoes-por-ano-com-mais-de-flpc96/"
     }
    ],
    "has_paid": false,
@@ -20153,10 +20617,29 @@
   {
    "id": "4063e3266cee3ab7",
    "title": "Brasileiros que deixaram o país pelo Canadá enfrentam inverno rigoroso e uma crise de moradia que preocupa quase metade da população, mas estabilidade, salários e segurança ajudam a explicar uma comunidade que chegou a 151 mil pessoas",
-   "summary": "O Relatório Consular Anual 2025 do Ministério das Relações Exteriores estima aproximadamente 151 […] O post Brasileiros que deixaram o país pelo Canadá enfrentam inverno rigoroso e uma crise de moradia que preocupa quase metade da população, mas estabilidade, salários e segurança ajudam a explicar uma comunidade que chegou a 151 mil pessoas apareceu primeiro em CPG Click Petróleo e Gás . Brasileiros que deixaram o país pelo Canadá enfrentam inverno rigoroso e uma crise de moradia que preocupa quase metade da população, mas estabilidade, salários e segurança ajudam a explicar uma comunidade que chegou a 151 mil pessoas. Canadá reúne cerca de 151 mil brasileiros, mas aluguel de até C$ 3,1 mil, inverno rigoroso e mudanças na imigração tornam o planejamento financeiro cada vez mais decisivo.",
+   "summary": "Embora esses valores tenham recuado ligeiramente em relação a 2025, uma pesquisa oficial já havia mostrado que 45% dos canadenses estavam muito preocupados com sua capacidade de pagar pela moradia diante da alta de aluguéis e preços dos imóveis. - Passageiros do DF ficam no centro de crédito de R$ 636 milhões aprovado, com R$ 508,5 milhões destinados ao transporte coletivo - Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab - Candidatos encontram 3,1 mil vagas em feirão nesta quarta-feira, com salários de até R$ 2.664 e entrevistas presenciais em Goiânia - Engenheira de alimentos compra três cursos de cerca de R$ 100, transforma a própria cozinha em laboratório e passa quase um ano testando fórmulas com urucum, cupuaçu e maracujá até criar uma marca de cosméticos amazônicos que agora planeja levar seus produtos para mercados como Estados Unidos e Austrália A estimativa de 151 mil pessoas deixa o país atrás de Estados Unidos, Portugal, Paraguai, Japão, Espanha, Reino Unido, Alemanha e Itália, mas à frente da França. Em levantamento realizado pela Statistics Canada entre agosto e setembro de 2024, 45% dos entrevistados disseram estar muito preocupados com sua capacidade de pagar pela habitação devido à elevação dos preços dos imóveis ou dos aluguéis.",
    "detalhes": {
+    "valores": [
+     "R$ 636 milhões",
+     "R$ 508,5 milhões",
+     "R$ 2.664",
+     "R$ 100,"
+    ],
+    "percentual": [
+     "45%",
+     "27,1%",
+     "35%",
+     "34%",
+     "2,8%",
+     "6,4%"
+    ],
     "datas": [
-     "2025"
+     "2025",
+     "2026",
+     "junho de 2026",
+     "agosto",
+     "setembro de 2024",
+     "julho de 2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20175,7 +20658,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-23T01:33:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileiros-que-deixaram-o-pais-pelo-canada-enfrentam-inverno-rigoroso-e-uma-crise-de-moradia-que-preocupa-quase-metade-da-populacao-vml97/"
     }
    ],
    "has_paid": false,
@@ -20185,10 +20668,24 @@
   {
    "id": "e5541053fc09bf30",
    "title": "Brasileira chega sozinha aos Estados Unidos sem falar inglês após a mãe parcelar a passagem em 12 vezes, ganha apenas duas semanas para conseguir emprego, começa como babá, passa por faxinas e bares e anos depois entra no mercado imobiliário e participa de negócios que faturam cerca de US$ 500 mil por ano",
-   "summary": "Brasileira chega sozinha aos Estados Unidos sem falar inglês após a mãe parcelar a passagem em 12 vezes, ganha apenas duas semanas para conseguir emprego, começa como babá, passa por faxinas e bares e anos depois entra no mercado imobiliário e participa de negócios que faturam cerca de US$ 500 mil por ano. Mais de duas décadas depois, construiu carreira no financiamento imobiliário de Nova York e ampliou sua atuação para restaurantes, investimentos e compra […] O post Brasileira chega sozinha aos Estados Unidos sem falar inglês após a mãe parcelar a passagem em 12 vezes, ganha apenas duas semanas para conseguir emprego, começa como babá, passa por faxinas e bares e anos depois entra no mercado imobiliário e participa de negócios que faturam cerca de US$ 500 mil por ano apareceu primeiro em CPG Click Petróleo e Gás . Débora Manfre deixou Recife em 2002 sem domínio do inglês e com pouco dinheiro, encontrou trabalho como babá dentro do prazo que tinha para permanecer hospedada e passou por serviços comuns entre imigrantes.",
+   "summary": "Em março de 2025, a OneKey MLS registrou preço mediano de US$ 718,5 mil para casas unifamiliares dentro de sua área de cobertura, alta de 10,5% em relação ao mesmo mês de 2024. - Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Antes que as duas semanas terminassem, surgiu o primeiro emprego. Na entrevista concedida em 2025, ela relatou que trabalhava na Movement Mortgage e afirmou já ter participado da contratação de mais de US$ 100 milhões em empréstimos imobiliários ao longo da carreira.",
    "detalhes": {
     "valores": [
-     "US$ 500 mi"
+     "US$ 500 mi",
+     "R$ 20 mi",
+     "US$ 100 milhões",
+     "US$ 718,5 mi"
+    ],
+    "percentual": [
+     "10,5%"
+    ],
+    "datas": [
+     "abril de 2002",
+     "junho de 2025",
+     "dezembro de 2019",
+     "agosto",
+     "2025",
+     "março de 2025"
     ]
    },
    "category": "Prospectos e Investimentos",
@@ -20207,7 +20704,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T23:57:40+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileira-chega-sozinha-aos-estados-unidos-sem-falar-ingles-apos-a-mae-parcelar-a-passagem-em-12-vezes-ganha-apenas-duas-semanas-para-conseguir-emprego-comeca-como-baba-passa-por-faxina-gls/"
     }
    ],
    "has_paid": false,
@@ -20217,8 +20714,22 @@
   {
    "id": "567536ee09582657",
    "title": "Brasileira de 28 anos sai de Goiânia, chega a Portugal para estudar, precisa trabalhar e, anos depois, compra o mercado onde era funcionária, amplia os produtos brasileiros e cria uma cafetaria na Amadora",
-   "summary": "Brasileira de 28 anos sai de Goiânia, chega a Portugal para estudar, precisa trabalhar e, anos depois, compra o mercado onde era funcionária, amplia os produtos brasileiros e cria uma cafetaria na Amadora. Ester Mendes deixou Goiânia, trabalhou em diferentes empregos em Portugal e, após um ano e meio como funcionária, assumiu o Mercado Sabor Brasil na Amadora, ampliando produtos brasileiros e abrindo uma cafetaria no local Aos 28 anos, Ester Mendes passou de funcionária a proprietária do Mercado Sabor Brasil, na Amadora, em Portugal. Depois de trabalhar […] O post Brasileira de 28 anos sai de Goiânia, chega a Portugal para estudar, precisa trabalhar e, anos depois, compra o mercado onde era funcionária, amplia os produtos brasileiros e cria uma cafetaria na Amadora apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Passageiros do DF ficam no centro de crédito de R$ 636 milhões aprovado, com R$ 508,5 milhões destinados ao transporte coletivo - Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab - Candidatos encontram 3,1 mil vagas em feirão nesta quarta-feira, com salários de até R$ 2.664 e entrevistas presenciais em Goiânia - Engenheira de alimentos compra três cursos de cerca de R$ 100, transforma a própria cozinha em laboratório e passa quase um ano testando fórmulas com urucum, cupuaçu e maracujá até criar uma marca de cosméticos amazônicos que agora planeja levar seus produtos para mercados como Estados Unidos e Austrália No fim de 2024, Ester deixou o mercado após enfrentar problemas e voltou a trabalhar em outros empregos. Depois de trabalhar em restaurantes, clínica dentária e fábricas após deixar Goiânia, ela assumiu em 28 de fevereiro o negócio onde havia trabalhado por um ano e meio e acrescentou uma cafetaria ao espaço. Desde 28 de fevereiro, o negócio está oficialmente sob seu comando.",
+   "detalhes": {
+    "valores": [
+     "R$ 636 milhões",
+     "R$ 508,5 milhões",
+     "R$ 2.664",
+     "R$ 100,"
+    ],
+    "percentual": [
+     "27,1%"
+    ],
+    "datas": [
+     "fevereiro",
+     "2024"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20235,7 +20746,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T23:29:43+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileira-de-28-anos-sai-de-goiania-chega-a-portugal-para-estudar-precisa-trabalhar-rpc95/"
     }
    ],
    "has_paid": false,
@@ -20245,10 +20756,21 @@
   {
    "id": "d45be77d1dfa85c9",
    "title": "Aos 26 anos e depois de passar pelo menos 14 deles em circos, ursa Kátia resgatada pelo Ibama esperava num zoológico do Ceará sob calor considerado inadequado à espécie a transferência que faria dela a nova moradora do santuário em Joanópolis",
-   "summary": "Em agosto de 2019, depois de anos no Zoológico São Francisco, em […] O post Aos 26 anos e depois de passar pelo menos 14 deles em circos, ursa Kátia resgatada pelo Ibama esperava num zoológico do Ceará sob calor considerado inadequado à espécie a transferência que faria dela a nova moradora do santuário em Joanópolis apareceu primeiro em CPG Click Petróleo e Gás . Aos 26 anos e depois de passar pelo menos 14 deles em circos, ursa Kátia resgatada pelo Ibama esperava num zoológico do Ceará sob calor considerado inadequado à espécie a transferência que faria dela a nova moradora do santuário em Joanópolis. Trajetória de Kátia reúne anos de vida em circo, um resgate do Ibama, passagem por um zoológico cearense e uma longa disputa por transferência, em uma história marcada por mudanças de ambiente, cuidados veterinários e questionamentos sobre as condições climáticas enfrentadas pela ursa-parda.",
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Em contraste com o espaço anterior, descrito com aproximadamente dois metros por dois metros, o recinto preparado em Canindé oferecia cerca de 200 metros quadrados, piscina e acompanhamento de profissionais encarregados do processo de recuperação física da ursa após a retirada do circo. Em agosto de 2019, depois de anos no Zoológico São Francisco, em Canindé, no Ceará, a ursa-parda Kátia deixou o município rumo ao Rancho dos Gnomos, em Joanópolis, no interior paulista, por determinação judicial que colocou o calor regional no centro da discussão. Resgate do Ibama levou Kátia ao Ceará Na ocasião da apreensão, Kátia tinha 18 anos e pesava cerca de 250 quilos, segundo registro publicado pelo Diário do Nordeste em agosto de 2011, que também apontava pelo menos 14 anos de permanência em uma jaula improvisada ligada à rotina circense.",
    "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "profundidade": [
+     "200 metros",
+     "1.900 metros"
+    ],
     "datas": [
-     "agosto de 2019"
+     "agosto de 2019",
+     "agosto de 2011",
+     "dezembro de 2019",
+     "agosto",
+     "junho de 2019"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20267,7 +20789,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T23:06:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/aos-26-anos-e-depois-de-passar-pelo-menos-14-deles-em-circos-ursa-katia-resgatada-pelo-ibama-esperava-num-zoologico-do-ceara-sob-calor-considerado-inadequado-a-especie-a-transferencia-q-afch/"
     }
    ],
    "has_paid": false,
@@ -20277,8 +20799,18 @@
   {
    "id": "68e295aaa2e26220",
    "title": "Brasileira que trocou o país pelo Japão encara turnos que começavam às 3 horas da madrugada, mas diz que a segurança de andar na rua sem medo e a qualidade de vida compensam, numa comunidade que ainda reúne 210 mil pessoas",
-   "summary": "Brasileira que trocou o país pelo Japão encara turnos que começavam às 3 horas da madrugada, mas diz que a segurança de andar na rua sem medo e a qualidade de vida compensam, numa comunidade que ainda reúne 210 mil pessoas. Rotina de trabalho extremo, mudança de profissão e adaptação cultural marcaram a trajetória de uma brasileira que decidiu reconstruir a vida no Japão, onde segurança, tranquilidade e novas possibilidades profissionais passaram a pesar na escolha de permanecer longe do Brasil. Ao deixar o Brasil no fim de 2019 para viver no Japão, Carine Sayuri Goto […] O post Brasileira que trocou o país pelo Japão encara turnos que começavam às 3 horas da madrugada, mas diz que a segurança de andar na rua sem medo e a qualidade de vida compensam, numa comunidade que ainda reúne 210 mil pessoas apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Hoje, aos 45 anos, ela vive em Higashine, na província de Yamagata, e voltou a trabalhar como psicanalista, segundo entrevista à BBC News Brasil publicada pelo Terra em 29 de junho de 2026 e atualizada no dia seguinte. Atendimento online abriu caminho para mudança profissional Com a expansão do trabalho remoto durante a pandemia, surgiu em 2021 a oportunidade de estabelecer atendimentos online como psicanalista para brasileiros que estavam no Brasil, além de brasileiros e outros estrangeiros que já viviam no Japão. Brasileira que trocou o país pelo Japão encara turnos que começavam às 3 horas da madrugada, mas diz que a segurança de andar na rua sem medo e a qualidade de vida compensam, numa comunidade que ainda reúne 210 mil pessoas.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "dezembro de 2019",
+     "agosto",
+     "junho de 2026",
+     "2021"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20295,7 +20827,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T22:46:47+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasileira-que-trocou-o-pais-pelo-japao-encara-turnos-que-comecavam-as-3-horas-da-madrugada-mas-diz-que-a-seguranca-de-andar-na-rua-sem-medo-e-a-qualidade-de-vida-compensam-numa-comunid-afch/"
     }
    ],
    "has_paid": false,
@@ -20305,8 +20837,12 @@
   {
    "id": "ae9f3182da736fb5",
    "title": "ASSOCIAÇÃO DE FORNECEDORES DE NAVIOS TEM NOVA DIRETORIA QUE PROMETE DESTRAVAR GARGALOS E MELHORAR ATENDIMENTO",
-   "summary": "ASSOCIAÇÃO DE FORNECEDORES DE NAVIOS TEM NOVA DIRETORIA QUE PROMETE DESTRAVAR GARGALOS E MELHORAR ATENDIMENTO. A eleição da nova diretoria da Associação Brasileira de Fornecedores e Serviços a Navios (ABFN), coloca em pauta um desafio estratégico: fortalecer a representação institucional de um setor no qual as empresas competem, mas compartilham obstáculos e interesses comuns. Para a nova gestão, a união é essencial para defender temas coletivos, aprimorar o ambiente de",
-   "detalhes": {},
+   "summary": "A proposta, cujo lançamento pela gestão atual da ABFN está previsto para 2026, foi debatida em uma mesa redonda promovida pelo Instituto Brasileiro de Infraestrutura (IBI), com representação de autoridades como o Ministério de Portos e Aeroportos; Secretaria Nacional de Portos; Frente Parlamentar de Portos e Aeroportos; Autoridade Portuária de Santos; Secretaria Municipal de Assuntos Portuários e Emprego da Prefeitura de Santos; Instituto Praticagem do Brasil; Gerente de Estratégia Operacional da Portos-RS; e Serviço Federal de Processamento de Dados (SERPRO). ASSOCIAÇÃO DE FORNECEDORES DE NAVIOS TEM NOVA DIRETORIA QUE PROMETE DESTRAVAR GARGALOS E MELHORAR ATENDIMENTO. Para a nova gestão, a união é essencial para defender temas coletivos, aprimorar o ambiente de negócios e fortalecer a cadeia de fornecimento marítimo brasileira.",
+   "detalhes": {
+    "datas": [
+     "2026"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20323,7 +20859,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T20:32:11+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/associacao-de-fornecedores-de-navios-tem-nova-diretoria-que-promete-destravar-gargalos-e-melhorar-atendimento/"
     }
    ],
    "has_paid": false,
@@ -20333,7 +20869,7 @@
   {
    "id": "8e7f96b559db7b8d",
    "title": "A CIDADE DE MACAÉ SERÁ PALCO DURANTE UMA SEMANA DE MAIS UM ENCONTRO DE ENGENHARIA DE EXPLORAÇÃO DE PETRÓLEO",
-   "summary": "Na próxima semana, a cidade de Macaé receberá, de segunda à sexta-fira (24 a 28), o XIX Encontro de Engenharia de Exploração e Produção de Petróleo (Engep 2026). A CIDADE DE MACAÉ SERÁ PALCO DURANTE UMA SEMANA DE MAIS UM ENCONTRO DE ENGENHARIA DE EXPLORAÇÃO DE PETRÓLEO. A programação técnico-científica busca aproximar a comunidade acadêmica do mercado de trabalho, promovendo a troca de conhecimentos e o contato dos participantes com profissionais e temas atuais",
+   "summary": "A CIDADE DE MACAÉ SERÁ PALCO DURANTE UMA SEMANA DE MAIS UM ENCONTRO DE ENGENHARIA DE EXPLORAÇÃO DE PETRÓLEO Na próxima semana, a cidade de Macaé receberá, de segunda à sexta-fira (24 a 28), o XIX Encontro de Engenharia de Exploração e Produção de Petróleo (Engep 2026). A programação técnico-científica busca aproximar a comunidade acadêmica do mercado de trabalho, promovendo a troca de conhecimentos e o contato dos participantes com profissionais e temas atuais da indústria de petróleo, gás e energia. O evento é organizado por estudantes da graduação em Engenharia de Petróleo da Universidade Estadual do Norte Fluminense Darcy Ribeiro (Uenf), vinculados ao Laboratório de Engenharia e Exploração de Petróleo (Lenep), localizado em Macaé.",
    "detalhes": {
     "datas": [
      "2026"
@@ -20355,7 +20891,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T16:00:59+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/a-cidade-de-macae-sera-palco-durante-uma-semana-de-mais-um-encontro-de-engenharia-de-exploracao-de-petroleo/"
     }
    ],
    "has_paid": false,
@@ -20365,14 +20901,23 @@
   {
    "id": "d3fc9a6fbaf8c7ff",
    "title": "Brasil prepara supercomputador de IA de R$ 1,06 bilhão com 7.200 petaflops, mira o top 10 mundial e quer transformar Rio Grande do Norte e Rio em polos de inteligência artificial a partir de 2027",
-   "summary": "Brasil prepara supercomputador de IA de R$ 1,06 bilhão com 7.200 petaflops, mira o top 10 mundial e quer transformar Rio Grande do Norte e Rio em polos de inteligência artificial a partir de 2027. O governo federal anunciou, em 20 de agosto de 2026, […] O post Brasil prepara supercomputador de IA de R$ 1,06 bilhão com 7.200 petaflops, mira o top 10 mundial e quer transformar Rio Grande do Norte e Rio em polos de inteligência artificial a partir de 2027 apareceu primeiro em CPG Click Petróleo e Gás . Novo supercomputador brasileiro será instalado em Macaíba, terá foco em inteligência artificial e integra plano que também prevê máquina no Rio, nuvem nacional e produção de chips.",
+   "summary": "Brasil prepara supercomputador de IA de R$ 1,06 bilhão com 7.200 petaflops, mira o top 10 mundial e quer transformar Rio Grande do Norte e Rio em polos de inteligência artificial a partir de 2027. O governo federal anunciou, em 20 de agosto de 2026, investimento de R$ 1,06 bilhão para instalar um novo supercomputador no Rio Grande do Norte. O projeto integra o Plano Brasileiro de Inteligência Artificial, lançado em 2024 e com previsão de R$ 23 bilhões em investimentos até 2028.",
    "detalhes": {
     "valores": [
-     "R$ 1,06 bilhão"
+     "R$ 1,06 bilhão",
+     "R$ 23 bilhões",
+     "R$ 1,276 bilhão"
+    ],
+    "percentual": [
+     "81%"
     ],
     "datas": [
      "2027",
-     "agosto de 2026"
+     "agosto de 2026",
+     "2024",
+     "2028",
+     "Janeiro",
+     "julho de 2027"
     ]
    },
    "category": "Campanhas e Blocos",
@@ -20391,7 +20936,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T13:54:20+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/brasil-prepara-supercomputador-de-ia-de-r-106-bilhao-com-7-200-petaflops-mira-o-top-10-mundial-e-quer-transformar-rio-grande-do-norte-e-rio-em-polos-de-inteligencia-artificial-a-parti-vacs75/"
     }
    ],
    "has_paid": false,
@@ -20401,12 +20946,21 @@
   {
    "id": "b9c426f8698441dd",
    "title": "Cidade do Brasil chama atenção após plantar 261 mil árvores em menos de dois anos e anuncia distribuição gratuita de mais 10 mil mudas para moradores, com retiradas em vários bairros",
-   "summary": "Curitiba já plantou 261 mil árvores desde 2025 e vai distribuir mais 10 mil mudas gratuitas em agosto; confira as datas, os locais de retirada, os documentos necessários e a meta ambiental prevista para 2028. Cidade do Brasil chama atenção após plantar 261 mil árvores em menos de dois anos e anuncia distribuição gratuita de mais 10 mil mudas para moradores, com retiradas em vários bairros. O post Cidade do Brasil chama atenção após plantar 261 mil árvores em menos de dois anos e anuncia distribuição gratuita de mais 10 mil mudas para moradores, com retiradas em vários bairros apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "- Aos 78 anos, morador planta mais de 100 árvores frutíferas em área pública de Juiz de Fora, atrai pássaros e diz que pomar foi feito para a população e para o futuro - Praia “desaparece” no Sudeste do Brasil, mar avança até 5 metros por ano, 14 quarteirões já ficaram submersos e casas, ruas e igrejas viram ruínas no litoral do Rio de Janeiro - Dois passageiros são presos com 468 ovos de papagaio escondidos em incubadoras improvisadas no aeroporto, e vários filhotes já nasceram sob cuidados veterinários - Vírus altamente letal atinge reserva da Mata Atlântica em Santa Catarina, mata centenas de girinos em surtos sucessivos e derruba em 83% a reprodução de perereca endêmica do Brasil Em 25 de agosto, a partir das 9h, a entrega chega às ruas da cidadania de Santa Felicidade, Fazendinha/Portão, Boa Vista e Cajuru. Curitiba já plantou 261 mil árvores desde 2025 e vai distribuir mais 10 mil mudas gratuitas em agosto; confira as datas, os locais de retirada, os documentos necessários e a meta ambiental prevista para 2028. A Prefeitura de Curitiba anunciou a distribuição gratuita de 10 mil mudas de árvores em agosto de 2026.",
    "detalhes": {
+    "percentual": [
+     "83%"
+    ],
+    "profundidade": [
+     "5 metros"
+    ],
     "datas": [
      "2025",
      "agosto",
-     "2028"
+     "2028",
+     "agosto de 2026",
+     "janeiro de 2025",
+     "Novembro"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20425,7 +20979,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T11:39:38+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/cidade-do-brasil-chama-atencao-apos-plantar-261-mil-arvores-em-menos-de-dois-anos-e-anuncia-distribuicao-gratuita-de-mais-10-mil-mudas-para-moradores-com-retiradas-em-varios-bairros-nmb91/"
     }
    ],
    "has_paid": false,
@@ -20435,8 +20989,18 @@
   {
    "id": "ec393276dd565c92",
    "title": "Professor da periferia de São Paulo transforma caixas de cereal, papelão e fios em favelas em miniatura, cria 15 cenários e rifa duas obras para conseguir pagar a faculdade",
-   "summary": "Professor da periferia de São Paulo transforma caixas de cereal, papelão e fios em favelas em miniatura, cria 15 cenários e rifa duas obras para conseguir pagar a faculdade. Marcos Yamada transformou caixas de cereal, papelão e fios em retratos minuciosos da periferia paulistana, produziu 15 cenários e rifou duas obras para conseguir pagar a faculdade de Educação Física no Brasil. O post Professor da periferia de São Paulo transforma caixas de cereal, papelão e fios em favelas em miniatura, cria 15 cenários e rifa duas obras para conseguir pagar a faculdade apareceu primeiro em CPG Click Petróleo e Gás .",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Segundo reportagem publicada pela Agência Mural em abril de 2023, o artista havia produzido cerca de 15 cenários até aquele momento. Uma maquete improvisada durante a pandemia virou um projeto permanente O começo foi em 2020, enquanto Yamada participava de atividades de arte e educação com crianças da comunidade. A reportagem original foi publicada em 17 de abril de 2023.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "datas": [
+     "2020",
+     "dezembro de 2019",
+     "agosto",
+     "abril de 2023"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20453,7 +21017,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T11:27:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/professor-da-periferia-de-sao-paulo-transforma-caixas-de-cereal-papelao-e-fios-em-favelas-em-miniatura-cria-15-cenarios-e-rifa-duas-obras-para-conseguir-pagar-a-faculdade-nmb91/"
     }
    ],
    "has_paid": false,
@@ -20463,13 +21027,19 @@
   {
    "id": "9ed4841beba41a4f",
    "title": "Duas estudantes brasileiras criam produto para conter incêndios, que pode virar adubo após o uso e agora disputa prêmio de US$ 1 milhão",
-   "summary": "Duas estudantes brasileiras criam produto para conter incêndios, que pode virar adubo após o uso e agora disputa prêmio de US$ 1 milhão. Estudantes da PUC-PR criaram retardante biológico contra incêndios florestais e avançaram no Hult Prize 2026 como representantes do Brasil. Mariah Fraulo Cavalcante e Taciane Beatriz Ferreira desenvolveram o BIODEFENSER®, um retardante de […] O post Duas estudantes brasileiras criam produto para conter incêndios, que pode virar adubo após o uso e agora disputa prêmio de US$ 1 milhão apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "Duas estudantes brasileiras criam produto para conter incêndios, que pode virar adubo após o uso e agora disputa prêmio de US$ 1 milhão. Estudantes da PUC-PR criaram retardante biológico contra incêndios florestais e avançaram no Hult Prize 2026 como representantes do Brasil. Mariah Fraulo Cavalcante e Taciane Beatriz Ferreira desenvolveram o BIODEFENSER®, um retardante de chamas de origem biológica que já conseguiu apagar fogo em testes laboratoriais e agora avança para etapas de validação maiores, enquanto a dupla representa o Brasil no Hult Prize 2026.",
    "detalhes": {
     "valores": [
-     "US$ 1 milhão"
+     "US$ 1 milhão",
+     "R$ 10 mi"
+    ],
+    "percentual": [
+     "81%"
     ],
     "datas": [
-     "2026"
+     "2026",
+     "junho de 2026",
+     "2024"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20488,7 +21058,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T11:12:41+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/duas-estudantes-brasileiras-criam-produto-que-apaga-fogo-pode-virar-adubo-depois-do-uso-e-agora-disputa-premio-de-us-1-milhao-rmrm97/"
     }
    ],
    "has_paid": false,
@@ -20498,8 +21068,19 @@
   {
    "id": "346c921d9bf9d294",
    "title": "Cidade mais chuvosa do Brasil fica no Amapá, recebe mais de 4 mil mm de chuva por ano e vive sob influência da Amazônia e do Atlântico; conheça Calçoene",
-   "summary": "Cidade mais chuvosa do Brasil fica no Amapá, recebe mais de 4 mil mm de chuva por ano e vive sob influência da Amazônia e do Atlântico; conheça Calçoene. Calçoene, no Amapá, é apontada como a cidade mais chuvosa do Brasil e registra mais de 4 mil milímetros de precipitação por ano. Em um país marcado por contrastes climáticos, um município do Amapá se destaca por conviver com volumes de precipitação muito acima da média nacional.",
-   "detalhes": {},
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração É um patamar muito distante daquilo que moradores de grandes centros brasileiros costumam experimentar. Quase 7 metros de água acumulados em um único ano Transformar milímetros em uma dimensão mais fácil de visualizar ajuda a entender a escala. Em comparação com São Paulo, por exemplo, o total registrado pela cidade mais chuvosa do Brasil pode chegar perto de três vezes o volume observado na metrópole paulista em determinados períodos.",
+   "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
+    "profundidade": [
+     "7 metros"
+    ],
+    "datas": [
+     "dezembro de 2019",
+     "agosto"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20516,7 +21097,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T11:00:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/cidade-mais-chuvosa-do-brasil-fica-no-amapa-recebe-mais-de-4-mil-mm-de-chuva-por-ano-e-vive-sob-influencia-da-amazonia-e-do-atlantico-conheca-calcoene-rmrm97/"
     }
    ],
    "has_paid": false,
@@ -20526,17 +21107,22 @@
   {
    "id": "7bdcf873bbb3b1bc",
    "title": "Depois de passar 40 anos sozinha no antigo zoológico de Mendoza, a elefanta Kenya chegou ao santuário brasileiro em Mato Grosso aos 44 anos; até então, era a última elefanta mantida em cativeiro na Argentina.",
-   "summary": "Kenya viveu cerca de 40 anos praticamente isolada em Mendoza e percorreu 3.400 km até um santuário brasileiro, onde passou seus últimos cinco meses antes de morrer aos 44 anos. Em 9 de julho de 2025, a elefanta-africana Kenya, de 44 anos, terminou uma viagem terrestre de aproximadamente 3.400 quilômetros entre Mendoza, na Argentina, e […] O post Depois de passar 40 anos sozinha no antigo zoológico de Mendoza, a elefanta Kenya chegou ao santuário brasileiro em Mato Grosso aos 44 anos; até então, era a última elefanta mantida em cativeiro na Argentina. Em 26 de setembro de 2020, depois de passar mais de quatro décadas sendo utilizada em circos e aproximadamente outros dez anos em zoológicos brasileiros, a elefanta-asiática Bambi chegou ao Santuário de Elefantes Brasil, em Mato Grosso.",
+   "summary": "- Estudante é suspensa logo na primeira aula por entrar na escola com café, nos EUA - Carteiro é atacado por cachorro durante entrega, sofre lesão permanente e Justiça manda Correios pagarem R$ 20 mil e pensão vitalícia - Técnico contratado em dezembro de 2019 que passou a jornada sem receber hora extra nem tirar o intervalo consegue no TST romper o contrato por culpa da empresa e sair com as verbas de quem foi mandado embora - Criador que engorda frango e suíno viu o custo de produção subir em agosto nos principais estados produtores, calcula a Embrapa, e entra na safra de 366,6 milhões de toneladas de grãos pagando mais caro pela ração Kenya permaneceu até 2025. Kenya viveu cerca de 40 anos praticamente isolada em Mendoza e percorreu 3.400 km até um santuário brasileiro, onde passou seus últimos cinco meses antes de morrer aos 44 anos. Em 9 de julho de 2025, a elefanta-africana Kenya, de 44 anos, terminou uma viagem terrestre de aproximadamente 3.400 quilômetros entre Mendoza, na Argentina, e a Chapada dos Guimarães, em Mato Grosso.",
    "detalhes": {
+    "valores": [
+     "R$ 20 mi"
+    ],
     "profundidade": [
-     "3.400 km"
+     "3.400 km",
+     "4 mil km"
     ],
     "datas": [
      "julho de 2025",
-     "setembro de 2020",
-     "2020",
-     "janeiro de 2026",
-     "julho de 2020"
+     "dezembro de 2019",
+     "agosto",
+     "2025",
+     "2022",
+     "julho"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20555,7 +21141,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T10:57:42+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/depois-de-viver-cerca-de-40-anos-praticamente-sozinha-em-um-zoologico-argentino-elefanta-kenya-atravessou-3-400-km-aos-44-anos-e-chegou-a-um-santuario-de-1-100-hectares-em-mato-grosso-vml97/"
     },
     {
      "name": "CPG Click Petróleo e Gás",
@@ -20573,17 +21159,28 @@
   {
    "id": "006dd7131c7f61ab",
    "title": "“Pra que comprar um carro?” Jovem viraliza ao dizer que Uber sai mais barato do que bancar IPVA, seguro, gasolina e manutenção, mas cálculo mostra que a vantagem pode desaparecer conforme a quilometragem mensal",
-   "summary": "Debate viral coloca Uber e carro próprio na ponta do lápis, enquanto IPVA de 4% e gasolina a R$ 6,53 mostram quanto pesa manter um veículo em 2026. Uma publicação que viralizou no Reddit em agosto de 2026 reacendeu uma discussão que vem ganhando força entre brasileiros mais jovens: ainda vale a pena comprar um […] O post “Pra que comprar um carro?” Jovem viraliza ao dizer que Uber sai mais barato do que bancar IPVA, seguro, gasolina e manutenção, mas cálculo mostra que a vantagem pode desaparecer conforme a quilometragem mensal apareceu primeiro em CPG Click Petróleo e Gás . “Pra que comprar um carro?” Jovem viraliza ao dizer que Uber sai mais barato do que bancar IPVA, seguro, gasolina e manutenção, mas cálculo mostra que a vantagem pode desaparecer conforme a quilometragem mensal.",
+   "summary": "Debate viral coloca Uber e carro próprio na ponta do lápis, enquanto IPVA de 4% e gasolina a R$ 6,53 mostram quanto pesa manter um veículo em 2026. Na semana de 9 a 15 de agosto de 2026, a gasolina comum custava em média R$ 6,53 por litro no Brasil, segundo a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis. - Passageiros do DF ficam no centro de crédito de R$ 636 milhões aprovado, com R$ 508,5 milhões destinados ao transporte coletivo - Produtores colhem 361,7 milhões de toneladas de grãos, com soja recorde de 180,4 milhões enquanto trigo recua 27,1%, aponta a Conab - Candidatos encontram 3,1 mil vagas em feirão nesta quarta-feira, com salários de até R$ 2.664 e entrevistas presenciais em Goiânia - Engenheira de alimentos compra três cursos de cerca de R$ 100, transforma a própria cozinha em laboratório e passa quase um ano testando fórmulas com urucum, cupuaçu e maracujá até criar uma marca de cosméticos amazônicos que agora planeja levar seus produtos para mercados como Estados Unidos e Austrália Discussão viral colocou novamente carro próprio e Uber frente a frente A publicação apareceu no Reddit com a pergunta “Concorda com esse pensamento da nova geração?” e abriu espaço para centenas de respostas sobre a necessidade, ou não, de possuir um automóvel.",
    "detalhes": {
     "valores": [
-     "R$ 6,53"
+     "R$ 6,53",
+     "R$ 60 mi",
+     "R$ 2.400",
+     "R$ 636 milhões",
+     "R$ 508,5 milhões",
+     "R$ 2.664"
     ],
     "percentual": [
-     "4%"
+     "4%",
+     "27,1%",
+     "5,32%"
+    ],
+    "profundidade": [
+     "12 km"
     ],
     "datas": [
      "2026",
-     "agosto de 2026"
+     "agosto de 2026",
+     "maio de 2026"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20602,7 +21199,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T10:54:39+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/pra-que-comprar-um-carro-jovem-faz-questionamento-e-diz-que-uber-compensa-mais-do-que-pagar-ipva-seguro-gasolina-e-manutencao-vml97/"
     }
    ],
    "has_paid": false,
@@ -20612,11 +21209,36 @@
   {
    "id": "b58b9987d2d08c1e",
    "title": "“Ninguém vai querer comprar”: garagista afirma que carros usados acima de R$ 100 mil estão encalhando diante dos BYD zero-km, enquanto elétrico de R$ 109.990 já lidera o varejo brasileiro",
-   "summary": "“Ninguém vai querer comprar”: garagista afirma que carros usados acima de R$ 100 mil estão encalhando diante dos BYD zero-km, enquanto elétrico de R$ 109.990 já lidera o varejo brasileiro. Garagista alerta que usados acima de R$ 100 mil enfrentam a pressão dos BYD zero-km, enquanto Dolphin Mini de R$ 109.990 assume liderança no varejo brasileiro. “Ninguém vai querer comprar.” A previsão feita por um garagista sobre carros usados acima de R$ 100 mil viralizou ao colocar em palavras uma mudança que já aparece nos […] O post “Ninguém vai querer comprar”: garagista afirma que carros usados acima de R$ 100 mil estão encalhando diante dos BYD zero-km, enquanto elétrico de R$ 109.990 já lidera o varejo brasileiro apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "A FENAUTO divulga o volume total de transferências de usados e seminovos, mas o relatório de julho não demonstra uma paralisação das vendas especificamente acima de R$ 100 mil. Segundo a Folha do Estado, que repercutiu o vídeo em 17 de junho de 2026, o profissional argumenta que consumidores passaram a olhar para modelos chineses zero-km, especialmente eletrificados, antes de gastar mais de R$ 100 mil em um seminovo. Mas o fenômeno que sustenta o alerta é concreto: enquanto a BYD chegou a oferecer o Dolphin Mini GL por R$ 109.990, o próprio compacto elétrico terminou os sete primeiros meses de 2026 como o automóvel mais emplacado no varejo brasileiro, com 35.199 unidades.",
    "detalhes": {
     "valores": [
      "R$ 100 mi",
-     "R$ 109.990"
+     "R$ 109.990",
+     "R$ 109.990,",
+     "R$ 109.990.",
+     "R$ 18 mi",
+     "R$ 21 mi"
+    ],
+    "percentual": [
+     "13,21%",
+     "14,58%",
+     "107%",
+     "10,7%",
+     "2,6%"
+    ],
+    "profundidade": [
+     "28 km",
+     "1.278,36 km",
+     "164 km",
+     "700 km"
+    ],
+    "datas": [
+     "junho de 2026",
+     "2026",
+     "2025",
+     "2027",
+     "julho de 2026",
+     "julho"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20635,7 +21257,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T03:33:58+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/ninguem-vai-querer-comprar-garagista-diz-que-usado-acima-de-r-100-mil-perdeu-espaco-para-byd-zero-km-enquanto-eletrico-de-r-109-990-ja-lidera-varejo-brasileiro-vml97"
     }
    ],
    "has_paid": false,
@@ -20645,15 +21267,24 @@
   {
    "id": "e60f6a100bda1d4c",
    "title": "Comunidade brasileira em Portugal mais que dobra em quatro anos, ultrapassa 574 mil pessoas e supera as sete nacionalidades seguintes somadas",
-   "summary": "Os brasileiros em Portugal passaram de 278.109 residentes em 2021 para 574.195 em 2025, representam 35,9% dos estrangeiros e ajudam a explicar o recorde populacional de 11.424.031 habitantes no país. Os brasileiros em Portugal já somavam 574.195 residentes em 2025. Quatro anos antes, eram 278.109, o que representa crescimento de 106,5% e acréscimo de 296.086 […] O post Comunidade brasileira em Portugal mais que dobra em quatro anos, ultrapassa 574 mil pessoas e supera as sete nacionalidades seguintes somadas apareceu primeiro em CPG Click Petróleo e Gás .",
+   "summary": "Os brasileiros em Portugal passaram de 278.109 residentes em 2021 para 574.195 em 2025, representam 35,9% dos estrangeiros e ajudam a explicar o recorde populacional de 11.424.031 habitantes no país. Bush recebe no ouvido a notícia de que “os Estados Unidos estão sob ataque” enquanto acompanhava crianças em uma escola, permanece sentado por cerca de sete minutos para não assustá-las e, horas depois, é levado entre bases militares e um bunker antes de retornar à Casa Branca - Finlândia gasta 356 milhões de euros em cerca colossal de 200 km e 4,5 metros de altura na fronteira com a Rússia, equipada com câmeras e sensores - Muro colossal se estende por centenas de quilômetros na Cisjordânia, atravessa uma das regiões mais disputadas do mundo e transforma décadas de conflito territorial em uma enorme divisão física - 25 anos após o 11 de Setembro, novo documentário da Netflix revela como os ataques mudaram guerras, vigilância, política, desinformação e a vida de quem nem havia nascido em 2001 Os números da explosão migratória brasileira em Portugal Em 2021, Portugal tinha 278.109 residentes de nacionalidade brasileira. O total chegou a 574.195 em 2025, uma diferença de 296.086 pessoas em apenas quatro anos.",
    "detalhes": {
     "percentual": [
      "35,9%",
-     "106,5%"
+     "106,5%",
+     "14%"
+    ],
+    "profundidade": [
+     "200 km",
+     "4,5 metros"
     ],
     "datas": [
      "2021",
-     "2025"
+     "2025",
+     "junho de 2026",
+     "Setembro",
+     "2022",
+     "outubro de 2025"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20672,7 +21303,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T00:48:41+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/comunidade-brasileira-em-portugal-mais-que-dobra-em-quatro-anos-ultrapassa-574-mil-pessoas-e-supera-as-sete-nacionalidades-seguintes-somadas-fcmo87/"
     }
    ],
    "has_paid": false,
@@ -20682,8 +21313,21 @@
   {
    "id": "c54c43afd5d00d4d",
    "title": "Vestígios de 1.200 anos mostram que povos indígenas do Sul do Brasil construíam casas subterrâneas com engenharia sofisticada para vencer o frio extremo dos campos de altitude",
-   "summary": "Vestígios de 1.200 anos mostram que povos indígenas do Sul do Brasil construíam casas subterrâneas com engenharia sofisticada para vencer o frio extremo dos campos de altitude. As casas subterrâneas indígenas aparecem no relevo como círculos quase invisíveis, mas guardam uma engenharia ancestral que aproveitava o solo para enfrentar geadas, ventos serranos e a entrada da chuva. No meio de um campo de altitude, uma pequena depressão circular pode parecer apenas uma irregularidade do terreno.",
-   "detalhes": {},
+   "summary": "- Praia de SC que teve trechos praticamente engolidos pelo mar recebe mais de 156 mil mudas de restinga após maior alargamento do Brasil recuperar 8,8 km de orla, enquanto projeto prevê chegar a 280 mil plantas nativas para estabilizar dunas e reforçar proteção contra erosão costeira - Com estrutura de potência equivalente a 60 carros de Fórmula 1, Sistema Cantareira abriga a maior estação elevatória da Sabesp, ergue 33 mil litros de água por segundo a 120 metros até Águas Claras, de onde o volume desce por gravidade até o Guaraú - Boeing inicia expansão de US$ 1 bilhão na Carolina do Sul, vai erguer prédio do tamanho de 15 campos de futebol, prevê 1.000 empregos e planeja fabricar 10 aviões 787 por mês a partir de 2026 - Casa de madeira de 30 m² aparece por cerca de R$ 20 mil e desafia a alvenaria com montagem rápida, menos desperdício e estrutura em pinus tratado que transforma um kit compacto em alternativa para quem quer construir gastando menos O que os arqueólogos encontraram nas terras altas de Santa Catarina Arqueólogos mapearam centenas de pontos com depressões circulares em áreas catarinenses. A informação foi publicada em 9 de maio de 2026 por Estado de Minas, jornal brasileiro com cobertura nacional e regional. Vestígios de 1.200 anos mostram que povos indígenas do Sul do Brasil construíam casas subterrâneas com engenharia sofisticada para vencer o frio extremo dos campos de altitude.",
+   "detalhes": {
+    "valores": [
+     "US$ 1 bilhão",
+     "R$ 20 mi"
+    ],
+    "profundidade": [
+     "8,8 km",
+     "120 metros"
+    ],
+    "datas": [
+     "maio de 2026",
+     "2026"
+    ]
+   },
    "category": "Operadoras e IOCs",
    "relevance": 0,
    "entities": {
@@ -20700,7 +21344,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-22T00:15:40+00:00",
-     "link_real": null
+     "link_real": "https://clickpetroleoegas.com.br/vestigios-de-1-200-anos-mostram-que-povos-indigenas-do-sul-do-brasil-construiam-casas-subterraneas-com-engenharia-sofisticada-para-vencer-o-frio-extremo-dos-campos-de-altitude-fcmo87/"
     }
    ],
    "has_paid": false,
@@ -20846,10 +21490,11 @@
   {
    "id": "402fe1d62f647e66",
    "title": "CRESCE A EXPECTATIVA PELA REALIZAÇÃO DA EXPOSIBRAM QUE PROMETE SER A MELHOR DAS EDIÇÕES DESDE O SEU LANÇAMENTO",
-   "summary": "Tecnologias voltadas à gestão inteligente de combustíveis e à transição energética estarão entre os destaques da Gilbarco Veeder-Root durante a EXPOSIBRAM 2026, que também marca a apresentação da nova bomba Latitude ao mercado brasileiro. CRESCE A EXPECTATIVA PELA REALIZAÇÃO DA EXPOSIBRAM QUE PROMETE SER A MELHOR DAS EDIÇÕES DESDE O SEU LANÇAMENTO. Desenvolvidas para atender aos desafios da mineração, as soluções ampliam o controle sobre o abastecimento, reduzem perdas e apoiam decisões mais",
+   "summary": "CRESCE A EXPECTATIVA PELA REALIZAÇÃO DA EXPOSIBRAM QUE PROMETE SER A MELHOR DAS EDIÇÕES DESDE O SEU LANÇAMENTO Tecnologias voltadas à gestão inteligente de combustíveis e à transição energética estarão entre os destaques da Gilbarco Veeder-Root durante a EXPOSIBRAM 2026, que também marca a apresentação da nova bomba Latitude ao mercado brasileiro. Nesse cenário, a Gilbarco Veeder-Root participa da EXPOSIBRAM 2026, que será realizada entre os dias 24 e 27 de agosto, no Expominas, em Belo Horizonte (MG). A participação da ArcelorMittal na Exposibram 2026 contará com a presença da Cerâmica USSU e do COSER, iniciativas apoiadas pela empresa que promovem qualificação, empreendedorismo e geração de renda para mulheres da comunidade de Pinheiros e região, em Itatiaiuçu (MG).",
    "detalhes": {
     "datas": [
-     "2026"
+     "2026",
+     "agosto"
     ]
    },
    "category": "Novas Tecnologias",
@@ -20868,7 +21513,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-21T18:00:12+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/cresce-a-expectativa-pela-realizacao-da-exposibram-que-promete-ser-a-melhor-das-edicoes-desde-o-seu-lancamento/"
     }
    ],
    "has_paid": false,
@@ -20878,10 +21523,15 @@
   {
    "id": "0a6c8a699e4c6219",
    "title": "A IPIRANGA RESGATA A MARCA DA TEXACO PARA POSTOS DE COMBUSTÍVEIS NO RIO DE JANEIRO. O PRIMEIRO TRAZ ATÉ O SABOR DO TEXAS",
-   "summary": "A IPIRANGA RESGATA A MARCA DA TEXACO PARA POSTOS DE COMBUSTÍVEIS NO RIO DE JANEIRO. A Ipiranga inaugurou nesta sexta-feira (21), o primeiro posto Texaco no Rio de Janeiro, em parceria com a Rede JB, revendedor exclusivo em uma área estratégica do estado. O PRIMEIRO TRAZ ATÉ O SABOR DO TEXAS.",
+   "summary": "A IPIRANGA RESGATA A MARCA DA TEXACO PARA POSTOS DE COMBUSTÍVEIS NO RIO DE JANEIRO. O PRIMEIRO TRAZ ATÉ O SABOR DO TEXAS A Ipiranga inaugurou nesta sexta-feira (21), o primeiro posto Texaco no Rio de Janeiro, em parceria com a Rede JB, revendedor exclusivo em uma área estratégica do estado. Com apenas 25% de etanol, sua formulação combina alta octanagem e a tecnologia de aditivos Techron, contribuindo para o melhor desempenho do veículo e a preservação do motor ao longo do tempo.",
    "detalhes": {
+    "percentual": [
+     "25%"
+    ],
     "datas": [
-     "JANEIRO"
+     "JANEIRO",
+     "outubro",
+     "agosto"
     ]
    },
    "category": "Operadoras e IOCs",
@@ -20900,7 +21550,7 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-08-21T16:00:09+00:00",
-     "link_real": null
+     "link_real": "https://petronoticias.com.br/a-ipiranga-resgata-a-marca-da-texaco-para-postos-de-combustiveis-no-rio-de-janeiro-o-primeiro-traz-ate-o-sabor-do-texas/"
     }
    ],
    "has_paid": false,
@@ -26952,253 +27602,6 @@
      "paid": false,
      "published": "2026-08-03T07:00:48+00:00",
      "link_real": "https://petronoticias.com.br/lula-diz-que-quer-forcas-armadas-preparadas-mas-corta-verbas-e-as-deixa-como-um-leao-sem-dentes-e-nao-ouve-reclamacoes/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "2c62d99320d32121",
-   "title": "Novos auxiliares do metrô trabalham quando as estações fecham, limpam em 40 minutos o que levava três horas e meia e cortam 965 litros de água por operação, enquanto o Brasil discute o fim da escala 6×1",
-   "summary": "- Mãe de 39 anos deixa a escola para criar o filho, enfrenta 21 anos sem estudar, faz o Enem três vezes e conquista uma vaga na UFPB; no primeiro dia de aula, o jovem que motivou sua renúncia a leva até a universidade e repete o beijo na testa que recebia quando era criança - Adolescente sudanês é preso e torturado durante a guerra, atravessa 6 países africanos durante 18 meses, vive nas ruas e chega sozinho à África do Sul com apenas 5 anos de escolaridade, mas retoma os estudos, entra em Medicina e transforma a própria fuga em uma carreira como médico pneumologista - Casal troca o aluguel pela restauração de um palácio italiano abandonado do século XVI e, depois de investir mais de US$ 750 mil, enfrenta 21,5 mil pés quadrados de cômodos deteriorados para devolver vida a uma construção erguida há quase 500 anos - Sem diploma e após passar até sete meses sem energia elétrica, mãe de dois filhos supera rejeições e conquista salário de seis dígitos como gerente Distribuídos entre Capão Redondo, Campo Limpo e Santa Cruz, os dois equipamentos foram organizados para atender áreas distintas, com um deles circulando pelas duas primeiras estações e o outro permanecendo dedicado a Santa Cruz, ponto de integração da rede metroviária paulistana. Novos auxiliares do metrô trabalham quando as estações fecham, limpam em 40 minutos o que levava três horas e meia e cortam 965 litros de água por operação, enquanto o Brasil discute o fim da escala 6×1. Robôs autônomos assumem parte da limpeza em três estações da Linha 5-Lilás, diminuem drasticamente o tempo de operação e reduzem o consumo de água, enquanto a experiência aproxima automação, produtividade, supervisão humana e o debate nacional sobre jornada de trabalho.",
-   "detalhes": {
-    "valores": [
-     "US$ 750 mi"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T16:43:18+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/novos-auxiliares-do-metro-trabalham-quando-as-estacoes-fecham-limpam-em-40-minutos-o-que-levava-tres-horas-e-meia-e-cortam-965-litros-de-agua-por-operacao-enquanto-o-brasil-discute-o-fi-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T16:43:18+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/novos-auxiliares-do-metro-trabalham-quando-as-estacoes-fecham-limpam-em-40-minutos-o-que-levava-tres-horas-e-meia-e-cortam-965-litros-de-agua-por-operacao-enquanto-o-brasil-discute-o-fi-afch/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "7abee45fa519801f",
-   "title": "Ela virou doméstica aos 12 anos para ter onde morar, retomou os estudos pela EJA, tentou o vestibular durante sete anos, formou-se em Letras na USP aos 43 e, em 2026, concluiu o doutorado na mesma universidade",
-   "summary": "Ela virou doméstica aos 12 anos para ter onde morar, retomou os estudos pela EJA, tentou o vestibular durante sete anos, formou-se em Letras na USP aos 43 e, em 2026, concluiu o doutorado na mesma universidade. Ao defender a tese na Faculdade de Filosofia, Letras e Ciências Humanas, em abril de 2026, Kátia encerrou uma etapa iniciada cinco anos antes e passou a integrar oficialmente a relação de egressos do Programa de Pós-Graduação em Literatura Brasileira. - Mãe de 39 anos deixa a escola para criar o filho, enfrenta 21 anos sem estudar, faz o Enem três vezes e conquista uma vaga na UFPB; no primeiro dia de aula, o jovem que motivou sua renúncia a leva até a universidade e repete o beijo na testa que recebia quando era criança - Adolescente sudanês é preso e torturado durante a guerra, atravessa 6 países africanos durante 18 meses, vive nas ruas e chega sozinho à África do Sul com apenas 5 anos de escolaridade, mas retoma os estudos, entra em Medicina e transforma a própria fuga em uma carreira como médico pneumologista - Novos auxiliares do metrô trabalham quando as estações fecham, limpam em 40 minutos o que levava três horas e meia e cortam 965 litros de água por operação, enquanto o Brasil discute o fim da escala 6×1 - Casal troca o aluguel pela restauração de um palácio italiano abandonado do século XVI e, depois de investir mais de US$ 750 mil, enfrenta 21,5 mil pés quadrados de cômodos deteriorados para devolver vida a uma construção erguida há quase 500 anos O doutorado ampliou uma trajetória acadêmica que já reunia graduação em Letras, iniciação científica, mestrado e experiência profissional como professora, sempre construída após um longo período de afastamento da escola e de trabalho iniciado ainda na infância.",
-   "detalhes": {
-    "valores": [
-     "US$ 750 mi"
-    ],
-    "datas": [
-     "2026",
-     "abril de 2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T16:24:33+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/ela-virou-domestica-aos-12-anos-para-ter-onde-morar-retomou-os-estudos-pela-eja-tentou-o-vestibular-durante-sete-anos-formou-se-em-letras-na-usp-aos-43-e-em-2026-concluiu-o-doutorado-na-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T16:24:33+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/ela-virou-domestica-aos-12-anos-para-ter-onde-morar-retomou-os-estudos-pela-eja-tentou-o-vestibular-durante-sete-anos-formou-se-em-letras-na-usp-aos-43-e-em-2026-concluiu-o-doutorado-na-afch"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "2c71bf57c3530002",
-   "title": "Toyota vende mais de 15 mil unidades do Yaris Cross em seis meses, mas qual versão lidera as ruas brasileiras, a híbrida de até 17,9 km/l ou a flex de 122 cv, enquanto o modelo eletrificado já conquista 40% dos compradores mesmo custando a partir de R$ 172.390",
-   "summary": "A Toyota registrou 15.633 emplacamentos do Yaris Cross até junho, seis meses após o lançamento, com 40% das vendas concentradas na versão híbrida de até 17,9 km/l, enquanto a configuração flex de 122 cv permanece mais barata e o SUV eletrificado parte de R$ 172.390 no mercado brasileiro nacional atual. Toyota vende mais de 15 mil unidades do Yaris Cross em seis meses, mas qual versão lidera as ruas brasileiras, a híbrida de até 17,9 km/l ou a flex de 122 cv, enquanto o modelo eletrificado já conquista 40% dos compradores mesmo custando a partir de R$ 172.390. - Ele custa cerca de R$ 62 mil, possui motor 1.5 i-VTEC de 116 cv, consumo de até 14,1 km/l e 363 litros de porta-malas, manutenção acessível e mecânica confiável; saiba se vale a pena comprar um Honda Fit LX 1.5 2015 usado - Ele custa cerca de R$ 53 mil, possui motor 1.0 SPE/4 de 80 cv, consumo de até 15,6 km/l e 289 litros de porta-malas, manutenção acessível e mecânica simples; saiba se vale a pena comprar um Chevrolet Onix Joy 1.0 2019 usado - Ele custa R$ 67.561 na Fipe, possui motor 1.6 flex de até 120 cv, câmbio automático de 6 marchas, central multimídia de 10 polegadas, porta-malas de 315 litros e controle de estabilidade de série; conheça o Citroën C3 Live Pack 1.6 AT 2024 - Carro elétrico ou a combustão: afinal, qual perde mais valor na revenda e qual é o melhor negócio em 2026?",
-   "detalhes": {
-    "valores": [
-     "R$ 172.390.",
-     "R$ 172.390",
-     "R$ 62 mi",
-     "R$ 53 mi",
-     "R$ 67.561",
-     "R$ 161.390"
-    ],
-    "percentual": [
-     "40%",
-     "60%",
-     "30%"
-    ],
-    "profundidade": [
-     "17,9 km",
-     "14,1 km",
-     "15,6 km",
-     "15,3 km"
-    ],
-    "datas": [
-     "junho",
-     "junho de 2026",
-     "agosto de 2026",
-     "2024",
-     "2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T16:13:13+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/toyota-vende-mais-de-15-mil-unidades-do-yaris-cross-em-seis-meses-mas-qual-versao-lidera-as-ruas-brasileiras-a-hibrida-de-ate-179-km-l-ou-a-flex-de-122-cv-enquanto-o-modelo-eletrificad-ctl01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T16:13:13+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/toyota-vende-mais-de-15-mil-unidades-do-yaris-cross-em-seis-meses-mas-qual-versao-lidera-as-ruas-brasileiras-a-hibrida-de-ate-179-km-l-ou-a-flex-de-122-cv-enquanto-o-modelo-eletrificad-ctl01/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "0992177269223cae",
-   "title": "Casal decidiu em 1956 fazer biscoito e no ano seguinte abriu uma pequena fábrica num prédio simples de Marília, no interior, com um forno de padaria a lenha assando biscoito Maria e água e sal, e hoje a empresa é a segunda maior fabricante de biscoitos do Brasil, produz 80 milhões de unidades por dia e faturou mais de 3 bilhões de reais",
-   "summary": "O produto ganhou notoriedade nas redes sociais, impulsionado por divulgação orgânica de perfis ligados à alimentação saudável, e chegou a registrar crescimento de 50% nas vendas em março de 2025 na comparação com o mesmo mês do ano anterior, conforme apuração de veículos especializados do setor. A Indústria de Biscoitos Marilan foi inaugurada em 31 de março de 1957, com produção de 300 quilos por hora. Sete décadas depois, o grupo reúne cinco unidades industriais, mais de 4.500 funcionários e presença em mais de 70% dos lares brasileiros, segundo a própria companhia.",
-   "detalhes": {
-    "valores": [
-     "US$ 750 mi"
-    ],
-    "percentual": [
-     "70%",
-     "50%",
-     "40%",
-     "160%"
-    ],
-    "profundidade": [
-     "67 mil metros"
-    ],
-    "datas": [
-     "março",
-     "março de 2025"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T14:36:37+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/casal-decidiu-em-1956-fazer-biscoito-e-no-ano-seguinte-abriu-uma-pequena-fabrica-num-predio-simples-de-marilia-no-interior-com-um-forno-de-padaria-a-lenha-assando-biscoito-maria-e-agu-mhbb01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T14:36:37+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/casal-decidiu-em-1956-fazer-biscoito-e-no-ano-seguinte-abriu-uma-pequena-fabrica-num-predio-simples-de-marilia-no-interior-com-um-forno-de-padaria-a-lenha-assando-biscoito-maria-e-agu-mhbb01/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "1b3b58a238ec84f5",
-   "title": "A promessa de piso liberado em duas horas engana muita gente na reforma, porque a massa autonivelante só libera o tráfego dos operários e colar o vinílico antes do prazo do fabricante pode dar mofo e descolamento",
-   "summary": "- Enquanto proprietários receberam apoio após os terremotos de 1999 na Turquia, inquilinos ficaram sem moradia permanente, criaram uma cooperativa, recorreram à Justiça e lutaram 15 anos até conquistar terreno para construir as próprias casas - Com água pelo pescoço e mochilas sobre a cabeça, estudantes de Eswatini atravessavam um rio para chegar à escola até moradores construírem ponte suspensa de 122 metros com pedreiros locais e 12 universitários - Na Escócia, escola para 60 estudantes com deficiências múltiplas transforma corredores curvos, paredes de cortiça, sons e jardins em um mapa sensorial que ajuda crianças e jovens a encontrar o caminho sem depender apenas de placas - Dono da megaloja Havan enterrou R$ 250 milhões numa obra que não é loja nenhuma, e R$ 150 milhões desse valor foram só para uma máquina instalada no litoral norte de Santa Catarina A função dele é outra e é bem delimitada: criar uma camada fina, de espessura milimétrica, sobre uma base já existente e já curada, corrigindo pequenas depressões, ranhuras e ondulações que comprometeriam o acabamento. A norma brasileira exige umidade residual de no máximo 2,5% no contrapiso antes de assentar piso vinílico, e é essa medição, não o relógio, que autoriza a colagem. A norma brasileira NBR 14917 estabelece umidade residual máxima de 2,5% no contrapiso para instalação de pisos vinílicos, parâmetro que precisa ser medido, e não estimado no olho.",
-   "detalhes": {
-    "valores": [
-     "R$ 250 milhões",
-     "R$ 150 milhões"
-    ],
-    "percentual": [
-     "2,5%"
-    ],
-    "profundidade": [
-     "122 metros"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T13:27:28+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/a-promessa-de-piso-liberado-em-duas-horas-engana-muita-gente-na-reforma-porque-a-massa-autonivelante-so-libera-o-trafego-dos-operarios-e-colar-o-vinilico-antes-do-prazo-btl96",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T13:27:28+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/a-promessa-de-piso-liberado-em-duas-horas-engana-muita-gente-na-reforma-porque-a-massa-autonivelante-so-libera-o-trafego-dos-operarios-e-colar-o-vinilico-antes-do-prazo-btl96/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "9d743584d63e317a",
-   "title": "Enfermeira torra R$ 70 mil erguendo um andar inteiro sobre a casa dos pais, mora lá quatro anos e depois de uma briga ouve que o imóvel será vendido, mas existe um artigo do Código Civil que muda tudo",
-   "summary": "- Motorista de aplicativo que toca na tela do celular para aceitar corrida com o carro em movimento leva infração gravíssima, sete pontos na CNH e multa de R$ 293,47 mesmo trabalhando - Ele foi exposto na frente de dezenas de parentes num falso chá revelação, processou a ex pedindo R$ 100 mil e agora a Justiça decidiu por unanimidade que ele não recebe nada e o vídeo continua no ar - Atualização da herança em 2026: mudança rejeitada por 70% em enquete ainda não virou lei, recebe novas emendas e mantém cônjuges como herdeiros necessários - Quem comprou imóvel com contrato e nunca conseguiu a escritura pode pedir indenização a qualquer tempo se a transferência ficou impossível, decidiu o STJ, porque essa cobrança não prescreve nunca O nome jurídico disso é acessão, e ela descreve tudo aquilo que se une ao imóvel de forma permanente. Enfermeira torra R$ 70 mil erguendo um andar inteiro sobre a casa dos pais, mora lá quatro anos e depois de uma briga ouve que o imóvel será vendido, mas existe um artigo do Código Civil que muda tudo. Ela tira R$ 70 mil da reserva de uma vida, toca quatorze meses de obra e ergue dois quartos, cozinha americana e banheiro completo.",
-   "detalhes": {
-    "valores": [
-     "R$ 70 mi",
-     "R$ 293,47",
-     "R$ 100 mi"
-    ],
-    "percentual": [
-     "70%"
-    ],
-    "datas": [
-     "2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-08-02T13:12:27+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/enfermeira-torra-r-70-mil-erguendo-um-andar-inteiro-sobre-a-casa-dos-pais-mora-la-quatro-anos-e-depois-de-uma-briga-ouve-que-o-imovel-sera-vendido-btl96",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-08-02T13:12:27+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/enfermeira-torra-r-70-mil-erguendo-um-andar-inteiro-sobre-a-casa-dos-pais-mora-la-quatro-anos-e-depois-de-uma-briga-ouve-que-o-imovel-sera-vendido-btl96/"
     }
    ],
    "has_paid": false,
