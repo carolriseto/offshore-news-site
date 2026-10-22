@@ -1,16 +1,16 @@
 {
  "meta": {
-  "gerado_em": "2026-10-21T18:30:22.962346+00:00",
-  "total_grupos": 776,
-  "total_noticias": 1764,
+  "gerado_em": "2026-10-22T18:21:26.624236+00:00",
+  "total_grupos": 781,
+  "total_noticias": 1781,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 776,
+  "total_grupos": 781,
   "por_categoria": {
-   "Operadoras e IOCs": 502,
+   "Operadoras e IOCs": 504,
    "Bids e Licitações": 64,
-   "Novas Tecnologias": 56,
+   "Novas Tecnologias": 59,
    "Prospectos e Investimentos": 47,
    "Contratos e Concorrentes": 33,
    "Perfuração e Poços": 14,
@@ -25,26 +25,20 @@
    "Brent e Commodities": 2
   },
   "com_fonte_paga": 0,
-  "alta_relevancia": 30
+  "alta_relevancia": 31
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
-    "atual": 22,
-    "anterior": 6,
-    "delta": 16
-   },
-   {
-    "topico": "Prio",
-    "atual": 4,
-    "anterior": 1,
+    "atual": 16,
+    "anterior": 13,
     "delta": 3
    },
    {
-    "topico": "Mero",
-    "atual": 2,
-    "anterior": 0,
+    "topico": "Lula",
+    "atual": 3,
+    "anterior": 1,
     "delta": 2
    },
    {
@@ -54,42 +48,30 @@
     "delta": 2
    },
    {
-    "topico": "Lula",
+    "topico": "Mero",
     "atual": 2,
-    "anterior": 1,
-    "delta": 1
+    "anterior": 0,
+    "delta": 2
    },
    {
     "topico": "Constellation",
     "atual": 2,
-    "anterior": 1,
-    "delta": 1
+    "anterior": 0,
+    "delta": 2
+   },
+   {
+    "topico": "Margem Equatorial",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
    }
   ],
   "baixa": [
    {
-    "topico": "Brava Energia",
-    "atual": 1,
-    "anterior": 2,
-    "delta": -1
-   },
-   {
     "topico": "Subsea7",
-    "atual": 1,
-    "anterior": 2,
-    "delta": -1
-   },
-   {
-    "topico": "Raia",
     "atual": 0,
-    "anterior": 1,
-    "delta": -1
-   },
-   {
-    "topico": "Seatrium",
-    "atual": 0,
-    "anterior": 1,
-    "delta": -1
+    "anterior": 3,
+    "delta": -3
    },
    {
     "topico": "TechnipFMC",
@@ -102,16 +84,27 @@
     "atual": 0,
     "anterior": 1,
     "delta": -1
+   },
+   {
+    "topico": "Seatrium",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
+   },
+   {
+    "topico": "Saipem",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
    }
   ]
  },
  "mercado": {
   "brent": {
-   "atual": 108.78,
+   "atual": 113.08,
    "moeda": "US$",
-   "variacao_pct": -0.01,
+   "variacao_pct": 3.91,
    "serie": [
-    100.34,
     99.25,
     103.08,
     106.6,
@@ -133,16 +126,16 @@
     109.86,
     109.55,
     108.79,
-    108.78
+    108.82,
+    113.08
    ],
    "fonte": "Yahoo"
   },
   "usd": {
-   "atual": 5.0233,
+   "atual": 5.049,
    "moeda": "R$",
-   "variacao_pct": -0.0,
+   "variacao_pct": 0.51,
    "serie": [
-    5.1247,
     5.1108,
     5.1566,
     5.1512,
@@ -171,16 +164,16 @@
     5.0828,
     5.0453,
     5.0235,
-    5.0233
+    5.0233,
+    5.049
    ],
    "fonte": "Frankfurter"
   },
   "eur": {
-   "atual": 5.6432,
+   "atual": 5.6574,
    "moeda": "R$",
-   "variacao_pct": 0.17,
+   "variacao_pct": 0.25,
    "serie": [
-    5.9528,
     5.9244,
     5.9564,
     5.944,
@@ -209,24 +202,25 @@
     5.7197,
     5.6633,
     5.6339,
-    5.6432
+    5.6432,
+    5.6574
    ],
    "fonte": "Frankfurter"
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n776 assuntos no radar, 30 de alta relevância. Tópicos em alta: Petrobras, Prio, Mero, Foz do Amazonas, Lula, Constellation. Em baixa: Brava Energia, Subsea7, Raia, Seatrium, TechnipFMC, Fugro.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (64 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (5 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (14 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (7 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 13 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n781 assuntos no radar, 31 de alta relevância. Tópicos em alta: Petrobras, Lula, Foz do Amazonas, Mero, Constellation, Margem Equatorial. Em baixa: Subsea7, TechnipFMC, Fugro, Seatrium, Saipem.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (3 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (64 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (5 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (14 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (7 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 13 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-10-21T18:30:25.072129+00:00"
+  "gerado_em": "2026-10-22T18:21:27.949764+00:00"
  },
  "companhias": [
   {
    "id": "petrobras",
    "nome": "Petrobras",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Petrobras — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: capex do plano estratégico vigente; meta de produção (mboe/d); cronograma de FPSOs (Búzios, Sépia, Sergipe Águas Profundas, Margem Equatorial); campanha na Foz do Amazonas; dividendos; descomissionamento na Bacia de Campos.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (SURF) VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS\n- (Bids e Licitações) BOSKALIS COMEMORA RESULTADO DA OPERAÇÃO DE TRANSPORTE DO FPSO CIDADE DE NITERÓI PELO OCEANO ATLÂNTICO RUMO À RECICLAGEM\n- (Operadoras e IOCs) SIEMENS ENERGY FORNECERÁ SISTEMAS DE GERAÇÃO E COMPRESSÃO PARA OS FPSOs P-81 E P-87\n- (Operadoras e IOCs) SLB VAI APROVEITAR A ROGe PARA COMEMORAR A MARCA DE 80 ANOS ATUANDO NO BRASIL\n- (SURF) OIL STATES CONQUISTA CONTRATO DE TRÊS ANOS COM A PETROBRÁS PARA SERVIÇOS SUBSEA\n- (Bids e Licitações) BAKER HUGHES SAI NA FRENTE EM LICITAÇÃO DA PETROBRÁS PARA CONTRATAR MEGA PACOTE DE 512 KM DE DUTOS FLEXÍVEIS\n- (Descobertas) Petrobras avalia tecnologia de separação subsea para desenvolver descoberta em Libra\n- (Operadoras e IOCs) Custo da Petrobras sobe desde 2023; pré-sal tem lifting cost de US$ 4,45\n- (Novas Tecnologias) PETROBRÁS CONTRATA A STROHM PARA FORNECIMENTO DE TUBOS COMPÓSITOS TERMOPLÁSTICOS\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Petrobras — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: capex do plano estratégico vigente; meta de produção (mboe/d); cronograma de FPSOs (Búzios, Sépia, Sergipe Águas Profundas, Margem Equatorial); campanha na Foz do Amazonas; dividendos; descomissionamento na Bacia de Campos.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (SURF) OCEÂNICA FECHA CONTRATO DE R$ 354 MILHÕES COM A PETROBRÁS PARA SERVIÇOS SUBMARINOS\n- (Perfuração e Poços) De uma sala em Macaé, piloto controla robô em sonda offshore: como funciona a operação remota testada no Brasil\n- (SURF) VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS\n- (Operadoras e IOCs) Barco sem ninguém a bordo passou 330 dias trabalhando no mar brasileiro, comandou robô submarino da costa e eliminou mais de 15 mil horas de exposição humana offshore\n- (Operadoras e IOCs) SBM OFFSHORE FIRMA ACORDO PARA QUALIFICAR FORNECEDORES LOCAIS DE SERGIPE PARA O SEAP\n- (Perfuração e Poços) A CONSTELLATION OBTÉM A CERTIFICAÇÃO EM TECNOLOGIA PIONEIRA AMPLIANDO A COOPERAÇÃO EM TECNOLOGIAS DE DESCARBONIZAÇÃO\n- (Bids e Licitações) Petrobras negocia FPSO de US$ 2,29 bilhões com a Yinson para ampliar operação em Albacora\n- (Projetos Futuros) Empresa mundial que constrói plataformas de petróleo, Seatrium reúne 71 anúncios de emprego no Brasil para auxiliares de produção, pintores, eletricistas, soldadores e técnicos em seus estaleiros\n- (Operadoras e IOCs) Subsea7 busca engenheiros e profissionais de Ciências Náuticas no Rio para dar suporte às operações offshore\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.191673+00:00",
+   "gerado_em": "2026-10-22T18:21:26.684627+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -234,9 +228,9 @@
    "id": "equinor",
    "nome": "Equinor",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Equinor — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: guidance de produção internacional; peso do Brasil no portfólio; Bacalhau (EPC → vida do campo); Raia (projeto plurianual, escopo SURF); Peregrino; Roncador.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (Operadoras e IOCs) BRAZIL ENERGY MEETING NORWAY LEVA AGENDA DO SETOR ENERGÉTICO BRASILEIRO À ONS\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n- (Operadoras e IOCs) EQUINOR CELEBRA 25 ANOS DE ATUAÇÃO NO BRASIL DURANTE A ROG.E 2026\n- (Operadoras e IOCs) Brasil está na direção certa com agenda de abertura do mercado de gás, diz VP da Equinor\n- (Novas Tecnologias) A RADIX LEVARA PARA A ROG.e A EXPERIÊNCIA INTERNACIONAL QUE A EMPRESA ADQUIRIU NOS ÚLTIMOS ANOS DE CRESCIMENTO\n- (Operadoras e IOCs) A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO\n- (Operadoras e IOCs) ROG 2026 JÁ CRIA A EXPECTATIVA NO MERCADO EM UMA EDIÇÃO QUE CONSOLIDA O CRESCIMENTO DE SUA IMPORTÂNCIA INTERNACIONAL\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Equinor — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: guidance de produção internacional; peso do Brasil no portfólio; Bacalhau (EPC → vida do campo); Raia (projeto plurianual, escopo SURF); Peregrino; Roncador.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Operadoras e IOCs) Subsea7 busca engenheiros e profissionais de Ciências Náuticas no Rio para dar suporte às operações offshore\n- (Operadoras e IOCs) A 2.735 metros de profundidade, Equinor instala no Brasil o gasoduto submarino mais profundo do mundo para levar gás de um projeto com mais de 1 bilhão de barris equivalentes\n- (Operadoras e IOCs) Petrobras, Prio e Equinor arrematam áreas no pré-sal em busca de sinergias com seus ativos\n- (Bids e Licitações) Brasil prepara seu primeiro leilão de gás natural da União e colocará 1,1 milhão de m³ por dia à disposição de siderúrgicas, químicas, fábricas de fertilizantes, vidro e cerâmica\n- (Contratos e Concorrentes) Plataforma offshore de 125 metros e capacidade para 560 pessoas tem contrato confirmado para operar no Brasil em 2027\n- (Novas Tecnologias) Tecnologia de empresa brasileira aparece em projeto de plataformas no mar capazes de alimentar data centers de inteligência artificial de até 1 gigawatt com gás natural offshore\n- (Operadoras e IOCs) Conheça o navio gigante de 96 metros da Bram Offshore que reboca estruturas, ancora plataformas de petróleo no Brasil e já operou com cargas de 120 toneladas\n- (Operadoras e IOCs) FPSO de Raia sai da Ásia em direção ao Brasil no primeiro semestre de 2027, diz diretor da Equinor\n- (Projetos Futuros) Petrobras desmontou parte do flare e do turret da P-35, o gigante com mais de 330 metros vai passar sob a Ponte Rio–Niterói e chegar a estaleiro Inhaúma, parado há cerca de 10 anos no Rio de Janeiro\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.276321+00:00",
+   "gerado_em": "2026-10-22T18:21:26.742598+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -244,9 +238,9 @@
    "id": "shell",
    "nome": "Shell",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Shell — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: capex upstream; operação/participações no pré-sal (Bacia de Santos); parcerias com Petrobras; disciplina de capital vs. produção.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (Perfuração e Poços) Shell compra 30% do prospecto Conifer no Golfo do México e 50% do Tupinambá no Brasil, enquanto BP mantém operação e mira novas perfurações offshore\n- (Operadoras e IOCs) Valor 1000: Menos carbono e foco no pré-sal: as prioridades da Shell para 2026\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n- (Novas Tecnologias) Estudantes brasileiros criam carro capaz de percorrer 556 km com um litro de gasolina\n- (Operadoras e IOCs) Valor 1000: Shell Brasil mantém primeira colocação em petróleo e gás e acelera expansão\n- (Operadoras e IOCs) UNIVERSITÁRIOS BRASILEIROS DOMINAM O SHELL-MARATHON E LEVAM TODOS OS PRÊMIOS INTERNACIONAIS\n- (Operadoras e IOCs) A SHELL ECO-MARATHON COMEMORA DEZ ANOS DE BRASIL COM UM SUCESSO QUE ATRAI IDÉIAS E ESTUDANTES INTERNACIONAIS\n- (Novas Tecnologias) A RADIX LEVARA PARA A ROG.e A EXPERIÊNCIA INTERNACIONAL QUE A EMPRESA ADQUIRIU NOS ÚLTIMOS ANOS DE CRESCIMENTO\n- (Operadoras e IOCs) A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Shell — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: capex upstream; operação/participações no pré-sal (Bacia de Santos); parcerias com Petrobras; disciplina de capital vs. produção.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Operadoras e IOCs) ANP aprova entrada da petroleira do Kuwait no projeto Orca, antigo Gato do Mato, no pré-sal de Santos, após acordo com a Shell, mas operação ainda depende de aval do governo\n- (Operadoras e IOCs) Petrobras pretende levar ao pré-sal um tubo sem aço que passou por 50 mil horas de testes para enfrentar um inimigo capaz de antecipar trocas de linhas submarinas e interromper a produção\n- (Novas Tecnologias) Petrobras e Shell concluem 50 mil horas de testes em tubo de fibra de carbono para o pré-sal, tecnologia anticorrosão que terá piloto em águas brasileiras em 2027\n- (Operadoras e IOCs) Valor 1000: Menos carbono e foco no pré-sal: as prioridades da Shell para 2026\n- (Operadoras e IOCs) Raízen avança em plano para separar usinas de etanol da rede Shell: pedido de listagem na B3 abre nova etapa da reestruturação com redução de capital proposta de até R$ 35 bilhões\n- (Operadoras e IOCs) A SHELL LANÇA UMA NOVA ASSINATURA QUE REPOSICIONARÁ A SUA MARCA EM TODO O BRASIL PELOS PRÓXIMOS ANOS\n- (Operadoras e IOCs) Shell mostra como disciplina e parcerias são essenciais para grandes projetos de petróleo no Brasil\n- (Opinião e Regulatório) A SHELL ENERGY VÊ INTEGRAÇÃO DO MERCADO DE GÁS DO CONE SUL COMO UMA OPORTUNIDADE\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.361120+00:00",
+   "gerado_em": "2026-10-22T18:21:26.799868+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -254,9 +248,9 @@
    "id": "totalenergies",
    "nome": "TotalEnergies",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** TotalEnergies — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: blocos operados no Brasil; participações no pré-sal; guidance de produção e investimentos.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (Operadoras e IOCs) SUCESSO DA GALP NO BRASIL ESTIMULA A PARTICIPAÇÃO DA PETROLÍFERA PORTUGUESA NA FEIRA DE PETRÓLEO NO RIO\n- (Operadoras e IOCs) Milei assinou decreto liberando 450 militares brasileiros, quatro embarcações, entre elas um submarino, em águas argentinas, dois dias depois de o Brasil rebaixar as relações diplomáticas com o país vizinho\n- (Bids e Licitações) PETROBRÁS INICIA LICITAÇÃO DE OBRAS PARA AUMENTAR PRODUÇÃO DE DIESEL DA REPAR\n- (Operadoras e IOCs) PRODUÇÃO DA BRAVA ENERGIA CAIU 1,1% NO MÊS DE AGOSTO\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n- (Operadoras e IOCs) Dona de 13 navios de GNL e duas FSRUs em operação no Brasil pode ser vendida por mais de US$ 3 bilhões e XRG, braço internacional da ADNOC, promete comprar até 50% e construir uma das maiores plataformas globais de gás e GNL\n- (Operadoras e IOCs) Acordo judicial de quase R$ 200 milhões beneficia 761 funcionários da Petrobras na Bahia e encerra uma disputa que se arrastava na Justiça do Trabalho\n- (Operadoras e IOCs) A SPIC BRASIL E A GE VERNOVA ACELERAM A MODERNIZAÇÃO DA USINA DE SÃO SIMÃO E CONCLUEM A TERCEIRA PARTE DO PROJETO EM TEMPO RECORDE\n- (Operadoras e IOCs) PETROBRÁS RECEBE MAIS R$ 2,6 BILHÕES EM SUBVENÇÕES AO DIESEL\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** TotalEnergies — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: blocos operados no Brasil; participações no pré-sal; guidance de produção e investimentos.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Contratos e Concorrentes) Petrobras avança em águas profundas, mas os navios usados nessas operações viram o centro de uma disputa: Brasil pode precisar de mais 40 embarcações até 2030 enquanto diárias offshore podem chegar a US$ 60 mil em cinco anos\n- (Operadoras e IOCs) ANP aprova entrada da petroleira do Kuwait no projeto Orca, antigo Gato do Mato, no pré-sal de Santos, após acordo com a Shell, mas operação ainda depende de aval do governo\n- (Operadoras e IOCs) 180 km sobre o mar sem piloto a bordo: Petrobras fez o primeiro voo civil de longo alcance do Brasil com aeronave remotamente pilotada, de Macaé até a plataforma P-51, em teste para transportar carga\n- (Operadoras e IOCs) Brava Energia reúne vagas offshore e onshore para técnicos, engenheiros, supervisores e áreas corporativas no RJ e RN\n- (Novas Tecnologias) VALLOUREC PREVÊ PRODUÇÃO DE NOVA TECNOLOGIA DE ISOLAMENTO NO BRASIL A PARTIR DE 2027 E MOSTRA INTERESSE EM ABRIR BASE NA REGIÃO NORTE\n- (Contratos e Concorrentes) ENTREVISTA DEVASTADORA DE ROBERTA LUSCHINGER MOSTRA CORRUPÇÃO NO GOVERNO COM ENVOLVIMENTO DE LULINHA NA PETROBRÁS E DO PRÓPRIO PRESIDENTE\n- (Novas Tecnologias) Tecnologia de empresa brasileira aparece em projeto de plataformas no mar capazes de alimentar data centers de inteligência artificial de até 1 gigawatt com gás natural offshore\n- (Operadoras e IOCs) Eólicas offshore no Ceará: 16 projetos e 36,2 GW esperam um decreto que ainda não saiu, e as obras podem começar só oito anos depois dele\n- (Novas Tecnologias) Tecnologia da Cladtek pode reduzir em até 80% o tempo de instalação de dutos no pré-sal ao substituir a soldagem no mar\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.447190+00:00",
+   "gerado_em": "2026-10-22T18:21:26.857714+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -274,9 +268,9 @@
    "id": "exxonmobil",
    "nome": "ExxonMobil",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** ExxonMobil — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: portfólio exploratório no Brasil (Bacia de Campos/Sergipe-Alagoas); operatorship em blocos; decisões de perfuração; parcerias.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n- (Operadoras e IOCs) EXXONMOBIL UTILIZA COMPUTADORES QUÂNTICOS DA IBM PARA SUPERAR DESAFIOS NA EXPLORAÇÃO DE PETRÓLEO E GÁS\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** ExxonMobil — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: portfólio exploratório no Brasil (Bacia de Campos/Sergipe-Alagoas); operatorship em blocos; decisões de perfuração; parcerias.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Novas Tecnologias) VALLOUREC PREVÊ PRODUÇÃO DE NOVA TECNOLOGIA DE ISOLAMENTO NO BRASIL A PARTIR DE 2027 E MOSTRA INTERESSE EM ABRIR BASE NA REGIÃO NORTE\n- (Resultados Trimestrais) Petrobras faz algo inédito, supera Saudi Aramco pela 1ª vez e transforma R$ 29 de cada R$ 100 faturados em lucro\n- (Prospectos e Investimentos) Brasil prepara fábrica experimental de baterias de íons de lítio, com investimento de R$ 68,6 milhões e produção prevista para 2027\n- (Novas Tecnologias) Maior nave espacial do mundo finalmente entra em órbita, dará seis voltas ao redor da Terra, passará sobre o Brasil e inaugura nova fase para a SpaceX\n- (Prospectos e Investimentos) Google Cloud anuncia plano de dobrar até 2030 a infraestrutura de computação que levou 9 anos para construir no Brasil, entre 2017 e 2026, com chegada de GPUs Nvidia Blackwell ao país, segundo o presidente para a América Latina, Eduardo López\n- (Operadoras e IOCs) Fim das bets no Brasil exige retirada de sites em outubro e prevê bloqueio de acesso por provedores após ordens à Anatel\n- (Operadoras e IOCs) Robôs industriais usados são reformados no Brasil e podem custar até 60% menos que novos enquanto fábricas aceleram busca por automação.\n- (Operadoras e IOCs) Brasil entra na primeira grande onda de calor da primavera com até 40 °C em seis estados, enquanto o Super El Niño bloqueia frentes frias e intensifica o calor\n- (Operadoras e IOCs) Huawei lança no país relógio de R$ 3.999 que infla uma bolsa de ar no pulso para medir a pressão arterial, e o Watch D3 chega com monitoramento de 24 horas\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.617151+00:00",
+   "gerado_em": "2026-10-22T18:21:26.970224+00:00",
    "com_release": false,
    "n_noticias": 11
   },
@@ -284,9 +278,9 @@
    "id": "prio",
    "nome": "Prio (PetroRio)",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Prio (PetroRio) — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: aquisições (Peregrino/Equinor); revitalização de campos maduros; produção e lifting cost; planos de desenvolvimento e interligações submarinas.\n\n## Notícias recentes\n- (FIDs e PADs) O SUCESSO INICIAL DA PRIMEIRA DESCOBERTA DE PETRÓLEO DA MARGEM EQUATORIAL TEM AS DIGITAIS DA PERSEVERANÇA DE TRÊS MULHERES DA PETROBRÁS\n- (Operadoras e IOCs) Valor 1000: Menos carbono e foco no pré-sal: as prioridades da Shell para 2026\n- (Operadoras e IOCs) Trabalhadores do petróleo cruzam os braços em Macaé e na Bacia de Campos após impasse na CCT 2026/2027; greve por tempo indeterminado alcança operações onshore e offshore e começa no aeroporto\n- (Operadoras e IOCs) PRODUÇÃO DA BRAVA ENERGIA CAIU 1,1% NO MÊS DE AGOSTO\n- (Operadoras e IOCs) Motorista é parado em blitz usando chinelo, acredita que tirar o calçado antes de continuar dirigindo daria na mesma e descobre detalhe do CTB ligado a multa de R$ 130,16 e 4 pontos\n- (Novas Tecnologias) PRIO DESTACA OPERAÇÃO DE WAHOO E INOVAÇÃO EM SUA AGENDA NA ROG.E 2026\n- (Operadoras e IOCs) PETR4 vs. petroleiras juniores: Qual a diferença entre investir na Petrobras, PRIO e Brava Energia?\n- (Operadoras e IOCs) Prio, Petrobras, Brava e PetroRecôncavo: 4 teses distintas\n- (Perfuração e Poços) Empresa encontra terras raras, nióbio, escândio, tântalo e urânio na Bahia após 10 mil metros de perfurações ampliarem depósito mineral\n- (Operadoras e IOCs) Ao perceber que o filho de 2 anos havia parado de respirar dentro do carro, pai corre até uma base da SP-300 com o menino desacordado nos braços e câmeras registram policiais reanimando a criança enquanto ele se ajoelha\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Prio (PetroRio) — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: aquisições (Peregrino/Equinor); revitalização de campos maduros; produção e lifting cost; planos de desenvolvimento e interligações submarinas.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Operadoras e IOCs) De jovem aprendiz a supervisor de ROV: Fugro reúne vagas offshore e onshore para diferentes níveis profissionais no Brasil\n- (Perfuração e Poços) Petrobras garante navio-sonda até 2030 em acordo que adiciona US$ 447 milhões à carteira da Valaris e concentra 25 das 35 sondas em perfuração offshore no Brasil\n- (Descomissionamento) MDL CONCLUI CAMPANHA DE DESCOMISSIONAMENTO DE SURF EM ÁGUAS PROFUNDAS DA BACIA DE CAMPOS\n- (Perfuração e Poços) Perbras reúne 19 anúncios de emprego para plataformistas, sondadores, mecânicos e operadores offshore, com oportunidades no Rio de Janeiro, Rio Grande do Norte, Ceará e Bahia\n- (Operadoras e IOCs) Petrobras, Prio e Equinor arrematam áreas no pré-sal em busca de sinergias com seus ativos\n- (Operadoras e IOCs) Valor 1000: Menos carbono e foco no pré-sal: as prioridades da Shell para 2026\n- (Contratos e Concorrentes) Plataforma offshore de 125 metros e capacidade para 560 pessoas tem contrato confirmado para operar no Brasil em 2027\n- (Contratos e Concorrentes) ENTREVISTA DEVASTADORA DE ROBERTA LUSCHINGER MOSTRA CORRUPÇÃO NO GOVERNO COM ENVOLVIMENTO DE LULINHA NA PETROBRÁS E DO PRÓPRIO PRESIDENTE\n- (Operadoras e IOCs) Conheça o navio gigante de 96 metros da Bram Offshore que reboca estruturas, ancora plataformas de petróleo no Brasil e já operou com cargas de 120 toneladas\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.703019+00:00",
+   "gerado_em": "2026-10-22T18:21:27.027841+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -294,9 +288,9 @@
    "id": "brava",
    "nome": "Brava Energia",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Brava Energia — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: integração 3R+Enauta; Papa-Terra, Atlanta (FPSO/subsea); metas de produção e capex; campanhas offshore.\n\n## Notícias recentes\n- (Operadoras e IOCs) SLB VAI APROVEITAR A ROGe PARA COMEMORAR A MARCA DE 80 ANOS ATUANDO NO BRASIL\n- (Contratos e Concorrentes) FLOATEL GARANTE NOVO CONTRATO PARA EMBARCAÇÃO DE ACOMODAÇÃO NO BRASIL\n- (Operadoras e IOCs) PRODUÇÃO DA BRAVA ENERGIA CAIU 1,1% NO MÊS DE AGOSTO\n- (Operadoras e IOCs) BRAVA ENERGIA LEVARÁ SEU MELHOR TIME PARA AS APRESENTAÇÕES DA ROGe 2026\n- (Operadoras e IOCs) PETR4 vs. petroleiras juniores: Qual a diferença entre investir na Petrobras, PRIO e Brava Energia?\n- (Operadoras e IOCs) Prio, Petrobras, Brava e PetroRecôncavo: 4 teses distintas\n- (Operadoras e IOCs) Brava perde espaço para Petrobras no radar do Goldman Sachs; ação pode cair 15%\n- (Operadoras e IOCs) PETROBRÁS, PETRORECONCAVO, BRAVA E ORIGEM RENOVAM ACORDOS PARA PROCESSAMENTO DE GÁS NA BAHIA\n- (Operadoras e IOCs) Aos 36 anos, Alexandre Pato transformou a fortuna construída após passar por gigantes como Milan, Corinthians e São Paulo em uma mansão de vidro de mais de 1.000 m² avaliada em cerca de R$ 15 milhões, onde vive com Rebeca Abravanel cercado por piscina de borda infinita, cinema privativo, academia e natureza em Alphaville\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Brava Energia — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: integração 3R+Enauta; Papa-Terra, Atlanta (FPSO/subsea); metas de produção e capex; campanhas offshore.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Bids e Licitações) Petrobras negocia FPSO de US$ 2,29 bilhões com a Yinson para ampliar operação em Albacora\n- (Operadoras e IOCs) Subsea7 busca engenheiros e profissionais de Ciências Náuticas no Rio para dar suporte às operações offshore\n- (Operadoras e IOCs) Multinacional DOF abre vaga para quem quer trabalhar embarcado em escala 28×28 como Oficial de Quarto de Convés em Macaé\n- (Novas Tecnologias) SLB abre vagas em Macaé para ensino médio, técnicos, engenheiros e aprendizes, com oportunidades offshore, trainee sem experiência em petróleo e programas PCD\n- (FIDs e PADs) Com mais de 6 trilhões de pés cúbicos de gás descobertos, Petrobras avalia avançar com projeto offshore bilionário\n- (Perfuração e Poços) Subsea Drilling abre vaga em Macaé para técnico atuar em sondas e operações offshore e terrestres pelo Brasil\n- (Operadoras e IOCs) BRAVA prepara dois novos poços em Papa-terra para entrar em produção ainda em 2026\n- (Operadoras e IOCs) Brava Energia reúne vagas offshore e onshore para técnicos, engenheiros, supervisores e áreas corporativas no RJ e RN\n- (Prospectos e Investimentos) R$ 60 bilhões, duas plataformas e 32 poços: megaprojeto da Petrobras avança em Sergipe, mas gasoduto bilionário fica em espera\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.789665+00:00",
+   "gerado_em": "2026-10-22T18:21:27.087834+00:00",
    "com_release": false,
    "n_noticias": 15
   },
@@ -304,9 +298,9 @@
    "id": "karoon",
    "nome": "Karoon Energy",
    "tipo": "operadora",
-   "texto": "**MEMORANDO**  \n**Assunto:** Karoon Energy — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: Baúna (revitalização, intervenções em poços); aquisições no Golfo do México/Brasil; capex e produção.\n\n## Notícias recentes\n- (Prospectos e Investimentos) Campos maduros reduzem declínio de 19% para 7% no Brasil e mostram que petróleo de áreas antigas ainda pode render por muitos anos\n- (Prospectos e Investimentos) A esperança dos campos maduros de petróleo ganharem novo ciclo de produção no Brasil: Brava Energia, PRIO, Karoon Energy e Trident Energy revelam na ROG.e 2026 como tecnologia, eficiência operacional, gestão ágil e novos investimentos consegue\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Karoon Energy — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nRastrear: Baúna (revitalização, intervenções em poços); aquisições no Golfo do México/Brasil; capex e produção.\n\n## Notícias recentes\n- (Bids e Licitações) NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA\n- (Prospectos e Investimentos) Campos maduros reduzem declínio de 19% para 7% no Brasil e mostram que petróleo de áreas antigas ainda pode render por muitos anos\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-22T17:59:13.701320+00:00",
+   "gerado_em": "2026-10-22T18:21:27.146316+00:00",
    "com_release": false,
    "n_noticias": 2
   },
@@ -314,9 +308,9 @@
    "id": "technipfmc",
    "nome": "TechnipFMC",
    "tipo": "competidor",
-   "texto": "**MEMORANDO**  \n**Assunto:** TechnipFMC — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nConcorrente subsea/EPCI. Rastrear: inbound/backlog; árvores de natal e equipamentos submarinos; contratos com Petrobras/IOCs; iEPCI e integração.\n\n## Notícias recentes\n- (Operadoras e IOCs) SLB VAI APROVEITAR A ROGe PARA COMEMORAR A MARCA DE 80 ANOS ATUANDO NO BRASIL\n- (Bids e Licitações) BAKER HUGHES SAI NA FRENTE EM LICITAÇÃO DA PETROBRÁS PARA CONTRATAR MEGA PACOTE DE 512 KM DE DUTOS FLEXÍVEIS\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** TechnipFMC — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nConcorrente subsea/EPCI. Rastrear: inbound/backlog; árvores de natal e equipamentos submarinos; contratos com Petrobras/IOCs; iEPCI e integração.\n\n## Notícias recentes\n- (SURF) OCEÂNICA FECHA CONTRATO DE R$ 354 MILHÕES COM A PETROBRÁS PARA SERVIÇOS SUBMARINOS\n- (Campanhas e Blocos) Multinacional Halliburton abre vagas no Brasil para trabalhar em Macaé, Mossoró e home office nas áreas de petróleo, offshore, manutenção e tecnologia\n- (Bids e Licitações) BAKER HUGHES SAI NA FRENTE EM LICITAÇÃO DA PETROBRÁS PARA CONTRATAR MEGA PACOTE DE 512 KM DE DUTOS FLEXÍVEIS\n- (Operadoras e IOCs) Light aparece com 500 oportunidades na plataforma da Firjan e mantém vagas para ensino médio, técnico, estágio, PCD e jovem aprendiz em diferentes áreas no Rio de Janeiro\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:24.957293+00:00",
+   "gerado_em": "2026-10-22T18:21:27.204837+00:00",
    "com_release": false,
    "n_noticias": 4
   },
@@ -364,9 +358,9 @@
    "id": "dof",
    "nome": "DOF (DOF Subsea)",
    "tipo": "competidor",
-   "texto": "**MEMORANDO**  \n**Assunto:** DOF (DOF Subsea) — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nConcorrente em serviços subsea/embarcações (PLSV, IMR). Rastrear: contratos com Petrobras; utilização e day-rates da frota; renovações/afretamentos.\n\n## Notícias recentes\n- (Novas Tecnologias) Tecnologia da Cladtek pode reduzir em até 80% o tempo de instalação de dutos no pré-sal ao substituir a soldagem no mar\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** DOF (DOF Subsea) — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nConcorrente em serviços subsea/embarcações (PLSV, IMR). Rastrear: contratos com Petrobras; utilização e day-rates da frota; renovações/afretamentos.\n\n## Notícias recentes\n- (Operadoras e IOCs) De jovem aprendiz a supervisor de ROV: Fugro reúne vagas offshore e onshore para diferentes níveis profissionais no Brasil\n- (Operadoras e IOCs) Multinacional DOF abre vaga para quem quer trabalhar embarcado em escala 28×28 como Oficial de Quarto de Convés em Macaé\n- (Operadoras e IOCs) OSM Thome abre vaga para Oficial Eletrotécnico em navio PSV offshore no Brasil\n- (Operadoras e IOCs) V.Ships Brasil abre vagas offshore para oficiais de Máquinas e Náutica com escalas 42×42 e 60×60\n- (Novas Tecnologias) Tecnologia da Cladtek pode reduzir em até 80% o tempo de instalação de dutos no pré-sal ao substituir a soldagem no mar\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-22T17:59:14.227411+00:00",
+   "gerado_em": "2026-10-22T18:21:27.492092+00:00",
    "com_release": false,
    "n_noticias": 5
   },
@@ -424,9 +418,9 @@
    "id": "modec",
    "nome": "MODEC",
    "tipo": "integrador_fpso",
-   "texto": "**MEMORANDO**  \n**Assunto:** MODEC — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador/integrador de FPSO com forte presença no Brasil (frota Petrobras). Rastrear: novos afretamentos e FPSOs em construção/entrega (Búzios, Sépia, Sergipe, etc.); primeiro óleo; atrasos de estaleiro. Cada FPSO novo abre janela de risers/umbilicais/flowlines e instalação submarina.\n\n## Notícias recentes\n- (Bids e Licitações) BOSKALIS COMEMORA RESULTADO DA OPERAÇÃO DE TRANSPORTE DO FPSO CIDADE DE NITERÓI PELO OCEANO ATLÂNTICO RUMO À RECICLAGEM\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** MODEC — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador/integrador de FPSO com forte presença no Brasil (frota Petrobras). Rastrear: novos afretamentos e FPSOs em construção/entrega (Búzios, Sépia, Sergipe, etc.); primeiro óleo; atrasos de estaleiro. Cada FPSO novo abre janela de risers/umbilicais/flowlines e instalação submarina.\n\n## Notícias recentes\n- (Operadoras e IOCs) Modec opera 27% do óleo nacional e mira integridade no pré-sal\n- (Novas Tecnologias) MODEC abre vaga híbrida no Rio para engenheiro de dados trabalhar com inteligência artificial em gigante que opera 14 unidades no Brasil\n- (Operadoras e IOCs) METROMINAS É UMA DAS VENCEDORAS DO PRÊMIO MELHORES FORNECEDORES PETROBRÁS 2026\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:25.891235+00:00",
+   "gerado_em": "2026-10-22T18:21:27.836367+00:00",
    "com_release": false,
    "n_noticias": 3
   },
@@ -434,9 +428,9 @@
    "id": "sbm",
    "nome": "SBM Offshore",
    "tipo": "integrador_fpso",
-   "texto": "**MEMORANDO**  \n**Assunto:** SBM Offshore — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador/integrador de FPSO líder no Brasil (Búzios, Sepetiba, Almirante Barroso). Rastrear: backlog e novos cascos Fast4Ward; cronograma de entrega e primeiro óleo; guidance de capex/Directional. Novo FPSO ⇒ demanda subsequente de SURF/subsea e embarcações de instalação.\n\n## Notícias recentes\n- (Operadoras e IOCs) SIEMENS ENERGY FORNECERÁ SISTEMAS DE GERAÇÃO E COMPRESSÃO PARA OS FPSOs P-81 E P-87\n- (Operadoras e IOCs) SLB VAI APROVEITAR A ROGe PARA COMEMORAR A MARCA DE 80 ANOS ATUANDO NO BRASIL\n- (Operadoras e IOCs) EXECUTIVOS DA SBM OFFSHORE ACOMPANHAM NA FÁBRICA SIEMENS ENERGY AS MONTAGENS DOS SISTEMAS DOS FPSOS PARA O PROJETO SEAP\n- (Operadoras e IOCs) PETROBRÁS DECIDE REAVALIAR GASODUTO DE SERGIPE ÁGUAS PROFUNDAS E CONSIDERA ALTERNATIVAS PARA EXPORTAÇÃO DE GÁS\n- (Operadoras e IOCs) A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO\n- (Operadoras e IOCs) ROG 2026 JÁ CRIA A EXPECTATIVA NO MERCADO EM UMA EDIÇÃO QUE CONSOLIDA O CRESCIMENTO DE SUA IMPORTÂNCIA INTERNACIONAL\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** SBM Offshore — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador/integrador de FPSO líder no Brasil (Búzios, Sepetiba, Almirante Barroso). Rastrear: backlog e novos cascos Fast4Ward; cronograma de entrega e primeiro óleo; guidance de capex/Directional. Novo FPSO ⇒ demanda subsequente de SURF/subsea e embarcações de instalação.\n\n## Notícias recentes\n- (SURF) VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS\n- (Operadoras e IOCs) SBM OFFSHORE FIRMA ACORDO PARA QUALIFICAR FORNECEDORES LOCAIS DE SERGIPE PARA O SEAP\n- (Operadoras e IOCs) EXECUTIVOS DA SBM OFFSHORE ACOMPANHAM NA FÁBRICA SIEMENS ENERGY AS MONTAGENS DOS SISTEMAS DOS FPSOS PARA O PROJETO SEAP\n- (Operadoras e IOCs) Multinacional DOF abre vaga para quem quer trabalhar embarcado em escala 28×28 como Oficial de Quarto de Convés em Macaé\n- (Operadoras e IOCs) SBM Offshore está com 12 vagas abertas no Brasil e procura profissionais para engenharia, manutenção offshore, instrumentação, construção, logística, TI e operações, com oportunidades concentradas no Rio de Janeiro e em Santos\n- (Operadoras e IOCs) V.Ships Brasil abre vagas offshore para oficiais de Máquinas e Náutica com escalas 42×42 e 60×60\n- (Projetos Futuros) Petrobras rejeita primeira proposta da SBM e exige que cinco a sete módulos de novos FPSOs sejam montados no Brasil, enquanto cascos ficarão com estaleiro na China e estatal avalia medidas administrativas se não houver acordo sobre a participação br\n- (Operadoras e IOCs) Maior refinaria da Petrobras acelera produção em 12,1% em 2026, chega a 17,4 milhões de m³ e fica perto de superar recorde histórico de 2013\n- (Operadoras e IOCs) A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:25.977229+00:00",
+   "gerado_em": "2026-10-22T18:21:27.892675+00:00",
    "com_release": false,
    "n_noticias": 9
   },
@@ -444,9 +438,9 @@
    "id": "yinson",
    "nome": "Yinson Production",
    "tipo": "integrador_fpso",
-   "texto": "**MEMORANDO**  \n**Assunto:** Yinson Production — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador de FPSO com entrada crescente no Brasil (FPSO Maria Quitéria/Jubarte; Atlanta na Bacia de Santos). Rastrear: novos afretamentos com Petrobras/independentes; cronograma e primeiro óleo; disponibilidade de cascos. Cada afretamento antecipa escopo de SURF/instalação submarina.\n\n## Notícias recentes\n- (Bids e Licitações) BOSKALIS COMEMORA RESULTADO DA OPERAÇÃO DE TRANSPORTE DO FPSO CIDADE DE NITERÓI PELO OCEANO ATLÂNTICO RUMO À RECICLAGEM\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
+   "texto": "**MEMORANDO**  \n**Assunto:** Yinson Production — leitura automática (IA não configurada)  \n**De:** Função de Inteligência de Mercado\n\n## O que rastrear (dossiê)\nArrendador de FPSO com entrada crescente no Brasil (FPSO Maria Quitéria/Jubarte; Atlanta na Bacia de Santos). Rastrear: novos afretamentos com Petrobras/independentes; cronograma e primeiro óleo; disponibilidade de cascos. Cada afretamento antecipa escopo de SURF/instalação submarina.\n\n## Notícias recentes\n- (Bids e Licitações) Petrobras negocia FPSO de US$ 2,29 bilhões com a Yinson para ampliar operação em Albacora\n- (Perfuração e Poços) Petrobras garante navio-sonda até 2030 em acordo que adiciona US$ 447 milhões à carteira da Valaris e concentra 25 das 35 sondas em perfuração offshore no Brasil\n- (Operadoras e IOCs) BRAVA prepara dois novos poços em Papa-terra para entrar em produção ainda em 2026\n- (Contratos e Concorrentes) Brasil lidera expansão da Miros na América do Sul, com contratos offshore de tecnologia para monitorar ondas, apoiar operações e detectar óleo\n- (Operadoras e IOCs) Se o Brasil produz tanto petróleo, por que pagamos tão caro pelos combustíveis?\n\n_Para o memorando completo (prometido × praticado, consequências e impacto na nossa estratégia), ligue a IA (Opus 4.8) e, se quiser, coloque o release na pasta releases/._",
    "fonte": "Automática por regras (IA não configurada)",
-   "gerado_em": "2026-09-21T19:07:26.062869+00:00",
+   "gerado_em": "2026-10-22T18:21:27.948843+00:00",
    "com_release": false,
    "n_noticias": 5
   }
@@ -470,45 +464,45 @@
  },
  "series": {
   "semanas": [
-   "02/09",
-   "09/09",
-   "16/09",
-   "23/09",
-   "30/09",
-   "07/10",
-   "14/10",
-   "21/10"
+   "03/09",
+   "10/09",
+   "17/09",
+   "24/09",
+   "01/10",
+   "08/10",
+   "15/10",
+   "22/10"
   ],
   "total": [
    0,
-   53,
-   98,
-   303,
-   220,
-   559,
-   345,
-   186
+   61,
+   157,
+   260,
+   228,
+   708,
+   201,
+   166
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    29,
-    66,
-    213,
-    133,
-    169,
-    116,
-    127
+    35,
+    123,
+    164,
+    139,
+    168,
+    118,
+    112
    ],
    "Bids e Licitações": [
     0,
-    2,
-    7,
-    10,
-    15,
-    172,
-    172,
-    7
+    3,
+    6,
+    11,
+    22,
+    308,
+    33,
+    6
    ],
    "Descobertas": [
     0,
@@ -516,45 +510,45 @@
     0,
     13,
     3,
-    134,
+    135,
     5,
     2
    ],
    "Perfuração e Poços": [
     0,
-    15,
-    5,
     18,
-    12,
+    2,
+    23,
     10,
-    3,
-    4
+    9,
+    4,
+    2
    ],
    "Campanhas e Blocos": [
     0,
     0,
-    2,
+    4,
     10,
-    2,
-    29,
-    18,
-    5
+    0,
+    39,
+    10,
+    3
    ],
    "Novas Tecnologias": [
     0,
-    2,
-    4,
-    15,
+    1,
+    5,
+    14,
     10,
-    9,
+    10,
     8,
-    14
+    17
    ]
   }
  },
  "grupos": [
   {
-   "id": "a12abca3c71059b4",
+   "id": "7ac5266f3c8500da",
    "title": "NOVA DESCOBERTA DE PETRÓLEO NA COSTA DO AMAPÁ COMPROVA POTENCIAL FANTÁSTICO DA REGIÃO E O TAMANHO DO ATRASO PROMOVIDO PELA EX-MINISTRA MARINA SILVA",
    "summary": "- Drone sai do Reino Unido, cruza fronteira marítima até a Noruega e percorre 290 milhas náuticas para inspecionar emissões de metano em plataforma offshore da Equinor - Águas profundas entram em nova fase com aquecimento de dutos até 90% eficiente, monitoramento sísmico permanente e retomada de projetos submarinos puxada por tie-backs e novos investimentos - Novo contrato da SLB OneSubsea mira produção em águas profundas com bombas submarinas acima de 15.000 psi, pressão que supera limites de soluções convencionais no Golfo da América - Grupo italiano conquista contrato de 5 anos em megaprojeto offshore de US$ 5,1 bilhões da Azule Energy em Angola, com produção prevista de 95 mil barris por dia O Campo de Mero é operado por um consórcio formado pela Petrobras, com participação de 38,6%; Shell Brasil e TotalEnergies, com 19,3% cada; CNPC e CNOOC, com 9,65% cada; e PPSA, com 3,5%. - Dois navios afundam perto do Estreito de Ormuz em poucas horas: GFS Pride e Cape Dao entram na lista de 113 incidentes confirmados pela OMI, e petróleo enfrenta nova ameaça - Caminhoneiros do Nordeste passam a ter mais diesel S-10 da Bahia: refinaria de Mataripe concluiu ampliação para 13.700 m³ por dia e chega a 25% a mais de capacidade em cinco anos - Quem trabalha embarcado no pré-sal viu Búzios passar de 1 milhão de barris por dia pelo segundo mês seguido, e a Petrobras chegou a 2,96 milhões de barris diários em setembro, segundo dados preliminares da ANP - Valaris e Transocean recebem aval do Cade para negócio que prevê empresa de US$ 17 bilhões e 73 plataformas offshore Equinor opera o campo ao lado de ExxonMobil, Petrogal e PPSA Bacalhau não é um projeto solitário. - Os cerca de 900 trabalhadores que vão ao mar todos os dias em Bacalhau fecham o primeiro ano no pré-sal com 25 milhões de barris tirados do campo operado pela Equinor, que ainda mira 220 mil barris por dia em 2026 - Dois navios afundam perto do Estreito de Ormuz em poucas horas: GFS Pride e Cape Dao entram na lista de 113 incidentes confirmados pela OMI, e petróleo enfrenta nova ameaça - Caminhoneiros do Nordeste passam a ter mais diesel S-10 da Bahia: refinaria de Mataripe concluiu ampliação para 13.700 m³ por dia e chega a 25% a mais de capacidade em cinco anos - Quem trabalha embarcado no pré-sal viu Búzios passar de 1 milhão de barris por dia pelo segundo mês seguido, e a Petrobras chegou a 2,96 milhões de barris diários em setembro, segundo dados preliminares da ANP Junto com os poços de petróleo, a empresa pediu licença para 30 linhas de surgência.",
    "detalhes": {
@@ -646,9 +640,17 @@
      "Ventura"
     ]
    },
-   "published": "2026-10-20T16:00:50+00:00",
-   "n_sources": 333,
+   "published": "2026-10-21T18:25:33+00:00",
+   "n_sources": 336,
    "sources": [
+    {
+     "name": "Agência iNFRA",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVdOZWgxSG1YTlN1MlFJWm1KRUFYUDFlZ0ppc2xxM1VlcUdIY1ZmUG8ydjNZdmFQQkFGT2ZBZzZYeEVtdDM4MmIyekEzZWpQWnRRMmU3elM5bV9Wbjh4SFJlT2U5Q293aHBDYzF6THdrSEY3NHBKZFNheTNYcEVEWXRVcEZDZFVydE91SWdxXzltb1VNb05rWThkWQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-21T18:25:33+00:00",
+     "link_real": null
+    },
     {
      "name": "Defesa em Foco",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZnc2d0wwM2w2cmVWaEdNa0h2MWhHR2tDUkNGUURabnBKQ0R5dGtiMWdJejA2LWl0cHpTa1dGYTJSY1g4RlJMWkNTMTFvY1lXQ0hkV0hHU3BXVVFSWXZiTHpWOHRjV2tQakc2aEdGdWRyUE11R0RPUkx5UTZlZWFwNlhWLVdCV3lnY1ZDdHh2Mi05elVmUEUzd05iVkpkNklpMHc?oc=5",
@@ -783,14 +785,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-19T11:58:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Agência iNFRA",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHdHMHBPUnl3cmRyeHU4Q29RRFFnNnhMREh3YnZxMjV1TmhpcDRmaV9MN1JFWXV2dWxlcmdUUzZ1TVQ3R3VNUXV4bHFDYWk4SkxCWFVsOW93WE1NU1RVbFFEalhYeHU5dkZpZHhicnJUQXdfWDBCNlhBMjhhMHhGMDRVMnBaUl92ODQtY1VUQ0N1UEo1WXZOcWsyQnhNcG16UmJN?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-19T11:46:00+00:00",
      "link_real": null
     },
     {
@@ -930,6 +924,14 @@
      "link_real": null
     },
     {
+     "name": "Agência iNFRA",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONHdHMHBPUnl3cmRyeHU4Q29RRFFnNnhMREh3YnZxMjV1TmhpcDRmaV9MN1JFWXV2dWxlcmdUUzZ1TVQ3R3VNUXV4bHFDYWk4SkxCWFVsOW93WE1NU1RVbFFEalhYeHU5dkZpZHhicnJUQXdfWDBCNlhBMjhhMHhGMDRVMnBaUl92ODQtY1VUQ0N1UEo1WXZOcWsyQnhNcG16UmJN?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-15T23:53:20+00:00",
+     "link_real": null
+    },
+    {
      "name": "Times Brasil | CNBC",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1NtV0h4Y0NyNFE3bUdtLWlSWUg1ek0tTEdwMTZsbXR6Y293SVZyTjBrak5mOTF3ZVcwRXdsQVNWekxOVjlpM0tiQ2xjX0lNblZ6S2tPaEpMNFhiclNaSGZjck9lZnB6V2k1UmpjaVVJMmhWVkxiUXRWa3BYZVM3SnE2M051VEM0MEVBdnZSWl9lQnJ3dk94czVMaE1vWW1jNE5ISlhucGxSNnp1eXg4elhmS1NXUC1IRUtiU1VuYUtUQQ?oc=5",
      "type": "aberta",
@@ -1050,14 +1052,6 @@
      "link_real": null
     },
     {
-     "name": "Guia do Investidor",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDNIWXhuVkVNUDFGQVFWcFNqYUpyMTk2UWNkZ2djZXRZaVBiQlMteVZvSE1fNXE3N0tmam1QODhBcHJrOTFZbElCeWQtTDNhX2RnallNUXVWWGZBMmVDblctS0ZiY1NzOUxtSTduOGNjc0taZDAxV29FRS13VjZWZGpaSVlIVWpvU2ltNTMwZTlCNUFuMnRYWFVmSVhJUTVsMjh0bWNQSU1aOExWa3ZRVXIxSGZPNzlxejBWRTBfNmtSd19pM1dxeQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-14T17:25:20+00:00",
-     "link_real": null
-    },
-    {
      "name": "CPG Click Petróleo e Gás",
      "link": "https://clickpetroleoegas.com.br/apos-descobertas-de-petroleo-na-margem-equatorial-governo-do-amapa-fecha-acordo-com-a-transpetro-e-avanca-para-atrair-base-logistica-da-petrobras-rpc95",
      "type": "aberta",
@@ -1090,6 +1084,14 @@
      "link_real": null
     },
     {
+     "name": "Guia do Investidor",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRDNIWXhuVkVNUDFGQVFWcFNqYUpyMTk2UWNkZ2djZXRZaVBiQlMteVZvSE1fNXE3N0tmam1QODhBcHJrOTFZbElCeWQtTDNhX2RnallNUXVWWGZBMmVDblctS0ZiY1NzOUxtSTduOGNjc0taZDAxV29FRS13VjZWZGpaSVlIVWpvU2ltNTMwZTlCNUFuMnRYWFVmSVhJUTVsMjh0bWNQSU1aOExWa3ZRVXIxSGZPNzlxejBWRTBfNmtSd19pM1dxeQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-14T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "UOL Economia",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVE1ZaWctLXFjMEY2bF8zME13YTZpR3cyNG1uOVAtR0xtSFJIdG5oQUsweGM1eDB2R05uaEVBVldrSXBZUUdvdktlallwRWF2TFZIbFZSbVdHZWtGZV9jSFlfczU4dG9adE9Oelh6cW1KMmVVU0hzYW1SUF9kSGFOSDZRczJqbjdpR2h3RkVwSzdDZThkcVZrS2lJc0I0Rl84SUJWRFZXbFZwYVEzeVBiNHlZZkxMUlBUczN1MVZMVTdIdWs?oc=5",
      "type": "aberta",
@@ -1111,14 +1113,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-13T22:16:34+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Brasil 247",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjI1R0VpNHp6ZWt1elNBNVpINVlKc25jS3gtVnZVLUpOZzV5VEFlT29FVDJhNEN5ZENGQ2ZNeW02eDMwMmdwWWFwbXpEdjh3bHV2SHRMTEJNak1Qdl9VRjNCaFNDX0V0RS05UlBsTzhWa3c2QjVRUi1XdkpnbEhxenNXRGpOdEkyOThZMnlndGh0Um45OThKbTBmNWxGMlZzNWZCb1lXNjZzZEJka0ZVUTU5MExxekJWZUZIblYySnNQNTQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-13T21:42:00+00:00",
      "link_real": null
     },
     {
@@ -1163,7 +1157,7 @@
     },
     {
      "name": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VpZmR6WVFkNVQwM0FkWnJ1STlWZFhIVDJrOUxmWEU3STBCTnFCUUdTazdEcDN2eGNYV3hTaXJVa0VNU25Zd2FxcDMtQkZBRkFwb2hkR2F5U0x6NmZTNmc4YVkxYkxvUXRoNURic1N3VFQ3ZmE5NlozZzhCUjNhQmVIU2xTUl9ZaWJJWTk1SXdWaDU5YlEtR2lEeGdwQktiQl83VnhtNzI2bVU1OUMzSC1YMTR3WUt6TzN4RE1HcDRUSUpsTm9xVtIBzgFBVV95cUxPT1hDTVNHclRUa296aWFXMWxCX0MxT2Y4MFNhejRtWk5na29IRVJVRnNMMVdZSmJ5YlM3dWUzMVJVbHJ5bl9TcE4yeG5MaVZ3eVh5N3NBVVJFWmpnYWJORV9EMVpMXzlxa0dWY0VsUVptYlZzSi1BOXJRZGMyYjR3dFBIb1RoajBjZTFQcHQ2ZWYtQkRzU3FBQmxDVEphbEZLWS1VNC0wckNKTXFpTWVXTUE2d1kwQ1NGMnZjM0lYMWdraEVHTE5ZclhmakhKUQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VpZmR6WVFkNVQwM0FkWnJ1STlWZFhIVDJrOUxmWEU3STBCTnFCUUdTazdEcDN2eGNYV3hTaXJVa0VNU25Zd2FxcDMtQkZBRkFwb2hkR2F5U0x6NmZTNmc4YVkxYkxvUXRoNURic1N3VFQ3ZmE5NlozZzhCUjNhQmVIU2xTUl9ZaWJJWTk1SXdWaDU5YlEtR2lEeGdwQktiQl83VnhtNzI2bVU1OUMzSC1YMTR3WUt6TzN4RE1HcDRUSUpsTm9xVg?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-13T08:30:00+00:00",
@@ -1171,10 +1165,18 @@
     },
     {
      "name": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VpZmR6WVFkNVQwM0FkWnJ1STlWZFhIVDJrOUxmWEU3STBCTnFCUUdTazdEcDN2eGNYV3hTaXJVa0VNU25Zd2FxcDMtQkZBRkFwb2hkR2F5U0x6NmZTNmc4YVkxYkxvUXRoNURic1N3VFQ3ZmE5NlozZzhCUjNhQmVIU2xTUl9ZaWJJWTk1SXdWaDU5YlEtR2lEeGdwQktiQl83VnhtNzI2bVU1OUMzSC1YMTR3WUt6TzN4RE1HcDRUSUpsTm9xVg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb0VpZmR6WVFkNVQwM0FkWnJ1STlWZFhIVDJrOUxmWEU3STBCTnFCUUdTazdEcDN2eGNYV3hTaXJVa0VNU25Zd2FxcDMtQkZBRkFwb2hkR2F5U0x6NmZTNmc4YVkxYkxvUXRoNURic1N3VFQ3ZmE5NlozZzhCUjNhQmVIU2xTUl9ZaWJJWTk1SXdWaDU5YlEtR2lEeGdwQktiQl83VnhtNzI2bVU1OUMzSC1YMTR3WUt6TzN4RE1HcDRUSUpsTm9xVtIBzgFBVV95cUxPT1hDTVNHclRUa296aWFXMWxCX0MxT2Y4MFNhejRtWk5na29IRVJVRnNMMVdZSmJ5YlM3dWUzMVJVbHJ5bl9TcE4yeG5MaVZ3eVh5N3NBVVJFWmpnYWJORV9EMVpMXzlxa0dWY0VsUVptYlZzSi1BOXJRZGMyYjR3dFBIb1RoajBjZTFQcHQ2ZWYtQkRzU3FBQmxDVEphbEZLWS1VNC0wckNKTXFpTWVXTUE2d1kwQ1NGMnZjM0lYMWdraEVHTE5ZclhmakhKUQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-10-13T08:30:00+00:00",
+     "published": "2026-10-13T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjI1R0VpNHp6ZWt1elNBNVpINVlKc25jS3gtVnZVLUpOZzV5VEFlT29FVDJhNEN5ZENGQ2ZNeW02eDMwMmdwWWFwbXpEdjh3bHV2SHRMTEJNak1Qdl9VRjNCaFNDX0V0RS05UlBsTzhWa3c2QjVRUi1XdkpnbEhxenNXRGpOdEkyOThZMnlndGh0Um45OThKbTBmNWxGMlZzNWZCb1lXNjZzZEJka0ZVUTU5MExxekJWZUZIblYySnNQNTQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-13T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -1198,7 +1200,7 @@
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEczbjBod0l6b0U0NjU2SnFpVEo5UWhQYWx2NUdWOHoxZEUtUVpDZGhiNUI2TmhlUVpTMjA0UUZlbVc3V3pvazd4R1ZnNnZqeTdEUDFfVFoxZ0dmQnFLd08yc0JNdURqczZVNGFDZU1mMjJ4RHdTVEgxbkI0M08zb2RkQjNtVUVYRTBZeTUzWTA4NVZ6ai1iQ1FxWUJuVjhKTDM4YWprVnNPQzI1Q1hhNEN0UTBtTW45RXRR0gHAAUFVX3lxTE03bC15V1hReWxvd21rQVVETFkwOVNNRDdmd0lWRkRRUktxVFJOWXFoeFBUX0V2Yl81a3NxbWw2WGVVRklsaU42WWxWZ3BvcTVWWGpXQzloRllIQWFKdm1mTTU3cndNNU9oSzJVdTBnZUc2SXpEX29YSEZsaGZPcHRzU2paTGNrLU44R2MxNmpTa21MM1VnWm0zV1lGNTYzX0lkM2tWeTJIWllqelhuSE9lOEYtazVFNW1IbXU0cnM3eQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-10-12T07:40:00+00:00",
+     "published": "2026-10-12T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -1346,7 +1348,7 @@
      "link_real": null
     },
     {
-     "name": "Agência eixos",
+     "name": "eixos",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnc3bk5uQ1dHQktUSjdFc3dTbkRXazVlclFUb0lnXzFkZmItYXR6amFvU0c2UU9EWU1VS1p5RnpMTnZ6aTQ1aHNxNERxVElvdWRqd0hDLVo4NUN2dnlGUFkwMkp6bGRiNXRwbVpDWmFDLThZMUxjNFdRS0Z3YXlnV3Z1LTROLWpkclByNDcybHlta2pfem9BeVk2bFpTZVFOeEk0SmhIOWJmOEk?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1386,7 +1388,7 @@
      "link_real": null
     },
     {
-     "name": "www.correiodamanha.com.br",
+     "name": "correiodamanha.com.br",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHBTclhWVk1iazhxNl9yTTVLQURhRm1DRWJvb2M4WDg5YmFpRzhhZ0c0TEV1M19IRkxfaGdRS1NvZ1VxUUJDV29fOGNrOHBwcEdpRTR0d0ZJZjFoR2RqV1pGVW5XblJnV3UzMnFIM1kzSDl0YzdQeE5EeVlRbWFQQjJONWI2dG1ZZUdOOElUZE9zcVRScEY1TEVxNE9DTk9mNTE0cksyT20zLWNXaEMzOFhIaWwyMWc4blFfbHRLYkwzN19Bbm9GRzhWNTh0R0ZxQ3ZKSk9DNmU?oc=5",
      "type": "aberta",
      "paid": false,
@@ -1482,14 +1484,6 @@
      "link_real": "https://clickpetroleoegas.com.br/equinor-arremata-dois-blocos-no-pre-sal-da-bacia-de-santos-e-fecha-parceria-com-a-galp-em-rodocrosita-rmrm97"
     },
     {
-     "name": "Safra",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUlieHJhdUJuMEwzTVFuVzFuSWE2V01kN0U1UnYzT2t4dGgyQUpDaFRnUWZPV2VCNzZaQURGXzRFLTJUd1FaSmxES28tSVVlVnJGZWlhWUZ1MWJxNXVCcEYtV0t2aFdyM09lTm5tZUNyN2RjOVByLVpzMEp4aTVjQTQ0S2xCS1ZOcWZONw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-08T15:51:25+00:00",
-     "link_real": null
-    },
-    {
      "name": "Observatório do Clima",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkM5VXl3VjVqS0drOURrYnpYTEo2UEFQSzFfTWhrSlQ5d0VzRnhNcHNGR24xSk1rN0swT1Jmc0w4bEhnMkx5QXpEcUo4TlhVT2Y5SVhEMDM2enpiS0lSeGlia3V4MGdZYk5pSWRvYjBjZnRHRGFiMjVDTDRhVDEwZTdSLVZFZDBhRjRVUTJ4OGpEdlZwbXZPY3FB?oc=5",
      "type": "aberta",
@@ -1578,14 +1572,6 @@
      "link_real": null
     },
     {
-     "name": "Times Brasil | CNBC",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRSZi1DNm5ubF9wNml2TGlDc2lEeGl3LWtBbFk4am9tNGJQY1FQVjBuTjAtZ2tZdlZSZkpsVk5haW5XRkhUSGo2bVpBcWtzbTdvMDJVMXB5MXBsVEh3NElsNmJCVU5ubzcycFU5eVNDT0QwbHFUdnRVRFpxbkd1Mml0M29xZw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-08T13:44:00+00:00",
-     "link_real": null
-    },
-    {
      "name": "Balada IN",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbHhkZU9HTnVEZ2ZCcmNadHpKY2g2WkI0QldqY0VucUFualdra0ZRMjJEWThFR0lfZ0xVR2drLWRRdTZIcDFDaGFBQjY1STJRcTdzQWhmWXVMQkpYeWVjdmp1azV2UXh0ZmN6ZDdYNERyODgwRnJiS2duQ1pvbUJPUHBDRFo2QXRZc2VCWUJCMjlYTEFRQm5wQXNYMURGQQ?oc=5",
      "type": "aberta",
@@ -1647,14 +1633,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-08T10:36:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Vero Notícias",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGd3aVNYSGR6NTB2MjdCLUVwaUZMNFBFTmFrbEdKRk1uZGUwYkh2M01MZ3kxSEFNaXpROU9vaXBhek5jUjVpU1lGRUFDUEhzMDRuV0ZzZjd4MUdBa3daMk90TTQ5WW1nR2ZHcGp1T25kOHA2Qnpwb0hja2ZvcDNCUENvQmNWRzIwZ2N3N0UySzZtSjV4VkFXM0RXUQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-08T10:34:36+00:00",
      "link_real": null
     },
     {
@@ -1730,6 +1708,14 @@
      "link_real": null
     },
     {
+     "name": "Safra",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUlieHJhdUJuMEwzTVFuVzFuSWE2V01kN0U1UnYzT2t4dGgyQUpDaFRnUWZPV2VCNzZaQURGXzRFLTJUd1FaSmxES28tSVVlVnJGZWlhWUZ1MWJxNXVCcEYtV0t2aFdyM09lTm5tZUNyN2RjOVByLVpzMEp4aTVjQTQ0S2xCS1ZOcWZONw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "Acia Araçatuba",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZSDlHZFFmSFNORG9VdWViQnBVUkFaOXBKbWR1VTFMTURuZnVDc0k0Z1hreWpqbzItSDg2M2wybDNzU3RTYmVveTZGSlMzQnVfdHdIdjlPU0tsRG5rNGxaa0RfeFhnVElhNW1FNVNUdjd5YTlIRFhyd2FidGw?oc=5",
      "type": "aberta",
@@ -1746,8 +1732,24 @@
      "link_real": null
     },
     {
+     "name": "Acia Araçatuba",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dEZGltOXd0bnFMYk5UUWw4Y0xlX0djckdhRWRVTWNjemFqdFdnME1nZl9ZdzZ0LTFZM0ptbHNDMWxKQm53VnNtLThBNkhYSTdvUnVvbTVZSUp4Y1VHQ2xobVdHdzJ2dTVqaXZIUDZXX3ZjYkpqejJjQnhxRDllemhEYw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "URB News",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMll5MjR1MzZFZGE0S0tmZjNvSHFwTVl0RkJqcDBIV1FzUDJnT19JWlM4ZHhHRTJJaG9xZGxNRFJ0WmhTcW1kazRWMmY5cUtySDk4SERWOHBzNUs5RXZxOFdSUnRTQ3pnYm9aX3owSEhiUFVhb0puOHFOd1E5Ti01QVYwLTZyNUVwUlFfdEpENUlrZV9iRU9uYmpvRVpjQ3E4RU5SSUd3c0dPNlYycWc?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Times Brasil | CNBC",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmRSZi1DNm5ubF9wNml2TGlDc2lEeGl3LWtBbFk4am9tNGJQY1FQVjBuTjAtZ2tZdlZSZkpsVk5haW5XRkhUSGo2bVpBcWtzbTdvMDJVMXB5MXBsVEh3NElsNmJCVU5ubzcycFU5eVNDT0QwbHFUdnRVRFpxbkd1Mml0M29xZw?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-08T07:00:00+00:00",
@@ -1826,6 +1828,14 @@
      "link_real": null
     },
     {
+     "name": "Vero Notícias",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGd3aVNYSGR6NTB2MjdCLUVwaUZMNFBFTmFrbEdKRk1uZGUwYkh2M01MZ3kxSEFNaXpROU9vaXBhek5jUjVpU1lGRUFDUEhzMDRuV0ZzZjd4MUdBa3daMk90TTQ5WW1nR2ZHcGp1T25kOHA2Qnpwb0hja2ZvcDNCUENvQmNWRzIwZ2N3N0UySzZtSjV4VkFXM0RXUQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "J3News",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNVpuaU5fc0tuWU9VVlB0TGdQMXlpUEh4NmE5R1NScEN0SkJRcERsZExNQ2tJMGl4Y2Y4TWlzREtIeEljaXhwQnNsYlJJa0dWbjFlN2ljblpveFoxWjdza2xvTHIxdGxOXzNTaWlFVDBjMERyQWRDSUdscEhsNTBjTGZxMnA0RzlEU1lXTlF3cXVIMGZjNnFoVmx2T0YyczV6?oc=5",
      "type": "aberta",
@@ -1868,6 +1878,14 @@
     {
      "name": "Valor Econômico",
      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWHFNMU5nR05vNUJweU5oUWxDa3EyOUJfNk5waXlrT3ZiMUFSWUNFVTlzUVBZNE9KNXhMT3lNdFl4bV9vb0RXUlh6VHpaWG15M3VMOHpnVmV0MWg4UFYtYmo4RERSZVZBTEJMaGpBVDNubTdCekdKbGU2akNZUjlnZHR1Q1I2SktFSmNDRVJNQXlHYWhIWHJlM2owZmRjNHZlcEphZkR2djlfa3Z4dXkzQmxYbTlzWk5NQzdUMk9GOHdJUzgtX181dkxlRmp5Z0FySWNaYU5FOUFFRDFWbTd5YVluTkRNNUIwcWY2bzRrbnlqYUswVC1WeTBTd9IBigJBVV95cUxQdThNWmhiVVcybjlEejlQaGYtQmszODg3R0tXWVVvTXhqQzhOdUY0dS1abERiR3FoWkxPT1c4WG11N2VhLU9tM2Q1b3l6TzlUaUk1aHNEemE5NEhoc2hGYno4NS1NUWxUZHRhdEItSXdKcG1yUmNxS0lkd0lWMjA5QUpQbnUwQVhoTlVLTl90Q2cxV2RHc3VmSzR3LVk2UGFwQ0lfRFZKd1dobk5GQlhoNk80ZE9QZ0xHWXQ1SmEwY3B6ZVJ3Wlp2ZGlRTV93VE9yYUxQcGJmcWJ5M2xFOUdqN09kVzFzckROV082RjlET0VXSkx4NWZ2NUpSWDh0WFMyMkdfZUhVeTN4QQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Notícias ao Minuto Brasil",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkFfSnhkRlMwZ2ZxUFpUZnp3NDNhMnFZRXJKLVVkZ096ZU1CdXdZLXU2eV9OVnQwMmo2dkoyRDZwal9qZ0p3QmZtOUpvUS1LY0gxckZIR3lQaGNUVVpfN3ZIdzUtWlNsZkNGdDVhYmxlVGdXUlBKYUdVUTJ4bDc1R3FHR0gwdThhWEJocFVBWmdUTklxZHhGWkdKRWtXc2doNC1BRW52aHpiNWJzUUhNUEtGOFFFWmM?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-08T07:00:00+00:00",
@@ -1930,27 +1948,11 @@
      "link_real": null
     },
     {
-     "name": "Notícias ao Minuto Brasil",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkFfSnhkRlMwZ2ZxUFpUZnp3NDNhMnFZRXJKLVVkZ096ZU1CdXdZLXU2eV9OVnQwMmo2dkoyRDZwal9qZ0p3QmZtOUpvUS1LY0gxckZIR3lQaGNUVVpfN3ZIdzUtWlNsZkNGdDVhYmxlVGdXUlBKYUdVUTJ4bDc1R3FHR0gwdThhWEJocFVBWmdUTklxZHhGWkdKRWtXc2doNC1BRW52aHpiNWJzUUhNUEtGOFFFWmM?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-08T06:25:44+00:00",
-     "link_real": null
-    },
-    {
      "name": "Gazeta News Guarulhos",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNodkJyN08tbGdieEJVRzY4Zl9ab2ZJU2wwVVlTUkhPM0hHZ2xDUjBtb3Q4SDczX2FfNWdoal9XNnNzc1gzNHNDbkN5dkhBQU1OMWFLcFF3UXRjLXA5aWR5cDd4cGp4Qnd1aUZvcExzajhWSlp6U2ZKNzRlNHRBME0wSUJSWkJ5ZWd6VWo5VHlpNFpzZ0U0WQ?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-08T05:05:50+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Acia Araçatuba",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dEZGltOXd0bnFMYk5UUWw4Y0xlX0djckdhRWRVTWNjemFqdFdnME1nZl9ZdzZ0LTFZM0ptbHNDMWxKQm53VnNtLThBNkhYSTdvUnVvbTVZSUp4Y1VHQ2xobVdHdzJ2dTVqaXZIUDZXX3ZjYkpqejJjQnhxRDllemhEYw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-08T05:03:37+00:00",
      "link_real": null
     },
     {
@@ -2194,6 +2196,14 @@
      "link_real": null
     },
     {
+     "name": "novarejo",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGVUdFNBR0RycFlKc25tTHd4WGVjVHBMTkRPbHdvemlNcmRqX0N3dEJOLTFhcWZLelMwMEQ4ajFMaG9kSWM3OWdlSVBUbU5GVHFxd1RRdlhVa0Q2c25UMUNyZmtVcTJ2WF9aaUJpVVdkc2l4dXlBNnlSMGxqYXNNQzFzNHQtSmp0YkktalNqV1hHemFQRXROTzJiQy1iN04wcEd4Xw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T01:05:02+00:00",
+     "link_real": null
+    },
+    {
      "name": "Metrô News Jornal",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWROVG5wV3FUNUp4MWZiUDJ5RXVwVDdDNTNVTklnMmhSME43c3c0R2s3TXBPVlBuQWtRNHYzd2hZc2ZTQ3FfVi1mWGNnZk1LZzBzUW5UQjF4RnR0SnJzVFpqRjJoX1kwQU5oMkhUMU10OExkRjBEZzNLYnRWbldVM0s1aXRoRVpMY1R2VjFIaw?oc=5",
      "type": "aberta",
@@ -2290,19 +2300,19 @@
      "link_real": null
     },
     {
+     "name": "TV Sim Brasil",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWR1bWlNX0RkcXNOZDhrSGxmSUxYUzhpNEtsZlAtMTQ0SzBBTE9XeFdWT1hVTFZ5TnhfUjV5bElUX3hfbG9LbWk0Um1aT2daaVk5anpDS3QwZnExaUJqaUNQYUdNUXEySGp6VDRqTW1lQXFuUTdCelNsOV9DNWtveWx2Z1JYT1RJXy1xbF9TNlhMQlRMdkZvOHFIckpCTHdTejFTbDRTRl9tYkpES05B?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T23:14:41+00:00",
+     "link_real": null
+    },
+    {
      "name": "CPG Click Petróleo e Gás",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTk1QRl9YZWhJcHIyTUJNMkxzLWs2QzdCQ3ZXcGo4V2xPTFZkTjY3SDV4WGtPajFUM1VKeVFFcE12SUlqUlcwQm5xMzBGYjJ4MHI0bzhIcE5rZUhZTFhvcHlvMzh3YUlVaGNzb0xhZ29oYjJTaEJWM29nZDJQa0MtM1pSd2NBX3V2WlNLMGlHc2szV3FkOHN2VVVTUm4wSG44WlNBQ0JFZ2E2N0pqU3BWRmxnQXJXSUI3SFF4blBCTmV5MGc?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-07T23:04:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZTZvZDVMX0JBZE1kUjZYdzhMaXhLcEtya3kyWnpaN0M1Y1lsM0dMWUZlRWlwTksyd0FZV0pia0d1ajFGdUlPS1NVanVSUHZDMENOaVMtbUtHUkNGSl9SN0lXSDVjcVpwRkd6a2EwdWVZUmZHdG1MX1VaR2hBREU5MnVEUndOblZJenFhel82akc4ckw4R3Q5NU4wMmJCeWpmaTFFTGc2YlNLYUpESTdsT1ZDS2dFazdnZFNJLUFhaG40X2FnZ2ZueGdTWGNLaHQ2NHVvOHdSTkxIODN4eVpsZ3QxYUUwUjB0Y2RBSFM4Y2RJSGs?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-07T23:01:00+00:00",
      "link_real": null
     },
     {
@@ -3250,14 +3260,6 @@
      "link_real": null
     },
     {
-     "name": "Primeira Página",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjVMbG1VTjVTejYzTE5iNnZlMjZoNnl2ckFCcmFCSjd6WkF3SlYzRkFSV2pJY0ZaVWpZNnB4Umo2Yi1uY05DQi10RC1oYlN1eXo1OEhwVUtkbnNTWVBFd29sVGNIR1BXR280RmhOTEdNMUtkTVdQSWJEdWZIaXFOTjhEV0hpQTBwMDkxUjVKeVNOVUpwRUxsUmlQcHlCaXB3RnZkLTVtTDZacnBnbGpV?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-07T11:10:06+00:00",
-     "link_real": null
-    },
-    {
      "name": "novarejo",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0c5c0UtdG1aUkVkdkF3N1MwQl8yaWJseU1oS3h3WV9janZrQ0FwRE9odXE1UlVxdzdYTllwcHAyQ2xXbTZFYmxKdmxLeC1PU2dXVWV0Rm1vdUplbGVna2lUa0I1RVpVbkRCRk1UYkk0NExUZHFHQTJsSjY3UWIwRW54bVo5QXRZMHYySlBhbjZuMER1bFFFVmZBeWRZVE9teVB0Zm5ScHp5TWJONHpHemxMd2J3OGs?oc=5",
      "type": "aberta",
@@ -3650,6 +3652,14 @@
      "link_real": null
     },
     {
+     "name": "Terra",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZTZvZDVMX0JBZE1kUjZYdzhMaXhLcEtya3kyWnpaN0M1Y1lsM0dMWUZlRWlwTksyd0FZV0pia0d1ajFGdUlPS1NVanVSUHZDMENOaVMtbUtHUkNGSl9SN0lXSDVjcVpwRkd6a2EwdWVZUmZHdG1MX1VaR2hBREU5MnVEUndOblZJenFhel82akc4ckw4R3Q5NU4wMmJCeWpmaTFFTGc2YlNLYUpESTdsT1ZDS2dFazdnZFNJLUFhaG40X2FnZ2ZueGdTWGNLaHQ2NHVvOHdSTkxIODN4eVpsZ3QxYUUwUjB0Y2RBSFM4Y2RJSGs?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "NeoFeed",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQlRDa3JLeDZoZ090VG51My1hRGppcThlN3h5bGxFLTNoaWJPVmtYb3YxM05nMkhkQjZoRVc4aFR0VkI0UEExcjE2YWdXZzNGdnRwOEZxWUVyZS1HMFkzc01aeE8xd2xjV3N2N2kyVUthQ2RtTmk3TmtiOWFiYmhCNlVDMTM0V0NmUnUzOVJRMnN1bzRpTExHZnpkYWxhRG52UnBTT1dDakI4Z241YkRwTjBLMWYyQ0RJcG1lTW0xelIwUjdMQVE?oc=5",
      "type": "aberta",
@@ -3730,6 +3740,14 @@
      "link_real": null
     },
     {
+     "name": "Primeira Página",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjVMbG1VTjVTejYzTE5iNnZlMjZoNnl2ckFCcmFCSjd6WkF3SlYzRkFSV2pJY0ZaVWpZNnB4Umo2Yi1uY05DQi10RC1oYlN1eXo1OEhwVUtkbnNTWVBFd29sVGNIR1BXR280RmhOTEdNMUtkTVdQSWJEdWZIaXFOTjhEV0hpQTBwMDkxUjVKeVNOVUpwRUxsUmlQcHlCaXB3RnZkLTVtTDZacnBnbGpV?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "A Crítica",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2VmR25DZFBZMXZfSllXYmJnS3R6SEJ3dzF3N1E4QmI0TzBZZTRfYk8zSEMxUUVLQWx3c2ItT1pzMUpySFl0WHM2dEtqTHUwdnFhTlBUZm51bXl4MTZjXzVDZGZVTkNhblQtXzBlamREeDZVWjVRLVRvQWhkRjA4eVJ6eUhzOUNkc0xwRUs3OHN2dDh5T1F6WmJR?oc=5",
      "type": "aberta",
@@ -3748,6 +3766,22 @@
     {
      "name": "Sistema Firjan",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPb3VhWTZCeDNHZlRNanU1a0hrTVlGS1JkLXJxdWdfTVJ0clF5X2J4YnNmYkdmTVBmTEpHMDNzanFRLTVGWDYyWUxqMDhxRE12ZEJxY1k1MzRyUW9Sc1FaNXI2MWNBNm9iSmV3Z21XWHVleVhBWkVzTkVXV3hXcnd2bGFDd19lNXE4aUI3V09zV2xHTDh4d0tnSXNtTmY2bmF1REF1cGdGTnRPR0tfVkkxLS0yeGRQdzd2SUJsZW1IUmNxWDc3b05RazZmRmgwbkxXLUNROVdjMU9iZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Sistema Firjan",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94VDRHSGg1LXU1MDVlaC1lMWs5cGVLM2tGc19USjU2dk5wU3hNMUlIZ1FpYXNJajNZeV96MXE4ZHItZlhmZGRnaVY1bW14WDAwT0ozYzRhX2FaZjZKcHJBM0VlLXp3ZEZKUU90Ykp3Y3l5dFByTWp6YQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "RCWTV",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUktZkJXSVAwQTBNNC1meDFENlJxbmRkRHdfcnJJcmtndHhiXzVSYVotMTJQak1ma0dvTnVHREN2eUlCdVNfeU5ZUDgyVi1uSjBMX251Q1MwNy1ZVTcxcHlJWXdlSzNxVFlTcmxvZm8zSlFGWi1wRVAzSklWRUVqTk1ZUmhxRl9yRW1IMmVycWhFbVNYMDh4RE5KZC0wbGtLcU9OczlsOGJYSGJn?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-07T07:00:00+00:00",
@@ -3866,7 +3900,7 @@
      "link_real": null
     },
     {
-     "name": "Agência eixos",
+     "name": "eixos",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaGlQdko4VXVLN1lHaF9nbmtZSEcwR213MjJ1MS1ZYWM5WUwxXzYwM2ZRMVIyUWdMaVdlTlpfU2I3YURlWG9ZVHNIOWlLOUZsSGR6ZXJjdk9OTTNCNFQ1UmZzN1pJQmItRVlWVG5NTlQ1UGZQV2RTcEFyb3FVc0hZMnBySXllbFZXSkJmaEZXaUtla3lnRnJzZVJlTy1udzl2VTI0R3V3NA?oc=5",
      "type": "aberta",
      "paid": false,
@@ -4650,14 +4684,6 @@
      "link_real": null
     },
     {
-     "name": "OpiniãoCE",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlRMel84N2lMc0piWFJFNE5KOHZDRFpkZldrcXp3cTlESEJpT3UtamR5WDFSSEQxOUotYXozdEdsY1NKOTRNRHFnV3JDbWZ6NGtlLUttX2Y5QXpIOHZuYzZUN3VxMDdFQW5CQzlEOVJhZ3p6ZFB4ajdnTVV1SDFTZkZfaTFWQkU5OXZxSVVBSjA4c0c0QXNld0JkaS1HWTUtUXFDNHMxRS0wZEoxS3JoanZKNWwxNlE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-02T15:47:15+00:00",
-     "link_real": null
-    },
-    {
      "name": "O GLOBO",
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa0FDanB6ZUh5NlFZVzB5SktQT0JzRXJURmdEODg5RXltdzFlSzVMUks0NlpUaS1XZzhhUFVRQThRVHlkWXBiTDNQaHBKQ3dmbDNacF90eXMwT0pPbVlFa25zZzRsZUhqRjU1dWYxSzZDeWhrM0tibXphOXdzMW9obUJTemJRWWlHWlZXTklURkZPbjBuaGtpOWxTSUptOFd5Ui1xZHZhYWx6OGFRa2JxeWRoWC1hVUR6Y2lDano5aXl1X1FuNXZzUi02clZfbTZFOEtULU9rWXc5Sml6VnZnOERVcVJJd9IB9AFBVV95cUxOczNpT3NaYWRkVy1iM1V4QmxrWmx3Qm5jeTlhdTRlcEw5UV9aTHVuYWlhbW01TWNpRGR3eTVEVWVtMFIzX0syMkRUY2RYcXNSLTV2QzNEWnJiMWFpOHJkT0liSXlJV05qc0VuWE8ySHc2SXBOa1lRTk1Ic0toOUdUeXZUclU0X3NvRXNQNWZaeUNoelBKZUZHYVE0NjZuY2xpUVJMU2JYcGpZYmVackNDdmdWc2p2c1VkN1lIbWxGYkZkRzNHOXNIR2pZTDFjQkhhTEZMWmlObTVxYm9tWXBjMHRFalF0aEdTRER4QXhrOFNwTkd6?oc=5",
      "type": "aberta",
@@ -5138,6 +5164,14 @@
      "link_real": null
     },
     {
+     "name": "OpiniãoCE",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlRMel84N2lMc0piWFJFNE5KOHZDRFpkZldrcXp3cTlESEJpT3UtamR5WDFSSEQxOUotYXozdEdsY1NKOTRNRHFnV3JDbWZ6NGtlLUttX2Y5QXpIOHZuYzZUN3VxMDdFQW5CQzlEOVJhZ3p6ZFB4ajdnTVV1SDFTZkZfaTFWQkU5OXZxSVVBSjA4c0c0QXNld0JkaS1HWTUtUXFDNHMxRS0wZEoxS3JoanZKNWwxNlE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-02T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "Notícia Toda Hora",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWlDcWtKbWhYS0J1NFhJV094T0xVdGJLOGFTa0laaXpURVNBbXRBTTNMTExqeWdwTS1ZQlRrbjE0ZzZKT2tBbURlOWNMR1ZQSl9vNXhuV2xISVNWVFo4N1J4b2p1cUdFTWRxamkwWEZFWGphVFh0SzRZcmF5YlhhMDNiTERpczhrLTJjdFBnbm5TNUo3eXE4MFZPWjNBeEM4TU1N?oc=5",
      "type": "aberta",
@@ -5514,6 +5548,14 @@
      "link_real": null
     },
     {
+     "name": "Agência Petrobras de Notícias",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjIwYmZhRkhleU5IXzlaaG5ZbTN4NWdBbmdnTno1UUdPQlhWWnlrR1Job1N1U3pNNGtoNUl6aWdCU3RjelQ5NnRDM1QzR3J3OW1TX24wSzY5Q3FkMkw4TTVSWVVjR1pMSk15SGttX3lOTDEzLUZhODE4VW4wb0QxX0psZHNJbnFQOUdVeG5lbVlDdnd5aFlBb0E4dWEyaExKdG5abnd1NERJQ0EtbFMtcDAtbVRPV3hqX1RKM3RHdjNCQk0yVmxLUGdmOGFSWGpR?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-02T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "ADVFN",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2daRDV3eDM4VU1qem5hNVk4VWFIMXo2X05lN0s2VFpiMS1vdDdSU0p0elByeWtCMmxUZlMwOE40RmJfZUdZOXZETjJMQ0lhN25HQU5LSUVFT0NmbnktTG5jYkRMakNqaTBPWXZfVF9yX0VoWmFrVHhRVklieG9Tb0M0OWZfMjJXTGExSHJXczRPbHc?oc=5",
      "type": "aberta",
@@ -5858,6 +5900,14 @@
      "link_real": null
     },
     {
+     "name": "Agência eixos",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3dGZEllcWpKUkttbkpoNkJaTWFjMG5pejlSWW01MjY0ZDA1bGNzcEplUXlmc3B1MXZFc3FWeHRMU3Q0cUpTUjh4c3g4V3Bzby1PbWN3Y2FTRGllXzB0WnJkcWEzSFI1ZlhEekNLR2V1MTJRTWsybXBQVF9rRVJNcG5WSVpfRll2akE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-30T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "Diario de Pernambuco",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzZOMlI5Vlo3LTdsVUpYWEx4cW5MV0ktQjdKMUM4T0xnWnpjWmJSRjJGYzFfNGlaTi1sWXFNZzZYNm9pbHZETk1nTndOQkNPd2M1ME80Rl90YjBicW1FMUxZRFhyRDJ5Q0FLMEFaWEVRRVhNNE9pWTBNaGFFa0lOSlJFQnFUbGRBZHF6QU9JbXBOWDlxdk5kTVlpR3owNGVJUWVtMW1zQWVmelpnVDI1VlE4Z0l1ZGNzb25zaDRWNzNJaEpMN2ZfTWhwQTQ?oc=5",
      "type": "aberta",
@@ -5947,14 +5997,6 @@
     },
     {
      "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUFEMlZ4eEFuUUhPLUtCdnNKbVJMRi14c2pwT0xKb0hxRTBEOEVPd2daZGpzeXl5VnVoQ2hMazZ1VjZkcmUxLVBhaU1lNFJHdUZsMlZoTWZDZ0RSeEFUZ1JkMVIzZEhwUm9YY050NDh4bUljbWx1NlI1TkRranc2cVhtSGNPdVg5d2Q0VnNjVnBMRWsxbmozREw5bGdfMUhPQ01PVHFmUnRGLVZfaWlyT0VuZmJ2Z0x5a3c2YkVXUENITkRUajljSjBKUE0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-27T21:20:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CPG Click Petróleo e Gás",
      "link": "https://clickpetroleoegas.com.br/petroleo-uniao-328-mil-barris-dia-julho-ppsa-rss94",
      "type": "aberta",
      "paid": false,
@@ -5964,6 +6006,14 @@
     {
      "name": "O GLOBO",
      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYWxycnlTVU9keFE4aHdkMUkxZFh1QzY3TldEam4wRFo1M1pwamhqdkxBV3BWczBFMEozWVV1QkRSSTJPWHJCRi0zR1pOYmt2aXJaWGptRkV2QkV2Q0ZRUGt6TWNwSS1vRXoxZWlLU3Y0N2RIMzRMQ0xNYzNQcnRSeF9kWldoQ08tQzBpMS1YeVhvdlFjMnJOQmwxUzBzQmMtbVg1WlFBUHBsbDhEWG1nRnZ5LTh2QW5rdkJJR1F3R1kwMThoT25DNTNtb1cwRUI0MXhoaEYwaG84YWlnQk1BNmtFWXhveW95X2M3WDhMUGZpel8tdEZJb0duZ3lyQdIBjAJBVV95cUxObU9WemFYUkRmS2hYZlFSR2lyV3BkMzM5ZzBBTWtXWUZaZy1UYTVFVkkyRVFFQjY0ZkZzS0J3RzNFWC14Vk9YT2F3OUxBa3Q2dUhqakdSS2NmSFhCbW5vU29HVTZuUXRDQ1JVLTczLXRPWV9UTmZxWkFDZkRhdVF3UXlwSEtobWhXSEM0OTFMNFJ5cTZGOTA2cC1uQ3ZQQ3liUjZsS2VhS2M1RlZST0pvVkFyMEtKbVV2Y1RIU0hCeUZvbTVSSl9fdk5UMlBxVi10RG1LZjF6d3ZuLUg3NmNycWtrdXlwM19ZMmdsSHRRNzcxVi11MkQyd3pxSkQwUnlUaWI1VF9jTC1sQmZw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-27T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMUFEMlZ4eEFuUUhPLUtCdnNKbVJMRi14c2pwT0xKb0hxRTBEOEVPd2daZGpzeXl5VnVoQ2hMazZ1VjZkcmUxLVBhaU1lNFJHdUZsMlZoTWZDZ0RSeEFUZ1JkMVIzZEhwUm9YY050NDh4bUljbWx1NlI1TkRranc2cVhtSGNPdVg5d2Q0VnNjVnBMRWsxbmozREw5bGdfMUhPQ01PVHFmUnRGLVZfaWlyT0VuZmJ2Z0x5a3c2YkVXUENITkRUajljSjBKUE0?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-09-27T07:00:00+00:00",
@@ -6010,7 +6060,7 @@
      "link_real": null
     },
     {
-     "name": "Agência eixos",
+     "name": "eixos",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQkpUYURKcVhHdS1KTURSOGw4ZnFTNGNBUHhRVzZELWNCRlRod0VQSEtfVXRocUhoUkZzUEEtUVRnQ0U3M1FPYXdnanJ3eWU3RXo2YWpGWnozNGRBVERNc0pWM1ZGU3MyYWE5RV9ueUl4dW5vcXpScTlhWGEydjN6ZWlKa0ZkeDVtWlZQanpjaUM1bFRVU1B1N29nZ1BMWldPYmRyWHAwcU5YMl84cHc3SjB6V2ZvYWpmbU43VlNuejdMOFE1bkx0RE10V2dhd0JKNDFGT1kwd2NtS2dvQkRWek9Ddw?oc=5",
      "type": "aberta",
      "paid": false,
@@ -6058,7 +6108,7 @@
      "link_real": null
     },
     {
-     "name": "Editora Brasil Energia",
+     "name": "Brasil Energia",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbkJ3RERfODhHQzkzbUJvV04wZEhjUnVIanNGVlhram94blZGSTcxUDlHQkRqZGdxZHY0bFlhaVBuM1J0cWVzS1NmMEFiRVpNZDJZMlNUVk1zZDlBMXIzbHZNSnVaZjVTUnh1YktnanotV2ZIOTZvTkswY0hURW5SMTFDVWg2V2NLSkNpeEdlcUdRazJ3WS1IM19yM3Bwa2FrNGxnVGozQmF2ZTJwTWl5UGp6cXNtOVBPQjVUdmxmQUhEOG5EWE8xbzlwOA?oc=5",
      "type": "aberta",
      "paid": false,
@@ -6236,6 +6286,14 @@
     {
      "name": "G1",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOUVFWWZjekxpcVcyazZqVmRqMTZVc1Fza3ZPMUFqenBMd0U4QXJGV0FSNldDNUpTMGFyUFIzVEstZGpvblVKcEZsOUgzcG5tYm5tc1BiSDg0QmNJUkVSTHc5VHVSNVJLRzNSLVZEMDQ2WU1HVjluSUpkdExVMDVjWmhjdDRRUHF1d2U2XzhqdloxYjhHcHZBMUEyenJ6NG12eWJaaDN1RjFyQVBVOFhDN2FDcFVydWxod0F3Q2E0cEVselVIWldkUFRB0gHYAUFVX3lxTFAtbjRTSExSS2ttZzNRLXBPdVZWUWN2RVQ0Ql9XZS1OcU1qc3B5S0pzUGJnTkRfNkdRTTVVbzZmTTBwQ0lBUGdVa01wZXY4ODR1OUNpc3dCZ3JldUMybnZJN0xWNEhrS1RLN2xGT3NUMnJRUW5vQjBQQTQ5NG5pT0t3Mmc5bXRlU1JuVGstWUprRk5fLXFTUFRnRnJ3c3pYdUlkazhPdHhrVWhieDN1eDRSa0pMalpCUjlvQ0VjaGpld2haRDhrQ3VGYnJRUEJ0QjlCbDZ0LXBaNA?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-22T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Valor Econômico",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX25uZGFNS2hhQUFEYkpObV9sVm9WMzVuQ3FKVXUtSUE2dHRWdEhmUUZyWTloWkItUmVmWkRXaThOdWVIaDFXa1M0RVR2RDRtQ1p2OUlKY2pZM2Z4N0F2QW8xX2dnbUdzdmpnRnRjNlRzYUlqc3AtNkxDRGNOLVF2c2h4QWdCXzFueTBFeDJCZzVzeFRycURkUlZJNkUxWUZuXy0yNzFzNXZrT2ZvWU00LTM0TmpZWHpmT2NEOUxuMGlFa0kwdTQ0dFp3TjFZeXhVVmxJMlEtMFdxVHNIRkdLMdIB7wFBVV95cUxNMGdFazdISFZNMS03czBFdE5KLXlCenY4eFVPajNpRGktaGpKZXRKODg4a2xmU2pOMW1CMUhKSV9BSldrQU94Uk91R1hacGpBeDdJMWxNUC1xZTNvWlhESzdmRHBHTElpUDIxNElkdUROYVZBdmpRRWF3MEllV3RRT2sycEFWbGx6MDJGbmgxS25hcFFjN29IdEJJRm5aaVU3bkN2N0JMTHlaU2JpQWxEYkdIdExMNjNMcEplcl9pRFRQanJ6VUpfQXRiNTJvZjFJUVlZam1HVUY4V1FnMkpjZ1hlQmU4R3dXbzJnaDAtMA?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-09-22T07:00:00+00:00",
@@ -7700,16 +7758,21 @@
    "aviso_paga": ""
   },
   {
-   "id": "80e0377166a6974e",
+   "id": "54e355a66eef2a6b",
    "title": "VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS",
-   "summary": "VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS A Vallourec anunciou hoje (16) que recebeu um contrato de grande porte da Subsea7 para o fornecimento de tubos de linha de aço-carbono sem costura e revestimento de isolamento térmico para o projeto Sépia 2, operado pela Petrobrás no pré-sal da Bacia de Santos. O empreendimento contempla 15 poços, além de um duto de exportação conectado a uma nova unidade flutuante de produção, armazenamento e transferência de petróleo (FPSO), que será instalada em uma lâmina d’água de aproximadamente 2.170 metros. SUBSEA7 RECEBE PRÊMIO DA PETROBRÁS POR INSTALAÇÃO DE SISTEMAS SUBMARINOS E DESCARBONIZAÇÃO A Subsea7 recebeu dois reconhecimentos na 9ª edição do Prêmio Melhores Fornecedores Petrobrás, anunciado nesta quinta-feira (24), durante a ROG.e 2026.",
+   "summary": "- SBM Offshore mira fornecedores de Sergipe e fecha parceria com Sebrae e IEL para preparar empresas locais para o projeto SEAP da Petrobras - Petrobras tem pedido de adiamento negado pela ANP em consulta sobre mercado de gás natural - Produção de petróleo e gás no Brasil ultrapassa 6 milhões de barris por dia pela primeira vez, aponta ANP - TBG prevê investimento de US$ 300 milhões para ampliar transporte de gás natural e atender termelétricas até 2031 Contrato de GNL vai durar 22 anos O negócio foi firmado com a Cheniere Marketing, subsidiária da Cheniere Energy. VALLOUREC FECHA CONTRATO COM A SUBSEA7 PARA FORNECIMENTO DE DUTOS NO PROJETO SÉPIA 2, DA PETROBRAS A Vallourec anunciou hoje (16) que recebeu um contrato de grande porte da Subsea7 para o fornecimento de tubos de linha de aço-carbono sem costura e revestimento de isolamento térmico para o projeto Sépia 2, operado pela Petrobrás no pré-sal da Bacia de Santos. O empreendimento contempla 15 poços, além de um duto de exportação conectado a uma nova unidade flutuante de produção, armazenamento e transferência de petróleo (FPSO), que será instalada em uma lâmina d’água de aproximadamente 2.170 metros.",
    "detalhes": {
+    "valores": [
+     "US$ 300 milhões"
+    ],
     "profundidade": [
      "2.170 metros"
     ],
     "datas": [
-     "2026",
-     "setembro"
+     "setembro",
+     "2031",
+     "agosto",
+     "2026"
     ]
    },
    "category": "SURF",
@@ -7726,9 +7789,33 @@
      "Subsea7"
     ]
    },
-   "published": "2026-09-24T21:30:31+00:00",
-   "n_sources": 7,
+   "published": "2026-09-30T14:04:26+00:00",
+   "n_sources": 10,
    "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/petrobras-assina-acordo-de-22-anos-com-a-cheniere-e-garante-compra-anual-de-800-mil-toneladas-de-gnl-dos-estados-unidos-rpc95",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-30T14:04:26+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/petrobras-assina-acordo-de-22-anos-com-a-cheniere-e-garante-compra-anual-de-800-mil-toneladas-de-gnl-dos-estados-unidos-rpc95/"
+    },
+    {
+     "name": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEh1M09ORGgtUW85em9lcERNOEI3b2RjNGZ2dzM5clVGcElJUTB3bW9Zb2Z2cW9qajRpaWIxMVp6MTRTWmhVZGhFVVc0OTNBWV9aS3pNRUZNNTg1a2FmMnhwSGhGYjFqNGcwTHZmalpxVG01a3ZsUEw4SkZJUW8xWjNQVWhQX3ZCdVliY1R0M0hSZ9IBlwFBVV95cUxOaTVrUUktRGs4MjZnVEFPWlFyd2ptZUFPb0E0dy15T3gzNjdaLXgxa1ZVQTN1NGF6cEZndDhNdkJ2UlJPallvcElsYnEtUVNhNGlielRJczZhMW93YVhtXzBERk5JNjlmQ0hCU3RHTGFQNThaZVBXMFA3QXB1c3lic0U1NHRZcS1YNFI0ZnJNMTRCU09qVVNn?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-29T15:09:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Brasil Energia",
+     "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQUXNYV2s2bUZxbDNiOEhNX2Y4ZW80d0o4LWpadFNWN1duTE5oUzd6eFdEemlDdi1PcEdpWDZfSzI2MTBWVF9oWUFtazMtLVlsX2dHMmR5NXptTDMzdWRaRW5nNVd5UDZCbGcxanAtRTRnYnFkR3NEOE1kZFhWNnhDcnpzZV9CbzBTblRFR1dfa242cW1GX0tiZWFzd3Y2SXF4NGtvZ3lUYmt6cGRjVmxzSFNtQVVsT1dYbHNIT0RoUzZaeWUyQWUwSGwxWVpZU2VKYVJiWTM1b2Y3dERtV3BkUXJkM2VYXzZ4OEtsd1RROTVoblhKMklhN2FyMjVQbmZwRGR0V2dQM3JhUURyT3JVc3FlMFhnQXFveHlZQ19BMlBKVGxSN1dMb2dMaXRlSXFSZDZZU3NLV2o1ZVhGNUsxX0lZSjE1V0ExMGl4Q1ppMDNIUXNDTUV3?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-26T00:59:57+00:00",
+     "link_real": null
+    },
     {
      "name": "Petronotícias",
      "link": "https://petronoticias.com.br/subsea7-recebe-premio-da-petrobras-por-instalacao-de-sistemas-submarinos-e-descarbonizacao",
@@ -8066,7 +8153,7 @@
     ]
    },
    "published": "2026-09-26T12:30:48+00:00",
-   "n_sources": 1,
+   "n_sources": 2,
    "sources": [
     {
      "name": "CPG Click Petróleo e Gás",
@@ -8075,6 +8162,14 @@
      "paid": false,
      "published": "2026-09-26T12:30:48+00:00",
      "link_real": "https://clickpetroleoegas.com.br/petrobras-negocia-fpso-de-us-229-bilhoes-para-ampliar-operacao-em-albacora-apos-2031-ama01"
+    },
+    {
+     "name": "Brasil 247",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3o2dzF4eFRXNVFHbDY2NkRXZkFEek1rRERQc08xaHAtVm9kM2ZVbkdVTy15UldKLWFUZHdEb3h3c3hYSWRnNVV0bTk2OFJhMXUzTE5pM2ZORzBZSThtMmRacWxJcUNjbXNRclFaaHNVUlpqTXN6NmpDWjBXZWJwZlFiSzZUS2JvWXJsT0hxX0FIbzB3WURKR3BxTlg4LUpVNkVTaER1dWl3ZVFLUHRHcjVsTlo0Mm41NVdhZEphOEQ0dGs5?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-22T07:00:00+00:00",
+     "link_real": null
     }
    ],
    "has_paid": false,
@@ -8825,6 +8920,64 @@
    "aviso_paga": ""
   },
   {
+   "id": "724e4712c7c3a2a4",
+   "title": "Petrobras avança em águas profundas, mas os navios usados nessas operações viram o centro de uma disputa: Brasil pode precisar de mais 40 embarcações até 2030 enquanto diárias offshore podem chegar a US$ 60 mil em cinco anos",
+   "summary": "Petrobras avança em águas profundas, mas os navios usados nessas operações viram o centro de uma disputa: Brasil pode precisar de mais 40 embarcações até 2030 enquanto diárias offshore podem chegar a US$ 60 mil em cinco anos. Petrobras contratou construção e serviços por R$ 16,5 bilhões Uma dessas encomendas foi anunciada pela Petrobras em 12 de dezembro de 2024. Do total, R$ 5,2 bilhões correspondem a investimentos em construção naval no Brasil, segundo o comunicado oficial da Petrobras sobre os contratos.",
+   "detalhes": {
+    "valores": [
+     "US$ 60 mi",
+     "R$ 324,8 milhões",
+     "R$ 151 milhões",
+     "US$ 55 mi",
+     "US$ 44 mi",
+     "US$ 500 milhões"
+    ],
+    "percentual": [
+     "65%",
+     "70%"
+    ],
+    "datas": [
+     "2030",
+     "Janeiro",
+     "agosto de 2026",
+     "dezembro de 2024",
+     "outubro de 2026"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 62,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-10-22T05:30:42+00:00",
+   "n_sources": 2,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/petrobras-avanca-em-aguas-profundas-mas-os-navios-viram-o-centro-de-uma-disputa-brasil-pode-precisar-de-mais-40-embarcacoes-ate-2030-enquanto-diarias-offshore-podem-chegar-a-us-60-mil-e-caes",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T05:30:42+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/petrobras-avanca-em-aguas-profundas-mas-os-navios-viram-o-centro-de-uma-disputa-brasil-pode-precisar-de-mais-40-embarcacoes-ate-2030-enquanto-diarias-offshore-podem-chegar-a-us-60-mil-e-caes"
+    },
+    {
+     "name": "AEPET",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVAzNXc3ZDBhdi00NVFyLXUwTFJkZFNkLTRtblFpblhIdGN0bmRRUnlCV2dpZ1JIYl82NkduTTNuSnpXVlc4TlFPUUh3VHZDbXJoYVJFZlJBbmRXR1RPdm5ycGtEQ05kX3A2V2F2SHZadFdvLWxhRHRVNDloSkRjYVBmQUMwYko0MDQ5dGstZG94ZHQwR2pJMnNMYlROUzRRa2NTYWFmS0ZDcDFUQkhERXM3ZU1VdW5VLW0zRGVUbXQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-21T12:17:01+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "57e3295cd511b6e6",
    "title": "14 dias no mar, 12 horas de trabalho por dia e uma nova regra: fim da escala 6×1 coloca a rotina de 70 mil trabalhadores offshore em dúvida e leva Petrobras a avaliar mudanças nos contratos",
    "summary": "- Preço dos combustíveis entra na mira do governo: fiscalização chega a 3 regiões do Brasil, 7 empresas são notificadas e notas fiscais podem revelar aumentos injustificados em postos e distribuidoras - Dona das maiores reservas de petróleo do mundo, Venezuela passou anos produzindo abaixo de seu potencial e agora aposta US$ 76 bilhões, 17 campos petrolíferos e novos acordos com os EUA para mudar essa história - Fiscalizações retiram 42,8 mil litros de óleo lubrificante clandestino de circulação e Lwart transforma material em 28,6 mil litros renovados no combate ao mercado ilegal - Petroleira compra dois blocos por R$ 77 mil cada em Roraima, prepara sísmica 3D na Bacia do Tacutu e admite buscar petróleo na Guiana se a exploração brasileira der resultado A Petrobras confirmou que iniciou avaliações internas sobre os possíveis impactos da mudança, tanto para seus empregados quanto para os contratos de empresas terceirizadas. A preocupação surgiu após a promulgação, em 16 de outubro de 2026, da emenda constitucional que reduz gradualmente a jornada semanal de trabalho e amplia o descanso dos trabalhadores. 14 dias no mar, 12 horas de trabalho por dia e uma nova regra: fim da escala 6×1 coloca a rotina de 70 mil trabalhadores offshore em dúvida e leva Petrobras a avaliar mudanças nos contratos.",
@@ -9236,6 +9389,43 @@
    "aviso_paga": ""
   },
   {
+   "id": "94aed412caac733e",
+   "title": "APAGÃO DE PROFISSIONAIS ACENDE ALERTA E LEVA A INDÚSTRIA A INVESTIR EM FORMAÇÃO PRÓPRIA",
+   "summary": "Estamos há 40 anos no mercado de usinagem e somos líderes nesse segmento no Rio de Janeiro. Os profissionais antigos migraram para outros setores — muitos foram trabalhar como motoristas de aplicativo ou foram para outras áreas —, porque a indústria passou por um hiato muito grande no Rio de Janeiro. Cerca de 90% do nosso quadro profissional atual é formado internamente por meio desse treinamento.",
+   "detalhes": {
+    "percentual": [
+     "90%"
+    ],
+    "datas": [
+     "Janeiro"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 59,
+   "entities": {
+    "campos_blocos": [
+     "Margem Equatorial"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T08:00:19+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/apagao-de-profissionais-acende-alerta-e-leva-a-industria-a-investir-em-formacao-propria",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T08:00:19+00:00",
+     "link_real": "https://petronoticias.com.br/apagao-de-profissionais-acende-alerta-e-leva-a-industria-a-investir-em-formacao-propria/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "029c5212c1198988",
    "title": "ANP aprova entrada da petroleira do Kuwait no projeto Orca, antigo Gato do Mato, no pré-sal de Santos, após acordo com a Shell, mas operação ainda depende de aval do governo",
    "summary": "- Murphy Oil encontra petróleo em camada de 40 metros no litoral do Vietnã e inicia produção em campo vizinho, com previsão de alcançar até 15 mil barris equivalentes por dia em 2029 - TGS envia navio Ramform Titan para pesquisar 11,2 mil km² na Bacia de Pelotas, a 100 km da costa gaúcha, em nova etapa da busca por petróleo prevista para começar em outubro - Angola muda plano de perfuração offshore e envia sonda Borr Grid ao poço Impala-2, com custo limitado a US$ 60 milhões e meta de produzir 4 mil barris por dia em janeiro de 2027 - Pará e Amapá entram em disputa por base de apoio da Petrobras na Margem Equatorial após fala de Magda Chambriard sobre Belém, mas estatal admite estruturas nos dois estados A entrada da Kufpec não significa que a Shell deixará o empreendimento. Decisão tomada em 9 de outubro aproxima a Kuwait Foreign Petroleum Exploration Company da aquisição de 20% do empreendimento offshore, que prevê um FPSO com capacidade para 120 mil barris diários e início da produção em 2029. Em junho de 2025, a TotalEnergies vendeu seus 20% no empreendimento para a Shell, elevando temporariamente a participação da operadora para 70%.",
@@ -9514,36 +9704,6 @@
      "paid": false,
      "published": "2026-09-30T13:43:19+00:00",
      "link_real": "https://clickpetroleoegas.com.br/uma-nova-industria-pode-surgir-no-espirito-santo-em-apenas-2-anos-para-desmontar-plataformas-e-navios-de-petroleo-criando-uma-cadeia-bilionaria-de-reciclagem-e-descomissionamento-no-b-hl1402"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "bae027c132249c5d",
-   "title": "A iniciativa da Petrobrás em águas profundas desencadeia uma corrida por embarcações offshore",
-   "summary": "A iniciativa da Petrobrás em águas profundas desencadeia uma corrida por embarcações offshore.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 50,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-10-21T12:17:01+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "AEPET",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeVAzNXc3ZDBhdi00NVFyLXUwTFJkZFNkLTRtblFpblhIdGN0bmRRUnlCV2dpZ1JIYl82NkduTTNuSnpXVlc4TlFPUUh3VHZDbXJoYVJFZlJBbmRXR1RPdm5ycGtEQ05kX3A2V2F2SHZadFdvLWxhRHRVNDloSkRjYVBmQUMwYko0MDQ5dGstZG94ZHQwR2pJMnNMYlROUzRRa2NTYWFmS0ZDcDFUQkhERXM3ZU1VdW5VLW0zRGVUbXQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-21T12:17:01+00:00",
-     "link_real": null
     }
    ],
    "has_paid": false,
@@ -10221,6 +10381,55 @@
    "aviso_paga": ""
   },
   {
+   "id": "648459f89264bddb",
+   "title": "PPSA REALIZA AMANHÃ O PRIMEIRO LEILÃO DE GÁS NATURAL DA UNIÃO",
+   "summary": "A entrega do gás natural ocorrerá na saída da Unidade de Tratamento de Gás de Itaboraí, da Petrobras, localizada no Complexo de Energias Boaventura, no Rio de Janeiro. O fornecimento está previsto para o período entre março e dezembro de 2027. A primeira começa às 9h, com a oferta de 100 mil m³/dia, distribuídos em dez lotes, para o setor vidreiro.",
+   "detalhes": {
+    "valores": [
+     "US$ 1,80",
+     "US$ 0,02"
+    ],
+    "producao": [
+     "100 mil m³",
+     "200 mil m³",
+     "320 mil m³",
+     "350 mil m³",
+     "130 mil m³",
+     "10 mil m³"
+    ],
+    "percentual": [
+     "115%"
+    ],
+    "datas": [
+     "março",
+     "dezembro de 2027",
+     "Janeiro"
+    ]
+   },
+   "category": "Bids e Licitações",
+   "relevance": 49,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-21T19:00:26+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/ppsa-realiza-amanha-o-primeiro-leilao-de-gas-natural-da-uniao",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-21T19:00:26+00:00",
+     "link_real": "https://petronoticias.com.br/ppsa-realiza-amanha-o-primeiro-leilao-de-gas-natural-da-uniao/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "362a79073fa171a0",
    "title": "PPSA avalia substituir Henry Hub por indicador sul-americano para definir preço do gás natural da União",
    "summary": "- Quem trabalha embarcado no pré-sal viu Búzios passar de 1 milhão de barris por dia pelo segundo mês seguido, e a Petrobras chegou a 2,96 milhões de barris diários em setembro, segundo dados preliminares da ANP - Valaris e Transocean recebem aval do Cade para negócio que prevê empresa de US$ 17 bilhões e 73 plataformas offshore - Dois navios afundam perto do Estreito de Ormuz em poucas horas: GFS Pride e Cape Dao entram na lista de 113 incidentes confirmados pela OMI, e petróleo enfrenta nova ameaça - Sede da maior petroleira do mundo é atingida por ataque na Arábia Saudita durante ofensiva houthi, mas Saudi Aramco mantém operações durante escalada da guerra Na disputa de outubro, o Henry Hub será a referência utilizada na formação do preço. Por enquanto, o índice norte-americano será utilizado no primeiro leilão destinado à indústria, marcado para 22 de outubro, com oferta máxima de 1,1 milhão de metros cúbicos por dia. O cálculo mensal considerará 115% da média das cotações diárias dos contratos futuros desse índice no mês anterior ao fornecimento do gás, acrescidos de um adicional definido durante o leilão.",
@@ -10641,41 +10850,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-10T21:00:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "8b40e0790b333137",
-   "title": "Leilão do pré-sal pode render R$ 22,4 bi à União em 2027",
-   "summary": "Leilão do pré-sal pode render R$ 22,4 bi à União em 2027.",
-   "detalhes": {
-    "valores": [
-     "R$ 22,4 bi"
-    ],
-    "datas": [
-     "2027"
-    ]
-   },
-   "category": "Bids e Licitações",
-   "relevance": 49,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T07:00:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Portal BE News",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2hWb0c5UmJyOEhDZ1BzQmduVmthR3NKalJWdG1KT1QwS05SMWYtTEJyYndodlpJcEdUbHFlMUNUTUtoLUdoSUtkdWpQZHUyOU9WVm0xaVA3SlZ2UmI1bGx6YmFrWnRaZ2lYcUZldkhlTURNalpvT29nM0plS0NoTUs3UGwzcXlXaEE0?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -12135,7 +12309,7 @@
    "n_sources": 1,
    "sources": [
     {
-     "name": "Agência eixos",
+     "name": "eixos",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmFHWDJqbmpJV0dBU3hoTU83Z0pRaVJMQmdLTTNwZ0ZGQUdVUlhBRXZOY1ZkTGtBaDVnMnRzTERNOEc3YUR1VnhuMXRQRThHa2hLRXh6N2xPVm9vWlJrYS1EMUItSm9TTmpoamhWRHg0OUQ5d19CX2JpWmNIbEY4b1F0T0JPVFA2VGFxZXRna28zQWhSdjRTYzg0TzdLTXU1VHhrRTB3UDlEY0l1NUJITXNlNk5zUUxTSkE2Wm5R?oc=5",
      "type": "aberta",
      "paid": false,
@@ -12663,34 +12837,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "81c85d611479d13c",
-   "title": "Temer prevê muito trabalho para votar projetos do pré-sal",
-   "summary": "Temer prevê muito trabalho para votar projetos do pré-sal.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 35,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T09:48:25+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Portal da Câmara dos Deputados",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEdzdXpMQXdUdFYwb1FZODd1N3pydU1SeU1IX1NMa19Ec0IxTmJ2US1DTXFPQmk0UDUzVUN2TjE5VU4yM2Fmc180dWliVFRYWEtCaDdDUElsOWpwRnNZdWJJWG5vSnY2a203WDRnTDA5b3VyMkpwc2JQLVpRRmM4U2xJUHROSjlWa1g5QW9ldXlpRWZISWEzeEtxenJrbWVn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T09:48:25+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "4c74d74938e5368e",
    "title": "MME espera fazer segundo leilão de gás da União sem mediação da Petrobras",
    "summary": "MME planeja leilão de gás da União de 2027 sem intermédio da Petrobras. MME espera fazer segundo leilão de gás da União sem mediação da Petrobras.",
@@ -13045,53 +13191,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "54e355a66eef2a6b",
-   "title": "Petrobras fecha contrato de 22 anos com gigante americana para receber 800 mil toneladas de GNL por ano dos Estados Unidos",
-   "summary": "- SBM Offshore mira fornecedores de Sergipe e fecha parceria com Sebrae e IEL para preparar empresas locais para o projeto SEAP da Petrobras - Petrobras tem pedido de adiamento negado pela ANP em consulta sobre mercado de gás natural - Produção de petróleo e gás no Brasil ultrapassa 6 milhões de barris por dia pela primeira vez, aponta ANP - TBG prevê investimento de US$ 300 milhões para ampliar transporte de gás natural e atender termelétricas até 2031 Contrato de GNL vai durar 22 anos O negócio foi firmado com a Cheniere Marketing, subsidiária da Cheniere Energy. Petrobras amplia contratos de longo prazo O acordo foi anunciado em 29 de setembro. O novo acordo também se soma a outra contratação recente: em agosto, a Petrobras acertou com a americana Sempra Infrastructure a compra de 800 mil toneladas anuais de GNL por 20 anos.",
-   "detalhes": {
-    "valores": [
-     "US$ 300 milhões"
-    ],
-    "datas": [
-     "setembro",
-     "2031",
-     "agosto"
-    ]
-   },
-   "category": "Contratos e Concorrentes",
-   "relevance": 27,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-30T14:04:26+00:00",
-   "n_sources": 2,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/petrobras-assina-acordo-de-22-anos-com-a-cheniere-e-garante-compra-anual-de-800-mil-toneladas-de-gnl-dos-estados-unidos-rpc95",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-30T14:04:26+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/petrobras-assina-acordo-de-22-anos-com-a-cheniere-e-garante-compra-anual-de-800-mil-toneladas-de-gnl-dos-estados-unidos-rpc95/"
-    },
-    {
-     "name": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNEh1M09ORGgtUW85em9lcERNOEI3b2RjNGZ2dzM5clVGcElJUTB3bW9Zb2Z2cW9qajRpaWIxMVp6MTRTWmhVZGhFVVc0OTNBWV9aS3pNRUZNNTg1a2FmMnhwSGhGYjFqNGcwTHZmalpxVG01a3ZsUEw4SkZJUW8xWjNQVWhQX3ZCdVliY1R0M0hSZ9IBlwFBVV95cUxOaTVrUUktRGs4MjZnVEFPWlFyd2ptZUFPb0E0dy15T3gzNjdaLXgxa1ZVQTN1NGF6cEZndDhNdkJ2UlJPallvcElsYnEtUVNhNGlielRJczZhMW93YVhtXzBERk5JNjlmQ0hCU3RHTGFQNThaZVBXMFA3QXB1c3lic0U1NHRZcS1YNFI0ZnJNMTRCU09qVVNn?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-29T15:09:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "a7b100eedb9580df",
    "title": "A PETROBRÁS FAZ OUTRA GRANDE COMPRA DE GNL DE UMA EMPRESA AMERICANA PARA REDUZIR POR LONGO PRAZO A VOLATILIDADE DOS PREÇOS",
    "summary": "O contrato na verdade foi assinado no fim de agosto e anunciado dia 15. A PETROBRÁS FAZ OUTRA GRANDE COMPRA DE GNL DE UMA EMPRESA AMERICANA PARA REDUZIR POR LONGO PRAZO A VOLATILIDADE DOS PREÇOS. Desta vez, o contrato, prevê a compra, pela Petrobrás, de 0,8 milhão de toneladas por ano (mtpa) de GNL por um período de 22 anos.",
@@ -13299,7 +13398,7 @@
      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQY3FQb0h3X2ZuRTNKT005Ry1jWU1FS3N4RXQ2M1FiUzR2aW9MbWJKZGZFOWtwT1lGbnBfTVAyTTJyakFGUmJIc2I5QWhaTGtNNkl1a1Fwcm1TdW9fTzhNVWsyRHUwTk95OGxvbktVcGRqeWxvODNxS3k4NVV4bUdUSFhvYUtnTzNvVUt1V29qR0NRMi1IT1JPQ3BQUFZPY2JpckNDRTZDT2RmTlRaMGxMdExHZXJqNVBpT0EzWmM5cGhGN0wtUjc5aHJuNW5nSzc3ZTktZUd6S2pteHFpYTUzQmhYSk9NYzRseEphQjNOWUx3eFdMTDJnamstRHlqMHdZYWhEdUcyLTNVdXo1QnhkME5GQXNRYlNxeklfb3JwdU9aMmhwTnlFTW5XdDdLQUw3?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-22T17:27:00+00:00",
+     "published": "2026-09-22T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -13872,7 +13971,7 @@
      "Subsea7"
     ]
    },
-   "published": "2026-10-14T22:49:05+00:00",
+   "published": "2026-10-14T07:00:00+00:00",
    "n_sources": 1,
    "sources": [
     {
@@ -13880,7 +13979,7 @@
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc0txSnJVTmlIQ1Y0eklpS1NvbzNmdkIwV0Q3TkZIZjJHaVVkbjhrei1oaWJ6Ri1zdzlFeUlrdE9LaldjVDEzNlRNRXdpYzV5Y2xtVWg1Y2xGNy1YR05qRzlwQ0xfNWVXbEhDMVpqUWo1VFBYMk5pYkRkZVZnSjdaR1NGeXVzQ0VIWDdQRnFkeGVVaU83TE44WE9nTy1qM1BhMEJkeDVKbw?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-10-14T22:49:05+00:00",
+     "published": "2026-10-14T07:00:00+00:00",
      "link_real": null
     }
    ],
@@ -14063,52 +14162,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "56c965298f0d7bf4",
-   "title": "Airbus planeja fabricar no Brasil o H145, helicóptero que custa cerca de R$ 50 milhões e tem versão executiva usada por Neymar, após tratativas entre Lula e Macron; projeto pode levar produção para Itajubá, exige pedido inicial de ao menos 40 unidades e integra parceria estimada em R$ 1 bilhão",
-   "summary": "Produção nacional depende de primeiro contrato - Observatório Nacional recebe R$ 8 milhões para montar centro de inteligência artificial com GPUs aberto a pesquisas de astronomia e geofísica - Arqueólogos avançam por mais de 100 metros de um canal subterrâneo em antiga cidade romana na Bulgária, encontram partes de termas com piscinas de água quente e tentam descobrir onde a estrutura de drenagem se conectava à principal rede de esgoto construída há quase 2 mil anos - Quase 500 peixes-leão são retirados do mar em apenas um mês no litoral da Bahia após avanço da espécie invasora, que possui espinhos venenosos, se reproduz rapidamente e ameaça recifes, peixes nativos e a pesca, levando Porto Seguro a pagar R$ 10 por exemplar capturado - Pesquisadores criam bateria elástica que pode ser moldada e esticada sem perder eficiência, abrindo caminho para eletrônicos mais adaptáveis O projeto depende de um contrato inicial capaz de justificar economicamente a implantação da linha de montagem no país. Airbus planeja fabricar no Brasil o H145, helicóptero que custa cerca de R$ 50 milhões e tem versão executiva usada por Neymar, após tratativas entre Lula e Macron; projeto pode levar produção para Itajubá, exige pedido inicial de ao menos 40 unidades e integra parceria estimada em R$ 1 bilhão. O projeto depende de contrato inicial de pelo menos 40 unidades, começando pela versão militar H145M, e integra parceria Brasil-França com investimentos estimados em R$ 1 bilhão, enquanto Neymar usa versão executiva.",
-   "detalhes": {
-    "valores": [
-     "R$ 50 milhões",
-     "R$ 1 bilhão",
-     "R$ 8 milhões",
-     "R$ 10"
-    ],
-    "profundidade": [
-     "100 metros",
-     "241 km",
-     "650 km"
-    ],
-    "datas": [
-     "março de 2024",
-     "julho de 2025"
-    ]
-   },
-   "category": "Contratos e Concorrentes",
-   "relevance": 24,
-   "entities": {
-    "campos_blocos": [
-     "Lula"
-    ],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T13:54:58+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/airbus-planeja-fabricar-no-brasil-o-h145-helicoptero-que-custa-cerca-de-r-50-milhoes-e-tem-versao-executiva-usada-por-neymar-apos-tratativas-entre-lula-e-macron-projeto-pode-levar-pro-mhbb01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T13:54:58+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/airbus-planeja-fabricar-no-brasil-o-h145-helicoptero-que-custa-cerca-de-r-50-milhoes-e-tem-versao-executiva-usada-por-neymar-apos-tratativas-entre-lula-e-macron-projeto-pode-levar-pro-mhbb01"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "147448dc69f44ab1",
    "title": "PETROBRÁS REDUZ CUSTOS EM OBRAS COM FPSOs",
    "summary": "No projeto Sergipe Águas Profundas (SEAP), a Petrobrás conseguiu uma redução de 10%, enquanto no projeto Búzios 12 houve uma redução de 17% no peso do topside. O maior ganho citado pela diretora ocorreu no projeto de revitalização de Tupi, no qual a companhia conseguiu reduzir em 51% o peso do topside. PETROBRÁS REDUZ CUSTOS EM OBRAS COM FPSOs.",
@@ -14214,6 +14267,42 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-11T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "82a2a357dfe5bc0d",
+   "title": "Petrobras (PETR4) surpreende com US$ 859 milhões extras e banco projeta ações a R$ 70",
+   "summary": "Petrobras (PETR4) surpreende com US$ 859 milhões extras e banco projeta ações a R$ 70.",
+   "detalhes": {
+    "valores": [
+     "US$ 859 milhões",
+     "R$ 70.",
+     "R$ 70"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-10-22T13:00:59+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "O Petróleo",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckRXcU8ta2hJRDVyMUVBSUctdHRQc3NuWTFTTGxqb0txY3JwQ0ZOVEFKSm5GdEVoeE5hZldjT1VJTTB2ZU5fQWpLMTFmbGxER2lLOG5XZy15WXI1bTR1enMyclNnZHNFMW1TU21yMnJybHYyOWdVT0lTY0ZDZlZES2otay0tbGxXUlk5Vi1xdndjeFM2Qm15MXZNVkpuSzRJakljUmJWOExKemM?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T13:00:59+00:00",
      "link_real": null
     }
    ],
@@ -15921,7 +16010,7 @@
      "link_real": null
     },
     {
-     "name": "financenews.com.br",
+     "name": "Finance News",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNzRjcEJ4Mllpa0o4UGx4SkR6R0g4Nm91VXpTX3lCUHE4NGZ5OFNNbVdOMFJDN3A4b1ZjR0JrS2gtazR6TUVCbDBpdnQ0c2NXMDgtZ1Vjdl9DeXBzNVdxd29BbDlQUHlpVHV5RUdBMkdZM0FvU2gyMmtHUFNLbzh6Z1BCbWdoRGlMNGZYNDUzZmtaSlhtYzQ3Vy1PU3lVZ0doeVg2NHN3?oc=5",
      "type": "aberta",
      "paid": false,
@@ -17645,7 +17734,7 @@
    "n_sources": 1,
    "sources": [
     {
-     "name": "Agência eixos",
+     "name": "eixos",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0RieE1PbTFFMEZYTEpWZTFvYWtYVW9ybUJTbHUtdHlLNEE5U0Z3cGQwTFB5UUpENEZDcFBlMy1yellTbm9MeHVVcWphaHo1OThxbXp1ZlBHRDR1YmNET01lUkhxNkhCcWNHQU5fUkc5c0pOUXdkVENIeV9oY3hQQzVFa3Zocm9FVnRabWU2WTNxX0JudEppUHhLYWllQ001WDVZUnE1ODRJc2Q1SkNSRVBuSWFFcU1odlBFSTBhSXFELVpId1ZB?oc=5",
      "type": "aberta",
      "paid": false,
@@ -18093,7 +18182,7 @@
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVlEUVIzaldLQko0d0djbGhwaHZaT29TU2UzX1pXcTZFRk1GUE9OUnI5eEpIbGpZUlFTdFQ1dURWSWxhWmRqQ3Q4WTRhUnRybm9pMjNFZlNVYnVKRzlXZlJkcUpTNEZzSEFzMWZDS3MwSkRpMWMyUW9iVjI3SG04ZFR0NVczWDdZV1hMcVNWSGxYUU9DYXc5WnlZcU1VMVVRQVZXaGlEYjR2UXBxd1M3OGNfT3podlhzREgyQkhHZ2J5OVpCeU5WRtIBzgFBVV95cUxPaHFHMGp3ZFBaYWhzMkwzbV9McHhhMUVkaDBjZl9BcWt2blEwMjh4Y3BIMkJ0TDBVYTc1S25GSVNNc0xwc192cmVMTnM1UWtUV2ZpWWRJY2lwTFYzLVJQYXBaRGlqU2pNMExsSHoxQ01McnpJTXRtTUdvOENCbmJQTlA4NDd4dnhKUUYxZVh6ODZVYkRDcFFYU1cxZ2E3UDhLUnhTbjh0ODV5ZGR4LVZHeHkway01WVg1Rnp3bzJ4WmJ5UVVpdGpDWVVzZjJsQQ?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-30T17:57:00+00:00",
+     "published": "2026-09-30T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -19003,6 +19092,40 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-10T07:00:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "3f77d7a514b3f55a",
+   "title": "Lula propõe tarifa zero no transporte público aos fins de semana em todo o Brasil, mas custo estimado em R$ 10 bilhões leva ANPTrilhos a cobrar financiamento permanente",
+   "summary": "Lula propõe tarifa zero no transporte público aos fins de semana em todo o Brasil, mas custo estimado em R$ 10 bilhões leva ANPTrilhos a cobrar financiamento permanente. […] O post Lula propõe tarifa zero no transporte público aos fins de semana em todo o Brasil, mas custo estimado em R$ 10 bilhões leva ANPTrilhos a cobrar financiamento permanente apareceu primeiro em CPG Click Petróleo e Gás . Associação alerta que gratuidade nas passagens exige planejamento financeiro, divisão de despesas entre governos e medidas para preservar a qualidade dos serviços de transporte coletivo A proposta do presidente Luiz Inácio Lula da Silva de oferecer transporte público gratuito aos fins de semana abriu uma discussão sobre o financiamento dos sistemas de mobilidade no Brasil.",
+   "detalhes": {
+    "valores": [
+     "R$ 10 bilhões"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 12,
+   "entities": {
+    "campos_blocos": [
+     "Lula"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T17:51:11+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/lula-propoe-tarifa-zero-no-transporte-publico-aos-fins-de-semana-em-todo-o-brasil-mas-custo-estimado-em-r-10-bilhoes-leva-anptrilhos-a-cobrar-financiamento-permanente-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T17:51:11+00:00",
      "link_real": null
     }
    ],
@@ -20164,54 +20287,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "13d8d22ae8c2ce08",
-   "title": "Baleia-franca surge a poucos metros da Praia do Leblon, realiza sequência de saltos diante dos banhistas e transforma tarde comum no Rio em espetáculo registrado em vídeo",
-   "summary": "- Entregador de pizza enfrenta nevasca, abandona o carro diante de rua bloqueada e caminha quase 800 metros de tênis e moletom para entregar pedido de US$ 40, mas recebe só US$ 2 de gorjeta; policial se revolta com a cena, cria vaquinha e vê desconhecidos arrecadarem milhares de dólares - Mergulhadores entram praticamente às cegas no fundo do rio em Santa Catarina, enfrentam forte correnteza para alcançar o “Titanic de SC” afundado há 133 anos, cortam seu aço e preparam operação para finalmente arrancar o gigante do leito e abrir espaço para navios ainda maiores - Casal compra casa, abre uma gaveta embutida durante a mudança e encontra um tesouro com 64 moedas raras dos anos 1800, incluindo 46 peças de ouro; ao descobrir que o achado valia cerca de US$ 25 mil, poderia ficar com tudo, mas procura o antigo proprietário e devolve a coleção esquecida na Carolina do Sul - Mulher encontrou em 2017, ao chegar do trabalho, um bilhete escrito à mão pela vizinha de 90 anos que morava duas casas adiante perguntando se ela aceitaria ser sua amiga, porque todos os amigos já tinham morrido, e respondeu com visitas 4 vezes por semana com o marido e os filhos A baleia emergia, voltava a desaparecer sob a água e reaparecia poucos instantes depois. Animal apareceu muito perto da faixa de areia na Zona Sul do Rio e chamou atenção por pertencer a uma espécie menos comum no litoral fluminense do que as baleias-jubarte Uma tarde comum de sexta-feira mudou completamente para quem estava na Praia do Leblon, no Rio de Janeiro, em 4 de setembro de 2026. Identificação mostrou que não se tratava da espécie mais comum na região Para muitos observadores, poderia parecer apenas mais um registro de baleia-jubarte, já que essa espécie é conhecida por passar pelo litoral do Rio de Janeiro durante seus deslocamentos sazonais.",
-   "detalhes": {
-    "valores": [
-     "US$ 40,",
-     "US$ 2",
-     "US$ 25 mi"
-    ],
-    "profundidade": [
-     "800 metros",
-     "17 metros"
-    ],
-    "datas": [
-     "Janeiro",
-     "setembro de 2026",
-     "2026",
-     "Setembro",
-     "agosto",
-     "julho"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 12,
-   "entities": {
-    "campos_blocos": [
-     "Jubarte"
-    ],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T13:09:58+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/baleia-franca-surge-a-poucos-metros-da-praia-do-leblon-realiza-sequencia-de-saltos-diante-dos-banhistas-e-transforma-tarde-comum-no-rio-em-espetaculo-registrado-em-video-nmb91",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T13:09:58+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/baleia-franca-surge-a-poucos-metros-da-praia-do-leblon-realiza-sequencia-de-saltos-diante-dos-banhistas-e-transforma-tarde-comum-no-rio-em-espetaculo-registrado-em-video-nmb91"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "7a95ffede9f962f1",
    "title": "New AI Technology Deployed on Ten FPSOs in Brazil After Cutting Daily Emissions from Unplanned Gas Flaring by Over 12%",
    "summary": "New AI Technology Deployed on Ten FPSOs in Brazil After Cutting Daily Emissions from Unplanned Gas Flaring by Over 12%.",
@@ -20268,6 +20343,391 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-09-17T18:32:00+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "5998460488d94bfe",
+   "title": "Máquina Solo traz ao Brasil linha móvel da Sandvik capaz de processar até 1.000 toneladas por hora e mira operações de grande escala com tecnologia ainda pouco usada no país",
+   "summary": "Máquina Solo traz ao Brasil linha móvel da Sandvik capaz de processar até 1.000 toneladas por hora e mira operações de grande escala com tecnologia ainda pouco usada no país. Máquina Solo traz linha Ultra Heavy da Sandvik ao Brasil, com equipamentos móveis de até 1.000 toneladas por hora voltados a operações de grande escala. A Máquina Solo começou a distribuir no Brasil a linha Ultra Heavy, da Sandvik, formada por equipamentos móveis voltados a operações de mineração de maior porte e com capacidade de […] O post Máquina Solo traz ao Brasil linha móvel da Sandvik capaz de processar até 1.000 toneladas por hora e mira operações de grande escala com tecnologia ainda pouco usada no país apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {},
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T18:10:01+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/maquina-solo-traz-ao-brasil-linha-movel-da-sandvik-capaz-de-processar-ate-1-000-toneladas-por-hora-e-mira-operacoes-de-grande-escala-com-tecnologia-ainda-pouco-usada-no-pais-ctl01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T18:10:01+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "19d939c98d22b978",
+   "title": "BALANÇA COMERCIAL DO RIO DE JANEIRO APRESENTA UM RESULTADO POSITIVO SUPERIOR A 20% EM RELAÇÃO AO MESMO PERÍODO DO ANO PASSADO",
+   "summary": "As exportações do estado do Rio somaram US$ 38,3 bilhões, entre janeiro e agosto deste ano, representando um aumento de 20% em comparação ao mesmo período de 2025. BALANÇA COMERCIAL DO RIO DE JANEIRO APRESENTA UM RESULTADO POSITIVO SUPERIOR A 20% EM RELAÇÃO AO MESMO PERÍODO DO ANO PASSADO. A indústria de petróleo e gás foi responsável pelo desempenho positivo, com o mesmo índice de crescimento, atingindo US$ 30,5 bilhões, o que representa 80% da pauta",
+   "detalhes": {
+    "valores": [
+     "US$ 38,3 bilhões",
+     "US$ 30,5 bilhões"
+    ],
+    "percentual": [
+     "20%",
+     "80%"
+    ],
+    "datas": [
+     "JANEIRO",
+     "agosto",
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T18:00:04+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/balanca-comercial-do-rio-de-janeiro-apresenta-um-resultado-positivo-superior-a-20-em-relacao-ao-mesmo-periodo-do-ano-passado",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T18:00:04+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a026ca7b64d710b7",
+   "title": "Petróleo e gás concentram 80% das exportações do Rio de Janeiro enquanto Índia triplica compras e vendas aos Estados Unidos caem pela metade",
+   "summary": "Petróleo e gás movimentam US$ 30,5 bilhões no Rio de Janeiro em oito meses, com alta de 207% nas vendas à Índia e queda de 50% aos EUA. Petróleo e gás concentram 80% das exportações do Rio de Janeiro enquanto Índia triplica compras e vendas aos Estados Unidos caem pela metade. Enquanto a China amplia […] O post Petróleo e gás concentram 80% das exportações do Rio de Janeiro enquanto Índia triplica compras e vendas aos Estados Unidos caem pela metade apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "US$ 30,5 bilhões"
+    ],
+    "percentual": [
+     "80%",
+     "207%",
+     "50%"
+    ],
+    "datas": [
+     "Janeiro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T17:36:53+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/petroleo-e-gas-concentram-80-das-exportacoes-do-rio-de-janeiro-enquanto-india-triplica-compras-e-vendas-aos-estados-unidos-caem-pela-metade-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T17:36:53+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "768f86d2137b9113",
+   "title": "Mina de ouro que já produziu 257 mil onças em Goiás pode voltar com operação subterrânea",
+   "summary": "Mina de ouro que já produziu 257 mil onças em Goiás pode voltar com operação subterrânea. Mineradora brasileira aposta na exploração de áreas profundas em Faina, planeja novas sondagens e busca ampliar suas reservas antes da construção de uma planta industrial. Uma antiga mina de ouro localizada em Faina, no interior de Goiás, poderá voltar a produzir após anos sem atividade.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T17:24:57+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/mina-de-ouro-que-ja-produziu-257-mil-oncas-em-goias-pode-voltar-com-operacao-subterranea-ctl01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T17:24:57+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "6e6afd1984de6e00",
+   "title": "Carga de 900 quilos de castanha vinda da Itália é interceptada em Guarulhos após fiscais descobrirem praga ausente do Brasil que pode provocar perdas agrícolas e prejuízos aos produtores",
+   "summary": "Carga de 900 quilos de castanha vinda da Itália é interceptada em Guarulhos após fiscais descobrirem praga ausente do Brasil que pode provocar perdas agrícolas e prejuízos aos produtores. Larvas escondidas no interior dos frutos levaram autoridades a adotar medidas sanitárias para impedir que um inseto exótico chegasse às áreas de produção brasileiras Uma carga de 900 quilos de castanha portuguesa, importada da Itália, foi interceptada no Aeroporto Internacional de Guarulhos, em São Paulo, após fiscais identificarem a presença de uma praga considerada ausente […] O post Carga de 900 quilos de castanha vinda da Itália é interceptada em Guarulhos após fiscais descobrirem praga ausente do Brasil que pode provocar perdas agrícolas e prejuízos aos produtores apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T17:02:42+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/carga-de-900-quilos-de-castanha-vinda-da-italia-e-interceptada-em-guarulhos-apos-fiscais-descobrirem-praga-ausente-do-brasil-que-pode-provocar-perdas-agricolas-e-prejuizos-aos-produto-vacs75",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T17:02:42+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "0c01b2be44bdde06",
+   "title": "A GRECA ASFALTOS VAI FORNECER NOVO MATERIAL PARA REVESTIMENTO DA PONTE MAIS FAMOSA DE ITAIPAVA, EM PETRÓPOLIS",
+   "summary": "A GRECA ASFALTOS VAI FORNECER NOVO MATERIAL PARA REVESTIMENTO DA PONTE MAIS FAMOSA DE ITAIPAVA, EM PETRÓPOLIS. A nova Ponte do Arranha-Céu, no km 58 da BR-040, em Itaipava, distrito de Petrópolis (RJ), terá em seu novo revestimento asfalto-borracha. O ligante, fornecido pela GRECA Asfaltos, pioneira na tecnologia do Brasil, integra a fase final da obra, que prevê ampliar a fluidez do trânsito na ligação entre a BR-040 e a Estrada União",
+   "detalhes": {},
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T16:00:32+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/a-greca-asfaltos-vai-fornecer-novo-material-de-revestimento-da-ponte-mais-famosa-de-itaipava-em-petropolis",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T16:00:32+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "1c73d051a2e84e99",
+   "title": "Brasil tinha 11,9 mil obras paralisadas em 2024, e CBIC entra em programa para ajudar na retomada",
+   "summary": "Brasil tinha 11,9 mil obras paralisadas em 2024, e CBIC entra em programa para ajudar na retomada. Dados do TCU apontavam 11.944 obras interrompidas em 2024. A Câmara Brasileira da Indústria da Construção (CBIC) passou a integrar oficialmente o Programa Destrava, iniciativa coordenada pelo Conselho Nacional de Justiça (CNJ) que busca encontrar soluções para a retomada de obras públicas […] O post Brasil tinha 11,9 mil obras paralisadas em 2024, e CBIC entra em programa para ajudar na retomada apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "datas": [
+     "2024"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T15:51:46+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/brasil-tinha-119-mil-obras-paralisadas-em-2024-e-cbic-entra-em-programa-para-ajudar-na-retomada-rmrm97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T15:51:46+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "794c757aebbc7fc9",
+   "title": "Universitários brasileiros transformam projeto universitário em vencedor entre 98 inscrições na Alemanha com transformador de alta frequência que integra baterias e pode reduzir em até 10 vezes o uso de cobre e aço elétrico",
+   "summary": "Universitários brasileiros transformam projeto universitário em vencedor entre 98 inscrições na Alemanha com transformador de alta frequência que integra baterias e pode reduzir em até 10 vezes o uso de cobre e aço elétrico. Projeto desenvolvido por pesquisadores da UFCG, UFC e Universidade de Kassel recebeu 2.500 euros na categoria Novos Talentos e combina eletrônica de potência, armazenamento em baterias e controle modular em uma arquitetura ainda em fase de laboratório. Um transformador de estado sólido que combina conversão de tensão e armazenamento em baterias levou uma equipe com […] O post Universitários brasileiros transformam projeto universitário em vencedor entre 98 inscrições na Alemanha com transformador de alta frequência que integra baterias e pode reduzir em até 10 vezes o uso de cobre e aço elétrico apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T15:48:51+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/universitarios-brasileiros-transformam-projeto-universitario-em-vencedor-entre-98-inscricoes-na-alemanha-com-transformador-de-alta-frequencia-que-integra-baterias-e-pode-reduzir-em-ate-afch",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T15:48:51+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "78fd9f04277add18",
+   "title": "Brasileiros criam tecnologia inovadora que pode acrescentar R$ 200 mil por ano à geração de uma usina solar no Piauí e o segredo aparece justamente quando as nuvens escondem o sol",
+   "summary": "Brasileiros criam tecnologia inovadora que pode acrescentar R$ 200 mil por ano à geração de uma usina solar no Piauí e o segredo aparece justamente quando as nuvens escondem o sol. Nos meses chuvosos, a Echoenergia estimou ganho médio de cerca de 0,5% na geração. Quando o céu fica encoberto, seguir a posição do sol nem sempre é a configuração mais favorável […] O post Brasileiros criam tecnologia inovadora que pode acrescentar R$ 200 mil por ano à geração de uma usina solar no Piauí e o segredo aparece justamente quando as nuvens escondem o sol apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "R$ 200 mi"
+    ],
+    "percentual": [
+     "0,5%"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T15:21:53+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/brasileiros-criam-tecnologia-inovadora-que-pode-acrescentar-r-200-mil-por-ano-a-geracao-de-uma-usina-solar-no-piaui-e-o-segredo-aparece-justamente-quando-as-nuvens-escondem-o-sol-afch",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T15:21:53+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "7f0d79b2cd1aafe8",
+   "title": "Omoda 7 terá versão híbrida sem recarga na tomada em 2027 com bateria de 5 kWh e alcance estimado de até 1.500 km",
+   "summary": "Omoda 7 terá versão híbrida sem recarga na tomada em 2027 com bateria de 5 kWh e alcance estimado de até 1.500 km. Segundo reportagem da Quatro Rodas publicada em 20 de outubro de […] O post Omoda 7 terá versão híbrida sem recarga na tomada em 2027 com bateria de 5 kWh e alcance estimado de até 1.500 km apareceu primeiro em CPG Click Petróleo e Gás . Nova configuração SHS-H deverá ampliar a linha brasileira com proposta de preço inferior à versão plug-in, mas potência, consumo homologado e valor de lançamento ainda não foram divulgados O Omoda 7 deverá ganhar uma versão híbrida que dispensa recarga externa no Brasil em 2027.",
+   "detalhes": {
+    "profundidade": [
+     "1.500 km"
+    ],
+    "datas": [
+     "2027",
+     "outubro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T11:27:51+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/omoda-7-shs-h-hibrido-bateria-5-kwh-2027-rss94",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T11:27:51+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "203ddd7250352c54",
+   "title": "Novo BYD Sealion 06 desembarca no Brasil camuflado e inicia testes no Espírito Santo: SUV híbrido promete até 170 km sem gastar gasolina, traz tecnologia mais avançada e pode ocupar espaço acima do Song Plus",
+   "summary": "Novo BYD Sealion 06 desembarca no Brasil camuflado e inicia testes no Espírito Santo: SUV híbrido promete até 170 km sem gastar gasolina, traz tecnologia mais avançada e pode ocupar espaço acima do Song Plus. O BYD Sealion 06 já apareceu em testes no Brasil e acendeu um novo alerta no mercado […] O post Novo BYD Sealion 06 desembarca no Brasil camuflado e inicia testes no Espírito Santo: SUV híbrido promete até 170 km sem gastar gasolina, traz tecnologia mais avançada e pode ocupar espaço acima do Song Plus apareceu primeiro em CPG Click Petróleo e Gás . Flagrado em testes no Brasil, o BYD Sealion 06 aparece como possível reforço da ofensiva da marca chinesa no país; modelo híbrido plug-in já foi apresentado na China e pode ampliar a disputa no segmento de SUVs eletrificados.",
+   "detalhes": {
+    "profundidade": [
+     "170 km"
+    ]
+   },
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-22T03:03:47+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/novo-byd-sealion-06-desembarca-no-brasil-camuflado-e-inicia-testes-no-espirito-santo-suv-hibrido-promete-ate-170-km-sem-gastar-gasolina-traz-tecnologia-mais-avancada-e-pode-ocupar-espac-fpsv",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-22T03:03:47+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "c88f6920cf184a8d",
+   "title": "Zoom Debates discute o futuro do petróleo no Brasil",
+   "summary": "Zoom Debates discute o futuro do petróleo no Brasil.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-10-21T19:20:27+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "TV Zoom",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IZzY5X3RKaVZURjJoZm5ZeW1CQzRBcmxaMHlqdkZ0UHBlc1pmV2JhUlZya3diTndvcFc4TTZ4NFI3YzNSX1I2elUwckxYRDRSb3FMc1VSZVZmRGR0blhJX2RYMFJoSDU0VVFxdUtFTjQ4b0tfWWNfeXBmUnRwSk0?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-21T19:20:27+00:00",
      "link_real": null
     }
    ],
@@ -37773,262 +38233,6 @@
      "paid": false,
      "published": "2026-09-08T07:00:20+00:00",
      "link_real": "https://petronoticias.com.br/sauer-compressors-planeja-duplicar-sua-capacidade-no-brasil-e-ve-espaco-para-crescimento/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "b42b414ecc0b82f0",
-   "title": "ANP e Banco Mundial iniciam campanha para medir emissões de metano em ativos de produção de petróleo e gás no Brasil",
-   "summary": "- O presidente disse que o petróleo achado a 175 quilômetros da costa do extremo norte do país “parece” de mais qualidade que o do pré-sal, lembrou que o líder americano anda atrás de petróleo e fechou com quatro palavras que arrancaram aplausos - Exportações brasileiras de petróleo saltam 75,6% no início de setembro, chegam a 5,25 milhões de toneladas em duas semanas e acompanham produção recorde do país - Iraque coloca 209 caminhões tanque na estrada, move mais de 6 milhões de litros de petróleo em dois dias e testa rota terrestre até Kirkuk para reforçar exportações por Ceyhan - China passa anos acumulando petróleo, amplia reservas até concentrar cerca de um terço dos estoques conhecidos no mundo e usa esse colchão para reduzir compras em 23% durante a guerra com o Irã, derrubando em cerca de US$ 10 o preço estimado do barril e surpreendendo o mercado global Medição de metano separa estimativa de ocorrência real Inventários normalmente aplicam fatores de emissão a equipamentos e volumes operados. A ANP lançou a iniciativa em 3 de setembro, durante encontro no Rio de Janeiro com técnicos do Banco Mundial e representantes da indústria. O metano não aparece como uma nuvem visível sobre uma plataforma, mas pode escapar por válvulas, flanges, tanques, sistemas de ventilação e queima.",
-   "detalhes": {
-    "valores": [
-     "US$ 10"
-    ],
-    "percentual": [
-     "75,6%",
-     "23%"
-    ],
-    "datas": [
-     "setembro",
-     "Janeiro"
-    ]
-   },
-   "category": "Novas Tecnologias",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T17:51:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/anp-banco-mundial-medicao-metano-petroleo-gas-phsn84",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T17:51:00+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/anp-banco-mundial-medicao-metano-petroleo-gas-phsn84"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "bdff35443a6886fe",
-   "title": "ANP revisa metas do RenovaBio para novas distribuidoras e propõe vigência das mudanças a partir de janeiro de 2027",
-   "summary": "- O presidente disse que o petróleo achado a 175 quilômetros da costa do extremo norte do país “parece” de mais qualidade que o do pré-sal, lembrou que o líder americano anda atrás de petróleo e fechou com quatro palavras que arrancaram aplausos - Exportações brasileiras de petróleo saltam 75,6% no início de setembro, chegam a 5,25 milhões de toneladas em duas semanas e acompanham produção recorde do país - Iraque coloca 209 caminhões tanque na estrada, move mais de 6 milhões de litros de petróleo em dois dias e testa rota terrestre até Kirkuk para reforçar exportações por Ceyhan - China passa anos acumulando petróleo, amplia reservas até concentrar cerca de um terço dos estoques conhecidos no mundo e usa esse colchão para reduzir compras em 23% durante a guerra com o Irã, derrubando em cerca de US$ 10 o preço estimado do barril e surpreendendo o mercado global Revisão do RenovaBio trata os dois primeiros anos No primeiro ano de atividade, a nova distribuidora deverá comprovar parcialmente o cumprimento da meta ao longo do próprio ano. ANP revisa metas do RenovaBio para novas distribuidoras e propõe vigência das mudanças a partir de janeiro de 2027. A revisão do RenovaBio desenha uma regra específica para distribuidoras em seus dois primeiros anos, ajusta metas dos agentes que já operam e pode levar à perda da autorização quando houver inadimplência repetida, com vigência recomendada para 1º de janeiro de 2027.",
-   "detalhes": {
-    "valores": [
-     "US$ 10"
-    ],
-    "percentual": [
-     "75,6%",
-     "23%"
-    ],
-    "datas": [
-     "janeiro de 2027",
-     "setembro",
-     "2024",
-     "2025",
-     "2027"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T17:06:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/anp-revisa-renovabio-novas-distribuidoras-2027-phsn84",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T17:06:00+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/anp-revisa-renovabio-novas-distribuidoras-2027-phsn84"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "a10a392006888b2d",
-   "title": "Brasileiros ainda terão quatro chances de feriadão antes de 2026 acabar, com outubro trazendo folga nacional em uma segunda-feira, novembro reunindo uma segunda e uma sexta e dezembro fechando o ano com o Natal numa sexta; sequência cria fins de semana prolongados, enquanto a Proclamação da República será a exceção ao cair justamente em um domingo",
-   "summary": "- Governo estrangeiro assina um decreto e toma de uma só vez as fábricas de uma das maiores empresas de alimentos do planeta, entrega tudo a uma firma comandada por um general, e o motivo alegado envolve uma guerra que já dura anos - INSS começa a soltar o dinheiro de setembro nesta quinta-feira (24): quem ganha até R$ 1.621 recebe primeiro, o último grupo só vê o depósito em 7 de outubro, e um único número no cartão decide em que lugar da fila você está - Novas regras do Pix obrigarão instituições a avisar usuários marcados por suspeita de fraude e responder contestações em até sete dias - Adeus KitKat: Nestlé fecha fábricas, demite 16 mil pessoas e encerra produção em unidade de 64 anos Para trabalhadores que normalmente não cumprem expediente aos sábados e domingos, a posição da data no calendário pode criar um feriadão de três dias consecutivos. Brasileiros ainda terão quatro chances de feriadão antes de 2026 acabar, com outubro trazendo folga nacional em uma segunda-feira, novembro reunindo uma segunda e uma sexta e dezembro fechando o ano com o Natal numa sexta; sequência cria fins de semana prolongados, enquanto a Proclamação da República será a exceção ao cair justamente em um domingo. Depois do feriado da Independência, o calendário nacional ainda reserva quatro datas capazes de formar feriadão: 12 de outubro e 2 de novembro caem numa segunda-feira, 20 de novembro e 25 de dezembro numa sexta-feira; já 15 de novembro, Proclamação da República, será celebrado mesmo em um domingo em 2026.",
-   "detalhes": {
-    "valores": [
-     "R$ 1.621"
-    ],
-    "datas": [
-     "2026",
-     "outubro",
-     "novembro",
-     "dezembro",
-     "outubro de 2026",
-     "setembro"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T16:54:39+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/brasileiros-ainda-terao-quatro-chances-de-feriadao-antes-de-2026-acabar-com-outubro-trazendo-folga-nacional-em-uma-segunda-feira-novembro-reunindo-uma-segunda-e-uma-sexta-e-ctl01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T16:54:39+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/brasileiros-ainda-terao-quatro-chances-de-feriadao-antes-de-2026-acabar-com-outubro-trazendo-folga-nacional-em-uma-segunda-feira-novembro-reunindo-uma-segunda-e-uma-sexta-e-ctl01"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "919193e36e31f493",
-   "title": "ANP propõe capital mínimo de até R$ 200 milhões e auditoria da origem dos recursos para agentes do setor de combustíveis",
-   "summary": "- O presidente disse que o petróleo achado a 175 quilômetros da costa do extremo norte do país “parece” de mais qualidade que o do pré-sal, lembrou que o líder americano anda atrás de petróleo e fechou com quatro palavras que arrancaram aplausos - Exportações brasileiras de petróleo saltam 75,6% no início de setembro, chegam a 5,25 milhões de toneladas em duas semanas e acompanham produção recorde do país - Iraque coloca 209 caminhões tanque na estrada, move mais de 6 milhões de litros de petróleo em dois dias e testa rota terrestre até Kirkuk para reforçar exportações por Ceyhan - China passa anos acumulando petróleo, amplia reservas até concentrar cerca de um terço dos estoques conhecidos no mundo e usa esse colchão para reduzir compras em 23% durante a guerra com o Irã, derrubando em cerca de US$ 10 o preço estimado do barril e surpreendendo o mercado global Capital mínimo da ANP ganha uma camada de rastreabilidade A cifra, sozinha, não encerra a mudança. ANP propõe capital mínimo de até R$ 200 milhões e auditoria da origem dos recursos para agentes do setor de combustíveis. O capital mínimo da ANP poderá chegar a R$ 200 milhões para produtores de combustíveis, acompanhado de auditoria sobre a origem dos recursos e identificação do verdadeiro controlador da empresa, em uma revisão regulatória que também alcança distribuidores, revendedores e o mercado de aviação.",
-   "detalhes": {
-    "valores": [
-     "R$ 200 milhões",
-     "R$ 1 milhão",
-     "R$ 10 milhões",
-     "US$ 10"
-    ],
-    "percentual": [
-     "75,6%",
-     "23%"
-    ],
-    "datas": [
-     "setembro",
-     "janeiro de 2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T16:19:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/anp-capital-minimo-200-milhoes-combustiveis-phsn84",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T16:19:00+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/anp-capital-minimo-200-milhoes-combustiveis-phsn84"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "c6cdea530512ac96",
-   "title": "Stellantis ultrapassa 600 mil veículos vendidos na América do Sul em 2026, com quase 504 mil unidades comercializadas no Brasil",
-   "summary": "As vendas da Stellantis cruzaram 600 mil veículos na América do Sul em 2026, com o Brasil concentrando quase 504 mil unidades e sustentando uma participação regional de 26,6%, resultado que coloca mais de um carro do grupo a cada quatro novos vendidos no continente. - Governo estrangeiro assina um decreto e toma de uma só vez as fábricas de uma das maiores empresas de alimentos do planeta, entrega tudo a uma firma comandada por um general, e o motivo alegado envolve uma guerra que já dura anos - INSS começa a soltar o dinheiro de setembro nesta quinta-feira (24): quem ganha até R$ 1.621 recebe primeiro, o último grupo só vê o depósito em 7 de outubro, e um único número no cartão decide em que lugar da fila você está - Novas regras do Pix obrigarão instituições a avisar usuários marcados por suspeita de fraude e responder contestações em até sete dias - Adeus KitKat: Nestlé fecha fábricas, demite 16 mil pessoas e encerra produção em unidade de 64 anos Vendas da Stellantis aceleraram no Brasil em agosto O recorte mensal mostra que o Brasil emplacou mais de 65 mil veículos do grupo em agosto. O volume ficou 7,6% acima do registrado no mesmo mês de 2025, avanço relevante em um mercado sensível a crédito, juros e renda.",
-   "detalhes": {
-    "valores": [
-     "R$ 1.621"
-    ],
-    "percentual": [
-     "26,6%",
-     "7,6%",
-     "2%",
-     "18,4%",
-     "45%",
-     "60,3%"
-    ],
-    "datas": [
-     "2026",
-     "setembro",
-     "outubro",
-     "agosto",
-     "2025",
-     "novembro de 2023"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T15:34:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/stellantis-600-mil-veiculos-america-sul-2026-phsn84",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T15:34:00+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/stellantis-600-mil-veiculos-america-sul-2026-phsn84"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "ad7494aa66d327aa",
-   "title": "Volume das Cataratas do Iguaçu explode após sequência de chuvas, chega a 8,37 milhões de litros por segundo, supera em mais de cinco vezes a média histórica e coloca equipes em alerta com monitoramento constante",
-   "summary": "- Pessoas em situação de rua constroem moradia improvisada sob viaduto, fotos do loft com paredes e janelas circulam pela internet, chegam até a polícia e ela determina 72 horas para estrutura ser desmontada na Califórnia - Um ex-ajudante de pedreiro de 30 anos deixou o litoral paulista de bicicleta com apenas R$ 48 na conta, subiu uma serra do país vizinho a 2.850 metros empurrando o veículo rumo ao “fim do mundo” e viu o dinheiro das doações travado sem explicação Às 13h de 2 de setembro, as Cataratas registraram 8 milhões e 370 mil litros de água por segundo. Volume do rio Iguaçu começou a subir em 31 de agosto, atingiu o maior nível do episódio em 2 de setembro e permaneceu muito acima do normal no dia seguinte, sem interromper a visitação no lado brasileiro As Cataratas do Iguaçu, no Paraná, ganharam uma aparência ainda mais impressionante no início de setembro de 2026. O pico ocorreu na tarde de 2 de setembro, segundo a concessionária Urbia+Cataratas.",
-   "detalhes": {
-    "valores": [
-     "R$ 0,90,",
-     "R$ 48"
-    ],
-    "profundidade": [
-     "2.850 metros"
-    ],
-    "datas": [
-     "agosto",
-     "setembro",
-     "setembro de 2026",
-     "agosto de 2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-07T13:32:35+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/volume-das-cataratas-do-iguacu-explode-apos-sequencia-de-chuvas-chega-a-837-milhoes-de-litros-por-segundo-supera-em-mais-de-cinco-vezes-a-media-historica-e-coloca-equipes-em-alerta-com-nmb91",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-07T13:32:35+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/volume-das-cataratas-do-iguacu-explode-apos-sequencia-de-chuvas-chega-a-837-milhoes-de-litros-por-segundo-supera-em-mais-de-cinco-vezes-a-media-historica-e-coloca-equipes-em-alerta-com-nmb91"
     }
    ],
    "has_paid": false,
