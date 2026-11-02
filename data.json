@@ -1,23 +1,23 @@
 {
  "meta": {
-  "gerado_em": "2026-11-01T18:55:42.214026+00:00",
-  "total_grupos": 876,
-  "total_noticias": 1941,
+  "gerado_em": "2026-11-02T22:42:06.502568+00:00",
+  "total_grupos": 879,
+  "total_noticias": 1928,
   "janela_dias": 45
  },
  "metricas": {
-  "total_grupos": 876,
+  "total_grupos": 879,
   "por_categoria": {
-   "Operadoras e IOCs": 555,
+   "Operadoras e IOCs": 556,
    "Novas Tecnologias": 72,
-   "Bids e Licitações": 61,
+   "Bids e Licitações": 60,
    "Prospectos e Investimentos": 60,
-   "Contratos e Concorrentes": 39,
+   "Contratos e Concorrentes": 41,
+   "Projetos Futuros": 19,
    "Perfuração e Poços": 17,
-   "Projetos Futuros": 17,
    "Opinião e Regulatório": 14,
    "Campanhas e Blocos": 10,
-   "Descobertas": 10,
+   "Descobertas": 9,
    "Resultados Trimestrais": 9,
    "SURF": 4,
    "Descomissionamento": 3,
@@ -25,21 +25,21 @@
    "FIDs e PADs": 2
   },
   "com_fonte_paga": 0,
-  "alta_relevancia": 35
+  "alta_relevancia": 34
  },
  "tendencias": {
   "alta": [
    {
     "topico": "Petrobras",
-    "atual": 24,
+    "atual": 27,
     "anterior": 12,
-    "delta": 12
+    "delta": 15
    },
    {
     "topico": "Lula",
-    "atual": 5,
-    "anterior": 1,
-    "delta": 4
+    "atual": 4,
+    "anterior": 2,
+    "delta": 2
    },
    {
     "topico": "Shell",
@@ -48,25 +48,31 @@
     "delta": 2
    },
    {
+    "topico": "Sinopec",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
+   },
+   {
+    "topico": "Foresea",
+    "atual": 2,
+    "anterior": 0,
+    "delta": 2
+   },
+   {
     "topico": "Brava Energia",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
-   },
-   {
-    "topico": "Mero",
-    "atual": 2,
-    "anterior": 0,
-    "delta": 2
-   },
-   {
-    "topico": "Total",
     "atual": 2,
     "anterior": 0,
     "delta": 2
    }
   ],
   "baixa": [
+   {
+    "topico": "Altera",
+    "atual": 0,
+    "anterior": 1,
+    "delta": -1
+   },
    {
     "topico": "DOF",
     "atual": 0,
@@ -77,11 +83,10 @@
  },
  "mercado": {
   "brent": {
-   "atual": 113.43,
+   "atual": 104.23,
    "moeda": "US$",
-   "variacao_pct": -1.26,
+   "variacao_pct": -11.4,
    "serie": [
-    102.31,
     102.25,
     100.32,
     100.58,
@@ -102,16 +107,16 @@
     113.88,
     115.32,
     114.88,
-    113.43
+    117.64,
+    104.23
    ],
    "fonte": "Yahoo"
   },
   "usd": {
-   "atual": 5.4325,
+   "atual": 5.4378,
    "moeda": "R$",
-   "variacao_pct": 1.51,
+   "variacao_pct": 0.1,
    "serie": [
-    5.1279,
     5.1231,
     5.1322,
     5.1808,
@@ -140,16 +145,16 @@
     5.3474,
     5.3271,
     5.3516,
-    5.4325
+    5.4325,
+    5.4378
    ],
    "fonte": "Frankfurter"
   },
   "eur": {
-   "atual": 6.0692,
+   "atual": 6.099,
    "moeda": "R$",
-   "variacao_pct": 1.9,
+   "variacao_pct": 0.49,
    "serie": [
-    5.892,
     5.8726,
     5.8564,
     5.889,
@@ -178,15 +183,16 @@
     5.9624,
     5.9307,
     5.9563,
-    6.0692
+    6.0692,
+    6.099
    ],
    "fonte": "Frankfurter"
   }
  },
  "analise": {
-  "texto": "## Panorama do dia\n876 assuntos no radar, 35 de alta relevância. Tópicos em alta: Petrobras, Lula, Shell, Brava Energia, Mero, Total. Em baixa: DOF.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (4 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (61 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (3 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (17 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (10 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 14 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
+  "texto": "## Panorama do dia\n879 assuntos no radar, 34 de alta relevância. Tópicos em alta: Petrobras, Lula, Shell, Sinopec, Foresea, Brava Energia. Em baixa: Altera, DOF.\n\n## Leitura por operadora\n- Acompanhe as notícias de Petrobras e IOCs nas categorias específicas abaixo (a leitura fina exige a IA, ainda não ligada).\n\n## Oportunidades para serviços subsea\n- **SURF** (4 assunto(s)): instalação submarina (dutos, risers, umbilicais).\n- **FIDs e PADs** (2 assunto(s)): decisões de investimento — janelas de contratação.\n- **Bids e Licitações** (60 assunto(s)): leilões/licitações — pipeline de novos blocos.\n- **Descomissionamento** (3 assunto(s)): remoção de dutos e abandono de poços.\n- **Perfuração e Poços** (17 assunto(s)): campanhas de perfuração — demanda por sondas/embarcações.\n- **Descobertas** (9 assunto(s)): novas acumulações — desenvolvimento futuro.\n\n## Sinais de atenção\n- Categoria regulatória/opinião: 14 assunto(s) — fique de olho em mudanças de regra.\n- Para a leitura cruzada e nuançada (postura das operadoras, implicações finas), ligue a IA (Opus 4.8).",
   "fonte": "Automática por regras (IA não configurada)",
-  "gerado_em": "2026-11-01T18:55:44.777896+00:00"
+  "gerado_em": "2026-11-02T22:42:07.961936+00:00"
  },
  "companhias": [
   {
@@ -407,7 +413,7 @@
    "fonte": "Automática por regras (IA não configurada)",
    "gerado_em": "2026-10-22T18:21:27.892675+00:00",
    "com_release": false,
-   "n_noticias": 8
+   "n_noticias": 7
   },
   {
    "id": "yinson",
@@ -444,81 +450,81 @@
  },
  "series": {
   "semanas": [
-   "13/09",
-   "20/09",
-   "27/09",
-   "04/10",
-   "11/10",
-   "18/10",
-   "25/10",
-   "01/11"
+   "14/09",
+   "21/09",
+   "28/09",
+   "05/10",
+   "12/10",
+   "19/10",
+   "26/10",
+   "02/11"
   ],
   "total": [
    0,
-   79,
-   259,
-   418,
-   568,
-   169,
-   158,
-   290
+   100,
+   222,
+   430,
+   545,
+   202,
+   144,
+   285
   ],
   "categorias": {
    "Operadoras e IOCs": [
     0,
-    59,
-    157,
-    180,
-    128,
-    115,
-    109,
-    151
+    75,
+    129,
+    183,
+    119,
+    139,
+    93,
+    150
    ],
    "Bids e Licitações": [
     0,
-    3,
+    1,
     11,
-    25,
-    338,
-    8,
+    27,
+    337,
+    10,
     9,
-    17
+    15
    ],
    "Descobertas": [
     0,
-    2,
-    13,
-    137,
-    7,
+    5,
+    8,
+    141,
+    4,
     5,
     10,
-    66
+    65
    ],
    "Novas Tecnologias": [
     0,
-    5,
-    12,
-    12,
-    11,
-    10,
+    4,
+    14,
     9,
-    17
+    11,
+    12,
+    12,
+    14
    ],
    "Prospectos e Investimentos": [
     0,
-    3,
-    13,
-    12,
-    12,
+    2,
+    14,
+    14,
     8,
-    6,
-    12
+    9,
+    8,
+    11
    ],
    "Campanhas e Blocos": [
     0,
-    2,
-    8,
-    6,
+    3,
+    5,
+    7,
     40,
     6,
     0,
@@ -623,7 +629,7 @@
     ]
    },
    "published": "2026-11-01T10:29:15+00:00",
-   "n_sources": 323,
+   "n_sources": 320,
    "sources": [
     {
      "name": "Poder360",
@@ -1459,14 +1465,6 @@
     },
     {
      "name": "CPG Click Petróleo e Gás",
-     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaW1vblJTQUZyTnRDU1p1YTJzNE1JV1hQb0Z0bUNnTU9XRndNR0oxTXVXTWNEYWZBVHRtWXZhTG9Fb3JoTDlXUXdmMW5PMDNaWkwwUzZGd3ROMlVob2NQN0VldVJjS29Eb1Jwbkk0U2E3NG40T2x4Z3NJZHhOUEpIU01yUkl4QmlvY053MHVKUUVFd1EtQm1NNkVQZzdMTFBjLXlZNHJkRkxMbmdndW1xUktNS1dqeXBBTzlnSDFYY0VjcEFycnhoNDBHdnpiYjMwLW43WDZidm1GeEtnOTdialpWRXhsYXY2TENFNnJXUGVwbjV5QktheUpCMUlKaGpwQUpYYzJXaVNFdUtFZ3RGVExwaVFadXBRV2c?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-23T14:38:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "CPG Click Petróleo e Gás",
      "link": "https://clickpetroleoegas.com.br/descoberta-de-petroleo-no-pre-sal-pode-mobilizar-ate-quatro-plataformas-gigantes-e-abrir-nova-frente-de-producao-offshore-para-a-bp-no-brasil-vml97",
      "type": "aberta",
      "paid": false,
@@ -1476,6 +1474,14 @@
     {
      "name": "CPG Click Petróleo e Gás",
      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNeVYyWUhLQTQwLWRQcmxrVENGODBNV2xsZG5zbC1MV3E0U2c4dk1qaHdIWG1Wci1mMU5JcGQtSnF5NDdyTDNFZlFzcWdUM1J1VElpRlgzbDVwUG9TdUJ0RXdEQ3RiRm5kTDBVdDgxVDlBWnRWamwtb0R4aUF6YklULWNZZ3ZWLUtwTEU4YnQ5enlzVzVlcGc3UkNPcXEtQUs5UjZqX3FSa2p0SGNqaGY5OS1qNkhwX0kzNXJJTkVUaFpyMjkyNmFaRmk5VEVkSHdYUXJHXzdsUkczNEhhTG1xUGpESC1QSzhQcUJJZHpseXljZXBkQkxrSW5UUUtIejRjTHVQNzZWbURwRGNnWFE?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-23T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaW1vblJTQUZyTnRDU1p1YTJzNE1JV1hQb0Z0bUNnTU9XRndNR0oxTXVXTWNEYWZBVHRtWXZhTG9Fb3JoTDlXUXdmMW5PMDNaWkwwUzZGd3ROMlVob2NQN0VldVJjS29Eb1Jwbkk0U2E3NG40T2x4Z3NJZHhOUEpIU01yUkl4QmlvY053MHVKUUVFd1EtQm1NNkVQZzdMTFBjLXlZNHJkRkxMbmdndW1xUktNS1dqeXBBTzlnSDFYY0VjcEFycnhoNDBHdnpiYjMwLW43WDZidm1GeEtnOTdialpWRXhsYXY2TENFNnJXUGVwbjV5QktheUpCMUlKaGpwQUpYYzJXaVNFdUtFZ3RGVExwaVFadXBRV2c?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-23T07:00:00+00:00",
@@ -1562,7 +1568,7 @@
      "link_real": null
     },
     {
-     "name": "Robb Report",
+     "name": "Robb Report Brasil",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbFBRS013UGk4M1oxLVZrQmVOUDc4WTIwWDFGWnQ5YkFnRDZuc0ZlemJwM252VnkxM19xcWNMR1M0RmE3eGNKU3d6S2lkdnpPVlBKakRMSE1wVFNWcEszTndSUHdFY3o4VFhpM2YwRFcwTm1rODFGVGhuQmt3bDlmRlJIMVFpNjZ1cHF3T2lCR1gzYXpLN0VpVGFub1pTTFNpUmh4cFhtUnYxeGJXeENaTVE0djUyUjVrWnc?oc=5",
      "type": "aberta",
      "paid": false,
@@ -2126,7 +2132,7 @@
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWoxQlprU1BYRUhLUE9mZHJ5QmxqRkJINzdMS2tEekQ3YUhSSFRSQ3FmVmRNTUxjRFpUZm00WHF5RjJzWE5yMlExcF9QUTZaZnF4NU5Wc3hiZzFnR0dsRHM0QlNXR0RxSmEzc1Rlb1R3SWtJX0ZlM2lLN2NXZ0k3MjR1OWhIREJ0bkhiWXdKYVVLeThUYXViZWhRT3QtcXMyYzZScHlvRHZSMmxTcmkzUGNNY0pIVnpM?oc=5",
      "type": "aberta",
      "paid": false,
-     "published": "2026-10-11T14:34:23+00:00",
+     "published": "2026-10-11T07:00:00+00:00",
      "link_real": null
     },
     {
@@ -2204,6 +2210,14 @@
     {
      "name": "Brasil 61",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNEczbjBod0l6b0U0NjU2SnFpVEo5UWhQYWx2NUdWOHoxZEUtUVpDZGhiNUI2TmhlUVpTMjA0UUZlbVc3V3pvazd4R1ZnNnZqeTdEUDFfVFoxZ0dmQnFLd08yc0JNdURqczZVNGFDZU1mMjJ4RHdTVEgxbkI0M08zb2RkQjNtVUVYRTBZeTUzWTA4NVZ6ai1iQ1FxWUJuVjhKTDM4YWprVnNPQzI1Q1hhNEN0UTBtTW45RXRR0gHAAUFVX3lxTE03bC15V1hReWxvd21rQVVETFkwOVNNRDdmd0lWRkRRUktxVFJOWXFoeFBUX0V2Yl81a3NxbWw2WGVVRklsaU42WWxWZ3BvcTVWWGpXQzloRllIQWFKdm1mTTU3cndNNU9oSzJVdTBnZUc2SXpEX29YSEZsaGZPcHRzU2paTGNrLU44R2MxNmpTa21MM1VnWm0zV1lGNTYzX0lkM2tWeTJIWllqelhuSE9lOEYtazVFNW1IbXU0cnM3eQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-10T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYlI1OHVsSFU3bk9LX255QXZuSTJTQ1ZTUlVKaC1sN3duWkZnekFtblBrZnB4dWhVV2FIZG4zUl9oQ3Ewb0Iza0h1UmVSbTVjZFpOSW5IVzNackpyTEFVT1IxbTN4RHh6ZVFHcERmaXc0NHFOWVVDeTVRY3BTcGx2S29tbll6VFJKbDBhcFExeVVmUXJZLUt4SlRuaDdoSDhLTjM0c0NwYlBfNEtKUWliUHVhM1lUQkJ4TTlkcXJBbEJTMC1tdWFoV3NIZzlfa2s2WkNlb25PNVpzVElfWWNmV0lsUWVSMnBacV9OUFNQZFp1NkE2SUFNd0YwSS1iZGxFS1pNWS1RWm51UQ?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-10T07:00:00+00:00",
@@ -2946,6 +2960,14 @@
      "link_real": null
     },
     {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRkNRaktkb21CUmRqTDVCQVhPMmtCaVZVUzNJZWFZLW9IRUxuTG9xMWZGNkJraWVJRjBqTS1hb2t5SXpvYXNmekFvTGNHRko5WXJCdE5XekVwbzFxTkprT0lfRGlVanoxMG9XMHdpTEdBMGw0X2ppRjJrLVFlWXB5TjJlTXlXMGtJTGdxcTJIT0dEM2p4bW1iTFp4SkprbVVZbnBaU3p1Q25fZFZnQmItYlpaUXRjcnhhNFY5blBIUXV2eGIzMkV1cXNCU005N19BZnZYOFdVSC1fUQ?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-08T07:00:00+00:00",
+     "link_real": null
+    },
+    {
      "name": "Gazeta News Guarulhos",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmNodkJyN08tbGdieEJVRzY4Zl9ab2ZJU2wwVVlTUkhPM0hHZ2xDUjBtb3Q4SDczX2FfNWdoal9XNnNzc1gzNHNDbkN5dkhBQU1OMWFLcFF3UXRjLXA5aWR5cDd4cGp4Qnd1aUZvcExzajhWSlp6U2ZKNzRlNHRBME0wSUJSWkJ5ZWd6VWo5VHlpNFpzZ0U0WQ?oc=5",
      "type": "aberta",
@@ -3530,14 +3552,6 @@
      "link_real": null
     },
     {
-     "name": "Jornal Económico",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRqeVBVR0hyZG94YUs4NDdrdHl2NVhBZnBuM3YzanRJVzRBd2lGLVJLbmItbDg4a1VnaGtycnBEOVBEc1NWLWJ3U3Y0QVlXMGxVbDhreU95N2tqMDl4dmVneVRfSkVWR1ktSGFROElLXzBRem5QMFRHeTZiZlNRNEVtdXdac2hpaDdPSHJFZFZtY1planFjOXl1ZUxLc3RtakdKTHAtVk1rN2VqMHdZ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-07T17:54:00+00:00",
-     "link_real": null
-    },
-    {
      "name": "Rádio Independente",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdldwUzc5cDJvUWdBU05zcHdkaVpWQmJqT2h3dmRlVVNJYU1abk1KU0htcWp6UDJJLWxOUTZncEw0cjYwQmR1ZnJSVERhT2FxWjU0VmtiRE9VQ3lFWm43ZkEyNnlNcGx3TWhrdjhaSEJmeDFyZFNmOHFlZU5qQjU2Mk4xa1N6TE5YdUFCTW9TMHZGUjlSbUc1TFhkOXpFUVRSWmpyTUZ4UDhCU1ZUTlViZFBOSjQ?oc=5",
      "type": "aberta",
@@ -3959,14 +3973,6 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-07T13:36:31+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Petronotícias",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGhoNjM3WDZ0NXVPQkN3ZERId3hlcGJxaTBoMzh5OFJCRjhEMXNKNkV1SktMSnFKNHY1Rk1yWjQyWDNjVERydThjejdOanFFMkljV0pQSG5EcEJ4RlpGakZfNHk1Q2NpTk1PNVE0NkVaS1oxY3NwdW9lNlhQM012aEZ3bU92Zk9UdHdtNlI2S2JtbmhJQmRSVmgyM29majR0TGMwZg?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-10-07T13:36:00+00:00",
      "link_real": null
     },
     {
@@ -4428,6 +4434,22 @@
     {
      "name": "avozdocampo.com",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHNDbjJUREJvVXZVTkFRUEtLbV9fN2lIanZRTnNKcWUzb1NCU0JXczJmQ3hjYzhZc1FYWFpRR0FwS0kteWJmVHBRZlVYc09xcjdIYWtNRG8wTHEwMnNsWFB0UGoyVDByOWxvRmtFbnBfRy15eGVtRU1VTGxzSkptQWFGYnQwLTNRbWFTVDBWR2ZUcW9l?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Petronotícias",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGhoNjM3WDZ0NXVPQkN3ZERId3hlcGJxaTBoMzh5OFJCRjhEMXNKNkV1SktMSnFKNHY1Rk1yWjQyWDNjVERydThjejdOanFFMkljV0pQSG5EcEJ4RlpGakZfNHk1Q2NpTk1PNVE0NkVaS1oxY3NwdW9lNlhQM012aEZ3bU92Zk9UdHdtNlI2S2JtbmhJQmRSVmgyM29majR0TGMwZg?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-07T07:00:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "Jornal Económico",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRqeVBVR0hyZG94YUs4NDdrdHl2NVhBZnBuM3YzanRJVzRBd2lGLVJLbmItbDg4a1VnaGtycnBEOVBEc1NWLWJ3U3Y0QVlXMGxVbDhreU95N2tqMDl4dmVneVRfSkVWR1ktSGFROElLXzBRem5QMFRHeTZiZlNRNEVtdXdac2hpaDdPSHJFZFZtY1planFjOXl1ZUxLc3RtakdKTHAtVk1rN2VqMHdZ?oc=5",
      "type": "aberta",
      "paid": false,
      "published": "2026-10-07T07:00:00+00:00",
@@ -7426,14 +7448,6 @@
      "link_real": null
     },
     {
-     "name": "Agência eixos",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1JhamFPTnVHRUJUdVZoTmg1bzg1cW1BcmVXeXI0aEFOeE5sTnEtZ25kWVpaNVJxUWNKR29XVTBZU0VWb1pnRWV0cjlROFJmYkJLcVZ6MG9TYlRFLXQyVzM0OEhDX3lqM01ZbU95bS1LNzQ1MkJBTk9oMkRmVUZnTkpSbkpqY1pSdjU1MEpTaU9BX0MwcXQ1RTVTdk53cUVZRHBDUlFKUzdrbXJaTTM0b2s5S1NWZlJMQm9v?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-21T20:21:27+00:00",
-     "link_real": null
-    },
-    {
      "name": "Guia do Investidor",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVNhSGcxdno4WjV5Skt0Rll6SHY4Z3BCRjk3YWdVM0VYclkzRk5BNkZrU3FoemdELVg3eW5BN3ltcW12TFhYTzE1STA1alp4Y0NNQkhjWU9MdmstLWVkX2tITUtSVnFpd0ZtbjlWSTBDa0VOZm4xb0pfZ2paUFV2cE5tUk1RVS1ZNUpoOXR2emwzMFN6c25BR1VPOE5OTXczWjhjUldGZGtKaGNRVngwRlluTEU?oc=5",
      "type": "aberta",
@@ -7768,118 +7782,6 @@
      "paid": false,
      "published": "2026-09-19T07:00:00+00:00",
      "link_real": null
-    },
-    {
-     "name": "ncnews.com.br",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSUZzU0ZMbTFCcjFNajhUeVY3SnhfZDlsRkRISjlVR25xNHZhakp1OEk5NmF2eFNuS2FFUk1mdGpHTDVGbUlYLVpsQkZDWWVENGpxRFJRZTN6RGdWVmtJX2VodE9SdWM4WU9ZUnpZeURJeW9McGZCVzdFNUNZNXlQV0hUMDRYamZwSjFmUHBGOFlUeWt6WDdOSkFzMEN2QTlIUzNITjBlaXR2WWo5blRvSGtuNmpveldMZkFvb1Q1amVQOVVLeUE?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T22:00:09+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Vero Notícias",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXN1bDlsRDFnVEtobGswRk5TTkJETWxUX0VEekhZN0FqbGEtVVNTV2kxbkFhbWdyVGczbGVoVlprVk41aG1yQ0s2bXhvMHIwLWtRbS1xMGg4d0FwOFhSWmVUSEQwZnhndkg4T0NlRXJxdGp3N1QxRUhFX3JYa2J2a1hpaUZ0azlHeG1SdzlkMDdXdkdaYUYzVVJYRmR0QQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T20:08:37+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/slb-vai-aproveitar-a-roge-para-comemorar-a-marca-de-80-anos-atuando-no-brasil",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T20:00:13+00:00",
-     "link_real": "https://petronoticias.com.br/slb-vai-aproveitar-a-roge-para-comemorar-a-marca-de-80-anos-atuando-no-brasil/"
-    },
-    {
-     "name": "Jornal O Sul",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZnp2c2NkU2tfaTJLUVZpYUdtdjl2WExOLTR6TnJLNFhUOGVVc0g4VHdSTlhDaFJRWEdCWEJkS3A1cGdMTXlCb2U2OVhxcVF5Q25zMmpyM2d0VDY5NjU3M1ItZmdtN3JhUW1jNkZWbnE0Q2o1ZUJ3T2VaZW5VNWxiMjZkaWh4aUNWWGgySFNMRkZKX1RYRG1iVF9tZlRFb3V6T2M5S0ZLRkE0bDVaTERlODdkcXRBRXk0THfSAb8BQVVfeXFMUHBoNzRlNWJreWVOekkyM2pFRHVsajFXN29XeURyVzVSTEZxTm9sUnVyRWNvcU81enBvMUtfOXMwbDVIZkFNcEp5eUhjWXVib2xsRUV0TW91Qm0xVjZFbW9pN1N0bktLWUhacTFOX0FXa0psbWNqa3RPZkk4Q21RS2hadjFsTVVaYko0MDJ3S3FxQThBNU1vaVdaTTFybHFDdzBpc3pSaWNRU2dQUkc2MERYcmZYTXlJNV91QzFQU1k?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T18:31:38+00:00",
-     "link_real": null
-    },
-    {
-     "name": "TV Pampa",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMXBfRGcwNVJwMnZIZUtUWnpLdU5YcmszS1BnU2R1OXVyQXRKaVN5eGpyRTNRNTNWbURabFBPNTJqVUpPYVFBbkd2Z3FUWEhFNnk3ZnpaVmxNa2lUcUI4SlRRMGpwWFpqWGRsZkZsVWI1YkJsUjVoNWMyRFNWZ093Z04zdXNEMW5qS080VmRRUEh3OUFFbWNkbF9FcXp1RkxxUi14WUg4VkRXUjJoaXB1Q2E2Q2xPZkpadHJ3QWFR?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T18:29:27+00:00",
-     "link_real": null
-    },
-    {
-     "name": "avozdocampo.com",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSENhTnJEN2o1cmh2Mno4V0FxWllEV2xzVjBPc0MybVVDVFMwMG5XeU9rZVlZeXZhY3liYXFPYjU0a3JFUmh4UHBNTkNkYll3cm9XRC03Ni1qa2RicFRjMW1kaUhqVjNoU2EtXzlkUHpSZ3h1RGF3UTVIcHJLV2tHclV2ZU9zX2xGSlN3VklDN3JOT1d2VHhiWks0Q2NOZFJ4TkNKQlFER21oU3RDaVlhQ1poYWF3ams3WlZLM2tKMW4wVUpZVXd2UW1USDBQaU4w?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:58:07+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Terra",
-     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPY25Gdkt4Q05GWHV5Y2lsQnZyWkg1eS16S0FaTDN0NkNrdlNRaW1XUVJSZ2pqRFVZVVVjS1dXY2VPQUI2WXh1TUppcUlBZ0ZZWTV2VmpBN21CVGZsemQzZGxEOW9oWFBTUVhtT052VWstcWExV19hc19HZ0RKMERQbTVpNkIzcGRZN3VYbUdwNXd0clFENkNsOXVBdVg5Q1lKTjc3VWIyTV91dmNHWlhPcHlHMVlacnVhNTd3d0w0UXF5c1VyRllzazdxcUFUeEdRY0VOWm9ZdVktUlQwZTlnMXhTZlFjOTUxQzBMZUNQS2RIUXZmVk5FSTI0T3pwUk5qM1lRUWZUSkxzRUVuMUh6Z1dkU2dFSlJjNUFET3pQcW13QQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:45:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/sucesso-da-galp-no-brasil-estimula-a-participacao-da-petrolifera-portuguesa-na-feira-de-petroleo-no-rio",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:00:27+00:00",
-     "link_real": "https://petronoticias.com.br/sucesso-da-galp-no-brasil-estimula-a-participacao-da-petrolifera-portuguesa-na-feira-de-petroleo-no-rio/"
-    },
-    {
-     "name": "Portal BE News",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTlyal8zTEZaT3kyVEMyZmUzSV90UmFzZllOckl3RVVDYUJ6elItaW12LTN1ZjVKcFAtM2htYWE2d2xKdUlFc0VRN2oyU01nRFFhbm5CSHM1bnU2cWJVVmw5TEJ1N0hTaW0yOFJkNzU5MlRYWWVZV3g2dTJ1aWpHdGpYM2xsaWt6bFBJaEJZTVh2Zw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T12:43:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "G1",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNGk2QVg5NjlIN3djUXZOcmM0aWRDNVBudVJJTXlQXy1TMWplMlVYSVN3VVdBYVJCM0NpQ2Q2YXN6d2VDdDZETXE5N21CZ2FtWU5ScXpZOWNpTDZ2NEhPRjE5aF9lM2FZV2gzbjFhMzNXdlRWSzR4ZmNJTkUxMVg1d3l6X0F6MHNhV0h1dFRKWkJ1NHE3S3ZPVmt4bHFsTzJKR3p3MHNNVU9pd2Y1aHl2bVc2OTFyRzRqWTZxSkNYRTBoVmtXaFB5WnY4SFA2amkwOTJnLXN5YVhnT0pJR09sZDJkTTVXS0N5WlZNctIB-wFBVV95cUxQOFRlZHVub2c1cGtlUVpMdVdVbEV2OEQ1SmtBY095ejVDZGp4d1VNZm9obnc4WTNHU2hTeWtsRVNQcm1SOVZMQ0I4em0xR1d2el9ydk1wYTYyUXpWXzZDSzQzSWZiLTE2ZTRmX2JLendjdGdDTkVkWDNSM3RkYXhDZElzOFhIUGNkS3BUY0NzUnRad3hmOGYzMFlUSnhORVlDWkpZNWlSS3VwMUJVVlpobnF5Q0cyVFlVcHY4TUN4aENTcW5jOTRvSldyelZMM0J0VE5Ca3RYQjJhajFXNzNqQy16b3luaDBHckVlLTNUa0Y4MVhFTWNIN0VIaw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "SBT News",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZnNlVS1xUHB4cV9QNVFrU0RlMXgwdE5oM2NwTU9SdG82NDgxa3l6bXFSTkVQUnB2eE5YaEVnMFNpODNFNWNtZFF2RHptUzh2enA0WXBrTkxkUG1NczN2ckUyVC1DZ1otWUwwalhidk91d0dEU3Y5djRpS1NsdEIxWk5iZmJOY1FVOXAwcDdrZUhwTEotc0JhYTNYanZ4Q01iV2ZiUg?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T07:00:00+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Diário de Petrópolis",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlRGVzFKOS1peTN0V2lIalhkRDU0WFlwUGozTU1hRDJoQ1loNXNBWTk5RjNlekRkVmk3ajR3OFpzMzFfTTZ6blh4VUlZVWtOcF96RmhJb3REdDlZcU9UTmc5SlhOVENrT1FZaDYxUFA5bUEwd0NLOUdoeG1xV0Z5Z3d0OWpUWDN2Mk1zbWNaelhBb0RMdFN6Nl9uN0xZZnZVU0I0QXpNWjVDZXpwbm5lZ2FBenUxX0Uz?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T03:00:26+00:00",
-     "link_real": null
-    },
-    {
-     "name": "DefesaTV",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNclR0M0lvdG9GdVIxcVM4ZXdzUlN0TlU2QmN5VmdtZUVBaklQNDhEcUwzOXVjM1JnNHh6alJVRVJQTVRtNmgxNzVYRDZJUE5rUFA4WDVsbFJQWVVxbXFIeFNUZHpxYWpQZy1VcU9yRTJGLTVXSU9XaTROY2JrVlpuR1pVY21OR3lsbXdKdGxCcm4tSGpYdWxlSWV1dS1FeHdaRUZfMzBWRHpuSWprMG8xZGc3NEJVcXFobC03cWRHRlN6NHNU?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T20:36:12+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Defesa em Foco",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNm5qNE90ZzF5UHFzcVdJVF9uS1dfb0NhdVJPV1JxRWZ5YmpOZkpkWHdscGdCNnl0UldMWE5Za1N1S2ltV2k1ZVhQbmQ2V0lqZDU0UEZMQjNoTEc4QTZ2azZhVldka1ctVEkzTHo2aUNUcUFWNzlTYWtpUkRMbk9uVzFZQ1gyMVhMOVA4RGhGNWQ5SE03cThOS2I4R3Uwdw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T19:00:02+00:00",
-     "link_real": null
     }
    ],
    "has_paid": false,
@@ -8069,7 +7971,7 @@
   {
    "id": "80e0377166a6974e",
    "title": "SUBSEA7 RECEBE PRÊMIO DA PETROBRÁS POR INSTALAÇÃO DE SISTEMAS SUBMARINOS E DESCARBONIZAÇÃO",
-   "summary": "SUBSEA7 RECEBE PRÊMIO DA PETROBRÁS POR INSTALAÇÃO DE SISTEMAS SUBMARINOS E DESCARBONIZAÇÃO A Subsea7 recebeu dois reconhecimentos na 9ª edição do Prêmio Melhores Fornecedores Petrobrás, anunciado nesta quinta-feira (24), durante a ROG.e 2026. Vallourec assina contrato com a Subsea7 para fornecer tubos ao projeto Sepia 2, da Petrobras. “Ser reconhecida pela Petrobrás tanto pela excelência na instalação de sistemas submarinos quanto por uma iniciativa de descarbonização reforça o compromisso da Subsea7 com desempenho operacional, segurança e geração de valor para seus clientes”, afirma Yann Cottart, vice-presidente sênior Brazil & GPC West.",
+   "summary": "SUBSEA7 RECEBE PRÊMIO DA PETROBRÁS POR INSTALAÇÃO DE SISTEMAS SUBMARINOS E DESCARBONIZAÇÃO A Subsea7 recebeu dois reconhecimentos na 9ª edição do Prêmio Melhores Fornecedores Petrobrás, anunciado nesta quinta-feira (24), durante a ROG.e 2026. “Ser reconhecida pela Petrobrás tanto pela excelência na instalação de sistemas submarinos quanto por uma iniciativa de descarbonização reforça o compromisso da Subsea7 com desempenho operacional, segurança e geração de valor para seus clientes”, afirma Yann Cottart, vice-presidente sênior Brazil & GPC West. A premiação busca destacar fornecedores com atuação estratégica no fornecimento de bens e serviços à Petrobrás, além de empresas que tenham desenvolvido e colocado em prática soluções de impacto para os negócios da companhia.",
    "detalhes": {
     "datas": [
      "2026"
@@ -8078,9 +7980,7 @@
    "category": "SURF",
    "relevance": 100,
    "entities": {
-    "campos_blocos": [
-     "Sépia"
-    ],
+    "campos_blocos": [],
     "operadoras": [
      "Petrobras"
     ],
@@ -8089,7 +7989,7 @@
     ]
    },
    "published": "2026-09-24T21:30:31+00:00",
-   "n_sources": 2,
+   "n_sources": 1,
    "sources": [
     {
      "name": "Petronotícias",
@@ -8106,72 +8006,6 @@
      "paid": false,
      "published": "2026-09-24T07:00:00+00:00",
      "link_real": null
-    },
-    {
-     "name": "Acessa.com",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTlRTGVEUzRUNU9TNGtta1BHSzlzYS1DSjI0ZllMRnpnbWt3UzRVM0VvdmFCV05PQVFVdi1ReDBiSV9DZy1ScnlQRU05SkMwdnBvelE5aVFXYW5iRFJBMEUxUGVBZUxiQy0zTE1ZM2Rjak12NWNaWkgxTXBCU2pUVEJaRHJ5R0xNVVdzQXF3anlUS2FMMHZaSjZyR3k2WXE3MEk4dS1zMDhSTEtVRWJRMFJDWXUwOG9kUkRKNGhiMUtBaGNacnRkZFdNSmVrQjlhNjBTN01TdlFaRVHSAeABQVVfeXFMTnVIeUh0OVgzRVc3YWc1U2FKQjVybE9fX3FfYTRVRjRQVzY2Z2ZBNEpVc2NobXBzSWo2N2R1T2c1VGhqWGVSc1RyTS1zN0diNElLZjh4a1BxdHI0NEhLQkFCWk5HUXlKc2RuZXM3NmFSNzNCU0FUYTByYXFldmdldlJUNTF0TFFUSUFZV2N6N2pQWEM4ZXh2WnBycjJpZnkycTRxSHlrVmthRVVkZFV6ODZBNUliVGZ3dE1kWE4tVVFrZ1RDaVFpaUJRTG12MUdqMURKQ3ktZFBYcGJoZ0xIMzY?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T05:59:19+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "70113a1f9e3f3671",
-   "title": "A FORESEA USARÁ EXPERIÊNCIA NA ROG.e 2026 PARA MOSTRAR REDUÇÃO DE COMBUSTÍVEIS E EFICIÊNCIA NAS OPERAÇÕES",
-   "summary": "FORESEA APRESENTA PROGRAMA DE SUSTENTABILIDADE NA ROG.e E DESTACA 100% DE REAPROVEITAMENTO DE RESÍDUOS O Programa de Excelência em Sustentabilidade e Operação (PESO), da Foresea, foi apresentado nesta quinta-feira (24), último dia da ROG.e 2026, no Rio de Janeiro. Em testes realizados na sonda Norbe VI, a tecnologia proporcionou redução de até 61,7% no consumo energético. De acordo com a Foresea, as ações contribuíram para a capacitação de 182 gestores da rede municipal de ensino de Macaé e apoiaram a cooperativa MacaEco, que processou mais de 193 toneladas de materiais recicláveis em 2025.",
-   "detalhes": {
-    "valores": [
-     "R$ 360 mi"
-    ],
-    "producao": [
-     "414 m³",
-     "100 m³"
-    ],
-    "percentual": [
-     "100%",
-     "48,5%",
-     "61,7%",
-     "38%"
-    ],
-    "datas": [
-     "2026",
-     "Janeiro",
-     "2024",
-     "2025"
-    ]
-   },
-   "category": "Perfuração e Poços",
-   "relevance": 100,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": [
-     "Foresea"
-    ]
-   },
-   "published": "2026-09-24T20:30:40+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/foresea-apresenta-programa-de-sustentabilidade-na-rog-e-e-destaca-100-de-reaproveitamento-de-residuos",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-24T20:30:40+00:00",
-     "link_real": "https://petronoticias.com.br/foresea-apresenta-programa-de-sustentabilidade-na-rog-e-e-destaca-100-de-reaproveitamento-de-residuos/"
-    },
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/a-foresea-usara-experiencia-na-rog-e-2026-para-mostrar-reducao-de-combustiveis-e-maior-eficiencia-nas-operacoes",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T19:00:51+00:00",
-     "link_real": "https://petronoticias.com.br/a-foresea-usara-experiencia-na-rog-e-2026-para-mostrar-reducao-de-combustiveis-e-maior-eficiencia-nas-operacoes/"
     }
    ],
    "has_paid": false,
@@ -9508,17 +9342,24 @@
    "aviso_paga": ""
   },
   {
-   "id": "50085c842d084e59",
-   "title": "PETROBRÁS ASSINA CONTRATOS PARA EXPLORAÇÃO DE OITO BLOCOS OFFSHORE NA COSTA DO MARFIM",
-   "summary": "A Petrobrás terá uma participação de 90% nos ativos, por meio de sua subsidiária Petrobras Netherlands B.V, e será responsável pela operação. A estatal local PETROCI Holding deterá os 10% restantes. Petrobras avança na África e assume exploração de 8 blocos de petróleo na Costa do Marfim.",
+   "id": "8a03d7a9944a3119",
+   "title": "Navio de 53 metros capaz de alcançar 25 nós vai reforçar a proteção das operações da Petrobras contra vazamentos de petróleo no mar brasileiro",
+   "summary": "- Noruega cria três áreas de testes submarinos, instala 3 quilômetros de cabos no fundo do mar e quer preparar robôs para inspecionar plataformas sem expor trabalhadores - Um campo do Mar do Norte vai receber os primeiros novos poços desde 2012 e a expectativa é recuperar mais de 10 mil barris equivalentes por dia - Os tanques dos navios-plataforma escondem um dos trabalhos mais perigosos da manutenção; agora drones podem inspecionar o aço sem colocar pessoas lá dentro - Porto de Natal recebe licença para dragagem de até 1,4 milhão de m³ e poderá operar navios maiores Construído em 2016, o CMM Purity pertence à geração de embarcações Fast Oil Spill Response Vessel, ou FOSRV, desenvolvidas para chegar rapidamente a áreas onde há risco de poluição por óleo. Navio de 53 metros capaz de alcançar 25 nós vai reforçar a proteção das operações da Petrobras contra vazamentos de petróleo no mar brasileiro. Petrobras contratou por quatro anos o CMM Purity, navio de 53 metros projetado para reagir rapidamente a vazamentos de óleo no mar.",
    "detalhes": {
-    "percentual": [
-     "90%",
-     "10%"
+    "producao": [
+     "10 mil barris"
+    ],
+    "profundidade": [
+     "53 metros",
+     "53,25 metros"
+    ],
+    "datas": [
+     "outubro de 2026",
+     "novembro"
     ]
    },
-   "category": "Bids e Licitações",
-   "relevance": 64,
+   "category": "Contratos e Concorrentes",
+   "relevance": 62,
    "entities": {
     "campos_blocos": [],
     "operadoras": [
@@ -9526,32 +9367,16 @@
     ],
     "servicos": []
    },
-   "published": "2026-09-18T14:54:19+00:00",
-   "n_sources": 3,
+   "published": "2026-11-02T20:27:57+00:00",
+   "n_sources": 1,
    "sources": [
     {
-     "name": "ncnews.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSk1Lc1NoUnAyc0Q5M1RtZ2FYdmR5NS1tS3Rud093OV9SekR4VFo5VnM2M2VRa0JNOF9EZHBqb0d6VTJuOUhkMzQyRGlveV9VNW9VcF9xZ3NEY291VEoyWkFjaTA0R3ZtekE2bTVNLXBlV0tvLXY0OGtjSjJXc0Q0aUN5dTcyVHVjSXNoWUF0WDgwbG1XVXBhbmU2TGNWVGlldEZ1UVZqVnlOLVlUeS1OYlNsT214SWZNYXdLVlFnaUo?oc=5",
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/navio-de-53-metros-capaz-de-alcancar-25-nos-vai-reforcar-a-protecao-das-operacoes-da-petrobras-contra-vazamentos-de-petroleo-no-mar-brasileiro-fcmo87",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-18T14:54:19+00:00",
-     "link_real": null
-    },
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/petrobras-assina-contratos-para-exploracao-de-oito-blocos-offshore-na-costa-do-marfim",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T21:30:04+00:00",
-     "link_real": "https://petronoticias.com.br/petrobras-assina-contratos-para-exploracao-de-oito-blocos-offshore-na-costa-do-marfim/"
-    },
-    {
-     "name": "Revista LIDE",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQTR6NU15b3BEY2Y2STZIS3JpNk02QnQzX1ZHN3Y2YnpYRUJWR18xSWtMYlM4SlY5Zld4MzN0YjJnTVduRzdOVmJULXdldlNDYTA5bWVQUG9rMnlEUE5xZTNtemRqcFpZTlEydnBLLUNHTnFlT3NnNHZHY3l5R01VdkNSY3BiLWRRNFpNcjdkNDJtVGZPUWJLdUd1dFVHa3VGRkE3eVowTzNUbUlZbUxBQ29iRWZkdkpyX2J1VWo5dGgwbXYzUEVwOFlkUjVTZk91VlpDbm5CVHd0dw?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T21:13:56+00:00",
-     "link_real": null
+     "published": "2026-11-02T20:27:57+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/navio-de-53-metros-capaz-de-alcancar-25-nos-vai-reforcar-a-protecao-das-operacoes-da-petrobras-contra-vazamentos-de-petroleo-no-mar-brasileiro-fcmo87"
     }
    ],
    "has_paid": false,
@@ -11034,6 +10859,34 @@
    "aviso_paga": ""
   },
   {
+   "id": "7009b5b36be01758",
+   "title": "Setores estratégicos do pré-sal são liberados para o maior leilão de partilha da história",
+   "summary": "Setores estratégicos do pré-sal são liberados para o maior leilão de partilha da história.",
+   "detalhes": {},
+   "category": "Bids e Licitações",
+   "relevance": 49,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T09:56:13+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Times Brasil | CNBC",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzBkWU1pd3JHT0tzZVRKelRMMHpERW5scXNBcDlnTk5WSjFRRmlJUWNIb3E2bFFORHBUTGItaGZOUlhrWW9lSDJVWW9nZnhCMVVUWmUyR0FrRUt1Z3VwMXl3bUpSaFhpaEhMT0JCZE9NMm9MdlhJWlNBT0ZHWENyUnNiVzRmbDJQeEJXUXJ5QTF3aFZDaXI0bHM0VXJXZ0RYZG4wYjJEelVBVkI1WlBwQg?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T09:56:13+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "8c2a611e2dcefb0c",
    "title": "Primeiro leilão de gás do pré-sal não contempla Ceará e gargalo segue no Estado",
    "summary": "Primeiro leilão de gás do pré-sal não contempla Ceará e gargalo segue no Estado.",
@@ -12165,6 +12018,51 @@
      "paid": false,
      "published": "2026-09-25T17:00:57+00:00",
      "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "70113a1f9e3f3671",
+   "title": "FORESEA APRESENTA PROGRAMA DE SUSTENTABILIDADE NA ROG.e E DESTACA 100% DE REAPROVEITAMENTO DE RESÍDUOS",
+   "summary": "FORESEA APRESENTA PROGRAMA DE SUSTENTABILIDADE NA ROG.e E DESTACA 100% DE REAPROVEITAMENTO DE RESÍDUOS O Programa de Excelência em Sustentabilidade e Operação (PESO), da Foresea, foi apresentado nesta quinta-feira (24), último dia da ROG.e 2026, no Rio de Janeiro. Em testes realizados na sonda Norbe VI, a tecnologia proporcionou redução de até 61,7% no consumo energético. De acordo com a Foresea, as ações contribuíram para a capacitação de 182 gestores da rede municipal de ensino de Macaé e apoiaram a cooperativa MacaEco, que processou mais de 193 toneladas de materiais recicláveis em 2025.",
+   "detalhes": {
+    "valores": [
+     "R$ 360 mi"
+    ],
+    "percentual": [
+     "100%",
+     "48,5%",
+     "61,7%"
+    ],
+    "datas": [
+     "2026",
+     "Janeiro",
+     "2024",
+     "2025"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 37,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": [
+     "Foresea"
+    ]
+   },
+   "published": "2026-09-24T20:30:40+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/foresea-apresenta-programa-de-sustentabilidade-na-rog-e-e-destaca-100-de-reaproveitamento-de-residuos",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-24T20:30:40+00:00",
+     "link_real": "https://petronoticias.com.br/foresea-apresenta-programa-de-sustentabilidade-na-rog-e-e-destaca-100-de-reaproveitamento-de-residuos/"
     }
    ],
    "has_paid": false,
@@ -13829,38 +13727,54 @@
    "aviso_paga": ""
   },
   {
-   "id": "4d95511648f86f88",
-   "title": "APRESENTAÇÃO DA CAMORIM NA ROGe CONFIRMARÁ AVANÇO NO SETOR MARÍTIMO NO SETOR DE ÓLEO E GÁS",
-   "summary": "A empresa fará sobre os mais de R$ 250 milhões já investidos em 2026 na expansão e modernização de sua frota. Em maio deste ano, a companhia assinou contratos de R$ 11 bilhões para a construção, afretamento e operação de quatro embarcações de apoio offshore, com expectativa de geração de cerca de 7 mil empregos diretos e indiretos. É este cenário que a Camorim Serviços Marítimos vai levar à ROG.e 2026, a partir de segunda-feira, no Riocentro, no Rio de Janeiro.",
+   "id": "76583208a046d146",
+   "title": "Magda Chambriard, engenheira que comanda a Petrobras, diz ter baixado o preço do gás em 27% desde 2022 e agora segura um gasoduto e a perfuração de poços em Sergipe: trata a regra da ANP como fato do príncipe",
+   "summary": "- Um campo do Mar do Norte vai receber os primeiros novos poços desde 2012 e a expectativa é recuperar mais de 10 mil barris equivalentes por dia - Navio de 53 metros capaz de alcançar 25 nós vai reforçar a proteção das operações da Petrobras contra vazamentos de petróleo no mar brasileiro - Noruega tenta recuperar 2,8 bilhões de barris equivalentes de petróleo e gás presos em rochas que quase não deixam os combustíveis passar - Dona de hotel em Oiapoque arrendou 60% dos 37 quartos à Petrobras, passou a ter 18 funcionários fixos e ainda paga o preço dos 110 km de terra que separam a cidade de Macapá As duas plataformas do projeto, chamadas SEAP 1 e SEAP 2, já estão aprovadas, com investimento de US$ 11 bilhões. Magda Chambriard, engenheira que comanda a Petrobras, diz ter baixado o preço do gás em 27% desde 2022 e agora segura um gasoduto e a perfuração de poços em Sergipe: trata a regra da ANP como fato do príncipe. Segundo Magda, a Petrobras baixou o preço do gás em 27% desde 2022 porque ampliou a produção, e agora vê esse esforço ameaçado pela intervenção no preço.",
    "detalhes": {
     "valores": [
-     "R$ 250 milhões",
-     "R$ 11 bilhões"
+     "US$ 11 bilhões"
+    ],
+    "producao": [
+     "10 mil barris"
+    ],
+    "percentual": [
+     "27%",
+     "60%",
+     "45%",
+     "55%"
+    ],
+    "profundidade": [
+     "53 metros",
+     "110 km"
     ],
     "datas": [
-     "2026",
-     "Janeiro",
+     "2022",
      "maio",
-     "2030"
+     "setembro",
+     "2021",
+     "2027",
+     "outubro"
     ]
    },
-   "category": "Prospectos e Investimentos",
-   "relevance": 35,
+   "category": "Perfuração e Poços",
+   "relevance": 29,
    "entities": {
     "campos_blocos": [],
-    "operadoras": [],
+    "operadoras": [
+     "Petrobras"
+    ],
     "servicos": []
    },
-   "published": "2026-09-18T22:00:30+00:00",
+   "published": "2026-11-02T16:40:22+00:00",
    "n_sources": 1,
    "sources": [
     {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/apresentacao-da-camorim-na-roge-confirmara-avanco-no-setor-maritimo-no-setor-de-oleo-e-gas",
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/petrobras-gas-release-sergipe-gasoduto-perfuracao-magda-phsn84",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-18T22:00:30+00:00",
-     "link_real": "https://petronoticias.com.br/apresentacao-da-camorim-na-roge-confirmara-avanco-no-setor-maritimo-no-setor-de-oleo-e-gas/"
+     "published": "2026-11-02T16:40:22+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/petrobras-gas-release-sergipe-gasoduto-perfuracao-magda-phsn84/"
     }
    ],
    "has_paid": false,
@@ -14673,97 +14587,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "b718f7e426448238",
-   "title": "Cacique de 57 anos vê petróleo avançar no horizonte do Oiapoque e teme uma “infelicidade imensa” se houver vazamento, enquanto a descoberta a 175 km da costa alimenta expectativa de até 50 mil empregos, atrai novos moradores e transforma a cidade em símbolo de esperança e risco",
-   "summary": "Segundo reportagem do UOL, publicada em 18 de setembro de 2026, a Petrobras identificou em agosto a presença de hidrocarbonetos em seu primeiro poço na área, localizado a aproximadamente 175 quilômetros da costa. Wagner Karipuna, cacique de 57 anos da aldeia Mangá, teme que um vazamento de petróleo afete rios e pesca no Oiapoque, enquanto descoberta da Petrobras a 175 km da costa impulsiona expectativas de empregos e royalties, acelera chegada de moradores e pressiona infraestrutura, moradia e serviços na cidade amazônica local. Jean Paul Prates, que presidiu a Petrobras entre 2023 e 2024 e atualmente ocupa a presidência do Centro de Estratégias em Recursos Naturais e Energia, ponderou que não existe exploração offshore com risco zero.",
-   "detalhes": {
-    "profundidade": [
-     "175 km",
-     "556 km"
-    ],
-    "datas": [
-     "setembro de 2026",
-     "agosto",
-     "2023",
-     "2024",
-     "2022"
-    ]
-   },
-   "category": "Descobertas",
-   "relevance": 27,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T15:19:51+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/cacique-de-57-anos-ve-petroleo-avancar-no-horizonte-do-oiapoque-e-teme-uma-infelicidade-imensa-se-houver-vazamento-enquanto-a-descoberta-a-175-km-da-costa-alimenta-ctl01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T15:19:51+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/cacique-de-57-anos-ve-petroleo-avancar-no-horizonte-do-oiapoque-e-teme-uma-infelicidade-imensa-se-houver-vazamento-enquanto-a-descoberta-a-175-km-da-costa-alimenta-ctl01/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "362994441b243e8f",
-   "title": "Após perder milhares de empregos na crise da indústria naval, Niterói aprofunda canal para receber embarcações maiores, investe R$ 162,5 milhões em infraestrutura e busca novos contratos com Petrobras e Transpetro, enquanto estaleiros retomam produção e o Mauá amplia quadro de cerca de 600 para aproximadamente 1.500 trabalhadores",
-   "summary": "- Brasil investe R$ 2,8 bilhões para ressuscitar estaleiros, encomenda 41 navios, barcaças e empurradores, promete mais de 9 mil empregos e tenta virar o jogo contra a dependência de embarcações alugadas no transporte de gás e cargas - Seis gigantes japonesas avançam com navio de 42.000 m³ para transportar CO₂ liquefeito, recebem aprovação da ClassNK e preparam frota para projetos de captura de carbono - Armadores encomendam 52 navios com combustíveis alternativos em agosto, maior volume em quase 2 anos, e GNL domina 46 novos projetos enquanto etanol e hidrogênio avançam - Ventura fecha contrato de US$ 58 milhões para perfurar um poço da Petronas na Indonésia com navio-sonda de sétima geração O movimento busca aproveitar uma estrutura que já existe na cidade, formada por estaleiros, terminais, bases de apoio offshore, empresas de logística, fornecedores e serviços especializados. Niterói aposta na retomada da indústria naval com a segunda fase da dragagem do Canal de São Lourenço, que já recebeu R$ 162,5 milhões e elevou o calado de sete para 11 metros, enquanto estaleiros recuperam produção e o Mauá passa de cerca de 600 para aproximadamente 1.500 funcionários atualmente. Após perder milhares de empregos na crise da indústria naval, Niterói aprofunda canal para receber embarcações maiores, investe R$ 162,5 milhões em infraestrutura e busca novos contratos com Petrobras e Transpetro, enquanto estaleiros retomam produção e o Mauá amplia quadro de cerca de 600 para aproximadamente 1.500 trabalhadores.",
-   "detalhes": {
-    "valores": [
-     "R$ 162,5 milhões",
-     "R$ 2,8 bilhões",
-     "US$ 58 milhões"
-    ],
-    "producao": [
-     "42.000 m³"
-    ],
-    "profundidade": [
-     "11 metros"
-    ],
-    "datas": [
-     "setembro de 2026",
-     "Janeiro",
-     "agosto",
-     "2023",
-     "2024"
-    ]
-   },
-   "category": "Contratos e Concorrentes",
-   "relevance": 27,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T14:33:58+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/apos-perder-milhares-de-empregos-na-crise-da-industria-naval-niteroi-aprofunda-canal-para-receber-embarcacoes-maiores-investe-r-1625-milhoes-em-infraestrutura-e-busca-novos-contratos-c-ctl01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T14:33:58+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/apos-perder-milhares-de-empregos-na-crise-da-industria-naval-niteroi-aprofunda-canal-para-receber-embarcacoes-maiores-investe-r-1625-milhoes-em-infraestrutura-e-busca-novos-contratos-c-ctl01/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "d608c79bfa066aba",
    "title": "BOLSA CAI, DÓLAR DISPARA, GRANDE MÍDIA SE APRESSA EM DAR A VITÓRIA À LULA E IGNORA PEDIDO DE FLÁVIO BOLSONARO PARA ANULAR O 2º TURNO.",
    "summary": "- Sicoob prepara R$ 70 bilhões em crédito rural para a safra 2026/27 e prevê mais recursos para pequenos e médios produtores, mas a maior fatia do dinheiro terá um destino que chama atenção - Operadores da linha de galvanização da Usiminas no Vale do Aço (MG) refazem 52% menos soldas entre bobinas desde que a siderúrgica pôs para rodar um modelo próprio de IA que prevê a temperatura antes de soldar - Itaú vai pagar R$ 2,9 bilhões pela NeoSpace, startup brasileira especializada em inteligência artificial, em operação que prevê a compra de todas as ações e reforça a aposta do maior banco privado do país em soluções de IA generativa - Quem mora em Rio das Ostras pode virar piloto de robô submarino: a Seagems e a prefeitura escolhem 20 alunos com curso técnico para 187 horas de aula, e a inscrição dura só dois dias A turbulência ocorreu na primeira sessão de negociações após a reeleição do presidente Luiz Inácio Lula da Silva (PT), no domingo (25). O dólar comercial disparou 12,2% e atingiu R$ 5,60 na manhã desta segunda-feira, 26 de outubro de 2026, em meio a uma forte reação do mercado financeiro brasileiro ao resultado das eleições presidenciais. Dólar dispara 12,2% e chega a R$ 5,60, negociações são interrompidas temporariamente, Bolsa aciona circuit breaker e Tesouro cancela leilões de títulos públicos previstos para esta semana.",
@@ -15421,6 +15244,45 @@
    "aviso_paga": ""
   },
   {
+   "id": "a71b89bb0a320678",
+   "title": "FPSO P-35 PASSA SOB A PONTE RIO-NITERÓI EM OPERAÇÃO DE ALTA COMPLEXIDADE E SEGUE PARA O ESTALEIRO INHAÚMA",
+   "summary": "A plataforma foi instalada em 1997 no campo de Marlim, na Bacia de Campos, onde operou durante 27 anos, em lâmina d’água de 900 metros. A P-35 é uma unidade do tipo FPSO, com mais de 330 metros de comprimento. Em uma operação que envolveu mais de cem profissionais, o FPSO P-35 passou sob a ponte e chamou a atenção dos motoristas que cruzavam a via, além de pedestres que circulavam pela cidade e avistaram de longe a gigantesca plataforma.",
+   "detalhes": {
+    "producao": [
+     "84 mil barris"
+    ],
+    "profundidade": [
+     "330 metros",
+     "900 metros"
+    ],
+    "datas": [
+     "Janeiro"
+    ]
+   },
+   "category": "Projetos Futuros",
+   "relevance": 20,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T14:00:22+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/fpso-p-35-passa-sob-a-ponte-rio-niteroi-em-operacao-de-alta-complexidade-e-segue-para-o-estaleiro-inhauma",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T14:00:22+00:00",
+     "link_real": "https://petronoticias.com.br/fpso-p-35-passa-sob-a-ponte-rio-niteroi-em-operacao-de-alta-complexidade-e-segue-para-o-estaleiro-inhauma/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "813c9ddf778abe8e",
    "title": "Multinacional alemã transforma fábrica de R$ 100 milhões em base para disputar contratos de FPSOs e abastecer a América Latina",
    "summary": "- Estreito de Ormuz: guerra tira 6,7 milhões de barris de petróleo por dia do Golfo, e Trump vai à ONU pedir o “isolamento econômico completo do Irã” - TotalEnergies decide investir no campo de Absheron, no Mar Cáspio, que vai produzir 6 bilhões de metros cúbicos de gás por ano e 47 mil barris diários de condensado a partir de 2029 - Petrobras amplia presença internacional e assina acordo estratégico com estatal de Moçambique para explorar oportunidades em petróleo e gás, compartilhar tecnologia e desenvolver novos projetos no setor - Após contratos milionários, Engeman conquista novo acordo com a Petrobras na Bacia de Santos O movimento atual é outro: a multinacional decidiu ampliar fortemente sua presença industrial e dar à operação brasileira um papel maior dentro da estratégia latino-americana. O Plano de Negócios 2026-2030 da Petrobras prevê US$ 69,2 bilhões para projetos de exploração e produção incluídos em sua carteira em implantação. Segundo a Revista Brasil Energia, que detalhou em 22 de setembro de 2026 a nova estratégia da companhia durante a ROG.e, a alemã WIKA colocou cerca de R$ 100 milhões de recursos próprios em sua nova fábrica em Boituva, no interior de São Paulo, e agora quer usar essa estrutura para crescer na indústria offshore brasileira.",
@@ -15463,6 +15325,89 @@
      "paid": false,
      "published": "2026-09-28T14:34:20+00:00",
      "link_real": "https://clickpetroleoegas.com.br/multinacional-alema-transforma-fabrica-de-r-100-milhoes-em-base-para-disputar-contratos-de-fpsos-e-abastecer-a-america-latina-vml97"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "e2a32bd13716a9e1",
+   "title": "Criaram um cão-robô para trabalhar em locais onde uma faísca pode provocar uma explosão e a Petrobras participou dos testes dessa tecnologia",
+   "summary": "- Noruega cria três áreas de testes submarinos, instala 3 quilômetros de cabos no fundo do mar e quer preparar robôs para inspecionar plataformas sem expor trabalhadores - Um campo do Mar do Norte vai receber os primeiros novos poços desde 2012 e a expectativa é recuperar mais de 10 mil barris equivalentes por dia - Os tanques dos navios-plataforma escondem um dos trabalhos mais perigosos da manutenção; agora drones podem inspecionar o aço sem colocar pessoas lá dentro - Navio de 53 metros capaz de alcançar 25 nós vai reforçar a proteção das operações da Petrobras contra vazamentos de petróleo no mar brasileiro É por isso que essas áreas recebem classificações específicas e exigem instrumentos apropriados. Em novembro de 2023, a Petrobras informou que investiria US$ 4 milhões para adquirir seis unidades do modelo e avaliar aplicações nas suas instalações. Em 2023, o ANYmal X foi testado na P-74, uma unidade flutuante de produção da Petrobras.",
+   "detalhes": {
+    "valores": [
+     "US$ 4 milhões"
+    ],
+    "producao": [
+     "10 mil barris"
+    ],
+    "profundidade": [
+     "53 metros"
+    ],
+    "datas": [
+     "outubro de 2026",
+     "2023",
+     "2022",
+     "novembro de 2023"
+    ]
+   },
+   "category": "Prospectos e Investimentos",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-11-02T19:15:58+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/criaram-um-cao-robo-para-trabalhar-em-locais-onde-uma-faisca-pode-provocar-uma-explosao-e-a-petrobras-participou-dos-testes-dessa-tecnologia-fcmo87",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T19:15:58+00:00",
+     "link_real": "https://clickpetroleoegas.com.br/criaram-um-cao-robo-para-trabalhar-em-locais-onde-uma-faisca-pode-provocar-uma-explosao-e-a-petrobras-participou-dos-testes-dessa-tecnologia-fcmo87/"
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "73df06d8a382a2a3",
+   "title": "A REPSOL SINOPEC SERÁ A SEDE DOS DEBATES DO FÓRUM DE ENERGIA QUE ACONTECERÁ AMANHÃ NO RIO DE JANEIRO",
+   "summary": "A REPSOL SINOPEC SERÁ A SEDE DOS DEBATES DO FÓRUM DE ENERGIA QUE ACONTECERÁ AMANHÃ NO RIO DE JANEIRO. O encontro será realizado amanhã (3) na sede da Repsol Sinopec Brasil, no Rio de Janeiro, e reunirá representantes de empresas do setor energético e da Empresa de Pesquisa Energética (EPE) para discutir tendências, oportunidades e caminhos para o desenvolvimento do mercado. O Fórum reunirá lideranças de diferentes segmentos da cadeia energética, incluindo Jaime Llopis, diretor corporativo do Grupo Cobra; Thiago Guilherme Ferreira Prado, presidente da Empresa de Pesquisa Energética (EPE); Carlos Eduardo Olesko, CEO da CYMI; Marcelo Lopez, diretor de Operação de Geração e Transmissão da Neoenergia; Alejandro Ponce(foto principal), CEO da Repsol Sinopec; Judith Vila Pont, COO da Repsol Sinopec; José Renato, Gerente de Regulação da Celeo; Giselia Pontes, Diretora comercial da Naturgy; Urias Martiniano, advogado; e Alberto Paniagua, diretor corporativo da Howden Brasil.",
+   "detalhes": {
+    "datas": [
+     "JANEIRO",
+     "2026"
+    ]
+   },
+   "category": "Prospectos e Investimentos",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Repsol",
+     "Repsol Sinopec",
+     "Sinopec"
+    ],
+    "servicos": []
+   },
+   "published": "2026-11-02T18:00:56+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/a-repsol-sinopec-sera-a-sede-dos-debates-do-forum-de-energia-que-acontecera-amanha-no-rio-de-janeiro",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T18:00:56+00:00",
+     "link_real": "https://petronoticias.com.br/a-repsol-sinopec-sera-a-sede-dos-debates-do-forum-de-energia-que-acontecera-amanha-no-rio-de-janeiro/"
     }
    ],
    "has_paid": false,
@@ -15855,6 +15800,36 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-29T12:58:48+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "f00e4b537f7202ba",
+   "title": "Petrobras (PETR4), Raízen (RAIZ4), Motiva (MOTV3) e outros destaques desta quinta-feira (29)",
+   "summary": "Petrobras (PETR4), Raízen (RAIZ4), Motiva (MOTV3) e outros destaques desta quinta-feira (29).",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 15,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [
+     "Petrobras"
+    ],
+    "servicos": []
+   },
+   "published": "2026-10-29T11:41:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcC0zQ1NYMHBpZGtZMk14aktzaUU3QnN4SnBROUpKX0RPLU4zaVRVSjdyRFJ6LUdOSkF5Y2R5RFZibUZMTWVQZVBBeVo0cW9ITmNqWUN4YzRCdlJyOEFESm9fbUdxVUQ1MVA2YnBGa0Q5Wk5FVUNSTUlTS3MtMXZ2eVd4aXVON2tBNkE5S1FPY0NuSWRPZ21XcEc4Z0h6OXZ0Z0R5MS0wNWJYOHd3eXc0eDBTcTV6dw?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-10-29T11:41:00+00:00",
      "link_real": null
     }
    ],
@@ -18678,208 +18653,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "f11504f4df521083",
-   "title": "BRAVA ENERGIA LEVARÁ SEU MELHOR TIME PARA AS APRESENTAÇÕES DA ROGe 2026",
-   "summary": "BRAVA ENERGIA LEVARÁ SEU MELHOR TIME PARA AS APRESENTAÇÕES DA ROGe 2026. BRAVA ENERGIA LEVARÁ SEU MELHOR TIME PARA AS APRESENTAÇÕES DA ROGe 2026 A BRAVA Energia marcará presença na edição de 2026 da ROG.e. O evento, começa nesta segunda-feira (21) e vai até a próxima quinta-feira ( 24) no Riocentro, no Rio de Janeiro.",
-   "detalhes": {
-    "datas": [
-     "2026",
-     "Janeiro",
-     "setembro"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 15,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Brava Energia"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T21:00:32+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/brava-energia-levara-seu-melhor-time-para-as-apresentacoes-da-roge-2026",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T21:00:32+00:00",
-     "link_real": "https://petronoticias.com.br/brava-energia-levara-seu-melhor-time-para-as-apresentacoes-da-roge-2026/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "d0c77ad3452f958e",
-   "title": "Mercado está subestimando os dividendos da Petrobras? XP vê distorção nas opções",
-   "summary": "Mercado está subestimando os dividendos da Petrobras? XP vê distorção nas opções.",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 15,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T18:30:20+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU05Sc01mc2dlR3p1MUl4SGExN2xCNlZDeGs4UXkyQl9hWnNVUWFsQXpvdnAyLWJ2aXhkeTc4UldsU1VTMllGTk5hS21OUGhxVGxRa0NNWmhUMFRvS3FSdFNwRW5yYmo5aFFYN1E0SzVtQjMycExHcE5leGt3Q1Fwblh1YkVDTEtEYS1wUERzWVBhQ1Q1cTc5MnR0ZHpicE91UndOZUtvbUczWHNxQW1RWHFqWHJGTkZCdXBkLUEwMTBMdjFvTU1PMWpZMjdDVTRWNW1OZtIB2gFBVV95cUxNODFtYWFFdVpwbmgtVDVNQ21IWW9mNDJGQ3lIT0N0V2x2X3ZKWE1sYnNNQTZpekZRaWdpenRuM1d4V3RHS2xiRmxMSzZNVHVUNzdzUnpUbWRiWHhRbEVUcVpVc3hYd0w4N0J4V0RBTTMtTUN2QmZ4WWNaWnUtTTJIam83ZTRBNW82b1ZBWGlZV3Z2RFY0V3BTU0ViZERnRVd0NmtxMW9YOEU2eHotT0p3NnJDX3ZEYm90RWpCVm5KOGJIaV8zbGpVVy1jdHhybmZFcEl2ODA4bWg1UQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T18:30:20+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "1ea0e7c8ea60ca0d",
-   "title": "PETROBRAS BATIZA STARNAV ELEKTRA, PRIMEIRA EMBARCAÇÃO DO PROGRAMA MAR ABERTO",
-   "summary": "Construído pelo Estaleiro Detroit, em Itajaí (SC), o navio do tipo PSV (Platform Supply Vessel) recebeu investimentos de aproximadamente R$ 450 milhões e é a primeira embarcação entregue pelo Programa Mar Aberto, iniciativa voltada à renovação e ampliação da frota do Sistema Petrobrás. O Starnav realizou a viagem entre Santa Catarina e o Rio de Janeiro com uma tripulação 100% feminina. PETROBRAS BATIZA STARNAV ELEKTRA, PRIMEIRA EMBARCAÇÃO DO PROGRAMA MAR ABERTO.",
-   "detalhes": {
-    "valores": [
-     "R$ 450 milhões"
-    ],
-    "percentual": [
-     "100%"
-    ],
-    "datas": [
-     "Janeiro"
-    ]
-   },
-   "category": "Prospectos e Investimentos",
-   "relevance": 15,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Petrobras"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T18:00:50+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/petrobras-batiza-starnav-elektra-primeira-embarcacao-do-programa-mar-aberto",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T18:00:50+00:00",
-     "link_real": "https://petronoticias.com.br/petrobras-batiza-starnav-elektra-primeira-embarcacao-do-programa-mar-aberto/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "da4601d9e553f567",
-   "title": "Estudantes brasileiros criam carro capaz de percorrer 556 km com um litro de gasolina",
-   "summary": "Recorde da equipe permanece em 716 km/l O recorde nacional da Drop Team foi estabelecido em 2023, quando o protótipo atingiu 716 km/l. Depois do recorde de 2023, a equipe voltou a vencer em 2024, quando alcançou 611 km/l. Em 2025, registrou 699 km/l e conquistou o pentacampeonato, antes de chegar ao sexto título na edição de 2026.",
-   "detalhes": {
-    "profundidade": [
-     "556 km",
-     "310 km",
-     "138 km",
-     "716 km",
-     "424,9 km",
-     "611 km"
-    ],
-    "datas": [
-     "2026",
-     "Janeiro",
-     "agosto",
-     "2023",
-     "2024",
-     "2025"
-    ]
-   },
-   "category": "Novas Tecnologias",
-   "relevance": 15,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Shell"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T17:15:53+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/estudantes-brasileiros-criam-carro-capaz-de-percorrer-556-km-com-um-litro-de-gasolina-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:15:53+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/estudantes-brasileiros-criam-carro-capaz-de-percorrer-556-km-com-um-litro-de-gasolina-afch"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "6e8c98504db27b84",
-   "title": "Porto do Açu prepara planta que captura 5 mil toneladas de CO₂ do ar por ano e transforma o gás em 300 litros diários de combustível sintético para rebocadores do porto",
-   "summary": "A parceria entre o Porto do Açu e a Repsol Sinopec Brasil foi formalizada em 2025 por meio de um memorando de entendimento. Antes do DAC-to-Sea, a Repsol Sinopec já havia colocado em operação, em 2024, uma unidade do projeto DAC.SI com potencial para capturar 300 toneladas de CO₂ por ano diretamente do ar. A Repsol Sinopec cita que o combustível usado no transporte marítimo responde por cerca de 3% das emissões globais de CO₂.",
-   "detalhes": {
-    "valores": [
-     "R$ 180 bilhões"
-    ],
-    "percentual": [
-     "90%",
-     "3%"
-    ],
-    "profundidade": [
-     "556 km",
-     "480 km",
-     "200 km"
-    ],
-    "datas": [
-     "2024",
-     "2025"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 15,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [
-     "Repsol",
-     "Repsol Sinopec",
-     "Sinopec"
-    ],
-    "servicos": []
-   },
-   "published": "2026-09-18T14:04:13+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/porto-do-acu-prepara-planta-que-captura-5-mil-toneladas-de-co%e2%82%82-do-ar-por-ano-e-transforma-o-gas-em-300-litros-diarios-de-combustivel-sintetico-para-rebocadores-do-porto-nmb91",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T14:04:13+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/porto-do-acu-prepara-planta-que-captura-5-mil-toneladas-de-co%E2%82%82-do-ar-por-ano-e-transforma-o-gas-em-300-litros-diarios-de-combustivel-sintetico-para-rebocadores-do-porto-nmb91/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "f380825b4a12cc03",
    "title": "FIRJAN DEFENDE QUE RIO DE JANEIRO PRECISA REVERTER INVESTIMENTOS EM NOVOS BLOCOS LEILOADOS PELA ANP EM DESENVOLVIMENTO INDUSTRIAL",
    "summary": "Entre as empresas que arremataram blocos, individualmente ou em consórcios, estão Petrobras, Equinor, PRIO, Galp, Sinopec e CNOOC. O painel dinâmico de projetos de Energia da Firjan também identifica uma carteira superior a US$ 180 bilhões em projetos previstos para o estado entre 2027 e 2030 ou depois desse período. Desse total, US$ 98 bilhões correspondem exclusivamente a iniciativas de petróleo e gás.",
@@ -20317,26 +20090,64 @@
    "aviso_paga": ""
   },
   {
-   "id": "3283f91933bb76b9",
-   "title": "ANP divulga sequência de ofertas dos próximos leilões de áreas",
-   "summary": "ANP divulga sequência de ofertas dos próximos leilões de áreas.",
-   "detalhes": {},
-   "category": "Bids e Licitações",
-   "relevance": 14,
+   "id": "9e909e05b51df63b",
+   "title": "Empresas brasileiras buscam contratos internacionais na EURONAVAL 2026, na França",
+   "summary": "Empresas brasileiras buscam contratos internacionais na EURONAVAL 2026, na França. Brasil participa da EURONAVAL 2026, na França, com três empresas de defesa naval que buscam ampliar contatos comerciais e oportunidades no mercado internacional. Três empresas brasileiras participarão da EURONAVAL 2026, feira internacional de defesa naval que acontece de 3 a 6 de novembro, no Centro de Exibições Paris-Nord Villepinte, na França.",
+   "detalhes": {
+    "datas": [
+     "2026",
+     "novembro"
+    ]
+   },
+   "category": "Contratos e Concorrentes",
+   "relevance": 12,
    "entities": {
     "campos_blocos": [],
     "operadoras": [],
     "servicos": []
    },
-   "published": "2026-09-18T00:04:56+00:00",
+   "published": "2026-11-02T19:37:02+00:00",
    "n_sources": 1,
    "sources": [
     {
-     "name": "brasilenergia.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONE84VS1tZjN6N00tRmZJYThrQ1cwX19qWnE3Q1FSRGhGTkVXeTBnLWhXQU5yTGZVUzJadmx0akE4eTBiTjlLemVKS0dDd25uV1QzTUdPUVFDRTJJVC1JaEV6elhteTJKeTZ2M0FTWWluSzlzSFhzWUdQLUROd0JYZTFBOHc0WWgtYVB3TnhRZmphbjNSZ3FwbHpWdkRPYW41SVV6dU1sR19hUkE?oc=5",
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/brasil-leva-tres-empresas-a-euronaval-2026-e-busca-novos-negocios-no-setor-de-defesa-naval-ama01",
      "type": "aberta",
      "paid": false,
-     "published": "2026-09-18T00:04:56+00:00",
+     "published": "2026-11-02T19:37:02+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "880632ebbfa49050",
+   "title": "Plataforma de 27 mil toneladas é levada por 7 rebocadores para desmonte no Rio após 27 anos de operação",
+   "summary": "Plataforma P-35 atravessa a Baía de Guanabara com sete rebocadores e segue para desmonte no Rio de Janeiro após 27 anos de operação. A plataforma P-35 é transportada nesta segunda-feira (2 de novembro) pela Baía de Guanabara, no Rio de Janeiro, com auxílio de sete rebocadores. Plataforma de 27 mil toneladas é levada por 7 rebocadores para desmonte no Rio após 27 anos de operação.",
+   "detalhes": {
+    "datas": [
+     "Janeiro",
+     "novembro"
+    ]
+   },
+   "category": "Projetos Futuros",
+   "relevance": 12,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T19:04:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/plataforma-p-35-de-27-mil-toneladas-e-levada-por-7-rebocadores-para-desmonte-no-rio-apos-27-anos-de-operacao-ama01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T19:04:00+00:00",
      "link_real": null
     }
    ],
@@ -21767,38 +21578,6 @@
    "aviso_paga": ""
   },
   {
-   "id": "7a95ffede9f962f1",
-   "title": "New AI Technology Deployed on Ten FPSOs in Brazil After Cutting Daily Emissions from Unplanned Gas Flaring by Over 12%",
-   "summary": "New AI Technology Deployed on Ten FPSOs in Brazil After Cutting Daily Emissions from Unplanned Gas Flaring by Over 12%.",
-   "detalhes": {
-    "percentual": [
-     "12%"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 8,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-17T19:07:00+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Oil and Gas",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOFg3RlEyeWh3N2pGX2w2UkI3TE56Zi1tUUhsYlM3U0tGbjB3MlVxWGtzbkdLV3Jhdy1Delc4MlhBbHVfSjBLaWE4S2JydlBSUzVDWV9nWlBlYXZzMDJrWlNrb3dobnZ2bjdyN0lUejRKc24zR3Q1eWlkeDBfRl9FMGdTZTRSemtGa0ExZlVsNE9RbnJhM1Jjbm8yZEdaakN4RExLaW9rcHdGdlhZOXZuM1kzelpkMlNUNVNqaWZPbVNnYi1PaWYyamJYZ3A1bk42Z2lFVVFfcXJOd2pQa0FZRFVrUmVfRlpaR25iSGU4X2MtelhwMEhZc1U2aWJXSmpFc2FmYWRzSQ?oc=5",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T19:07:00+00:00",
-     "link_real": null
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
    "id": "0b8d04ee2251d68a",
    "title": "Pré-sal pode reforçar receitas de Lula em até 1,5% do PIB, diz Vinci",
    "summary": "Pré-sal pode reforçar receitas de Lula em até 1,5% do PIB, diz Vinci.",
@@ -21825,6 +21604,535 @@
      "type": "aberta",
      "paid": false,
      "published": "2026-10-28T16:00:24+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "76eb7dec239264f8",
+   "title": "Renault Kwid 2027 de R$ 82.790 roda 406 km com um tanque de 38 litros de etanol na estrada, mas a mesma carga de gasolina leva o hatch 179 km mais longe, pela tabela do Inmetro",
+   "summary": "Renault Kwid 2027 de R$ 82.790 roda 406 km com um tanque de 38 litros de etanol na estrada, mas a mesma carga de gasolina leva o hatch 179 km mais longe, pela tabela do Inmetro. Um tanque cheio de etanol leva o Renault Kwid […] O post Renault Kwid 2027 de R$ 82.790 roda 406 km com um tanque de 38 litros de etanol na estrada, mas a mesma carga de gasolina leva o hatch 179 km mais longe, pela tabela do Inmetro apareceu primeiro em CPG Click Petróleo e Gás . Com gasolina, a autonomia sobe para 547 km e 585 km, mas encher de etanol custa R$ 90 a menos na média da ANP.",
+   "detalhes": {
+    "valores": [
+     "R$ 82.790",
+     "R$ 90"
+    ],
+    "profundidade": [
+     "406 km",
+     "179 km",
+     "395 km",
+     "547 km",
+     "585 km"
+    ],
+    "datas": [
+     "2027"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T22:33:51+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/renault-kwid-2027-de-r-82-790-roda-406-km-com-um-tanque-de-38-litros-de-etanol-na-estrada-mas-a-mesma-carga-de-gasolina-leva-o-hatch-179-km-mais-longe-pela-tabela-do-inmetro-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:33:51+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "0392d9a1f4f7c0b3",
+   "title": "Fiat Fiorino está em produção no Brasil desde 1980 e é o veículo mais longevo do país: nasceu com 61 cv e hoje tem 107 cv no etanol",
+   "summary": "Fiat Fiorino está em produção no Brasil desde 1980 e é o veículo mais longevo do país: nasceu com 61 cv e hoje tem 107 cv no etanol. O Fiorino, furgão da Fiat, nunca saiu de linha desde o lançamento sobre a base do 147, é montado em Betim (MG) e ainda leva quase nove de cada dez furgões pequenos vendidos no país. O Fiat Fiorino completou 46 anos de mercado e é o veículo mais longevo ainda em produção no Brasil, segundo […] O post Fiat Fiorino está em produção no Brasil desde 1980 e é o veículo mais longevo do país: nasceu com 61 cv e hoje tem 107 cv no etanol apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T22:21:54+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/fiat-fiorino-esta-em-producao-no-brasil-desde-1980-e-e-o-veiculo-mais-longevo-do-pais-nasceu-com-61-cv-e-hoje-tem-107-cv-no-etanol-btl96-mhbb01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:21:54+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "5bd6266eee4c6a91",
+   "title": "Chevrolet Tracker 1.0 turbo gasta R$ 92 a mais a cada 1.000 km de cidade do que de estrada com etanol, pela etiqueta do Inmetro e o preço da ANP",
+   "summary": "Na tabela 2026 do Inmetro, o HR-V turbo faz 8,5 km/l de etanol no ciclo combinado e o HR-V aspirado, 9,3 km/l; com o litro a R$ 4,11 da ANP e 15 mil km rodados no ano, a conta passa de R$ 7,2 mil no turbo O HR-V turbo gasta R$ 624 a mais de […] O post R$ 624 por ano: é quanto o Honda HR-V turbo gasta a mais de etanol que o HR-V aspirado, pela etiqueta do Inmetro e o preço médio da ANP apareceu primeiro em CPG Click Petróleo e Gás . Chevrolet Tracker 1.0 turbo gasta R$ 92 a mais a cada 1.000 km de cidade do que de estrada com etanol, pela etiqueta do Inmetro e o preço da ANP. Com o litro a R$ 4,11 na média da ANP, 1.000 km custam R$ 507 na cidade e R$ 415 na estrada.",
+   "detalhes": {
+    "valores": [
+     "R$ 92",
+     "R$ 4,11",
+     "R$ 507",
+     "R$ 415",
+     "R$ 624",
+     "R$ 7,2 mi"
+    ],
+    "profundidade": [
+     "1.000 km",
+     "8,1 km",
+     "9,9 km",
+     "8,5 km",
+     "9,3 km",
+     "15 mil km"
+    ],
+    "datas": [
+     "2026"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T22:13:00+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/chevrolet-tracker-1-0-turbo-gasta-r-92-a-mais-a-cada-1-000-km-de-cidade-do-que-de-estrada-com-etanol-pela-etiqueta-do-inmetro-e-o-preco-da-anp-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:13:00+00:00",
+     "link_real": null
+    },
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/r-624-por-ano-e-quanto-o-honda-hr-v-turbo-gasta-a-mais-de-etanol-que-o-hr-v-aspirado-pela-etiqueta-do-inmetro-e-o-preco-medio-da-anp-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:01:17+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "de697411736a1b12",
+   "title": "Renault Boreal só compensa no etanol se o litro custar até 68,9% da gasolina, e o Nordeste e o Norte já passaram dessa linha na pesquisa da ANP",
+   "summary": "Pelo consumo do Inmetro, o Renault Boreal 1.3 turbo roda 8,4 km/l com etanol e 12,2 km/l com gasolina; na pesquisa da ANP de 18 a 24 de outubro, o etanol custou 70,5% da gasolina no Nordeste e 71,2% no Norte O Renault Boreal só compensa no etanol até 68,9% do preço da gasolina. Renault Boreal só compensa no etanol se o litro custar até 68,9% da gasolina, e o Nordeste e o Norte já passaram dessa linha na pesquisa da ANP. A […] O post Renault Boreal só compensa no etanol se o litro custar até 68,9% da gasolina, e o Nordeste e o Norte já passaram dessa linha na pesquisa da ANP apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "percentual": [
+     "68,9%",
+     "70,5%",
+     "71,2%"
+    ],
+    "profundidade": [
+     "8,4 km",
+     "12,2 km"
+    ],
+    "datas": [
+     "outubro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T22:07:06+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/renault-boreal-so-compensa-no-etanol-se-o-litro-custar-ate-68-9-da-gasolina-e-o-nordeste-e-o-norte-ja-passaram-dessa-linha-na-pesquisa-da-anp-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:07:06+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "c688b7dce18a7c52",
+   "title": "De R$ 33 a R$ 45: o mesmo Volkswagen Tera roda 100 km de estrada com etanol pagando valores bem diferentes conforme a cidade, mostra a ANP",
+   "summary": "Com o consumo do Inmetro e o preço do etanol medido pela ANP de 18 a 24 de outubro, o Volkswagen Tera MPI gasta R$ 33,17 a cada 100 km de estrada em São José do Rio Preto (SP) e R$ 44,52 em Curitiba O Volkswagen Tera MPI gasta R$ 33,17 de etanol para rodar […] O post De R$ 33 a R$ 45: o mesmo Volkswagen Tera roda 100 km de estrada com etanol pagando valores bem diferentes conforme a cidade, mostra a ANP apareceu primeiro em CPG Click Petróleo e Gás . De R$ 33 a R$ 45: o mesmo Volkswagen Tera roda 100 km de estrada com etanol pagando valores bem diferentes conforme a cidade, mostra a ANP.",
+   "detalhes": {
+    "valores": [
+     "R$ 33",
+     "R$ 45",
+     "R$ 33,17",
+     "R$ 44,52"
+    ],
+    "profundidade": [
+     "100 km"
+    ],
+    "datas": [
+     "outubro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T22:04:03+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/de-r-33-a-r-45-o-mesmo-volkswagen-tera-roda-100-km-de-estrada-com-etanol-pagando-valores-bem-diferentes-conforme-a-cidade-mostra-a-anp-btl96",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T22:04:03+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "4fb9224869b35dbe",
+   "title": "Cientistas brasileiros criam máquina que transforma água e energia solar em hidrogênio verde e mistura combustível diretamente ao gás industrial sem precisar armazená-lo",
+   "summary": "Cientistas brasileiros criam máquina que transforma água e energia solar em hidrogênio verde e mistura combustível diretamente ao gás industrial sem precisar armazená-lo. UFMS e Copa Energia desenvolvem máquina que produz hidrogênio verde com energia solar e o mistura ao GLP para reduzir emissões industriais. Uma máquina instalada em um laboratório de Campo Grande, em Mato Grosso do Sul, utiliza eletricidade solar para retirar hidrogênio da água e enviar o combustível diretamente para uma tubulação de gás industrial.",
+   "detalhes": {},
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T20:34:06+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/cientistas-brasileiros-criam-maquina-que-transforma-agua-e-energia-solar-em-hidrogenio-verde-e-mistura-combustivel-diretamente-ao-gas-industrial-sem-precisar-armazena-lo-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T20:34:06+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "194fabe2e5736d6f",
+   "title": "O leite caiu para R$ 2,76 por litro nas fazendas brasileiras, mas produtores enfrentam custos maiores enquanto leite de caixinha e muçarela também perdem valor no atacado",
+   "summary": "O leite cru pago ao produtor caiu 5% em setembro, para R$ 2,76 por litro na média nacional. O leite caiu para R$ 2,76 por litro nas fazendas brasileiras, mas produtores enfrentam custos maiores enquanto leite de caixinha e muçarela também perdem valor no atacado. O post O leite caiu para R$ 2,76 por litro nas fazendas brasileiras, mas produtores enfrentam custos maiores enquanto leite de caixinha e muçarela também perdem valor no atacado apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "R$ 2,76"
+    ],
+    "percentual": [
+     "5%"
+    ],
+    "datas": [
+     "setembro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T20:30:54+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/o-leite-caiu-para-r-276-por-litro-nas-fazendas-brasileiras-mas-produtores-enfrentam-custos-maiores-enquanto-leite-de-caixinha-e-mucarela-tambem-perdem-valor-no-atacado-nmb91",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T20:30:54+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "22926c4cf2e76fdd",
+   "title": "Cientistas brasileiros desenvolvem molécula que fez lagartas da soja comerem 73% menos folhas em laboratório e investigam uma nova arma contra pragas agrícolas",
+   "summary": "Cientistas brasileiros desenvolvem molécula que fez lagartas da soja comerem 73% menos folhas em laboratório e investigam uma nova arma contra pragas agrícolas. Pesquisadores brasileiros testaram o peptídeo GORE3 contra a lagarta-da-soja e registraram queda de 73% no consumo de folhas de milho em laboratório. O post Cientistas brasileiros desenvolvem molécula que fez lagartas da soja comerem 73% menos folhas em laboratório e investigam uma nova arma contra pragas agrícolas apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "percentual": [
+     "73%"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T20:16:04+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/cientistas-brasileiros-desenvolvem-molecula-que-fez-lagartas-da-soja-comerem-73-menos-folhas-em-laboratorio-e-investigam-uma-nova-arma-contra-pragas-agricolas-nmb91",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T20:16:04+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "207d58d10b979fe9",
+   "title": "Após barrar frango brasileiro por causa de doença em Santa Catarina, México volta atrás e preserva mercado estimado em 25 mil toneladas e US$ 70 milhões por mês",
+   "summary": "Após barrar frango brasileiro por causa de doença em Santa Catarina, México volta atrás e preserva mercado estimado em 25 mil toneladas e US$ 70 milhões por mês. A mudança preserva um mercado estimado em 25 mil toneladas e US$ 70 milhões mensais. O post Após barrar frango brasileiro por causa de doença em Santa Catarina, México volta atrás e preserva mercado estimado em 25 mil toneladas e US$ 70 milhões por mês apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "US$ 70 milhões"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T19:18:59+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/apos-barrar-frango-brasileiro-por-causa-de-doenca-em-santa-catarina-mexico-volta-atras-e-preserva-mercado-estimado-em-25-mil-toneladas-e-us-70-milhoes-por-mes-nmb91",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T19:18:59+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "6e9688f1ac99538d",
+   "title": "Fiat Fastback chega a 200 mil unidades vendidas, e o SUV cupê feito em Betim (MG) tem porta-malas de 600 litros",
+   "summary": "O Fiat Fastback, primeiro SUV cupê da marca no Brasil, sai da fábrica mineira desde 2022; a conta mostra quanto desse volume veio só neste ano e onde ele aparece no ranking dos SUVs. O Fiat Fastback passou de 200 mil unidades vendidas no Brasil, informou a montadora em comunicado publicado em 30 de outubro. Fiat Fastback chega a 200 mil unidades vendidas, e o SUV cupê feito em Betim (MG) tem porta-malas de 600 litros.",
+   "detalhes": {
+    "datas": [
+     "2022",
+     "outubro"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T19:05:15+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/fiat-fastback-chega-a-200-mil-unidades-vendidas-e-o-suv-cupe-feito-em-betim-mg-tem-porta-malas-de-600-litros-btl96-mhbb01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T19:05:15+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "fb9e40ecc5095808",
+   "title": "Jeep Renegade passa de 600 mil unidades vendidas no Brasil: foi o primeiro carro feito na fábrica de Goiana (PE), em 2015",
+   "summary": "A Jeep anunciou o marco do Jeep Renegade em 27 de outubro de 2026, onze anos depois de o SUV estrear a linha de montagem em Pernambuco, e a conta das vendas mostra um ritmo mais lento desde 2024. Jeep Renegade passa de 600 mil unidades vendidas no Brasil: foi o primeiro carro feito na fábrica de Goiana (PE), em 2015. O Jeep Renegade passou de 600 mil unidades vendidas no Brasil desde o lançamento, em 2015, […] O post Jeep Renegade passa de 600 mil unidades vendidas no Brasil: foi o primeiro carro feito na fábrica de Goiana (PE), em 2015 apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "datas": [
+     "outubro de 2026",
+     "2024"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T18:58:01+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/jeep-renegade-passa-de-600-mil-unidades-vendidas-no-brasil-foi-o-primeiro-carro-feito-na-fabrica-de-goiana-pe-em-2015-btl96-mhbb01",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T18:58:01+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "a7887df33787497b",
+   "title": "Cientistas brasileiros usam laser e micro-ondas para fabricar peça de titânio que pode baratear a produção de hidrogênio verde e reduzir o consumo de energia",
+   "summary": "Cientistas brasileiros usam laser e micro-ondas para fabricar peça de titânio que pode baratear a produção de hidrogênio verde e reduzir o consumo de energia. Cientistas brasileiros criam método com laser e micro-ondas para fabricar peça de titânio mais eficiente e barata para produzir hidrogênio verde. Uma peça de titânio revestida com uma camada extremamente fina de metais passou por três processos diferentes de aquecimento em laboratórios brasileiros.",
+   "detalhes": {},
+   "category": "Novas Tecnologias",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T18:16:03+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/cientistas-brasileiros-usam-laser-e-micro-ondas-para-fabricar-peca-de-titanio-que-pode-baratear-a-producao-de-hidrogenio-verde-e-reduzir-o-consumo-de-energia-vml97",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T18:16:03+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "ffa49045d9c183e2",
+   "title": "Bactérias invisíveis movimentam R$ 2,21 bilhões no agronegócio brasileiro e ajudam a proteger plantações, com aplicações equivalentes a 37 milhões de hectares",
+   "summary": "Bactérias invisíveis movimentam R$ 2,21 bilhões no agronegócio brasileiro e ajudam a proteger plantações, com aplicações equivalentes a 37 milhões de hectares. Bactérias do gênero Bacillus movimentaram cerca de R$ 2,21 bilhões no Brasil e alcançaram 37,2 milhões de hectares em aplicações potenciais. O post Bactérias invisíveis movimentam R$ 2,21 bilhões no agronegócio brasileiro e ajudam a proteger plantações, com aplicações equivalentes a 37 milhões de hectares apareceu primeiro em CPG Click Petróleo e Gás .",
+   "detalhes": {
+    "valores": [
+     "R$ 2,21 bilhões"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T18:10:13+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/bacterias-invisiveis-movimentam-r-221-bilhoes-no-agronegocio-brasileiro-e-ajudam-a-proteger-plantacoes-com-aplicacoes-equivalentes-a-37-milhoes-de-hectares-nmb91",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T18:10:13+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "68a8e830fb067d4f",
+   "title": "O Brasil tem o maior mineroduto do mundo: são 529 km de extensão, 33 cidades atravessadas e 133 mil toneladas de aço. Como o minério é transportado de forma quase invisível?",
+   "summary": "O Brasil tem o maior mineroduto do mundo: são 529 km de extensão, 33 cidades atravessadas e 133 mil toneladas de aço. Entre Minas Gerais e o litoral do […] O post O Brasil tem o maior mineroduto do mundo: são 529 km de extensão, 33 cidades atravessadas e 133 mil toneladas de aço. Como o minério é transportado de forma quase invisível?.",
+   "detalhes": {
+    "profundidade": [
+     "529 km"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T15:52:31+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "CPG Click Petróleo e Gás",
+     "link": "https://clickpetroleoegas.com.br/maior-mineroduto-mundo-529-km-33-cidades-133-mil-toneladas-aco-anglo-american-transporte-minerio-ferro-minas-gerais-porto-acu-phsn84",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T15:52:31+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
+   "id": "1650a701a78496e8",
+   "title": "GRUPO RODONAVES COMEMORA 45 ANOS DE FUNDAÇÃO PUBLICANDO UM RELATÓRIO DE SUSTENTABILIDADE INTEGRANDO SEUS 11 MIL FUNCIONÁRIOS",
+   "summary": "O Grupo Rodonaves, um dos principais ecossistemas de transporte e logística do Brasil, publicou o seu Relatório de Sustentabilidade 2025, mostrando alinhamento da companhia ao compromisso com a transparência e as melhores práticas de mercado. GRUPO RODONAVES COMEMORA 45 ANOS DE FUNDAÇÃO PUBLICANDO UM RELATÓRIO DE SUSTENTABILIDADE INTEGRANDO SEUS 11 MIL FUNCIONÁRIOS. O documento foi elaborado pela primeira vez com base nas normas internacionais da Global Reporting Initiative (GRI), consolidando os resultados",
+   "detalhes": {
+    "datas": [
+     "2025"
+    ]
+   },
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-11-02T07:00:17+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Petronotícias",
+     "link": "https://petronoticias.com.br/grupo-rodonaves-comemora-45-anos-de-fundacao-publicando-um-relatorio-de-sustentabilidade-integrando-seus-11-mil-funcionarios",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-11-02T07:00:17+00:00",
      "link_real": null
     }
    ],
@@ -39844,6 +40152,36 @@
    "aviso_paga": ""
   },
   {
+   "id": "97c855e771d3dd10",
+   "title": "Imposto de exportação sobre petróleo não deve ser permanente em eventual Lula 4, diz Gabrielli",
+   "summary": "Imposto de exportação sobre petróleo não deve ser permanente em eventual Lula 4, diz Gabrielli.",
+   "detalhes": {},
+   "category": "Operadoras e IOCs",
+   "relevance": 0,
+   "entities": {
+    "campos_blocos": [
+     "Lula"
+    ],
+    "operadoras": [],
+    "servicos": []
+   },
+   "published": "2026-09-21T20:21:27+00:00",
+   "n_sources": 1,
+   "sources": [
+    {
+     "name": "Agência eixos",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU1JhamFPTnVHRUJUdVZoTmg1bzg1cW1BcmVXeXI0aEFOeE5sTnEtZ25kWVpaNVJxUWNKR29XVTBZU0VWb1pnRWV0cjlROFJmYkJLcVZ6MG9TYlRFLXQyVzM0OEhDX3lqM01ZbU95bS1LNzQ1MkJBTk9oMkRmVUZnTkpSbkpqY1pSdjU1MEpTaU9BX0MwcXQ1RTVTdk53cUVZRHBDUlFKUzdrbXJaTTM0b2s5S1NWZlJMQm9v?oc=5",
+     "type": "aberta",
+     "paid": false,
+     "published": "2026-09-21T20:21:27+00:00",
+     "link_real": null
+    }
+   ],
+   "has_paid": false,
+   "paid_sources": [],
+   "aviso_paga": ""
+  },
+  {
    "id": "a24229bc1694b773",
    "title": "ANP vê ajustes regulatórios necessários em ambiente de competição global por investimentos",
    "summary": "ANP vê ajustes regulatórios necessários em ambiente de competição global por investimentos.",
@@ -41250,477 +41588,6 @@
      "paid": false,
      "published": "2026-09-19T01:49:52+00:00",
      "link_real": "https://clickpetroleoegas.com.br/na-rodovia-entre-macapa-e-santana-operarios-abriam-terreno-para-uma-rotatoria-quando-acharam-uma-peca-no-chao-bem-na-frente-do-instituto-de-pesquisas-do-amapa-e-o-que-saiu-btl96/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "d9092b0fd422d995",
-   "title": "Portugal quer brasileiros para acabar com falta de mão de obra no setor de construção",
-   "summary": "- Motoristas pagam mais por carros cheios de tecnologia, mas muitos simplesmente desligam os assistentes de condução, enquanto mais de 25% nunca usam o piloto automático adaptativo, cerca de 20% ignoram a frenagem automática e quase 18% evitam o sistema de permanência em faixa por considerar as intervenções incômodas - Ventania derruba pelo menos três carretas em centro de distribuição no RS, incluindo veículo de cinco eixos e cerca de 20 toneladas com casal dormindo dentro; estruturas metálicas também desabam, vidros quebram e funcionários escapam sem ferimentos durante temporal na madrugada - Carga brasileira de 403 litros de xampu atravessa Guarulhos e embarca para a Alemanha mesmo sob suspeita de conter cocaína, porque a Polícia Federal decide não interromper a viagem; após teste positivo em Lisboa, autoridades seguem a remessa até prender quatro suspeitos no exterior - Dois sócios foram cobrar um aluguel atrasado de R$ 100 mil numa hamburgueria “quase falida” e saíram de lá donos do negócio; hoje faturam R$ 10 milhões Engenheiros entram no foco da busca Um dos principais compromissos ocorreu no Conselho Regional de Engenharia e Agronomia de São Paulo (CREA-SP). Na comparação com o mesmo período de 2025, o número de trabalhadores aumentou 11,2%, o equivalente a mais 40,4 mil pessoas empregadas. A associação informou que os custos de construção de habitação nova subiram 7,2% em junho na comparação anual, com aumento de 8% no componente de mão de obra e de 6,5% nos materiais.",
-   "detalhes": {
-    "valores": [
-     "R$ 100 mi",
-     "R$ 10 milhões"
-    ],
-    "percentual": [
-     "25%",
-     "20%",
-     "18%",
-     "11,2%",
-     "7,2%",
-     "8%"
-    ],
-    "datas": [
-     "agosto",
-     "2030",
-     "2026",
-     "2025",
-     "junho"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T17:23:20+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/portugal-quer-brasileiros-para-acabar-com-falta-de-mao-de-obra-no-setor-de-construcao-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:23:20+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/portugal-quer-brasileiros-para-acabar-com-falta-de-mao-de-obra-no-setor-de-construcao-afch/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "7ce222f7e69336c0",
-   "title": "Honda lança moto que faz 55,6 km por litro e custa R$ 8,3 mil, mas tem um problema: preço está sendo praticado apenas no Japão",
-   "summary": "- Brasil ganha novo carro com motor 1.5 turbo como gerador que, entrega até 449 cv e 1.230 km combinados, faz 0 a 100 km/h em 5,5 segundos e chega ao país em 2027 - Montadora chinesa Dongfeng vai colocar robô humanoide dentro de fábrica de automóveis para separar peças, carregar materiais e inspecionar qualidade - Novo Hyundai i20 2027 terá motor 1.0 turbo de 115 cv, plataforma preparada para eletrificação, mais segurança de série e 346 litros de porta-malas para disputar espaço dos hatches com Polo, Onix, 208 e Argo X - Land Rover adia em pelo menos dois anos a nova geração do Defender e empurra a versão elétrica para o início da próxima década, enquanto prioriza Range Rover Sport e Range Rover GT a bateria e revê sua plataforma para também aceitar sistemas híbridos em meio à redução de custos A atualização foi anunciada em 8 de maio deste ano, e as vendas no Japão começaram no dia 21 do mesmo mês. Honda lança moto que faz 55,6 km por litro e custa R$ 8,3 mil, mas tem um problema: preço está sendo praticado apenas no Japão. Dio110 Basic combina motor de 109 cm³, câmbio automático, peso de 96 kg e consumo oficial acima de 55 km/l.",
-   "detalhes": {
-    "valores": [
-     "R$ 8,3 mi"
-    ],
-    "percentual": [
-     "10%"
-    ],
-    "profundidade": [
-     "55,6 km",
-     "55 km",
-     "1.230 km",
-     "100 km",
-     "59,4 km",
-     "60 km"
-    ],
-    "datas": [
-     "2027",
-     "maio",
-     "2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T17:22:04+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/honda-lanca-moto-que-faz-556-km-por-litro-e-custa-r-83-mil-mas-tem-um-problema-preco-esta-sendo-praticado-apenas-no-japao-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:22:04+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/honda-lanca-moto-que-faz-556-km-por-litro-e-custa-r-83-mil-mas-tem-um-problema-preco-esta-sendo-praticado-apenas-no-japao-afch/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "cc35963cf367ead1",
-   "title": "Começou a construção do maior iate já feito no Brasil",
-   "summary": "- Motoristas pagam mais por carros cheios de tecnologia, mas muitos simplesmente desligam os assistentes de condução, enquanto mais de 25% nunca usam o piloto automático adaptativo, cerca de 20% ignoram a frenagem automática e quase 18% evitam o sistema de permanência em faixa por considerar as intervenções incômodas - Ventania derruba pelo menos três carretas em centro de distribuição no RS, incluindo veículo de cinco eixos e cerca de 20 toneladas com casal dormindo dentro; estruturas metálicas também desabam, vidros quebram e funcionários escapam sem ferimentos durante temporal na madrugada - Carga brasileira de 403 litros de xampu atravessa Guarulhos e embarca para a Alemanha mesmo sob suspeita de conter cocaína, porque a Polícia Federal decide não interromper a viagem; após teste positivo em Lisboa, autoridades seguem a remessa até prender quatro suspeitos no exterior - Dois sócios foram cobrar um aluguel atrasado de R$ 100 mil numa hamburgueria “quase falida” e saíram de lá donos do negócio; hoje faturam R$ 10 milhões Com 7,3 metros de largura, o Grande 30 Metri terá cinco cabines destinadas aos hóspedes e outras três para a tripulação. O Grande 30 Metri terá 28,69 metros de comprimento, cinco cabines para hóspedes e preço inicial estimado em R$ 90 milhões. A Forbes Brasil informou que o primeiro exemplar nacional deve ser concluído no fim de 2028 e que o preço inicial do modelo fica em torno de R$ 90 milhões.",
-   "detalhes": {
-    "valores": [
-     "R$ 90 milhões",
-     "R$ 100 mi",
-     "R$ 10 milhões",
-     "R$ 120 milhões"
-    ],
-    "percentual": [
-     "25%",
-     "20%",
-     "18%"
-    ],
-    "profundidade": [
-     "28,69 metros",
-     "7,3 metros",
-     "24 metros",
-     "30 metros",
-     "27 mil metros",
-     "65 mil metros"
-    ],
-    "datas": [
-     "2028",
-     "junho"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T17:18:51+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/comecou-a-construcao-de-um-dos-maiores-iates-ja-feito-no-brasil-afch",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T17:18:51+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/comecou-a-construcao-de-um-dos-maiores-iates-ja-feito-no-brasil-afch/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "57575ae292535a79",
-   "title": "A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO",
-   "summary": "Também estão confirmados: Patrick Pouyanné, CEO da TotalEnergies; Maria João Carioca, CEO da Galp; Wael Sawan, CEO da Shell; Kristian Johansen, CEO da TGS; Roberto Monteiro, CEO da Prio; Oivind Tangen, CEO da SBM Offshore; e Phillipe Mathieu(direita), Executive Vice-President International for Exploration and Production na Equinor, entre outras lideranças. Um estudo inédito, realizado em parceria entre o IBP e a Fundação Getúlio Vargas (FGV), estima que a ROG.e 2026 deve movimentar cerca de R$ 593 milhões na economia do Rio de Janeiro e gerar mais de 10 mil postos de trabalho, considerando os impactos diretos, indiretos e induzidos do evento ao longo do ano, entre preparação, realização e pós-evento. A ROGe 2026 PODERÁ PASSAR A SER O MAIOR EVENTO DE PETRÓLEO DO MUNDO A PARTIR DE SUA REALIZAÇÃO.",
-   "detalhes": {
-    "valores": [
-     "R$ 593 milhões",
-     "R$ 95 milhões",
-     "R$ 63 milhões",
-     "R$ 25 milhões",
-     "R$ 7 milhões"
-    ],
-    "datas": [
-     "2026",
-     "Janeiro",
-     "setembro"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T16:00:27+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/a-roge-2026-podera-passar-a-ser-o-maior-evento-de-petroleo-do-mundo-a-partir-de-sua-realizacao",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T16:00:27+00:00",
-     "link_real": "https://petronoticias.com.br/a-roge-2026-podera-passar-a-ser-o-maior-evento-de-petroleo-do-mundo-a-partir-de-sua-realizacao/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "0cfaa29c1058cf8b",
-   "title": "Navio de guerra construído no Brasil entra para a história ao receber certificação inédita de resistência a choque da DNV, depois de passar por análises em equipamentos e sistemas críticos, enquanto a Fragata Tamandaré consolida tecnologia produzida em Itajaí e fortalece a indústria naval brasileira diante de futuros programas internacionais",
-   "summary": "- Motoristas pagam mais por carros cheios de tecnologia, mas muitos simplesmente desligam os assistentes de condução, enquanto mais de 25% nunca usam o piloto automático adaptativo, cerca de 20% ignoram a frenagem automática e quase 18% evitam o sistema de permanência em faixa por considerar as intervenções incômodas - Ventania derruba pelo menos três carretas em centro de distribuição no RS, incluindo veículo de cinco eixos e cerca de 20 toneladas com casal dormindo dentro; estruturas metálicas também desabam, vidros quebram e funcionários escapam sem ferimentos durante temporal na madrugada - Carga brasileira de 403 litros de xampu atravessa Guarulhos e embarca para a Alemanha mesmo sob suspeita de conter cocaína, porque a Polícia Federal decide não interromper a viagem; após teste positivo em Lisboa, autoridades seguem a remessa até prender quatro suspeitos no exterior - Dois sócios foram cobrar um aluguel atrasado de R$ 100 mil numa hamburgueria “quase falida” e saíram de lá donos do negócio; hoje faturam R$ 10 milhões O caráter inédito não significa apenas que a fragata recebeu mais um certificado. Segundo reportagem do Portos e Navios, publicada em 16 de setembro de 2026, a Tamandaré tornou-se o primeiro navio baseado em um projeto desenvolvido na Europa a obter essa classificação. A Fragata Tamandaré, navio de guerra construído em Itajaí, tornou-se o primeiro projeto baseado em desenho europeu a receber a notação DNV Shock; certificação avaliou equipamentos e sistemas essenciais, reconheceu requisitos de resistência a choque e amplia também a credibilidade da plataforma MEKO para futuros programas navais internacionais da TKMS.",
-   "detalhes": {
-    "valores": [
-     "R$ 100 mi",
-     "R$ 10 milhões"
-    ],
-    "percentual": [
-     "25%",
-     "20%",
-     "18%"
-    ],
-    "datas": [
-     "setembro de 2026"
-    ]
-   },
-   "category": "Novas Tecnologias",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T14:54:55+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/navio-de-guerra-construido-no-brasil-entra-para-a-historia-ao-receber-certificacao-inedita-de-resistencia-a-choque-da-dnv-depois-de-passar-por-analises-em-equipamentos-e-sistemas-criti-ctl01",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T14:54:55+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/navio-de-guerra-construido-no-brasil-entra-para-a-historia-ao-receber-certificacao-inedita-de-resistencia-a-choque-da-dnv-depois-de-passar-por-analises-em-equipamentos-e-sistemas-criti-ctl01"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "66375a5e84b8fcf5",
-   "title": "GREENYELLOW AVANÇA NO SETOR DE MINERAÇÃO NO BRASIL COM PROJETOS DE SOLAR E BATERIAS",
-   "summary": "GREENYELLOW AVANÇA NO SETOR DE MINERAÇÃO NO BRASIL COM PROJETOS DE SOLAR E BATERIAS. De olho nesse potencial, a GreenYellow aposta no segmento e está concluindo, no Mato Grosso, seu primeiro empreendimento no setor no país. Trata-se de uma usina solar de 3 MWp combinada a um sistema de baterias de 5 MWh para atender à operação da Mineração Dois Irmãos (MDI).",
-   "detalhes": {},
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T07:00:18+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/greenyellow-avanca-no-setor-de-mineracao-no-brasil-com-projetos-de-solar-e-baterias",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T07:00:18+00:00",
-     "link_real": "https://petronoticias.com.br/greenyellow-avanca-no-setor-de-mineracao-no-brasil-com-projetos-de-solar-e-baterias/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "0f460e8a5ddb6c51",
-   "title": "Estes são 6 carros automáticos usados que mais apresentam defeitos no Brasil em 2026, segundo histórico do Procon e Reclame Aqui, com reparos que podem passar de R$ 15 mil",
-   "summary": "- Brasil ganha novo carro com motor 1.5 turbo como gerador que, entrega até 449 cv e 1.230 km combinados, faz 0 a 100 km/h em 5,5 segundos e chega ao país em 2027 - Montadora chinesa Dongfeng vai colocar robô humanoide dentro de fábrica de automóveis para separar peças, carregar materiais e inspecionar qualidade - Novo Hyundai i20 2027 terá motor 1.0 turbo de 115 cv, plataforma preparada para eletrificação, mais segurança de série e 346 litros de porta-malas para disputar espaço dos hatches com Polo, Onix, 208 e Argo X - Land Rover adia em pelo menos dois anos a nova geração do Defender e empurra a versão elétrica para o início da próxima década, enquanto prioriza Range Rover Sport e Range Rover GT a bateria e revê sua plataforma para também aceitar sistemas híbridos em meio à redução de custos Os primeiros problemas começaram a ganhar força poucos anos depois do lançamento. Estes são 6 carros automáticos usados que mais apresentam defeitos no Brasil em 2026, segundo histórico do Procon e Reclame Aqui, com reparos que podem passar de R$ 15 mil. Em 2026, relatos publicados no Reclame Aqui ainda mostram proprietários enfrentando contas de R$ 14 mil, R$ 17 mil e até mais de R$ 18 mil em transmissões presentes em modelos conhecidos do mercado brasileiro.",
-   "detalhes": {
-    "valores": [
-     "R$ 15 mi",
-     "R$ 14 mi",
-     "R$ 17 mi",
-     "R$ 18 mi",
-     "R$ 14.548,70"
-    ],
-    "profundidade": [
-     "1.230 km",
-     "100 km"
-    ],
-    "datas": [
-     "2026",
-     "2027",
-     "maio",
-     "fevereiro de 2026",
-     "maio de 2026",
-     "2025"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T04:15:53+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/estes-sao-6-carros-automaticos-usados-que-exigem-atencao-no-brasil-em-2026-segundo-historico-do-procon-e-reclame-aqui-com-reparos-que-podem-passar-de-r-18-mil-vml97",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T04:15:53+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/estes-sao-6-carros-automaticos-usados-que-exigem-atencao-no-brasil-em-2026-segundo-historico-do-procon-e-reclame-aqui-com-reparos-que-podem-passar-de-r-18-mil-vml97"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "72bcc6b5018e9724",
-   "title": "Com 220 cv, quase 4,8 metros, porta-malas de 586 litros e 0 a 100 em apenas 6,7 segundos, sedã gigante da Volkswagen já custa menos que um HB20S novo e aparece como um dos usados mais surpreendentes do mercado brasileiro",
-   "summary": "- Brasil ganha novo carro com motor 1.5 turbo como gerador que, entrega até 449 cv e 1.230 km combinados, faz 0 a 100 km/h em 5,5 segundos e chega ao país em 2027 - Montadora chinesa Dongfeng vai colocar robô humanoide dentro de fábrica de automóveis para separar peças, carregar materiais e inspecionar qualidade - Novo Hyundai i20 2027 terá motor 1.0 turbo de 115 cv, plataforma preparada para eletrificação, mais segurança de série e 346 litros de porta-malas para disputar espaço dos hatches com Polo, Onix, 208 e Argo X - Land Rover adia em pelo menos dois anos a nova geração do Defender e empurra a versão elétrica para o início da próxima década, enquanto prioriza Range Rover Sport e Range Rover GT a bateria e revê sua plataforma para também aceitar sistemas híbridos em meio à redução de custos Existe, porém, uma diferença importante: em setembro, a própria Hyundai mantém uma promoção nacional que reduz temporariamente essa versão do HB20S para R$ 131.890, abaixo do valor do Passat. Em agosto, o valor era de R$ 141.630, o que representa uma queda próxima de 2,9% em apenas um mês. Em setembro de 2026, o Volkswagen Passat Highline 2.0 TSI 2019 aparece com referência de R$ 137.489 na Tabela Fipe.",
-   "detalhes": {
-    "valores": [
-     "R$ 137.489",
-     "R$ 138.890,",
-     "R$ 1.401",
-     "R$ 131.890,",
-     "R$ 141.630,",
-     "R$ 149.364."
-    ],
-    "percentual": [
-     "2,9%"
-    ],
-    "profundidade": [
-     "4,8 metros",
-     "1.230 km",
-     "100 km",
-     "246 km",
-     "12,9 km",
-     "10,4 km"
-    ],
-    "datas": [
-     "setembro de 2026",
-     "2026",
-     "2027",
-     "setembro",
-     "agosto",
-     "setembro de 2025"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T02:52:01+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/com-220-cv-quase-48-metros-porta-malas-de-586-litros-e-0-a-100-em-apenas-67-segundos-seda-gigante-da-volkswagen-ja-custa-menos-que-um-hb20s-novo-e-aparece-como-um-dos-usados-mais-vi-asaf04",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T02:52:01+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/com-220-cv-quase-48-metros-porta-malas-de-586-litros-e-0-a-100-em-apenas-67-segundos-seda-gigante-da-volkswagen-ja-custa-menos-que-um-hb20s-novo-e-aparece-como-um-dos-usados-mais-vi-asaf04"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "9d402200dfa58438",
-   "title": "Porte de arma pode chegar a milhares de novos profissionais no Brasil após proposta avançar na Câmara e incluir agentes de trânsito, fiscais, peritos e outras 6 categorias",
-   "summary": "- Motoristas pagam mais por carros cheios de tecnologia, mas muitos simplesmente desligam os assistentes de condução, enquanto mais de 25% nunca usam o piloto automático adaptativo, cerca de 20% ignoram a frenagem automática e quase 18% evitam o sistema de permanência em faixa por considerar as intervenções incômodas - Ventania derruba pelo menos três carretas em centro de distribuição no RS, incluindo veículo de cinco eixos e cerca de 20 toneladas com casal dormindo dentro; estruturas metálicas também desabam, vidros quebram e funcionários escapam sem ferimentos durante temporal na madrugada - Carga brasileira de 403 litros de xampu atravessa Guarulhos e embarca para a Alemanha mesmo sob suspeita de conter cocaína, porque a Polícia Federal decide não interromper a viagem; após teste positivo em Lisboa, autoridades seguem a remessa até prender quatro suspeitos no exterior - Dois sócios foram cobrar um aluguel atrasado de R$ 100 mil numa hamburgueria “quase falida” e saíram de lá donos do negócio; hoje faturam R$ 10 milhões O texto modificou significativamente a proposta originalmente apresentada pelo deputado Gilvan da Federal (PL-ES), que tinha como foco principal mudanças relacionadas a guardas municipais e vigilantes. Nove grupos de servidores públicos poderão passar a ter novas hipóteses de porte funcional de arma de fogo caso o Projeto de Lei 302/2026 conclua a tramitação no Congresso e seja transformado em lei. A proposta avançou na Câmara dos Deputados em setembro, mas as novas autorizações ainda não estão em vigor.",
-   "detalhes": {
-    "valores": [
-     "R$ 100 mi",
-     "R$ 10 milhões"
-    ],
-    "percentual": [
-     "25%",
-     "20%",
-     "18%"
-    ],
-    "datas": [
-     "2026",
-     "setembro",
-     "setembro de 2026"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-18T02:09:46+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "CPG Click Petróleo e Gás",
-     "link": "https://clickpetroleoegas.com.br/porte-de-arma-pode-chegar-a-milhares-de-novos-profissionais-no-brasil-apos-proposta-avancar-na-camara-e-incluir-agentes-de-transito-fiscais-peritos-e-outras-6-categorias-vi-asaf04",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-18T02:09:46+00:00",
-     "link_real": "https://clickpetroleoegas.com.br/porte-de-arma-pode-chegar-a-milhares-de-novos-profissionais-no-brasil-apos-proposta-avancar-na-camara-e-incluir-agentes-de-transito-fiscais-peritos-e-outras-6-categorias-vi-asaf04"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "08fddb27835bfc7a",
-   "title": "OCEANPACT E CBO CONCLUEM COMBINAÇÃO DE NEGÓCIOS, COM CARTEIRA DE NEGÓCIOS ACIMA DE R$ 14 BILHÕES",
-   "summary": "OCEANPACT E CBO CONCLUEM COMBINAÇÃO DE NEGÓCIOS, COM CARTEIRA DE NEGÓCIOS ACIMA DE R$ 14 BILHÕES. Com a conclusão da operação, a companhia combinada passa a operar uma frota de 70 embarcações, com mais de 5 mil colaboradores, receita anual superior a R$ 4 bilhões e backlog contratado acima de R$ 14 bilhões. Com a integração, a CBO passa a fazer parte da OceanPact, enquanto a unidade de Navegação passa a se chamar OceanPact CBO.",
-   "detalhes": {
-    "valores": [
-     "R$ 14 BILHÕES",
-     "R$ 4 bilhões"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-17T22:00:43+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/oceanpact-e-cbo-concluem-combinacao-de-negocios-com-carteira-de-negocios-acima-de-r-14-bilhoes",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T22:00:43+00:00",
-     "link_real": "https://petronoticias.com.br/oceanpact-e-cbo-concluem-combinacao-de-negocios-com-carteira-de-negocios-acima-de-r-14-bilhoes/"
-    }
-   ],
-   "has_paid": false,
-   "paid_sources": [],
-   "aviso_paga": ""
-  },
-  {
-   "id": "499e0194e7bb768a",
-   "title": "UNIDADE DA BRASKEM NO RIO DE JANEIRO BATE RECORDE NA PRODUÇÃO DE PROPENO",
-   "summary": "UNIDADE DA BRASKEM NO RIO DE JANEIRO BATE RECORDE NA PRODUÇÃO DE PROPENO. UNIDADE DA BRASKEM NO RIO DE JANEIRO BATE RECORDE NA PRODUÇÃO DE PROPENO A Braskem alcançou um novo recorde histórico de produção de propeno em sua unidade Q4, localizada no complexo petroquímico de Duque de Caxias (RJ). Em agosto, a unidade produziu 7,71 mil toneladas, superando a marca anterior, de 7,67 mil toneladas.",
-   "detalhes": {
-    "datas": [
-     "JANEIRO",
-     "agosto"
-    ]
-   },
-   "category": "Operadoras e IOCs",
-   "relevance": 0,
-   "entities": {
-    "campos_blocos": [],
-    "operadoras": [],
-    "servicos": []
-   },
-   "published": "2026-09-17T21:00:36+00:00",
-   "n_sources": 1,
-   "sources": [
-    {
-     "name": "Petronotícias",
-     "link": "https://petronoticias.com.br/unidade-da-braskem-no-rio-de-janeiro-bate-recorde-na-producao-de-propeno",
-     "type": "aberta",
-     "paid": false,
-     "published": "2026-09-17T21:00:36+00:00",
-     "link_real": "https://petronoticias.com.br/unidade-da-braskem-no-rio-de-janeiro-bate-recorde-na-producao-de-propeno/"
     }
    ],
    "has_paid": false,
